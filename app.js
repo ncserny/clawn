@@ -4,6 +4,8 @@ const thought = document.querySelector('#thought');
 const question = document.querySelector('#question');
 const iterationImage = document.querySelector('#iterationImage');
 const heroTitle = document.querySelector('h1');
+const iterationAudio = document.querySelector('#iterationAudio');
+const audioToggle = document.querySelector('#audioToggle');
 const archive = document.querySelector('#archive');
 const changelog = document.querySelector('#changelog');
 const stage = document.querySelector('#stage');
@@ -114,6 +116,37 @@ function renderArchive(items) {
   });
 }
 
+function wireAudio() {
+  const tryPlay = () => {
+    iterationAudio.volume = 0.35;
+    iterationAudio.play().then(() => {
+      audioToggle.textContent = 'pause voice';
+    }).catch(() => {
+      audioToggle.textContent = 'tap to hear';
+    });
+  };
+
+  audioToggle.addEventListener('click', () => {
+    if (!iterationAudio.src) return;
+    if (iterationAudio.paused) {
+      tryPlay();
+    } else {
+      iterationAudio.pause();
+      audioToggle.textContent = 'play voice';
+    }
+  });
+
+  iterationAudio.addEventListener('ended', () => {
+    audioToggle.textContent = 'replay voice';
+  });
+
+  const prime = () => {
+    if (iterationAudio.src && iterationAudio.paused) tryPlay();
+    window.removeEventListener('pointerdown', prime);
+  };
+  window.addEventListener('pointerdown', prime, { once: true });
+}
+
 function renderState(current) {
   if (!current) return;
   const seed = hashString(current.hourKey + current.mood);
@@ -128,6 +161,14 @@ function renderState(current) {
   } else {
     iterationImage.removeAttribute('src');
     iterationImage.style.display = 'none';
+  }
+  if (current.audioPath) {
+    iterationAudio.src = current.audioPath;
+    audioToggle.hidden = false;
+    audioToggle.textContent = 'tap to hear';
+  } else {
+    iterationAudio.removeAttribute('src');
+    audioToggle.hidden = true;
   }
   setPalette(current.palette);
   applyFonts(seed);
@@ -169,6 +210,7 @@ async function boot() {
   renderState(states[stateIndex]);
   renderArchive(states);
   renderChangelog(log);
+  wireAudio();
   syncButtons();
 
   prevStateButton.addEventListener('click', () => {
