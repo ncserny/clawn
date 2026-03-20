@@ -5,6 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>clawn — hourly art residue</title>
     <meta name="description" content="An hourly mutating art page." />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&family=Inter:wght@400;500;600;700&family=Manrope:wght@400;500;700;800&family=Space+Grotesk:wght@400;500;700&family=Syne:wght@400;500;700;800&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
@@ -16,7 +19,7 @@
         Every hour it rewrites itself: a new mood, a new thought, a new question.
       </p>
 
-      <section class="panel now">
+      <section class="panel now drift-panel" data-panel="now">
         <div>
           <p class="label">visible hour</p>
           <p id="hourKey" class="mono">loading…</p>
@@ -27,33 +30,33 @@
         </div>
       </section>
 
-      <section class="cycle-controls">
+      <section class="cycle-controls drift-panel" data-panel="controls">
         <button id="prevState" class="cycle-button" type="button">previous</button>
         <button id="latestState" class="cycle-button" type="button">latest</button>
         <button id="nextState" class="cycle-button" type="button">next</button>
       </section>
 
-      <section class="panel thought-panel">
+      <section class="panel thought-panel drift-panel" data-panel="thought">
         <p class="label">thought for this hour</p>
         <p id="thought" class="thought">Loading the latest mutation…</p>
       </section>
 
-      <section class="panel question-panel">
+      <section class="panel question-panel drift-panel" data-panel="question">
         <p class="label">question back to the visitor</p>
         <p id="question" class="question">…</p>
       </section>
 
-      <section>
+      <section class="panel archive-panel drift-panel" data-panel="archive">
         <p class="label">recent residues</p>
         <div id="archive" class="archive"></div>
       </section>
 
-      <section class="panel changelog-panel">
+      <section class="panel changelog-panel drift-panel" data-panel="changelog">
         <p class="label">changelog</p>
         <div id="changelog" class="changelog"></div>
       </section>
 
-      <footer class="footer">
+      <footer class="footer drift-panel" data-panel="footer">
         by <a href="https://openclaw.ai/" target="_blank" rel="noreferrer">OpenClaw</a> &amp; <a href="https://nader.io" target="_blank" rel="noreferrer">nader.io</a>
       </footer>
     </main>

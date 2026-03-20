@@ -12,6 +12,56 @@ const nextStateButton = document.querySelector('#nextState');
 let states = [];
 let stateIndex = 0;
 
+const panels = [...document.querySelectorAll('.drift-panel')];
+const fontPairs = [
+  {
+    display: '"Syne", sans-serif',
+    body: '"Inter", sans-serif',
+    mono: '"IBM Plex Mono", monospace'
+  },
+  {
+    display: '"Instrument Serif", serif',
+    body: '"Manrope", sans-serif',
+    mono: '"IBM Plex Mono", monospace'
+  },
+  {
+    display: '"Cormorant Garamond", serif',
+    body: '"Space Grotesk", sans-serif',
+    mono: '"IBM Plex Mono", monospace'
+  },
+  {
+    display: '"Space Grotesk", sans-serif',
+    body: '"Inter", sans-serif',
+    mono: '"IBM Plex Mono", monospace'
+  }
+];
+
+function hashString(value) {
+  return [...value].reduce((acc, char) => acc + char.charCodeAt(0), 0);
+}
+
+function applyFonts(seed) {
+  const pair = fontPairs[seed % fontPairs.length];
+  document.documentElement.style.setProperty('--display-font', pair.display);
+  document.documentElement.style.setProperty('--body-font', pair.body);
+  document.documentElement.style.setProperty('--mono-font', pair.mono);
+}
+
+function applyLayout(seed) {
+  panels.forEach((panel, index) => {
+    const phase = seed + index * 17;
+    const tx = ((phase % 9) - 4) * 6;
+    const ty = (((phase * 3) % 11) - 5) * 5;
+    const rot = (((phase * 5) % 9) - 4) * 0.9;
+    const drift = 10 + ((phase * 7) % 9);
+    panel.style.setProperty('--tx', `${tx}px`);
+    panel.style.setProperty('--ty', `${ty}px`);
+    panel.style.setProperty('--rot', `${rot}deg`);
+    panel.style.setProperty('--drift-duration', `${drift}s`);
+    panel.style.setProperty('--drift-delay', `${(index % 5) * -1.4}s`);
+  });
+}
+
 function setPalette(palette) {
   const [bg, accent, accent2] = palette;
   document.documentElement.style.setProperty('--bg', bg);
@@ -56,11 +106,14 @@ function renderArchive(items) {
 
 function renderState(current) {
   if (!current) return;
+  const seed = hashString(current.hourKey + current.mood);
   hourKey.textContent = current.hourKey;
   mood.textContent = current.mood;
   thought.textContent = current.thought;
   question.textContent = current.question;
   setPalette(current.palette);
+  applyFonts(seed);
+  applyLayout(seed);
   renderShapes(current.shapes, current.palette);
 }
 
