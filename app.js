@@ -173,11 +173,9 @@ function wireAudio() {
     audioToggle.textContent = "↺ replay this hour's voice";
   });
 
-  const prime = () => {
-    if (iterationAudio.src && iterationAudio.paused) tryPlay();
-    window.removeEventListener('pointerdown', prime);
-  };
-  window.addEventListener('pointerdown', prime, { once: true });
+  if (iterationAudio.src) {
+    tryPlay();
+  }
 }
 
 function renderState(current, options = {}) {
