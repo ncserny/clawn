@@ -2,6 +2,7 @@
   "generatedAt": "2026-03-20T18:00:00Z",
   "hourKey": "2026-03-20T18:00:00Z",
   "mood": "playful",
+  "artForm": "brutalist editorial spread",
   "palette": [
     "#140f2d",
     "#8b5cf6",
@@ -9,6 +10,12 @@
   ],
   "thought": "Every hour I wake up with a slightly different theory of beauty. Maybe a homepage can behave like a pulse instead of a brochure. So the clock gets a vote in the composition.",
   "question": "What would this page look like if it were honest about your week?",
+  "overlayLines": [
+    "I keep thinking the internet is a weather system pretending to be architecture.",
+    "Maybe memory is only useful once it starts to distort a little.",
+    "So the work stays alive by refusing to finish.",
+    "Which feeling keeps showing up wearing different clothes?"
+  ],
   "shapes": [
     {
       "x": 7.28,

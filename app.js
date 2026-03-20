@@ -6,6 +6,7 @@ const iterationImage = document.querySelector('#iterationImage');
 const heroTitle = document.querySelector('h1');
 const iterationAudio = document.querySelector('#iterationAudio');
 const audioToggle = document.querySelector('#audioToggle');
+const signalBands = document.querySelector('#signalBands');
 const archive = document.querySelector('#archive');
 const changelog = document.querySelector('#changelog');
 const stage = document.querySelector('#stage');
@@ -79,6 +80,24 @@ function setPalette(palette) {
   document.documentElement.style.setProperty('--bg', bg);
   document.documentElement.style.setProperty('--accent', accent);
   document.documentElement.style.setProperty('--accent-2', accent2);
+}
+
+function renderSignalBands(current, seed) {
+  const lines = current.overlayLines || [current.thought, current.question, current.mood, current.artForm || ''];
+  signalBands.innerHTML = '';
+  for (let i = 0; i < 3; i += 1) {
+    const band = document.createElement('div');
+    band.className = 'signal-band';
+    band.style.setProperty('--band-shift', `${((seed + i * 9) % 10) - 5}px`);
+    band.style.setProperty('--band-rotation', `${(((seed + i * 7) % 8) - 4) * 0.4}deg`);
+    band.style.setProperty('--band-speed', `${18 + ((seed + i * 13) % 12)}s`);
+    band.style.top = `${12 + i * 26}%`;
+    const content = document.createElement('div');
+    content.className = 'signal-band__content';
+    content.textContent = Array(8).fill(lines[(i + seed) % lines.length]).join('  //  ');
+    band.appendChild(content);
+    signalBands.appendChild(band);
+  }
 }
 
 function renderShapes(shapes, palette) {
@@ -174,6 +193,7 @@ function renderState(current) {
   applyFonts(seed);
   applyScene(seed);
   applyLayout(seed);
+  renderSignalBands(current, seed);
   renderShapes(current.shapes, current.palette);
 }
 

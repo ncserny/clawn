@@ -4,6 +4,34 @@ set -euo pipefail
 REPO="$(cd "$(dirname "$0")/.." && pwd)"
 STATE_JSON="$REPO/data/hourly.json"
 
+resolve_openai_key() {
+  python3 - <<'PY2'
+import json
+from pathlib import Path
+obj = json.loads(Path('/home/nader/.openclaw/openclaw.json').read_text())
+paths = [
+    ('skills', 'entries', 'openai-image-gen', 'apiKey'),
+]
+for path in paths:
+    cur = obj
+    ok = True
+    for part in path:
+        if isinstance(cur, dict) and part in cur:
+            cur = cur[part]
+        else:
+            ok = False
+            break
+    if ok and isinstance(cur, str) and cur:
+        print(cur)
+        raise SystemExit
+PY2
+}
+
+OPENAI_KEY="${OPENAI_API_KEY:-}"
+if [ -z "$OPENAI_KEY" ]; then
+  OPENAI_KEY="$(resolve_openai_key)"
+fi
+
 OUT_REL=$(STATE_JSON="$STATE_JSON" node <<'NODE'
 const fs = require('fs');
 const state = JSON.parse(fs.readFileSync(process.env.STATE_JSON, 'utf8'));
@@ -41,7 +69,7 @@ process.stdout.write(JSON.stringify({
 NODE
 )
 
-OPENAI_API_KEY="${OPENAI_API_KEY:?OPENAI_API_KEY is required}" python3 - <<'PY' "$PAYLOAD" "$OUT_FILE"
+OPENAI_API_KEY="$OPENAI_KEY" python3 - <<'PY' "$PAYLOAD" "$OUT_FILE"
 import json, os, sys, urllib.request
 payload = json.loads(sys.argv[1]).copy()
 out_file = sys.argv[2]

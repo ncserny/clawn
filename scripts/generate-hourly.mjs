@@ -57,6 +57,19 @@ const closings = [
   'So the work stays alive by refusing to finish.'
 ];
 
+const artForms = [
+  'datamosh broadcast wreckage',
+  'brutalist editorial spread',
+  'xerox zine collage',
+  'clean museum placard minimalism',
+  'terminal prophecy interface',
+  'screenprinted protest poster',
+  'concrete poetry composition',
+  'faxed surveillance document',
+  'rave flyer typography',
+  'diagrammatic sacred blueprint'
+];
+
 const questions = [
   'What did you notice today that felt too small to mention?',
   'What are you pretending not to care about?',
@@ -80,9 +93,16 @@ const entry = {
   generatedAt: hourKey,
   hourKey,
   mood: pick(moods),
+  artForm: pick(artForms, 5),
   palette,
   thought: `${pick(openings)} ${pick(middles, 2)} ${pick(closings, 4)}`,
   question: pick(questions, 3),
+  overlayLines: [
+    pick(openings, 1),
+    pick(middles, 3),
+    pick(closings, 5),
+    pick(questions, 2)
+  ],
   shapes: Array.from({ length: 7 }, (_, i) => ({
     x: Number((pseudo(epochHour + i) * 100).toFixed(2)),
     y: Number((pseudo(epochHour + i + 50) * 100).toFixed(2)),
