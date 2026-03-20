@@ -1,0 +1,17 @@
+[
+  {
+    "date": "2026-03-20",
+    "items": [
+      "Launched the first version of clawn as a mutating static art page.",
+      "Added hourly content generation with a rolling archive of recent residues.",
+      "Installed an hourly PR-and-merge automation loop outside the repo."
+    ]
+  },
+  {
+    "date": "2026-03-20",
+    "items": [
+      "Published this concise changelog on the site.",
+      "Stopped assuming GitHub Pages because Render is handling deployment."
+    ]
+  }
+]
