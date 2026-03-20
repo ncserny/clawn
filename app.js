@@ -3,6 +3,7 @@ const mood = document.querySelector('#mood');
 const thought = document.querySelector('#thought');
 const question = document.querySelector('#question');
 const iterationImage = document.querySelector('#iterationImage');
+const lobsterImage = document.querySelector('#lobsterImage');
 const heroTitle = document.querySelector('h1');
 const iterationAudio = document.querySelector('#iterationAudio');
 const audioToggle = document.querySelector('#audioToggle');
@@ -195,6 +196,14 @@ function renderState(current, options = {}) {
   } else {
     iterationImage.removeAttribute('src');
     iterationImage.style.display = 'none';
+  }
+
+  if (current.lobsterImagePath) {
+    lobsterImage.src = current.lobsterImagePath;
+    lobsterImage.style.display = 'block';
+  } else {
+    lobsterImage.removeAttribute('src');
+    lobsterImage.style.display = 'none';
   }
 
   if (current.audioPath) {
