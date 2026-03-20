@@ -274,9 +274,9 @@ async function boot() {
   });
 
   latestStateButton.addEventListener('click', () => {
-    stateIndex = 0;
-    renderState(states[stateIndex]);
-    syncButtons();
+    const url = new URL(window.location.href);
+    url.searchParams.delete('v');
+    window.location.href = url.origin + url.pathname;
   });
 
   nextStateButton.addEventListener('click', () => {
