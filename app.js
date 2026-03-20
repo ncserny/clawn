@@ -139,9 +139,9 @@ function wireAudio() {
   const tryPlay = () => {
     iterationAudio.volume = 0.35;
     iterationAudio.play().then(() => {
-      audioToggle.textContent = 'pause voice';
+      audioToggle.textContent = '❚❚ pause voice';
     }).catch(() => {
-      audioToggle.textContent = 'tap to hear';
+      audioToggle.textContent = '▶ play this hour's voice';
     });
   };
 
@@ -151,12 +151,12 @@ function wireAudio() {
       tryPlay();
     } else {
       iterationAudio.pause();
-      audioToggle.textContent = 'play voice';
+      audioToggle.textContent = '▶ play this hour's voice';
     }
   });
 
   iterationAudio.addEventListener('ended', () => {
-    audioToggle.textContent = 'replay voice';
+    audioToggle.textContent = '↺ replay this hour's voice';
   });
 
   const prime = () => {
@@ -184,7 +184,7 @@ function renderState(current) {
   if (current.audioPath) {
     iterationAudio.src = current.audioPath;
     audioToggle.hidden = false;
-    audioToggle.textContent = 'tap to hear';
+    audioToggle.textContent = '▶ play this hour's voice';
   } else {
     iterationAudio.removeAttribute('src');
     audioToggle.hidden = true;
