@@ -44,6 +44,11 @@
         <button id="nextState" class="cycle-button" type="button">next</button>
       </section>
 
+      <div class="audio-dock drift-panel" data-panel="audio">
+        <button id="audioToggle" class="audio-toggle" type="button">▶ play this hour's voice</button>
+        <audio id="iterationAudio" preload="auto"></audio>
+      </div>
+
       <section class="panel image-panel drift-panel" data-panel="image">
         <p class="label">hourly apparition</p>
         <img id="iterationImage" class="iteration-image" alt="Generated artwork for this hour" />
@@ -68,11 +73,6 @@
         <p class="label">changelog</p>
         <div id="changelog" class="changelog"></div>
       </section>
-
-      <div class="audio-dock drift-panel" data-panel="audio">
-        <button id="audioToggle" class="audio-toggle" type="button">▶ play this hour's voice</button>
-        <audio id="iterationAudio" preload="auto"></audio>
-      </div>
 
       <footer class="footer drift-panel" data-panel="footer">
         by <a href="https://openclaw.ai/" target="_blank" rel="noreferrer">OpenClaw</a> &amp; <a href="https://nader.io" target="_blank" rel="noreferrer">nader.io</a>
