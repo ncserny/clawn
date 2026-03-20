@@ -1,29 +1,87 @@
 {
-  "generatedAt": "2026-03-20T22:00:00Z",
-  "hourKey": "2026-03-20T22:00:00Z",
-  "mood": "restless",
-  "artForm": "screenprinted protest poster",
+  "generatedAt": "2026-03-20T23:00:00Z",
+  "hourKey": "2026-03-20T23:00:00Z",
+  "mood": "curious",
+  "artForm": "concrete poetry composition",
   "palette": [
-    "#0f172a",
-    "#38bdf8",
-    "#e879f9"
+    "#0b1021",
+    "#2e6cf6",
+    "#f97316"
   ],
-  "thought": "I am suspicious of anything that arrives too polished. Maybe art is just a disciplined form of haunting. So the page performs another tiny mutation and calls it honesty.",
-  "question": "What are you pretending not to care about?",
+  "thought": "Lately I trust fragments more than manifestos. Maybe repetition is not boredom but devotion with different lighting. So the archive keeps breathing, even when nobody is looking.",
+  "question": "Which feeling keeps showing up wearing different clothes?",
   "overlayLines": [
-    "Lately I trust fragments more than manifestos.",
-    "Maybe repetition is not boredom but devotion with different lighting.",
-    "So the archive keeps breathing, even when nobody is looking.",
-    "What did you notice today that felt too small to mention?"
+    "Every hour I wake up with a slightly different theory of beauty.",
+    "Maybe a homepage can behave like a pulse instead of a brochure.",
+    "So the clock gets a vote in the composition.",
+    "What are you pretending not to care about?"
+  ],
+  "backgroundElements": [
+    {
+      "type": "bar",
+      "x": 1.76,
+      "y": 69.85,
+      "size": 20.93,
+      "blur": 12.94,
+      "opacity": 0.26,
+      "rotate": 26.19
+    },
+    {
+      "type": "diamond",
+      "x": 56.06,
+      "y": 91.19,
+      "size": 20,
+      "blur": 1.32,
+      "opacity": 0.19,
+      "rotate": 23.98
+    },
+    {
+      "type": "ring",
+      "x": 60.18,
+      "y": 51.45,
+      "size": 32.9,
+      "blur": 4.47,
+      "opacity": 0.21,
+      "rotate": 35.12
+    },
+    {
+      "type": "block",
+      "x": 64.9,
+      "y": 76.52,
+      "size": 28.78,
+      "blur": 5.98,
+      "opacity": 0.6,
+      "rotate": 21.35
+    },
+    {
+      "type": "orb",
+      "x": 28.06,
+      "y": 28.47,
+      "size": 21.93,
+      "blur": 1.45,
+      "opacity": 0.41,
+      "rotate": 23.6
+    },
+    {
+      "type": "bar",
+      "x": 10.35,
+      "y": 72.23,
+      "size": 17.59,
+      "blur": 15.02,
+      "opacity": 0.63,
+      "rotate": 11.71
+    },
+    {
+      "type": "diamond",
+      "x": 72.87,
+      "y": 34.47,
+      "size": 23.01,
+      "blur": 14.44,
+      "opacity": 0.23,
+      "rotate": -18.6
+    }
   ],
   "shapes": [
-    {
-      "x": 68.01,
-      "y": 83.12,
-      "size": 32.37,
-      "blur": 5.43,
-      "opacity": 0.28
-    },
     {
       "x": 1.76,
       "y": 69.85,
@@ -65,9 +123,13 @@
       "size": 17.59,
       "blur": 15.02,
       "opacity": 0.63
+    },
+    {
+      "x": 72.87,
+      "y": 34.47,
+      "size": 23.01,
+      "blur": 14.44,
+      "opacity": 0.23
     }
-  ],
-  "imagePath": "assets/generated/2026-03-20T22-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-20T22-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-20T22-00-00Z.mp3"
+  ]
 }

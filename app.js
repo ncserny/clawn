@@ -125,19 +125,39 @@ function renderSignalBands(current, seed) {
   }
 }
 
-function renderShapes(shapes, palette) {
+function renderShapes(elements, palette) {
   stage.innerHTML = '';
-  shapes.forEach((shape, i) => {
-    const orb = document.createElement('div');
-    orb.className = 'orb';
-    orb.style.left = `${shape.x}%`;
-    orb.style.top = `${shape.y}%`;
-    orb.style.width = `${shape.size}rem`;
-    orb.style.height = `${shape.size}rem`;
-    orb.style.opacity = shape.opacity;
-    orb.style.filter = `blur(${shape.blur}px)`;
-    orb.style.background = i % 2 === 0 ? palette[1] : palette[2];
-    stage.appendChild(orb);
+  elements.forEach((shape, i) => {
+    const el = document.createElement('div');
+    el.className = `bg-el ${shape.type || 'orb'}`;
+    el.style.left = `${shape.x}%`;
+    el.style.top = `${shape.y}%`;
+    el.style.width = `${shape.size}rem`;
+    el.style.height = `${shape.size}rem`;
+    el.style.opacity = shape.opacity;
+    el.style.filter = `blur(${shape.blur}px)`;
+    el.style.transform = `translate(-50%, -50%) rotate(${shape.rotate || 0}deg)`;
+    const primary = i % 2 === 0 ? palette[1] : palette[2];
+    const secondary = i % 2 === 0 ? palette[2] : palette[1];
+    if ((shape.type || 'orb') === 'ring') {
+      el.style.background = 'transparent';
+      el.style.border = `6px solid ${primary}`;
+    } else if ((shape.type || 'orb') === 'bar') {
+      el.style.background = `linear-gradient(90deg, ${primary}, ${secondary})`;
+      el.style.height = `${Math.max(1.4, shape.size * 0.14)}rem`;
+      el.style.width = `${shape.size * 2.2}rem`;
+    } else if ((shape.type || 'orb') === 'diamond') {
+      el.style.background = primary;
+      el.style.borderRadius = '10%';
+    } else if ((shape.type || 'orb') === 'block') {
+      el.style.background = `linear-gradient(135deg, ${primary}, transparent)`;
+      el.style.borderRadius = '4px';
+      el.style.width = `${shape.size * 1.4}rem`;
+      el.style.height = `${shape.size * 0.9}rem`;
+    } else {
+      el.style.background = primary;
+    }
+    stage.appendChild(el);
   });
 }
 
@@ -230,7 +250,7 @@ function renderState(current, options = {}) {
   applyScene(seed);
   applyLayout(seed);
   renderSignalBands(current, seed);
-  renderShapes(current.shapes, current.palette);
+  renderShapes(current.backgroundElements || current.shapes || [], current.palette);
 }
 
 function syncButtons() {

@@ -115,11 +115,24 @@ h1 {
   overflow: hidden;
   pointer-events: none;
 }
-.orb {
+.bg-el {
   position: absolute;
   border-radius: 999px;
   filter: blur(10px);
   mix-blend-mode: screen;
+}
+.bg-el.diamond {
+  border-radius: 14%;
+}
+.bg-el.ring {
+  box-sizing: border-box;
+  border-radius: 999px;
+}
+.bg-el.block {
+  border-radius: 6px;
+}
+.bg-el.bar {
+  border-radius: 999px;
 }
 @media (max-width: 700px) {
   .now { grid-template-columns: 1fr; }

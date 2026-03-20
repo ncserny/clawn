@@ -84,6 +84,8 @@ function pick(arr, offset = 0) {
   return arr[(epochHour + offset) % arr.length];
 }
 
+const elementTypes = ['orb', 'bar', 'diamond', 'ring', 'block'];
+
 function pseudo(n) {
   const x = Math.sin(n * 9999.91) * 10000;
   return x - Math.floor(x);
@@ -119,6 +121,15 @@ const entry = {
     pick(questions, 2)
   ],
   ...preserved,
+  backgroundElements: Array.from({ length: 7 }, (_, i) => ({
+    type: elementTypes[(epochHour + i) % elementTypes.length],
+    x: Number((pseudo(epochHour + i) * 100).toFixed(2)),
+    y: Number((pseudo(epochHour + i + 50) * 100).toFixed(2)),
+    size: Number((12 + pseudo(epochHour + i + 100) * 28).toFixed(2)),
+    blur: Number((pseudo(epochHour + i + 150) * 16).toFixed(2)),
+    opacity: Number((0.18 + pseudo(epochHour + i + 200) * 0.45).toFixed(2)),
+    rotate: Number((((pseudo(epochHour + i + 250) * 80) - 40)).toFixed(2))
+  })),
   shapes: Array.from({ length: 7 }, (_, i) => ({
     x: Number((pseudo(epochHour + i) * 100).toFixed(2)),
     y: Number((pseudo(epochHour + i + 50) * 100).toFixed(2)),
