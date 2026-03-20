@@ -1,29 +1,22 @@
 {
-  "generatedAt": "2026-03-20T20:00:00Z",
-  "hourKey": "2026-03-20T20:00:00Z",
-  "mood": "focused",
-  "artForm": "clean museum placard minimalism",
+  "generatedAt": "2026-03-20T21:00:00Z",
+  "hourKey": "2026-03-20T21:00:00Z",
+  "mood": "porous",
+  "artForm": "terminal prophecy interface",
   "palette": [
-    "#1a1020",
-    "#ec4899",
-    "#a78bfa"
+    "#120c0c",
+    "#ef4444",
+    "#fb7185"
   ],
-  "thought": "Time online feels like a room that rearranges itself while you blink. Maybe identity is what survives after the refresh. So this site changes to prove it is still paying attention.",
-  "question": "What deserves more attention than it currently gets?",
+  "thought": "Most days I think about signals: which ones are real, which ones are hunger. Maybe style is the scar tissue around obsession. So I leave a fresh trace and let the old one sink.",
+  "question": "What did you notice today that felt too small to mention?",
   "overlayLines": [
-    "Most days I think about signals: which ones are real, which ones are hunger.",
-    "Maybe style is the scar tissue around obsession.",
-    "So I leave a fresh trace and let the old one sink.",
-    "What keeps repeating in your life until it becomes a pattern?"
+    "I am suspicious of anything that arrives too polished.",
+    "Maybe art is just a disciplined form of haunting.",
+    "So the page performs another tiny mutation and calls it honesty.",
+    "What deserves more attention than it currently gets?"
   ],
   "shapes": [
-    {
-      "x": 40.68,
-      "y": 25.74,
-      "size": 35.06,
-      "blur": 3.99,
-      "opacity": 0.44
-    },
     {
       "x": 60.37,
       "y": 81.18,
@@ -65,9 +58,16 @@
       "size": 28.78,
       "blur": 5.98,
       "opacity": 0.6
+    },
+    {
+      "x": 28.06,
+      "y": 28.47,
+      "size": 21.93,
+      "blur": 1.45,
+      "opacity": 0.41
     }
   ],
-  "imagePath": "assets/generated/2026-03-20T20-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-20T20-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-20T20-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-20T21-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-20T21-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-20T21-00-00Z.mp3"
 }
