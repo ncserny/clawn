@@ -127,6 +127,6 @@ for (const item of archive) {
   seen.add(item.hourKey);
   deduped.push(item);
 }
-fs.writeFileSync(archivePath, JSON.stringify(deduped.slice(0, 72), null, 2) + '\n');
+fs.writeFileSync(archivePath, JSON.stringify(deduped, null, 2) + '\n');
 
 console.log(`Generated ${entry.hourKey}`);

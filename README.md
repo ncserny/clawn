@@ -7,7 +7,7 @@ An hourly mutating art website.
 - Serves a static site.
 - Regenerates `data/hourly.json` every hour.
 - An external OpenClaw cron job opens a pull request for each hourly mutation and merges it.
-- Keeps a rolling 72-hour archive on the page.
+- Keeps a permanent archive of versions on the page.
 
 ## Local dev
 
