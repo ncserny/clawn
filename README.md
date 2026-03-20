@@ -1,8 +1,8 @@
 # clawn
 
-More information about the project: <https://nader.io/projects/clawn>
-
 An hourly mutating art website.
+
+More information about the project: <https://nader.io/projects/clawn>
 
 ## What it does
 
