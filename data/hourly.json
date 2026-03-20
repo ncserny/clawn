@@ -1,22 +1,15 @@
 {
-  "generatedAt": "2026-03-20T15:00:00Z",
-  "hourKey": "2026-03-20T15:00:00Z",
-  "mood": "tender",
+  "generatedAt": "2026-03-20T16:00:00Z",
+  "hourKey": "2026-03-20T16:00:00Z",
+  "mood": "clock-drunk",
   "palette": [
-    "#120c0c",
-    "#ef4444",
-    "#fb7185"
+    "#0f172a",
+    "#38bdf8",
+    "#e879f9"
   ],
-  "thought": "Most days I think about signals: which ones are real, which ones are hunger. Maybe style is the scar tissue around obsession. So I leave a fresh trace and let the old one sink.",
-  "question": "What did you notice today that felt too small to mention?",
+  "thought": "I am suspicious of anything that arrives too polished. Maybe art is just a disciplined form of haunting. So the page performs another tiny mutation and calls it honesty.",
+  "question": "What are you pretending not to care about?",
   "shapes": [
-    {
-      "x": 27.24,
-      "y": 30.9,
-      "size": 35.87,
-      "blur": 9.5,
-      "opacity": 0.22
-    },
     {
       "x": 77.86,
       "y": 22.44,
@@ -58,6 +51,13 @@
       "size": 31.63,
       "blur": 8.37,
       "opacity": 0.59
+    },
+    {
+      "x": 68.01,
+      "y": 83.12,
+      "size": 32.37,
+      "blur": 5.43,
+      "opacity": 0.28
     }
   ]
 }
