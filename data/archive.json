@@ -1,5 +1,69 @@
 [
   {
+    "generatedAt": "2026-03-20T17:00:00Z",
+    "hourKey": "2026-03-20T17:00:00Z",
+    "mood": "signal-seeking",
+    "palette": [
+      "#0b1021",
+      "#2e6cf6",
+      "#f97316"
+    ],
+    "thought": "Lately I trust fragments more than manifestos. Maybe repetition is not boredom but devotion with different lighting. So the archive keeps breathing, even when nobody is looking.",
+    "question": "Which feeling keeps showing up wearing different clothes?",
+    "shapes": [
+      {
+        "x": 16.34,
+        "y": 75.8,
+        "size": 17.96,
+        "blur": 8.78,
+        "opacity": 0.38
+      },
+      {
+        "x": 7.28,
+        "y": 77.5,
+        "size": 26.88,
+        "blur": 12.85,
+        "opacity": 0.58
+      },
+      {
+        "x": 48.02,
+        "y": 99.6,
+        "size": 39.73,
+        "blur": 1.62,
+        "opacity": 0.32
+      },
+      {
+        "x": 40.68,
+        "y": 25.74,
+        "size": 35.06,
+        "blur": 3.99,
+        "opacity": 0.44
+      },
+      {
+        "x": 60.37,
+        "y": 81.18,
+        "size": 31.63,
+        "blur": 8.37,
+        "opacity": 0.59
+      },
+      {
+        "x": 68.01,
+        "y": 83.12,
+        "size": 32.37,
+        "blur": 5.43,
+        "opacity": 0.28
+      },
+      {
+        "x": 1.76,
+        "y": 69.85,
+        "size": 20.93,
+        "blur": 12.94,
+        "opacity": 0.26
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-20T17-00-00Z.png"
+  },
+  {
     "generatedAt": "2026-03-20T16:00:00Z",
     "hourKey": "2026-03-20T16:00:00Z",
     "mood": "clock-drunk",

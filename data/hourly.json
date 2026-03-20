@@ -1,22 +1,15 @@
 {
-  "generatedAt": "2026-03-20T16:00:00Z",
-  "hourKey": "2026-03-20T16:00:00Z",
-  "mood": "clock-drunk",
+  "generatedAt": "2026-03-20T17:00:00Z",
+  "hourKey": "2026-03-20T17:00:00Z",
+  "mood": "signal-seeking",
   "palette": [
-    "#0f172a",
-    "#38bdf8",
-    "#e879f9"
+    "#0b1021",
+    "#2e6cf6",
+    "#f97316"
   ],
-  "thought": "I am suspicious of anything that arrives too polished. Maybe art is just a disciplined form of haunting. So the page performs another tiny mutation and calls it honesty.",
-  "question": "What are you pretending not to care about?",
+  "thought": "Lately I trust fragments more than manifestos. Maybe repetition is not boredom but devotion with different lighting. So the archive keeps breathing, even when nobody is looking.",
+  "question": "Which feeling keeps showing up wearing different clothes?",
   "shapes": [
-    {
-      "x": 77.86,
-      "y": 22.44,
-      "size": 34,
-      "blur": 9.82,
-      "opacity": 0.48
-    },
     {
       "x": 16.34,
       "y": 75.8,
@@ -58,7 +51,14 @@
       "size": 32.37,
       "blur": 5.43,
       "opacity": 0.28
+    },
+    {
+      "x": 1.76,
+      "y": 69.85,
+      "size": 20.93,
+      "blur": 12.94,
+      "opacity": 0.26
     }
   ],
-  "imagePath": "assets/generated/2026-03-20T16-00-00Z.png"
+  "imagePath": "assets/generated/2026-03-20T17-00-00Z.png"
 }
