@@ -47,7 +47,7 @@ body {
 .shell > .eyebrow,
 .shell > h1,
 .shell > .lede {
-  grid-column: 1 / span 8;
+  grid-column: var(--title-grid, 1 / span 8);
 }
 
 .eyebrow, .label, .mono {
@@ -63,14 +63,18 @@ h1 {
   font-family: var(--display-font), serif;
   font-size: clamp(3rem, 9vw, 7rem);
   line-height: 0.9;
-  max-width: 9ch;
+  max-width: var(--title-max, 9ch);
   text-wrap: balance;
+  text-align: var(--title-align, left);
+  transform: translate(var(--title-x, 0px), var(--title-y, 0px)) rotate(var(--title-rotate, 0deg));
+  transform-origin: left top;
 }
 .lede {
   max-width: 38rem;
   color: var(--muted);
   font-size: 1.1rem;
   line-height: 1.6;
+  text-align: var(--title-align, left);
 }
 .panel {
   border: 1px solid var(--line);
@@ -311,6 +315,8 @@ h1 {
   h1 {
     font-size: clamp(2.5rem, 14vw, 4.4rem);
     max-width: 100%;
+    text-align: left;
+    transform: none !important;
   }
 
   .lede,

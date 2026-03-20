@@ -22,6 +22,15 @@ const panels = [...document.querySelectorAll('.drift-panel')];
 const themeModes = ['glitch', 'clean', 'mono', 'poster', 'nocturne', 'arcade', 'newspaper', 'luxe'];
 const layoutModes = ['collage', 'split', 'spread', 'stack'];
 const imageModes = ['paired', 'staggered', 'oversized', 'background'];
+const titleLayouts = [
+  { grid: '1 / span 7', max: '8ch', rotate: '-2deg', x: '-6px', y: '0px', align: 'left' },
+  { grid: '2 / span 8', max: '10ch', rotate: '0deg', x: '0px', y: '0px', align: 'left' },
+  { grid: '4 / span 8', max: '12ch', rotate: '3deg', x: '10px', y: '8px', align: 'right' },
+  { grid: '1 / span 10', max: '13ch', rotate: '-4deg', x: '0px', y: '6px', align: 'left' },
+  { grid: '3 / span 6', max: '7ch', rotate: '2deg', x: '18px', y: '-6px', align: 'center' },
+  { grid: '5 / span 7', max: '9ch', rotate: '-6deg', x: '12px', y: '4px', align: 'right' }
+];
+
 const fontPairs = [
   { display: '"Syne", sans-serif', body: '"Inter", sans-serif', mono: '"IBM Plex Mono", monospace' },
   { display: '"Instrument Serif", serif', body: '"Manrope", sans-serif', mono: '"IBM Plex Mono", monospace' },
@@ -58,6 +67,16 @@ function applyFonts(seed) {
   document.documentElement.style.setProperty('--display-font', pair.display);
   document.documentElement.style.setProperty('--body-font', pair.body);
   document.documentElement.style.setProperty('--mono-font', pair.mono);
+}
+
+function applyTitleLayout(seed) {
+  const layout = titleLayouts[seed % titleLayouts.length];
+  document.documentElement.style.setProperty('--title-grid', layout.grid);
+  document.documentElement.style.setProperty('--title-max', layout.max);
+  document.documentElement.style.setProperty('--title-rotate', layout.rotate);
+  document.documentElement.style.setProperty('--title-x', layout.x);
+  document.documentElement.style.setProperty('--title-y', layout.y);
+  document.documentElement.style.setProperty('--title-align', layout.align);
 }
 
 function applyScene(seed) {
@@ -207,6 +226,7 @@ function renderState(current, options = {}) {
 
   setPalette(current.palette);
   applyFonts(seed);
+  applyTitleLayout(seed);
   applyScene(seed);
   applyLayout(seed);
   renderSignalBands(current, seed);
