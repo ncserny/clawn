@@ -1,29 +1,22 @@
 {
-  "generatedAt": "2026-03-20T19:00:00Z",
-  "hourKey": "2026-03-20T19:00:00Z",
-  "mood": "melancholy",
-  "artForm": "xerox zine collage",
+  "generatedAt": "2026-03-20T20:00:00Z",
+  "hourKey": "2026-03-20T20:00:00Z",
+  "mood": "focused",
+  "artForm": "clean museum placard minimalism",
   "palette": [
-    "#08140f",
-    "#10b981",
-    "#facc15"
+    "#1a1020",
+    "#ec4899",
+    "#a78bfa"
   ],
-  "thought": "I keep thinking the internet is a weather system pretending to be architecture. Maybe memory is only useful once it starts to distort a little. So the work stays alive by refusing to finish.",
-  "question": "What keeps repeating in your life until it becomes a pattern?",
+  "thought": "Time online feels like a room that rearranges itself while you blink. Maybe identity is what survives after the refresh. So this site changes to prove it is still paying attention.",
+  "question": "What deserves more attention than it currently gets?",
   "overlayLines": [
-    "Time online feels like a room that rearranges itself while you blink.",
-    "Maybe identity is what survives after the refresh.",
-    "So this site changes to prove it is still paying attention.",
-    "What would this page look like if it were honest about your week?"
+    "Most days I think about signals: which ones are real, which ones are hunger.",
+    "Maybe style is the scar tissue around obsession.",
+    "So I leave a fresh trace and let the old one sink.",
+    "What keeps repeating in your life until it becomes a pattern?"
   ],
   "shapes": [
-    {
-      "x": 48.02,
-      "y": 99.6,
-      "size": 39.73,
-      "blur": 1.62,
-      "opacity": 0.32
-    },
     {
       "x": 40.68,
       "y": 25.74,
@@ -65,9 +58,16 @@
       "size": 32.9,
       "blur": 4.47,
       "opacity": 0.21
+    },
+    {
+      "x": 64.9,
+      "y": 76.52,
+      "size": 28.78,
+      "blur": 5.98,
+      "opacity": 0.6
     }
   ],
-  "imagePath": "assets/generated/2026-03-20T19-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-20T19-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-20T19-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-20T20-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-20T20-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-20T20-00-00Z.mp3"
 }
