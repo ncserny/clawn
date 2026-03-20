@@ -818,3 +818,23 @@ body[data-layout="stack"] h1,
 body[data-layout="newspaper"] h1 {
   max-width: 100%;
 }
+
+.full-changelog-link {
+  grid-column: 1 / -1;
+  margin-top: 10px;
+  padding-bottom: 12px;
+  text-align: center;
+}
+.full-changelog-link a {
+  color: var(--muted);
+  text-decoration: none;
+  border-bottom: 1px solid var(--line);
+  font-family: var(--mono-font), monospace;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  font-size: 0.72rem;
+}
+.full-changelog-link a:hover {
+  color: var(--fg);
+  border-bottom-color: currentColor;
+}
