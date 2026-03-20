@@ -131,5 +131,8 @@
       "blur": 14.44,
       "opacity": 0.23
     }
-  ]
+  ],
+  "imagePath": "assets/generated/2026-03-20T23-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-20T23-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-20T23-00-00Z.mp3"
 }
