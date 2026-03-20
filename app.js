@@ -19,30 +19,20 @@ let states = [];
 let stateIndex = 0;
 
 const panels = [...document.querySelectorAll('.drift-panel')];
-const themeModes = ['glitch', 'clean', 'mono', 'poster', 'nocturne'];
+const themeModes = ['glitch', 'clean', 'mono', 'poster', 'nocturne', 'arcade', 'newspaper', 'luxe'];
 const layoutModes = ['collage', 'split', 'spread', 'stack'];
 const imageModes = ['paired', 'staggered', 'oversized', 'background'];
 const fontPairs = [
-  {
-    display: '"Syne", sans-serif',
-    body: '"Inter", sans-serif',
-    mono: '"IBM Plex Mono", monospace'
-  },
-  {
-    display: '"Instrument Serif", serif',
-    body: '"Manrope", sans-serif',
-    mono: '"IBM Plex Mono", monospace'
-  },
-  {
-    display: '"Cormorant Garamond", serif',
-    body: '"Space Grotesk", sans-serif',
-    mono: '"IBM Plex Mono", monospace'
-  },
-  {
-    display: '"Space Grotesk", sans-serif',
-    body: '"Inter", sans-serif',
-    mono: '"IBM Plex Mono", monospace'
-  }
+  { display: '"Syne", sans-serif', body: '"Inter", sans-serif', mono: '"IBM Plex Mono", monospace' },
+  { display: '"Instrument Serif", serif', body: '"Manrope", sans-serif', mono: '"IBM Plex Mono", monospace' },
+  { display: '"Cormorant Garamond", serif', body: '"Space Grotesk", sans-serif', mono: '"IBM Plex Mono", monospace' },
+  { display: '"Space Grotesk", sans-serif', body: '"Inter", sans-serif', mono: '"IBM Plex Mono", monospace' },
+  { display: '"Bungee", cursive', body: '"Space Grotesk", sans-serif', mono: '"Silkscreen", monospace' },
+  { display: '"Monoton", cursive', body: '"Orbitron", sans-serif', mono: '"IBM Plex Mono", monospace' },
+  { display: '"DM Serif Display", serif', body: '"Special Elite", serif', mono: '"IBM Plex Mono", monospace' },
+  { display: '"Archivo Black", sans-serif', body: '"Inter", sans-serif', mono: '"Press Start 2P", monospace' },
+  { display: '"Rubik Dirt", cursive', body: '"Manrope", sans-serif', mono: '"Silkscreen", monospace' },
+  { display: '"Bebas Neue", sans-serif', body: '"Space Grotesk", sans-serif', mono: '"IBM Plex Mono", monospace' }
 ];
 
 function currentVersionParam() {
