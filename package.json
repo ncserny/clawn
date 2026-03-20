@@ -3,6 +3,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "generate": "node scripts/generate-hourly.mjs"
+    "generate": "node scripts/generate-hourly.mjs",
+    "build": "npm run generate && node scripts/build.mjs"
   }
 }

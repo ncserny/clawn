@@ -77,7 +77,7 @@ function pseudo(n) {
 
 const palette = pick(colors, 1);
 const entry = {
-  generatedAt: now.toISOString(),
+  generatedAt: hourKey,
   hourKey,
   mood: pick(moods),
   palette,
