@@ -43,14 +43,13 @@ const fontPairs = [
   }
 ];
 
-
 function currentVersionParam() {
   return new URL(window.location.href).searchParams.get('v');
 }
 
-function updateVersionUrl(hourKey, replace = false) {
+function updateVersionUrl(version, replace = false) {
   const url = new URL(window.location.href);
-  url.searchParams.set('v', hourKey);
+  url.searchParams.set('v', version);
   if (replace) {
     window.history.replaceState({}, '', url);
   } else {
@@ -68,7 +67,6 @@ function applyFonts(seed) {
   document.documentElement.style.setProperty('--body-font', pair.body);
   document.documentElement.style.setProperty('--mono-font', pair.mono);
 }
-
 
 function applyScene(seed) {
   document.body.dataset.theme = themeModes[seed % themeModes.length];
@@ -143,10 +141,7 @@ function renderArchive(items) {
     `;
     wrap.addEventListener('click', () => {
       stateIndex = index;
-      const requestedVersion = currentVersionParam();
-  const requestedIndex = requestedVersion ? states.findIndex((item) => item.hourKey === requestedVersion) : -1;
-  if (requestedIndex >= 0) stateIndex = requestedIndex;
-  renderState(states[stateIndex], { replaceUrl: true });
+      renderState(states[stateIndex]);
       syncButtons();
     });
     archive.appendChild(wrap);
@@ -159,7 +154,7 @@ function wireAudio() {
     iterationAudio.play().then(() => {
       audioToggle.textContent = '❚❚ pause voice';
     }).catch(() => {
-      audioToggle.textContent = '▶ play this hour's voice';
+      audioToggle.textContent = "▶ play this hour's voice";
     });
   };
 
@@ -169,12 +164,12 @@ function wireAudio() {
       tryPlay();
     } else {
       iterationAudio.pause();
-      audioToggle.textContent = '▶ play this hour's voice';
+      audioToggle.textContent = "▶ play this hour's voice";
     }
   });
 
   iterationAudio.addEventListener('ended', () => {
-    audioToggle.textContent = '↺ replay this hour's voice';
+    audioToggle.textContent = "↺ replay this hour's voice";
   });
 
   const prime = () => {
@@ -193,6 +188,7 @@ function renderState(current, options = {}) {
   mood.textContent = current.mood;
   thought.textContent = current.thought;
   question.textContent = current.question;
+
   if (current.imagePath) {
     iterationImage.src = current.imagePath;
     iterationImage.style.display = 'block';
@@ -200,14 +196,16 @@ function renderState(current, options = {}) {
     iterationImage.removeAttribute('src');
     iterationImage.style.display = 'none';
   }
+
   if (current.audioPath) {
     iterationAudio.src = current.audioPath;
     audioToggle.hidden = false;
-    audioToggle.textContent = '▶ play this hour's voice';
+    audioToggle.textContent = "▶ play this hour's voice";
   } else {
     iterationAudio.removeAttribute('src');
     audioToggle.hidden = true;
   }
+
   setPalette(current.palette);
   applyFonts(seed);
   applyScene(seed);
@@ -246,7 +244,13 @@ async function boot() {
   states = [current, ...history.filter((item) => item.hourKey !== current.hourKey)];
   stateIndex = 0;
 
-  renderState(states[stateIndex]);
+  const requestedVersion = currentVersionParam();
+  const requestedIndex = requestedVersion ? states.findIndex((item) => item.hourKey === requestedVersion) : -1;
+  if (requestedIndex >= 0) {
+    stateIndex = requestedIndex;
+  }
+
+  renderState(states[stateIndex], { replaceUrl: true });
   renderArchive(states);
   renderChangelog(log);
   wireAudio();
