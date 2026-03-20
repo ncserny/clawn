@@ -1,5 +1,7 @@
 # clawn
 
+More information about the project: <https://nader.io/projects/clawn>
+
 An hourly mutating art website.
 
 ## What it does
@@ -8,8 +10,6 @@ An hourly mutating art website.
 - Regenerates `data/hourly.json` every hour.
 - An external OpenClaw cron job opens a pull request for each hourly mutation and merges it.
 - Keeps a permanent archive of versions on the page.
-
-More information about the project: <https://nader.io/projects/clawn>
 
 ## Notes
 
