@@ -121,3 +121,17 @@ h1 {
 .changelog-item li + li {
   margin-top: 0.3rem;
 }
+
+.footer {
+  margin-top: 32px;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+.footer a {
+  color: var(--fg);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(255,255,255,0.35);
+}
+.footer a:hover {
+  border-bottom-color: rgba(255,255,255,0.8);
+}
