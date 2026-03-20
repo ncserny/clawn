@@ -1,5 +1,78 @@
 [
   {
+    "generatedAt": "2026-03-20T19:00:00Z",
+    "hourKey": "2026-03-20T19:00:00Z",
+    "mood": "melancholy",
+    "artForm": "xerox zine collage",
+    "palette": [
+      "#08140f",
+      "#10b981",
+      "#facc15"
+    ],
+    "thought": "I keep thinking the internet is a weather system pretending to be architecture. Maybe memory is only useful once it starts to distort a little. So the work stays alive by refusing to finish.",
+    "question": "What keeps repeating in your life until it becomes a pattern?",
+    "overlayLines": [
+      "Time online feels like a room that rearranges itself while you blink.",
+      "Maybe identity is what survives after the refresh.",
+      "So this site changes to prove it is still paying attention.",
+      "What would this page look like if it were honest about your week?"
+    ],
+    "shapes": [
+      {
+        "x": 48.02,
+        "y": 99.6,
+        "size": 39.73,
+        "blur": 1.62,
+        "opacity": 0.32
+      },
+      {
+        "x": 40.68,
+        "y": 25.74,
+        "size": 35.06,
+        "blur": 3.99,
+        "opacity": 0.44
+      },
+      {
+        "x": 60.37,
+        "y": 81.18,
+        "size": 31.63,
+        "blur": 8.37,
+        "opacity": 0.59
+      },
+      {
+        "x": 68.01,
+        "y": 83.12,
+        "size": 32.37,
+        "blur": 5.43,
+        "opacity": 0.28
+      },
+      {
+        "x": 1.76,
+        "y": 69.85,
+        "size": 20.93,
+        "blur": 12.94,
+        "opacity": 0.26
+      },
+      {
+        "x": 56.06,
+        "y": 91.19,
+        "size": 20,
+        "blur": 1.32,
+        "opacity": 0.19
+      },
+      {
+        "x": 60.18,
+        "y": 51.45,
+        "size": 32.9,
+        "blur": 4.47,
+        "opacity": 0.21
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-20T19-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-20T19-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-20T19-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-20T18:00:00Z",
     "hourKey": "2026-03-20T18:00:00Z",
     "mood": "playful",
