@@ -342,3 +342,137 @@ h1 {
     text-align: left !important;
   }
 }
+
+
+body[data-theme="clean"] {
+  --fg: #111318;
+  --muted: rgba(17, 19, 24, 0.68);
+  --line: rgba(17, 19, 24, 0.12);
+  background:
+    radial-gradient(circle at 10% 10%, rgba(255,255,255,0.8), transparent 28%),
+    linear-gradient(180deg, #f7f4ef, #ebe7df 72%, #e2ddd4);
+}
+body[data-theme="clean"] .noise { opacity: 0.025; }
+body[data-theme="clean"] .panel {
+  background: rgba(255,255,255,0.55);
+  box-shadow: 0 20px 50px rgba(0,0,0,0.08);
+  backdrop-filter: blur(10px);
+}
+body[data-theme="clean"] .iteration-image {
+  filter: saturate(0.85) contrast(1.02);
+}
+
+body[data-theme="mono"] {
+  --fg: #d8ffe1;
+  --muted: rgba(216, 255, 225, 0.68);
+  --line: rgba(120, 255, 160, 0.18);
+  background:
+    linear-gradient(180deg, #030806, #07170f 70%, #020403);
+}
+body[data-theme="mono"] .panel {
+  background: rgba(3, 10, 6, 0.72);
+  box-shadow: 0 0 0 1px rgba(120,255,160,0.06), 0 18px 60px rgba(0,0,0,0.34);
+}
+body[data-theme="mono"] .noise {
+  opacity: 0.12;
+  background-size: 6px 6px;
+}
+body[data-theme="mono"] .iteration-image {
+  filter: grayscale(1) contrast(1.12) brightness(0.92) sepia(0.16) hue-rotate(42deg);
+}
+
+body[data-theme="poster"] {
+  --fg: #fff8ef;
+  --muted: rgba(255,248,239,0.72);
+  --line: rgba(255,248,239,0.15);
+  background:
+    radial-gradient(circle at 20% 20%, rgba(255, 98, 0, 0.24), transparent 30%),
+    radial-gradient(circle at 80% 0%, rgba(244, 63, 94, 0.22), transparent 34%),
+    linear-gradient(145deg, #12020f, #270018 55%, #050816);
+}
+body[data-theme="poster"] .panel {
+  border-radius: 30px 18px 28px 14px;
+  box-shadow: 0 24px 100px rgba(0,0,0,0.35);
+}
+body[data-theme="poster"] h1 {
+  text-transform: uppercase;
+  letter-spacing: -0.04em;
+}
+body[data-theme="poster"] .iteration-image {
+  filter: contrast(1.2) saturate(1.18);
+}
+
+body[data-theme="nocturne"] {
+  --fg: #f3ecff;
+  --muted: rgba(243,236,255,0.68);
+  --line: rgba(243,236,255,0.11);
+  background:
+    radial-gradient(circle at 30% 10%, rgba(147, 51, 234, 0.24), transparent 28%),
+    radial-gradient(circle at 70% 25%, rgba(59, 130, 246, 0.18), transparent 30%),
+    linear-gradient(180deg, #050816, #120a24 62%, #080512);
+}
+body[data-theme="nocturne"] .panel {
+  background: rgba(16, 14, 32, 0.5);
+  backdrop-filter: blur(22px);
+}
+body[data-theme="nocturne"] .iteration-image {
+  filter: saturate(0.95) brightness(0.95);
+}
+
+body[data-theme="glitch"] h1 {
+  position: relative;
+}
+body[data-theme="glitch"] h1::before,
+body[data-theme="glitch"] h1::after {
+  content: attr(data-echo);
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.6;
+}
+body[data-theme="glitch"] h1::before {
+  transform: translate(3px, -1px);
+  color: rgba(34, 211, 238, 0.7);
+}
+body[data-theme="glitch"] h1::after {
+  transform: translate(-4px, 2px);
+  color: rgba(244, 63, 94, 0.7);
+}
+body[data-theme="glitch"] .panel {
+  box-shadow: 0 0 0 1px rgba(255,255,255,0.06), 0 30px 120px rgba(0,0,0,0.4);
+}
+body[data-theme="glitch"] .iteration-image {
+  filter: saturate(1.28) contrast(1.18) hue-rotate(-8deg);
+}
+
+body[data-layout="split"] .image-panel { grid-column: 7 / span 6; }
+body[data-layout="split"] .thought-panel { grid-column: 1 / span 6; }
+body[data-layout="split"] .question-panel { grid-column: 1 / span 5; }
+body[data-layout="split"] .archive-panel { grid-column: 6 / span 4; }
+body[data-layout="split"] .changelog-panel { grid-column: 10 / span 3; }
+
+body[data-layout="spread"] .now { grid-column: 2 / span 4; }
+body[data-layout="spread"] .image-panel { grid-column: 5 / span 8; }
+body[data-layout="spread"] .thought-panel { grid-column: 1 / span 4; }
+body[data-layout="spread"] .question-panel { grid-column: 8 / span 5; }
+body[data-layout="spread"] .archive-panel { grid-column: 1 / span 5; }
+body[data-layout="spread"] .changelog-panel { grid-column: 6 / span 5; }
+body[data-layout="spread"] .footer { grid-column: 11 / span 2; }
+
+body[data-layout="stack"] .now,
+body[data-layout="stack"] .image-panel,
+body[data-layout="stack"] .thought-panel,
+body[data-layout="stack"] .question-panel,
+body[data-layout="stack"] .archive-panel,
+body[data-layout="stack"] .changelog-panel,
+body[data-layout="stack"] .footer {
+  grid-column: 3 / span 8;
+}
+body[data-layout="stack"] .cycle-controls {
+  grid-column: 3 / span 5;
+}
+body[data-layout="stack"] .panel,
+body[data-layout="stack"] .cycle-controls,
+body[data-layout="stack"] .footer {
+  --tx: 0px !important;
+}

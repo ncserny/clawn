@@ -3,6 +3,7 @@ const mood = document.querySelector('#mood');
 const thought = document.querySelector('#thought');
 const question = document.querySelector('#question');
 const iterationImage = document.querySelector('#iterationImage');
+const heroTitle = document.querySelector('h1');
 const archive = document.querySelector('#archive');
 const changelog = document.querySelector('#changelog');
 const stage = document.querySelector('#stage');
@@ -14,6 +15,8 @@ let states = [];
 let stateIndex = 0;
 
 const panels = [...document.querySelectorAll('.drift-panel')];
+const themeModes = ['glitch', 'clean', 'mono', 'poster', 'nocturne'];
+const layoutModes = ['collage', 'split', 'spread', 'stack'];
 const fontPairs = [
   {
     display: '"Syne", sans-serif',
@@ -46,6 +49,12 @@ function applyFonts(seed) {
   document.documentElement.style.setProperty('--display-font', pair.display);
   document.documentElement.style.setProperty('--body-font', pair.body);
   document.documentElement.style.setProperty('--mono-font', pair.mono);
+}
+
+
+function applyScene(seed) {
+  document.body.dataset.theme = themeModes[seed % themeModes.length];
+  document.body.dataset.layout = layoutModes[Math.floor(seed / themeModes.length) % layoutModes.length];
 }
 
 function applyLayout(seed) {
@@ -108,6 +117,7 @@ function renderArchive(items) {
 function renderState(current) {
   if (!current) return;
   const seed = hashString(current.hourKey + current.mood);
+  heroTitle.dataset.echo = heroTitle.textContent;
   hourKey.textContent = current.hourKey;
   mood.textContent = current.mood;
   thought.textContent = current.thought;
@@ -121,6 +131,7 @@ function renderState(current) {
   }
   setPalette(current.palette);
   applyFonts(seed);
+  applyScene(seed);
   applyLayout(seed);
   renderShapes(current.shapes, current.palette);
 }
