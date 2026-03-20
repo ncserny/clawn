@@ -264,3 +264,81 @@ h1 {
 .archive-panel { grid-column: 1 / span 6; }
 .changelog-panel { grid-column: 7 / span 4; }
 .footer { grid-column: 11 / span 2; text-align: right; }
+
+@media (max-width: 900px) {
+  .shell {
+    grid-template-columns: 1fr;
+    max-width: 760px;
+    padding: 36px 14px 84px;
+    gap: 14px;
+    overflow: hidden;
+  }
+
+  .shell > * {
+    min-width: 0;
+  }
+
+  .shell > .eyebrow,
+  .shell > h1,
+  .shell > .lede,
+  .image-panel,
+  .now,
+  .cycle-controls,
+  .thought-panel,
+  .question-panel,
+  .archive-panel,
+  .changelog-panel,
+  .footer {
+    grid-column: 1 / -1 !important;
+    width: 100%;
+    max-width: 100%;
+    text-align: left;
+  }
+
+  .panel,
+  .cycle-controls,
+  .footer {
+    transform: none !important;
+    animation: none !important;
+  }
+
+  .panel {
+    margin-top: 0;
+    padding: 16px;
+    border-radius: 20px;
+  }
+
+  h1 {
+    font-size: clamp(2.5rem, 14vw, 4.4rem);
+    max-width: 100%;
+  }
+
+  .lede,
+  .thought,
+  .question,
+  .mood,
+  #hourKey {
+    overflow-wrap: anywhere;
+    word-break: break-word;
+  }
+
+  .thought-panel .thought,
+  .question-panel .question {
+    font-size: clamp(1.25rem, 7.3vw, 1.85rem);
+    line-height: 1.35;
+  }
+
+  .cycle-controls {
+    gap: 8px;
+    margin-top: 0;
+  }
+
+  .cycle-button {
+    padding: 10px 12px;
+  }
+
+  .footer {
+    margin-top: 8px;
+    text-align: left !important;
+  }
+}
