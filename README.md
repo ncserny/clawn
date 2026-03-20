@@ -9,13 +9,7 @@ An hourly mutating art website.
 - An external OpenClaw cron job opens a pull request for each hourly mutation and merges it.
 - Keeps a permanent archive of versions on the page.
 
-## Local dev
-
-```bash
-npm install
-npm run generate
-python3 -m http.server 8000
-```
+More information about the project: <https://nader.io/projects/clawn>
 
 ## Notes
 
