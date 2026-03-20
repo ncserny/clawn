@@ -21,6 +21,7 @@ let stateIndex = 0;
 const panels = [...document.querySelectorAll('.drift-panel')];
 const themeModes = ['glitch', 'clean', 'mono', 'poster', 'nocturne'];
 const layoutModes = ['collage', 'split', 'spread', 'stack'];
+const imageModes = ['paired', 'staggered', 'oversized', 'background'];
 const fontPairs = [
   {
     display: '"Syne", sans-serif',
@@ -72,6 +73,7 @@ function applyFonts(seed) {
 function applyScene(seed) {
   document.body.dataset.theme = themeModes[seed % themeModes.length];
   document.body.dataset.layout = layoutModes[Math.floor(seed / themeModes.length) % layoutModes.length];
+  document.body.dataset.imageMode = imageModes[Math.floor(seed / (themeModes.length * layoutModes.length)) % imageModes.length];
 }
 
 function applyLayout(seed) {

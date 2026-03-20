@@ -597,3 +597,103 @@ body[data-theme="clean"] .audio-toggle {
     grid-template-columns: 1fr;
   }
 }
+
+.image-panel {
+  overflow: visible;
+}
+.apparition-grid {
+  position: relative;
+  min-height: 260px;
+}
+body[data-image-mode="paired"] .apparition-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+}
+body[data-image-mode="paired"] .apparition-card {
+  position: relative;
+}
+body[data-image-mode="staggered"] .apparition-grid {
+  display: block;
+  min-height: 360px;
+}
+body[data-image-mode="staggered"] .apparition-card {
+  position: absolute;
+  width: 58%;
+}
+body[data-image-mode="staggered"] .apparition-card:first-child {
+  left: -4%;
+  top: 0;
+  transform: rotate(-2.4deg);
+}
+body[data-image-mode="staggered"] .apparition-card:last-child {
+  right: -2%;
+  bottom: 4px;
+  width: 44%;
+  transform: rotate(3.2deg);
+}
+body[data-image-mode="oversized"] .apparition-grid {
+  display: block;
+  min-height: 410px;
+}
+body[data-image-mode="oversized"] .apparition-card {
+  position: absolute;
+}
+body[data-image-mode="oversized"] .apparition-card:first-child {
+  inset: 0 16% 22% -6%;
+  transform: rotate(-1.2deg);
+}
+body[data-image-mode="oversized"] .apparition-card:last-child {
+  width: 34%;
+  right: -3%;
+  bottom: -10px;
+  transform: rotate(4deg);
+}
+body[data-image-mode="background"] .apparition-grid {
+  display: block;
+  min-height: 360px;
+}
+body[data-image-mode="background"] .apparition-card {
+  position: absolute;
+}
+body[data-image-mode="background"] .apparition-card:first-child {
+  inset: -10px -6% 38% -8%;
+  opacity: 0.38;
+  filter: saturate(1.06) blur(0.2px);
+  transform: rotate(-3deg);
+}
+body[data-image-mode="background"] .apparition-card:last-child {
+  width: 36%;
+  right: 2%;
+  bottom: 0;
+  transform: rotate(5deg);
+}
+body[data-image-mode="background"] .apparition-card:first-child .label {
+  opacity: 0.6;
+}
+.apparition-card .iteration-image {
+  width: 100%;
+}
+@media (max-width: 900px) {
+  .apparition-grid,
+  body[data-image-mode="staggered"] .apparition-grid,
+  body[data-image-mode="oversized"] .apparition-grid,
+  body[data-image-mode="background"] .apparition-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    min-height: 0;
+    gap: 12px;
+  }
+  body[data-image-mode="staggered"] .apparition-card,
+  body[data-image-mode="oversized"] .apparition-card,
+  body[data-image-mode="background"] .apparition-card {
+    position: relative;
+    inset: auto;
+    right: auto;
+    left: auto;
+    bottom: auto;
+    width: 100%;
+    opacity: 1;
+    transform: none;
+  }
+}
