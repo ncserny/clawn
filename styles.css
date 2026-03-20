@@ -106,3 +106,18 @@ h1 {
   .now { grid-template-columns: 1fr; }
   .shell { padding-top: 48px; }
 }
+
+.changelog {
+  display: grid;
+  gap: 14px;
+  margin-top: 12px;
+}
+.changelog-item ul {
+  margin: 0.4rem 0 0;
+  padding-left: 1.1rem;
+  color: var(--muted);
+  line-height: 1.6;
+}
+.changelog-item li + li {
+  margin-top: 0.3rem;
+}

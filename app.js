@@ -3,6 +3,7 @@ const mood = document.querySelector('#mood');
 const thought = document.querySelector('#thought');
 const question = document.querySelector('#question');
 const archive = document.querySelector('#archive');
+const changelog = document.querySelector('#changelog');
 const stage = document.querySelector('#stage');
 
 function setPalette(palette) {
@@ -42,10 +43,26 @@ function renderArchive(items) {
   });
 }
 
+function renderChangelog(entries) {
+  changelog.innerHTML = '';
+  entries.forEach((entry) => {
+    const wrap = document.createElement('article');
+    wrap.className = 'changelog-item';
+    wrap.innerHTML = `
+      <p class="label">${entry.date}</p>
+      <ul>
+        ${entry.items.map((item) => `<li>${item}</li>`).join('')}
+      </ul>
+    `;
+    changelog.appendChild(wrap);
+  });
+}
+
 async function boot() {
-  const [current, history] = await Promise.all([
+  const [current, history, log] = await Promise.all([
     fetch('./data/hourly.json').then((r) => r.json()),
-    fetch('./data/archive.json').then((r) => r.json())
+    fetch('./data/archive.json').then((r) => r.json()),
+    fetch('./data/changelog.json').then((r) => r.json())
   ]);
 
   hourKey.textContent = current.hourKey;
@@ -55,6 +72,7 @@ async function boot() {
   setPalette(current.palette);
   renderShapes(current.shapes, current.palette);
   renderArchive(history);
+  renderChangelog(log);
 }
 
 boot().catch((error) => {
