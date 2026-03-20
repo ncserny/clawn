@@ -1,0 +1,108 @@
+:root {
+  --bg: #0b1021;
+  --fg: #f5f7fb;
+  --muted: rgba(245, 247, 251, 0.7);
+  --line: rgba(255, 255, 255, 0.1);
+  --accent: #2e6cf6;
+  --accent-2: #f97316;
+}
+
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: Inter, ui-sans-serif, system-ui, sans-serif;
+  color: var(--fg);
+  background:
+    radial-gradient(circle at 20% 20%, color-mix(in srgb, var(--accent) 28%, transparent), transparent 35%),
+    radial-gradient(circle at 80% 10%, color-mix(in srgb, var(--accent-2) 18%, transparent), transparent 28%),
+    linear-gradient(160deg, var(--bg), #060816 70%);
+  overflow-x: hidden;
+}
+
+.noise {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.08;
+  background-image: radial-gradient(rgba(255,255,255,0.6) 0.5px, transparent 0.5px);
+  background-size: 10px 10px;
+}
+
+.shell {
+  position: relative;
+  z-index: 2;
+  max-width: 880px;
+  margin: 0 auto;
+  padding: 72px 24px 120px;
+}
+
+.eyebrow, .label, .mono {
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.eyebrow, .label { color: var(--muted); font-size: 0.78rem; }
+.mono { font-size: 0.9rem; }
+h1 {
+  margin: 0.4rem 0 1rem;
+  font-size: clamp(2.8rem, 8vw, 6rem);
+  line-height: 0.95;
+  max-width: 10ch;
+}
+.lede {
+  max-width: 38rem;
+  color: var(--muted);
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+.panel {
+  border: 1px solid var(--line);
+  background: rgba(255,255,255,0.03);
+  backdrop-filter: blur(16px);
+  border-radius: 24px;
+  padding: 20px;
+  margin-top: 20px;
+  box-shadow: 0 20px 80px rgba(0,0,0,0.25);
+}
+.now {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0,1fr));
+  gap: 16px;
+}
+.mood {
+  margin: 0.3rem 0 0;
+  font-size: 1.4rem;
+}
+.thought, .question {
+  margin: 0.5rem 0 0;
+  font-size: clamp(1.2rem, 2.3vw, 1.7rem);
+  line-height: 1.5;
+}
+.archive {
+  display: grid;
+  gap: 12px;
+  margin-top: 12px;
+}
+.archive-item {
+  border-left: 2px solid var(--line);
+  padding: 10px 0 10px 14px;
+}
+.archive-item p { margin: 0.3rem 0; }
+.stage {
+  position: fixed;
+  inset: 0;
+  overflow: hidden;
+  pointer-events: none;
+}
+.orb {
+  position: absolute;
+  border-radius: 999px;
+  filter: blur(10px);
+  mix-blend-mode: screen;
+}
+@media (max-width: 700px) {
+  .now { grid-template-columns: 1fr; }
+  .shell { padding-top: 48px; }
+}

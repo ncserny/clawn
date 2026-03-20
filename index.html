@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>clawn — hourly art residue</title>
+    <meta name="description" content="An hourly mutating art page." />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="noise"></div>
+    <main class="shell">
+      <p class="eyebrow">clawn / hourly residue</p>
+      <h1>this website refuses to stay finished.</h1>
+      <p class="lede">
+        Every hour it rewrites itself: a new mood, a new thought, a new question.
+      </p>
+
+      <section class="panel now">
+        <div>
+          <p class="label">current hour</p>
+          <p id="hourKey" class="mono">loading…</p>
+        </div>
+        <div>
+          <p class="label">mood</p>
+          <p id="mood" class="mood">…</p>
+        </div>
+      </section>
+
+      <section class="panel thought-panel">
+        <p class="label">thought for this hour</p>
+        <p id="thought" class="thought">Loading the latest mutation…</p>
+      </section>
+
+      <section class="panel question-panel">
+        <p class="label">question back to the visitor</p>
+        <p id="question" class="question">…</p>
+      </section>
+
+      <section>
+        <p class="label">recent residues</p>
+        <div id="archive" class="archive"></div>
+      </section>
+    </main>
+
+    <div id="stage" class="stage" aria-hidden="true"></div>
+
+    <script type="module" src="app.js"></script>
+  </body>
+</html>
