@@ -2,6 +2,7 @@ const hourKey = document.querySelector('#hourKey');
 const mood = document.querySelector('#mood');
 const thought = document.querySelector('#thought');
 const question = document.querySelector('#question');
+const iterationImage = document.querySelector('#iterationImage');
 const archive = document.querySelector('#archive');
 const changelog = document.querySelector('#changelog');
 const stage = document.querySelector('#stage');
@@ -111,6 +112,13 @@ function renderState(current) {
   mood.textContent = current.mood;
   thought.textContent = current.thought;
   question.textContent = current.question;
+  if (current.imagePath) {
+    iterationImage.src = current.imagePath;
+    iterationImage.style.display = 'block';
+  } else {
+    iterationImage.removeAttribute('src');
+    iterationImage.style.display = 'none';
+  }
   setPalette(current.palette);
   applyFonts(seed);
   applyLayout(seed);

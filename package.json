@@ -4,6 +4,6 @@
   "type": "module",
   "scripts": {
     "generate": "node scripts/generate-hourly.mjs",
-    "build": "npm run generate && node scripts/build.mjs"
+    "build": "node scripts/build.mjs"
   }
 }

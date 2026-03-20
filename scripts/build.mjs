@@ -28,5 +28,6 @@ for (const file of ['index.html', 'app.js', 'styles.css']) {
   copyRecursive(path.join(root, file), path.join(dist, file));
 }
 copyRecursive(path.join(root, 'data'), path.join(dist, 'data'));
+if (fs.existsSync(path.join(root, 'assets'))) copyRecursive(path.join(root, 'assets'), path.join(dist, 'assets'));
 
 console.log('Built dist/');

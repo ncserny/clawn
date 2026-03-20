@@ -247,3 +247,20 @@ h1 {
     text-align: left;
   }
 }
+
+.image-panel { grid-column: 6 / span 7; }
+.image-panel .label { margin-bottom: 12px; display: block; }
+.iteration-image {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border-radius: 18px;
+  border: 1px solid rgba(255,255,255,0.12);
+  box-shadow: 0 16px 60px rgba(0,0,0,0.28);
+}
+.thought-panel { grid-column: 1 / span 5; }
+.question-panel { grid-column: 8 / span 5; }
+.archive-panel { grid-column: 1 / span 6; }
+.changelog-panel { grid-column: 7 / span 4; }
+.footer { grid-column: 11 / span 2; text-align: right; }
