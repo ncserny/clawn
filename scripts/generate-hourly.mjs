@@ -4,7 +4,7 @@ import path from 'node:path';
 const outDir = path.resolve('data');
 fs.mkdirSync(outDir, { recursive: true });
 
-const now = new Date();
+const now = process.env.NOW_ISO ? new Date(process.env.NOW_ISO) : new Date();
 const hourKey = now.toISOString().slice(0, 13) + ':00:00Z';
 const epochHour = Math.floor(now.getTime() / 3600000);
 
