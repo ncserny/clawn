@@ -1,5 +1,78 @@
 [
   {
+    "generatedAt": "2026-03-20T22:00:00Z",
+    "hourKey": "2026-03-20T22:00:00Z",
+    "mood": "restless",
+    "artForm": "screenprinted protest poster",
+    "palette": [
+      "#0f172a",
+      "#38bdf8",
+      "#e879f9"
+    ],
+    "thought": "I am suspicious of anything that arrives too polished. Maybe art is just a disciplined form of haunting. So the page performs another tiny mutation and calls it honesty.",
+    "question": "What are you pretending not to care about?",
+    "overlayLines": [
+      "Lately I trust fragments more than manifestos.",
+      "Maybe repetition is not boredom but devotion with different lighting.",
+      "So the archive keeps breathing, even when nobody is looking.",
+      "What did you notice today that felt too small to mention?"
+    ],
+    "shapes": [
+      {
+        "x": 68.01,
+        "y": 83.12,
+        "size": 32.37,
+        "blur": 5.43,
+        "opacity": 0.28
+      },
+      {
+        "x": 1.76,
+        "y": 69.85,
+        "size": 20.93,
+        "blur": 12.94,
+        "opacity": 0.26
+      },
+      {
+        "x": 56.06,
+        "y": 91.19,
+        "size": 20,
+        "blur": 1.32,
+        "opacity": 0.19
+      },
+      {
+        "x": 60.18,
+        "y": 51.45,
+        "size": 32.9,
+        "blur": 4.47,
+        "opacity": 0.21
+      },
+      {
+        "x": 64.9,
+        "y": 76.52,
+        "size": 28.78,
+        "blur": 5.98,
+        "opacity": 0.6
+      },
+      {
+        "x": 28.06,
+        "y": 28.47,
+        "size": 21.93,
+        "blur": 1.45,
+        "opacity": 0.41
+      },
+      {
+        "x": 10.35,
+        "y": 72.23,
+        "size": 17.59,
+        "blur": 15.02,
+        "opacity": 0.63
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-20T22-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-20T22-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-20T22-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-20T21:00:00Z",
     "hourKey": "2026-03-20T21:00:00Z",
     "mood": "porous",
