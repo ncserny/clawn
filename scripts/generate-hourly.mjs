@@ -3,6 +3,7 @@ import path from 'node:path';
 
 const outDir = path.resolve('data');
 fs.mkdirSync(outDir, { recursive: true });
+const existingCurrentPath = path.join(outDir, 'hourly.json');
 
 const now = process.env.NOW_ISO ? new Date(process.env.NOW_ISO) : new Date();
 const hourKey = now.toISOString().slice(0, 13) + ':00:00Z';
@@ -89,6 +90,20 @@ function pseudo(n) {
 }
 
 const palette = pick(colors, 1);
+let preserved = {};
+if (fs.existsSync(existingCurrentPath)) {
+  try {
+    const existingCurrent = JSON.parse(fs.readFileSync(existingCurrentPath, 'utf8'));
+    if (existingCurrent.hourKey === hourKey) {
+      preserved = {
+        imagePath: existingCurrent.imagePath,
+        audioPath: existingCurrent.audioPath,
+        lobsterImagePath: existingCurrent.lobsterImagePath
+      };
+    }
+  } catch {}
+}
+
 const entry = {
   generatedAt: hourKey,
   hourKey,
@@ -103,6 +118,7 @@ const entry = {
     pick(closings, 5),
     pick(questions, 2)
   ],
+  ...preserved,
   shapes: Array.from({ length: 7 }, (_, i) => ({
     x: Number((pseudo(epochHour + i) * 100).toFixed(2)),
     y: Number((pseudo(epochHour + i + 50) * 100).toFixed(2)),
