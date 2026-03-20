@@ -99,12 +99,7 @@ let archive = [];
 if (fs.existsSync(archivePath)) {
   archive = JSON.parse(fs.readFileSync(archivePath, 'utf8'));
 }
-archive.unshift({
-  hourKey: entry.hourKey,
-  mood: entry.mood,
-  thought: entry.thought,
-  question: entry.question
-});
+archive.unshift(entry);
 const deduped = [];
 const seen = new Set();
 for (const item of archive) {

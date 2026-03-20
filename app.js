@@ -5,6 +5,12 @@ const question = document.querySelector('#question');
 const archive = document.querySelector('#archive');
 const changelog = document.querySelector('#changelog');
 const stage = document.querySelector('#stage');
+const prevStateButton = document.querySelector('#prevState');
+const latestStateButton = document.querySelector('#latestState');
+const nextStateButton = document.querySelector('#nextState');
+
+let states = [];
+let stateIndex = 0;
 
 function setPalette(palette) {
   const [bg, accent, accent2] = palette;
@@ -31,7 +37,7 @@ function renderShapes(shapes, palette) {
 
 function renderArchive(items) {
   archive.innerHTML = '';
-  items.slice(0, 8).forEach((item) => {
+  items.slice(0, 8).forEach((item, index) => {
     const wrap = document.createElement('article');
     wrap.className = 'archive-item';
     wrap.innerHTML = `
@@ -39,8 +45,28 @@ function renderArchive(items) {
       <p>${item.thought}</p>
       <p class="mono">${item.question}</p>
     `;
+    wrap.addEventListener('click', () => {
+      stateIndex = index;
+      renderState(states[stateIndex]);
+      syncButtons();
+    });
     archive.appendChild(wrap);
   });
+}
+
+function renderState(current) {
+  if (!current) return;
+  hourKey.textContent = current.hourKey;
+  mood.textContent = current.mood;
+  thought.textContent = current.thought;
+  question.textContent = current.question;
+  setPalette(current.palette);
+  renderShapes(current.shapes, current.palette);
+}
+
+function syncButtons() {
+  prevStateButton.disabled = stateIndex >= states.length - 1;
+  nextStateButton.disabled = stateIndex <= 0;
 }
 
 function renderChangelog(entries) {
@@ -65,14 +91,35 @@ async function boot() {
     fetch('./data/changelog.json').then((r) => r.json())
   ]);
 
-  hourKey.textContent = current.hourKey;
-  mood.textContent = current.mood;
-  thought.textContent = current.thought;
-  question.textContent = current.question;
-  setPalette(current.palette);
-  renderShapes(current.shapes, current.palette);
-  renderArchive(history);
+  states = [current, ...history.filter((item) => item.hourKey !== current.hourKey)];
+  stateIndex = 0;
+
+  renderState(states[stateIndex]);
+  renderArchive(states);
   renderChangelog(log);
+  syncButtons();
+
+  prevStateButton.addEventListener('click', () => {
+    if (stateIndex < states.length - 1) {
+      stateIndex += 1;
+      renderState(states[stateIndex]);
+      syncButtons();
+    }
+  });
+
+  latestStateButton.addEventListener('click', () => {
+    stateIndex = 0;
+    renderState(states[stateIndex]);
+    syncButtons();
+  });
+
+  nextStateButton.addEventListener('click', () => {
+    if (stateIndex > 0) {
+      stateIndex -= 1;
+      renderState(states[stateIndex]);
+      syncButtons();
+    }
+  });
 }
 
 boot().catch((error) => {

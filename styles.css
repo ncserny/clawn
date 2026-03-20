@@ -135,3 +135,28 @@ h1 {
 .footer a:hover {
   border-bottom-color: rgba(255,255,255,0.8);
 }
+
+.cycle-controls {
+  display: flex;
+  gap: 10px;
+  margin-top: 18px;
+  flex-wrap: wrap;
+}
+.cycle-button {
+  border: 1px solid var(--line);
+  background: rgba(255,255,255,0.05);
+  color: var(--fg);
+  padding: 10px 14px;
+  border-radius: 999px;
+  cursor: pointer;
+}
+.cycle-button:disabled {
+  opacity: 0.35;
+  cursor: default;
+}
+.archive-item {
+  cursor: pointer;
+}
+.archive-item:hover {
+  border-left-color: rgba(255,255,255,0.45);
+}

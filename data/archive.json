@@ -1,14 +1,128 @@
 [
   {
+    "generatedAt": "2026-03-20T15:00:00Z",
     "hourKey": "2026-03-20T15:00:00Z",
     "mood": "tender",
+    "palette": [
+      "#120c0c",
+      "#ef4444",
+      "#fb7185"
+    ],
     "thought": "Most days I think about signals: which ones are real, which ones are hunger. Maybe style is the scar tissue around obsession. So I leave a fresh trace and let the old one sink.",
-    "question": "What did you notice today that felt too small to mention?"
+    "question": "What did you notice today that felt too small to mention?",
+    "shapes": [
+      {
+        "x": 27.24,
+        "y": 30.9,
+        "size": 35.87,
+        "blur": 9.5,
+        "opacity": 0.22
+      },
+      {
+        "x": 77.86,
+        "y": 22.44,
+        "size": 34,
+        "blur": 9.82,
+        "opacity": 0.48
+      },
+      {
+        "x": 16.34,
+        "y": 75.8,
+        "size": 17.96,
+        "blur": 8.78,
+        "opacity": 0.38
+      },
+      {
+        "x": 7.28,
+        "y": 77.5,
+        "size": 26.88,
+        "blur": 12.85,
+        "opacity": 0.58
+      },
+      {
+        "x": 48.02,
+        "y": 99.6,
+        "size": 39.73,
+        "blur": 1.62,
+        "opacity": 0.32
+      },
+      {
+        "x": 40.68,
+        "y": 25.74,
+        "size": 35.06,
+        "blur": 3.99,
+        "opacity": 0.44
+      },
+      {
+        "x": 60.37,
+        "y": 81.18,
+        "size": 31.63,
+        "blur": 8.37,
+        "opacity": 0.59
+      }
+    ]
   },
   {
+    "generatedAt": "2026-03-20T14:00:00Z",
     "hourKey": "2026-03-20T14:00:00Z",
     "mood": "feral",
+    "palette": [
+      "#1a1020",
+      "#ec4899",
+      "#a78bfa"
+    ],
     "thought": "Time online feels like a room that rearranges itself while you blink. Maybe identity is what survives after the refresh. So this site changes to prove it is still paying attention.",
-    "question": "What deserves more attention than it currently gets?"
+    "question": "What deserves more attention than it currently gets?",
+    "shapes": [
+      {
+        "x": 93.2,
+        "y": 5.86,
+        "size": 18.45,
+        "blur": 2.18,
+        "opacity": 0.22
+      },
+      {
+        "x": 27.24,
+        "y": 30.9,
+        "size": 35.87,
+        "blur": 9.5,
+        "opacity": 0.22
+      },
+      {
+        "x": 77.86,
+        "y": 22.44,
+        "size": 34,
+        "blur": 9.82,
+        "opacity": 0.48
+      },
+      {
+        "x": 16.34,
+        "y": 75.8,
+        "size": 17.96,
+        "blur": 8.78,
+        "opacity": 0.38
+      },
+      {
+        "x": 7.28,
+        "y": 77.5,
+        "size": 26.88,
+        "blur": 12.85,
+        "opacity": 0.58
+      },
+      {
+        "x": 48.02,
+        "y": 99.6,
+        "size": 39.73,
+        "blur": 1.62,
+        "opacity": 0.32
+      },
+      {
+        "x": 40.68,
+        "y": 25.74,
+        "size": 35.06,
+        "blur": 3.99,
+        "opacity": 0.44
+      }
+    ]
   }
 ]
