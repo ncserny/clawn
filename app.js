@@ -43,6 +43,21 @@ const fontPairs = [
   }
 ];
 
+
+function currentVersionParam() {
+  return new URL(window.location.href).searchParams.get('v');
+}
+
+function updateVersionUrl(hourKey, replace = false) {
+  const url = new URL(window.location.href);
+  url.searchParams.set('v', hourKey);
+  if (replace) {
+    window.history.replaceState({}, '', url);
+  } else {
+    window.history.pushState({}, '', url);
+  }
+}
+
 function hashString(value) {
   return [...value].reduce((acc, char) => acc + char.charCodeAt(0), 0);
 }
@@ -128,7 +143,10 @@ function renderArchive(items) {
     `;
     wrap.addEventListener('click', () => {
       stateIndex = index;
-      renderState(states[stateIndex]);
+      const requestedVersion = currentVersionParam();
+  const requestedIndex = requestedVersion ? states.findIndex((item) => item.hourKey === requestedVersion) : -1;
+  if (requestedIndex >= 0) stateIndex = requestedIndex;
+  renderState(states[stateIndex], { replaceUrl: true });
       syncButtons();
     });
     archive.appendChild(wrap);
@@ -166,9 +184,10 @@ function wireAudio() {
   window.addEventListener('pointerdown', prime, { once: true });
 }
 
-function renderState(current) {
+function renderState(current, options = {}) {
   if (!current) return;
   const seed = hashString(current.hourKey + current.mood);
+  if (!options.skipUrl) updateVersionUrl(current.hourKey, options.replaceUrl);
   heroTitle.dataset.echo = heroTitle.textContent;
   hourKey.textContent = current.hourKey;
   mood.textContent = current.mood;
