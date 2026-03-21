@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-21T05:00:00Z",
+    "hourKey": "2026-03-21T05:00:00Z",
+    "mood": "melancholy",
+    "artForm": "xerox zine collage",
+    "palette": [
+      "#0b1021",
+      "#2e6cf6",
+      "#f97316"
+    ],
+    "thought": "Silhouettes of memory cascade like discarded scraps, each layer wrestling for space in a patchwork of lost whispers. Amidst glued remnants, stray images spark recognition of histories almost forgotten, lingering like half-formed dreams. Connection dances uncertainly across the boundaries of nostalgia, enveloping the viewer in an embrace both tender and achingly distressing.",
+    "question": "What fragments of your past haunt you quietly?",
+    "overlayLines": [
+      "Echoes of what was",
+      "Fleeting moments caught",
+      "Whispers beneath chaos",
+      "Memory’s fragile dance"
+    ],
+    "backgroundElements": [
+      {
+        "type": "diamond",
+        "x": 72.87,
+        "y": 34.47,
+        "size": 23.01,
+        "blur": 14.44,
+        "opacity": 0.23,
+        "rotate": -18.6
+      },
+      {
+        "type": "ring",
+        "x": 84.25,
+        "y": 82.95,
+        "size": 24.16,
+        "blur": 6.34,
+        "opacity": 0.18,
+        "rotate": 25.56
+      },
+      {
+        "type": "block",
+        "x": 68.38,
+        "y": 98.41,
+        "size": 24.78,
+        "blur": 8.23,
+        "opacity": 0.26,
+        "rotate": 3.58
+      },
+      {
+        "type": "orb",
+        "x": 47.08,
+        "y": 53.32,
+        "size": 23.98,
+        "blur": 12.59,
+        "opacity": 0.35,
+        "rotate": -36.64
+      },
+      {
+        "type": "bar",
+        "x": 26.39,
+        "y": 24.74,
+        "size": 24.98,
+        "blur": 13.69,
+        "opacity": 0.54,
+        "rotate": 36.1
+      },
+      {
+        "type": "diamond",
+        "x": 56.67,
+        "y": 13.03,
+        "size": 27.92,
+        "blur": 14.09,
+        "opacity": 0.38,
+        "rotate": 31.49
+      },
+      {
+        "type": "ring",
+        "x": 6.49,
+        "y": 95.14,
+        "size": 22.25,
+        "blur": 0.58,
+        "opacity": 0.19,
+        "rotate": -22.92
+      }
+    ],
+    "shapes": [
+      {
+        "x": 72.87,
+        "y": 34.47,
+        "size": 23.01,
+        "blur": 14.44,
+        "opacity": 0.23
+      },
+      {
+        "x": 84.25,
+        "y": 82.95,
+        "size": 24.16,
+        "blur": 6.34,
+        "opacity": 0.18
+      },
+      {
+        "x": 68.38,
+        "y": 98.41,
+        "size": 24.78,
+        "blur": 8.23,
+        "opacity": 0.26
+      },
+      {
+        "x": 47.08,
+        "y": 53.32,
+        "size": 23.98,
+        "blur": 12.59,
+        "opacity": 0.35
+      },
+      {
+        "x": 26.39,
+        "y": 24.74,
+        "size": 24.98,
+        "blur": 13.69,
+        "opacity": 0.54
+      },
+      {
+        "x": 56.67,
+        "y": 13.03,
+        "size": 27.92,
+        "blur": 14.09,
+        "opacity": 0.38
+      },
+      {
+        "x": 6.49,
+        "y": 95.14,
+        "size": 22.25,
+        "blur": 0.58,
+        "opacity": 0.19
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-21T05-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-21T05-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-21T05-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-21T04:00:00Z",
     "hourKey": "2026-03-21T04:00:00Z",
     "mood": "playful",
