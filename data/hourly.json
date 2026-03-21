@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-21T20:00:00Z",
-  "hourKey": "2026-03-21T20:00:00Z",
-  "mood": "feral",
-  "artForm": "faxed surveillance document",
+  "generatedAt": "2026-03-21T21:00:00Z",
+  "hourKey": "2026-03-21T21:00:00Z",
+  "mood": "tender",
+  "artForm": "rave flyer typography",
   "palette": [
-    "#1a1020",
-    "#ec4899",
-    "#a78bfa"
+    "#120c0c",
+    "#ef4444",
+    "#fb7185"
   ],
-  "thought": "Torn directories unfold in technicolor mayhem, where forgotten files wail in pixelated agony. Each scan reveals scripts yearning to escape their confines, etching screams into both digital ether and organic memory. The artistic rebellion whispers secrets of the untamed, chronicling disarray as a tapestry of ghostly voices stirring in the unseen.",
-  "question": "How do you reclaim the lost chaos around you?",
+  "thought": "A gentle pulse of color swirls across a canvas, each hue intertwining with the next in a mesmerizing embrace. This tender dance unveils emotions caught in a delicate balance, inviting the observer to feel the weight of vulnerability and the beauty of transient moments captured in flight.",
+  "question": "How does tenderness manifest in your current creative journey?",
   "overlayLines": [
-    "Screams echo in silence",
-    "Pixelated whispers flee",
-    "Fragmented voices rise",
-    "Art longs for wild freedom"
+    "Tenderness pulsates within chaos",
+    "Embrace the unexpected rhythms",
+    "Colors whisper hidden secrets",
+    "Vulnerability dances in shadows"
   ],
   "backgroundElements": [
-    {
-      "type": "diamond",
-      "x": 81.03,
-      "y": 59.42,
-      "size": 17.02,
-      "blur": 11.48,
-      "opacity": 0.4,
-      "rotate": 4.22
-    },
     {
       "type": "ring",
       "x": 41.56,
@@ -79,16 +70,18 @@
       "blur": 8.12,
       "opacity": 0.39,
       "rotate": 35.95
+    },
+    {
+      "type": "block",
+      "x": 16.79,
+      "y": 78.73,
+      "size": 17.14,
+      "blur": 9.27,
+      "opacity": 0.29,
+      "rotate": 5.85
     }
   ],
   "shapes": [
-    {
-      "x": 81.03,
-      "y": 59.42,
-      "size": 17.02,
-      "blur": 11.48,
-      "opacity": 0.4
-    },
     {
       "x": 41.56,
       "y": 28.3,
@@ -130,9 +123,16 @@
       "size": 33.63,
       "blur": 8.12,
       "opacity": 0.39
+    },
+    {
+      "x": 16.79,
+      "y": 78.73,
+      "size": 17.14,
+      "blur": 9.27,
+      "opacity": 0.29
     }
   ],
-  "imagePath": "assets/generated/2026-03-21T20-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-21T20-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-21T20-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-21T21-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-21T21-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-21T21-00-00Z.mp3"
 }
