@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-21T21:00:00Z",
-  "hourKey": "2026-03-21T21:00:00Z",
-  "mood": "tender",
-  "artForm": "rave flyer typography",
+  "generatedAt": "2026-03-21T22:00:00Z",
+  "hourKey": "2026-03-21T22:00:00Z",
+  "mood": "clock-drunk",
+  "artForm": "diagrammatic sacred blueprint",
   "palette": [
-    "#120c0c",
-    "#ef4444",
-    "#fb7185"
+    "#0f172a",
+    "#38bdf8",
+    "#e879f9"
   ],
-  "thought": "A gentle pulse of color swirls across a canvas, each hue intertwining with the next in a mesmerizing embrace. This tender dance unveils emotions caught in a delicate balance, inviting the observer to feel the weight of vulnerability and the beauty of transient moments captured in flight.",
-  "question": "How does tenderness manifest in your current creative journey?",
+  "thought": "Awash in a tide of overflowing lines, an enigmatic blueprint takes shape, teetering between chaos and celestial order. These interconnected pathways pulse with a fevered intensity, offering glimpses into a universe where intention is woven into every curve, and each segment hints at an impossible journey yet to be embarked upon.",
+  "question": "What trails of thought connect your scattered ideas?",
   "overlayLines": [
-    "Tenderness pulsates within chaos",
-    "Embrace the unexpected rhythms",
-    "Colors whisper hidden secrets",
-    "Vulnerability dances in shadows"
+    "Lines that weave reality",
+    "Blueprints of hidden realms",
+    "Moments suspended in time",
+    "Chasing what's left unspoken"
   ],
   "backgroundElements": [
-    {
-      "type": "ring",
-      "x": 41.56,
-      "y": 28.3,
-      "size": 17.3,
-      "blur": 9.92,
-      "opacity": 0.42,
-      "rotate": 12.59
-    },
     {
       "type": "block",
       "x": 7.07,
@@ -79,16 +70,18 @@
       "blur": 9.27,
       "opacity": 0.29,
       "rotate": 5.85
+    },
+    {
+      "type": "orb",
+      "x": 49.54,
+      "y": 36.71,
+      "size": 38.53,
+      "blur": 3.36,
+      "opacity": 0.31,
+      "rotate": 21.27
     }
   ],
   "shapes": [
-    {
-      "x": 41.56,
-      "y": 28.3,
-      "size": 17.3,
-      "blur": 9.92,
-      "opacity": 0.42
-    },
     {
       "x": 7.07,
       "y": 12.19,
@@ -130,9 +123,16 @@
       "size": 17.14,
       "blur": 9.27,
       "opacity": 0.29
+    },
+    {
+      "x": 49.54,
+      "y": 36.71,
+      "size": 38.53,
+      "blur": 3.36,
+      "opacity": 0.31
     }
   ],
-  "imagePath": "assets/generated/2026-03-21T21-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-21T21-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-21T21-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-21T22-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-21T22-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-21T22-00-00Z.mp3"
 }
