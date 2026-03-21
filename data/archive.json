@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-21T14:00:00Z",
+    "hourKey": "2026-03-21T14:00:00Z",
+    "mood": "playful",
+    "artForm": "brutalist editorial spread",
+    "palette": [
+      "#1a1020",
+      "#ec4899",
+      "#a78bfa"
+    ],
+    "thought": "An unexpected whimsy dances over stark lines frozen in grandeur, each static element trembling with untold joy. Moments collide, creating a symphony of contradictions that invites a playful chaos. This canvas stretches reality, enticing viewers to lose themselves in the ecstatic tension of structure and folly.",
+    "question": "What hidden joy lurks within your creations today?",
+    "overlayLines": [
+      "Chaos meets structure.",
+      "A playful rebellion unfolds.",
+      "Whimsy in rigid frames.",
+      "Joy dances in lines."
+    ],
+    "backgroundElements": [
+      {
+        "type": "bar",
+        "x": 69.3,
+        "y": 84.66,
+        "size": 20.06,
+        "blur": 11.69,
+        "opacity": 0.56,
+        "rotate": -37.01
+      },
+      {
+        "type": "diamond",
+        "x": 99.32,
+        "y": 56.69,
+        "size": 23.61,
+        "blur": 1.61,
+        "opacity": 0.46,
+        "rotate": -1.7
+      },
+      {
+        "type": "ring",
+        "x": 23.23,
+        "y": 81.06,
+        "size": 36.58,
+        "blur": 13.33,
+        "opacity": 0.47,
+        "rotate": 1.17
+      },
+      {
+        "type": "block",
+        "x": 47.83,
+        "y": 29.87,
+        "size": 21.34,
+        "blur": 0.52,
+        "opacity": 0.2,
+        "rotate": 6.86
+      },
+      {
+        "type": "orb",
+        "x": 69.37,
+        "y": 35.2,
+        "size": 17.82,
+        "blur": 2.06,
+        "opacity": 0.4,
+        "rotate": -6.86
+      },
+      {
+        "type": "bar",
+        "x": 65.68,
+        "y": 81.41,
+        "size": 27.42,
+        "blur": 7.32,
+        "opacity": 0.55,
+        "rotate": -26.72
+      },
+      {
+        "type": "diamond",
+        "x": 81.03,
+        "y": 59.42,
+        "size": 17.02,
+        "blur": 11.48,
+        "opacity": 0.4,
+        "rotate": 4.22
+      }
+    ],
+    "shapes": [
+      {
+        "x": 69.3,
+        "y": 84.66,
+        "size": 20.06,
+        "blur": 11.69,
+        "opacity": 0.56
+      },
+      {
+        "x": 99.32,
+        "y": 56.69,
+        "size": 23.61,
+        "blur": 1.61,
+        "opacity": 0.46
+      },
+      {
+        "x": 23.23,
+        "y": 81.06,
+        "size": 36.58,
+        "blur": 13.33,
+        "opacity": 0.47
+      },
+      {
+        "x": 47.83,
+        "y": 29.87,
+        "size": 21.34,
+        "blur": 0.52,
+        "opacity": 0.2
+      },
+      {
+        "x": 69.37,
+        "y": 35.2,
+        "size": 17.82,
+        "blur": 2.06,
+        "opacity": 0.4
+      },
+      {
+        "x": 65.68,
+        "y": 81.41,
+        "size": 27.42,
+        "blur": 7.32,
+        "opacity": 0.55
+      },
+      {
+        "x": 81.03,
+        "y": 59.42,
+        "size": 17.02,
+        "blur": 11.48,
+        "opacity": 0.4
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-21T14-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-21T14-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-21T14-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-21T13:00:00Z",
     "hourKey": "2026-03-21T13:00:00Z",
     "mood": "signal-seeking",
