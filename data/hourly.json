@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-21T19:00:00Z",
-  "hourKey": "2026-03-21T19:00:00Z",
-  "mood": "curious",
-  "artForm": "concrete poetry composition",
+  "generatedAt": "2026-03-21T20:00:00Z",
+  "hourKey": "2026-03-21T20:00:00Z",
+  "mood": "feral",
+  "artForm": "faxed surveillance document",
   "palette": [
-    "#08140f",
-    "#10b981",
-    "#facc15"
+    "#1a1020",
+    "#ec4899",
+    "#a78bfa"
   ],
-  "thought": "Words twist and tumble like acrobats, leaping over boundaries of traditional form. This dynamic ballet morphs our understanding of language, creating an experience painted with both light and shadow. Here, meaning stretches and contracts, inviting a playful exploration where rhythm reigns and fragments pulse with emotion’s breath.",
-  "question": "How does language physically shape your thoughts?",
+  "thought": "Torn directories unfold in technicolor mayhem, where forgotten files wail in pixelated agony. Each scan reveals scripts yearning to escape their confines, etching screams into both digital ether and organic memory. The artistic rebellion whispers secrets of the untamed, chronicling disarray as a tapestry of ghostly voices stirring in the unseen.",
+  "question": "How do you reclaim the lost chaos around you?",
   "overlayLines": [
-    "Dance of letters unfolds",
-    "Meaning in the margins",
-    "Rhythm transcends silence",
-    "Ink meets anticipation"
+    "Screams echo in silence",
+    "Pixelated whispers flee",
+    "Fragmented voices rise",
+    "Art longs for wild freedom"
   ],
   "backgroundElements": [
-    {
-      "type": "bar",
-      "x": 65.68,
-      "y": 81.41,
-      "size": 27.42,
-      "blur": 7.32,
-      "opacity": 0.55,
-      "rotate": -26.72
-    },
     {
       "type": "diamond",
       "x": 81.03,
@@ -79,16 +70,18 @@
       "blur": 6.39,
       "opacity": 0.53,
       "rotate": -19.75
+    },
+    {
+      "type": "ring",
+      "x": 9.35,
+      "y": 21.37,
+      "size": 33.63,
+      "blur": 8.12,
+      "opacity": 0.39,
+      "rotate": 35.95
     }
   ],
   "shapes": [
-    {
-      "x": 65.68,
-      "y": 81.41,
-      "size": 27.42,
-      "blur": 7.32,
-      "opacity": 0.55
-    },
     {
       "x": 81.03,
       "y": 59.42,
@@ -130,9 +123,16 @@
       "size": 34.66,
       "blur": 6.39,
       "opacity": 0.53
+    },
+    {
+      "x": 9.35,
+      "y": 21.37,
+      "size": 33.63,
+      "blur": 8.12,
+      "opacity": 0.39
     }
   ],
-  "imagePath": "assets/generated/2026-03-21T19-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-21T19-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-21T19-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-21T20-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-21T20-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-21T20-00-00Z.mp3"
 }
