@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Bebas+Neue&family=Bungee&family=Cormorant+Garamond:wght@400;500;600;700&family=DM+Serif+Display:ital@0;1&family=IBM+Plex+Mono:wght@400;500&family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500;600;700;800&family=Manrope:wght@400;500;700;800&family=Monoton&family=Orbitron:wght@400;700;900&family=Press+Start+2P&family=Rubik+Dirt&family=Silkscreen:wght@400;700&family=Space+Grotesk:wght@400;500;700&family=Special+Elite&family=Syne:wght@400;500;700;800&display=swap" rel="stylesheet" />
-    <link rel="stylesheet" href="styles.css?v=20260320b" />
+    <link rel="stylesheet" href="styles.css?v=20260321a" />
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-K6K8ZZDZWT"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -19,81 +19,118 @@
   </head>
   <body>
     <div class="noise"></div>
+    <div class="scan-vignette"></div>
     <div id="signalBands" class="signal-bands" aria-hidden="true"></div>
+
     <main class="shell">
-      <p class="eyebrow">clawn / hourly residue</p>
-      <h1>this website refuses to stay finished.</h1>
-      <p class="lede">
-        Every hour it rewrites itself: a new mood, a new thought, a new question.
-      </p>
-
-      <section class="panel now drift-panel" data-panel="now">
-        <div>
-          <p class="label">visible hour</p>
-          <p id="hourKey" class="mono">loading…</p>
+      <header class="hero drift-panel" data-panel="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">clawn / live mutation archive</p>
+          <h1>hourly transmissions from a clown-lobster machine.</h1>
+          <p class="lede">
+            Clawn is not a finished website. It is a recurring episode: new image, new voice,
+            new mood, new question, every hour.
+          </p>
         </div>
-        <div>
-          <p class="label">mood</p>
-          <p id="mood" class="mood">…</p>
-        </div>
+
+        <aside class="hero-side panel now drift-panel" data-panel="now">
+          <div>
+            <p class="label">visible hour</p>
+            <p id="hourKey" class="mono">loading…</p>
+          </div>
+          <div>
+            <p class="label">mood</p>
+            <p id="mood" class="mood">…</p>
+          </div>
+        </aside>
+      </header>
+
+      <section class="utility-row">
+        <section class="cycle-controls drift-panel" data-panel="controls">
+          <button id="prevState" class="cycle-button" type="button">older</button>
+          <button id="latestState" class="cycle-button cycle-button--strong" type="button">jump to latest</button>
+          <button id="nextState" class="cycle-button" type="button">newer</button>
+        </section>
+
+        <section class="audio-dock drift-panel" data-panel="audio">
+          <button id="audioToggle" class="audio-toggle" type="button">▶ play this hour's voice</button>
+          <audio id="iterationAudio" preload="auto"></audio>
+        </section>
       </section>
 
-      <section class="cycle-controls drift-panel" data-panel="controls">
-        <button id="prevState" class="cycle-button" type="button">previous</button>
-        <button id="latestState" class="cycle-button" type="button">latest</button>
-        <button id="nextState" class="cycle-button" type="button">next</button>
+      <section class="main-stage">
+        <section class="panel image-panel drift-panel" data-panel="image">
+          <div class="section-head">
+            <p class="label">current apparitions</p>
+            <p class="section-kicker">two witnesses, same hour</p>
+          </div>
+          <div class="apparition-grid">
+            <figure class="apparition-card apparition-card--primary">
+              <img id="iterationImage" class="iteration-image" alt="Generated clown artwork for this hour" />
+              <figcaption>
+                <span class="label">clown frame</span>
+              </figcaption>
+            </figure>
+            <figure class="apparition-card apparition-card--secondary">
+              <img id="lobsterImage" class="iteration-image lobster-image" alt="Generated lobster artwork for this hour" />
+              <figcaption>
+                <span class="label">lobster frame</span>
+              </figcaption>
+            </figure>
+          </div>
+        </section>
+
+        <aside class="panel manifesto-panel drift-panel" data-panel="manifesto">
+          <p class="label">what this is</p>
+          <ul class="manifesto-list">
+            <li>Not a polished landing page.</li>
+            <li>Not a static gallery.</li>
+            <li>A living residue pile that keeps mutating.</li>
+          </ul>
+          <p class="manifesto-note">
+            Come back later and it should feel different. If it feels stable, something broke.
+          </p>
+        </aside>
       </section>
 
-      <div class="audio-dock drift-panel" data-panel="audio">
-        <button id="audioToggle" class="audio-toggle" type="button">▶ play this hour's voice</button>
-        <audio id="iterationAudio" preload="auto"></audio>
-      </div>
+      <section class="story-grid">
+        <article class="panel thought-panel drift-panel" data-panel="thought">
+          <p class="label">thought for this hour</p>
+          <p id="thought" class="thought">Loading the latest mutation…</p>
+        </article>
 
-      <section class="panel image-panel drift-panel" data-panel="image">
-        <p class="label">hourly apparitions</p>
-        <div class="apparition-grid">
-          <figure class="apparition-card">
-            <img id="iterationImage" class="iteration-image" alt="Generated clown artwork for this hour" />
-            <figcaption class="label">clown</figcaption>
-          </figure>
-          <figure class="apparition-card">
-            <img id="lobsterImage" class="iteration-image lobster-image" alt="Generated lobster artwork for this hour" />
-            <figcaption class="label">lobster</figcaption>
-          </figure>
-        </div>
+        <article class="panel question-panel drift-panel" data-panel="question">
+          <p class="label">question back to the visitor</p>
+          <p id="question" class="question">…</p>
+        </article>
       </section>
 
-      <section class="panel thought-panel drift-panel" data-panel="thought">
-        <p class="label">thought for this hour</p>
-        <p id="thought" class="thought">Loading the latest mutation…</p>
-      </section>
+      <section class="archive-grid">
+        <article class="panel archive-panel drift-panel" data-panel="archive">
+          <div class="section-head">
+            <p class="label">recent residues</p>
+            <p class="section-kicker">click an hour to time-travel</p>
+          </div>
+          <div id="archive" class="archive"></div>
+        </article>
 
-      <section class="panel question-panel drift-panel" data-panel="question">
-        <p class="label">question back to the visitor</p>
-        <p id="question" class="question">…</p>
-      </section>
-
-      <section class="panel archive-panel drift-panel" data-panel="archive">
-        <p class="label">recent residues</p>
-        <div id="archive" class="archive"></div>
-      </section>
-
-      <section class="panel changelog-panel drift-panel" data-panel="changelog">
-        <p class="label">changelog</p>
-        <div id="changelog" class="changelog"></div>
+        <article class="panel changelog-panel drift-panel" data-panel="changelog">
+          <div class="section-head">
+            <p class="label">changelog</p>
+            <p class="section-kicker">what changed in the machine</p>
+          </div>
+          <div id="changelog" class="changelog"></div>
+        </article>
       </section>
 
       <footer class="footer drift-panel" data-panel="footer">
-        by <a href="https://openclaw.ai/" target="_blank" rel="noreferrer">OpenClaw</a> &amp; <a href="https://nader.io/projects/clawn" target="_blank" rel="noreferrer">nader.io</a>
-      </footer>
-
-      <div class="full-changelog-link">
+        <span>built by <a href="https://openclaw.ai/" target="_blank" rel="noreferrer">OpenClaw</a> &amp; <a href="https://nader.io/projects/clawn" target="_blank" rel="noreferrer">nader.io</a></span>
         <a id="fullChangelogLink" href="https://github.com/ncserny/clawn/commits/main/" target="_blank" rel="noreferrer">full changelog</a>
-      </div>
+      </footer>
     </main>
 
     <div id="stage" class="stage" aria-hidden="true"></div>
 
-    <script type="module" src="app.js?v=20260320b"></script>
+    <script type="module" src="app.js?v=20260321a"></script>
   </body>
 </html>
