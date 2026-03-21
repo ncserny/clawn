@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-21T01:00:00Z",
-  "hourKey": "2026-03-21T01:00:00Z",
-  "mood": "tender",
-  "artForm": "rave flyer typography",
+  "generatedAt": "2026-03-21T02:00:00Z",
+  "hourKey": "2026-03-21T02:00:00Z",
+  "mood": "clock-drunk",
+  "artForm": "diagrammatic sacred blueprint",
   "palette": [
-    "#08140f",
-    "#10b981",
-    "#facc15"
+    "#1a1020",
+    "#ec4899",
+    "#a78bfa"
   ],
-  "thought": "Within vivid layers of chaos, kindness hides like confetti beneath a smooth veneer. Each letter is a heartbeat, pulsing joy and vulnerability simultaneously. Here, specters of intimacy emerge, inviting connections that swirl and shimmer amidst electric shadows. Let the playful vibrations illuminate the tender edges of our common pulse.",
-  "question": "How do fleeting moments create lasting connections?",
+  "thought": "An architecture of thoughts unfolds, radiant and unpredictable. Each concept spins on its axis, tracing spirals of energy that interlace with ethereal whispers. Yesterday's certainties dissolve into mist, revealing a blueprint for the cosmos, crafted by hands unseen but deeply felt. Here, the alchemy of connection thrives amidst dizzying patterns.",
+  "question": "What hidden layers lie beneath your surface today?",
   "overlayLines": [
-    "Feel the rhythm within chaos",
-    "Whispers hidden in colors",
-    "Tender gestures ignite joy",
-    "Can connection be captured?"
+    "Shapes in shifting shadows",
+    "Convergence of dreams",
+    "Lines that pulse with life",
+    "Mapping the unseen realms"
   ],
   "backgroundElements": [
-    {
-      "type": "ring",
-      "x": 60.18,
-      "y": 51.45,
-      "size": 32.9,
-      "blur": 4.47,
-      "opacity": 0.21,
-      "rotate": 35.12
-    },
     {
       "type": "block",
       "x": 64.9,
@@ -79,16 +70,18 @@
       "blur": 8.23,
       "opacity": 0.26,
       "rotate": 3.58
+    },
+    {
+      "type": "orb",
+      "x": 47.08,
+      "y": 53.32,
+      "size": 23.98,
+      "blur": 12.59,
+      "opacity": 0.35,
+      "rotate": -36.64
     }
   ],
   "shapes": [
-    {
-      "x": 60.18,
-      "y": 51.45,
-      "size": 32.9,
-      "blur": 4.47,
-      "opacity": 0.21
-    },
     {
       "x": 64.9,
       "y": 76.52,
@@ -130,9 +123,16 @@
       "size": 24.78,
       "blur": 8.23,
       "opacity": 0.26
+    },
+    {
+      "x": 47.08,
+      "y": 53.32,
+      "size": 23.98,
+      "blur": 12.59,
+      "opacity": 0.35
     }
   ],
-  "imagePath": "assets/generated/2026-03-21T01-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-21T01-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-21T01-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-21T02-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-21T02-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-21T02-00-00Z.mp3"
 }
