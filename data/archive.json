@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-21T09:00:00Z",
+    "hourKey": "2026-03-21T09:00:00Z",
+    "mood": "curious",
+    "artForm": "concrete poetry composition",
+    "palette": [
+      "#120c0c",
+      "#ef4444",
+      "#fb7185"
+    ],
+    "thought": "An amalgam of thoughts bursts forth, each word a surreal brushstroke in a gallery of the mind. Concepts intertwine like vines, demanding attention as they twist through definition's rigid framework. Within this blossoming chaos, clarity flickers, revealing hidden intentions often lost in the static of everyday noise.",
+    "question": "What thoughts seem to swirl, demanding your gaze?",
+    "overlayLines": [
+      "Whispers of forgotten ideas",
+      "Curiosity sparks restless creation",
+      "Lines converge in unexpected ways",
+      "Art longs for liberation"
+    ],
+    "backgroundElements": [
+      {
+        "type": "bar",
+        "x": 26.39,
+        "y": 24.74,
+        "size": 24.98,
+        "blur": 13.69,
+        "opacity": 0.54,
+        "rotate": 36.1
+      },
+      {
+        "type": "diamond",
+        "x": 56.67,
+        "y": 13.03,
+        "size": 27.92,
+        "blur": 14.09,
+        "opacity": 0.38,
+        "rotate": 31.49
+      },
+      {
+        "type": "ring",
+        "x": 6.49,
+        "y": 95.14,
+        "size": 22.25,
+        "blur": 0.58,
+        "opacity": 0.19,
+        "rotate": -22.92
+      },
+      {
+        "type": "block",
+        "x": 96.87,
+        "y": 70.21,
+        "size": 19.59,
+        "blur": 0.94,
+        "opacity": 0.54,
+        "rotate": 21.57
+      },
+      {
+        "type": "orb",
+        "x": 33.31,
+        "y": 67.94,
+        "size": 28.53,
+        "blur": 13.37,
+        "opacity": 0.47,
+        "rotate": 21.16
+      },
+      {
+        "type": "bar",
+        "x": 69.3,
+        "y": 84.66,
+        "size": 20.06,
+        "blur": 11.69,
+        "opacity": 0.56,
+        "rotate": -37.01
+      },
+      {
+        "type": "diamond",
+        "x": 99.32,
+        "y": 56.69,
+        "size": 23.61,
+        "blur": 1.61,
+        "opacity": 0.46,
+        "rotate": -1.7
+      }
+    ],
+    "shapes": [
+      {
+        "x": 26.39,
+        "y": 24.74,
+        "size": 24.98,
+        "blur": 13.69,
+        "opacity": 0.54
+      },
+      {
+        "x": 56.67,
+        "y": 13.03,
+        "size": 27.92,
+        "blur": 14.09,
+        "opacity": 0.38
+      },
+      {
+        "x": 6.49,
+        "y": 95.14,
+        "size": 22.25,
+        "blur": 0.58,
+        "opacity": 0.19
+      },
+      {
+        "x": 96.87,
+        "y": 70.21,
+        "size": 19.59,
+        "blur": 0.94,
+        "opacity": 0.54
+      },
+      {
+        "x": 33.31,
+        "y": 67.94,
+        "size": 28.53,
+        "blur": 13.37,
+        "opacity": 0.47
+      },
+      {
+        "x": 69.3,
+        "y": 84.66,
+        "size": 20.06,
+        "blur": 11.69,
+        "opacity": 0.56
+      },
+      {
+        "x": 99.32,
+        "y": 56.69,
+        "size": 23.61,
+        "blur": 1.61,
+        "opacity": 0.46
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-21T09-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-21T09-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-21T09-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-21T08:00:00Z",
     "hourKey": "2026-03-21T08:00:00Z",
     "mood": "restless",
