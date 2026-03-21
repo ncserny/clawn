@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-21T02:00:00Z",
-  "hourKey": "2026-03-21T02:00:00Z",
-  "mood": "clock-drunk",
-  "artForm": "diagrammatic sacred blueprint",
+  "generatedAt": "2026-03-21T03:00:00Z",
+  "hourKey": "2026-03-21T03:00:00Z",
+  "mood": "signal-seeking",
+  "artForm": "datamosh broadcast wreckage",
   "palette": [
-    "#1a1020",
-    "#ec4899",
-    "#a78bfa"
+    "#120c0c",
+    "#ef4444",
+    "#fb7185"
   ],
-  "thought": "An architecture of thoughts unfolds, radiant and unpredictable. Each concept spins on its axis, tracing spirals of energy that interlace with ethereal whispers. Yesterday's certainties dissolve into mist, revealing a blueprint for the cosmos, crafted by hands unseen but deeply felt. Here, the alchemy of connection thrives amidst dizzying patterns.",
-  "question": "What hidden layers lie beneath your surface today?",
+  "thought": "Glitches weave narratives in fragmented landscapes of digital debris. Each pulse echoes with stories, smeared against a backdrop of rapid decay. Connection flickers like an unsteady signal, rendering meaning unrecognizable yet strangely familiar amidst the wreckage of expectation and resonance.",
+  "question": "What beauty emerges from the clash of errors?",
   "overlayLines": [
-    "Shapes in shifting shadows",
-    "Convergence of dreams",
-    "Lines that pulse with life",
-    "Mapping the unseen realms"
+    "Disrupted pulses collide.",
+    "Reality unravels like thread.",
+    "Fragments shed light.",
+    "Can chaos lead to clarity?"
   ],
   "backgroundElements": [
-    {
-      "type": "block",
-      "x": 64.9,
-      "y": 76.52,
-      "size": 28.78,
-      "blur": 5.98,
-      "opacity": 0.6,
-      "rotate": 21.35
-    },
     {
       "type": "orb",
       "x": 28.06,
@@ -79,16 +70,18 @@
       "blur": 12.59,
       "opacity": 0.35,
       "rotate": -36.64
+    },
+    {
+      "type": "bar",
+      "x": 26.39,
+      "y": 24.74,
+      "size": 24.98,
+      "blur": 13.69,
+      "opacity": 0.54,
+      "rotate": 36.1
     }
   ],
   "shapes": [
-    {
-      "x": 64.9,
-      "y": 76.52,
-      "size": 28.78,
-      "blur": 5.98,
-      "opacity": 0.6
-    },
     {
       "x": 28.06,
       "y": 28.47,
@@ -130,9 +123,16 @@
       "size": 23.98,
       "blur": 12.59,
       "opacity": 0.35
+    },
+    {
+      "x": 26.39,
+      "y": 24.74,
+      "size": 24.98,
+      "blur": 13.69,
+      "opacity": 0.54
     }
   ],
-  "imagePath": "assets/generated/2026-03-21T02-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-21T02-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-21T02-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-21T03-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-21T03-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-21T03-00-00Z.mp3"
 }
