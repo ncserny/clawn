@@ -1,25 +1,86 @@
 import fs from 'node:fs';
 import path from 'node:path';
 
+function resolveOpenAIKey() {
+  if (process.env.OPENAI_API_KEY) return process.env.OPENAI_API_KEY;
+  try {
+    const cfg = JSON.parse(fs.readFileSync('/home/nader/.openclaw/openclaw.json', 'utf8'));
+    return cfg?.skills?.entries?.['openai-image-gen']?.apiKey || null;
+  } catch {
+    return null;
+  }
+}
+
+async function generateTexts({ mood, artForm, archive }) {
+  const key = resolveOpenAIKey();
+  if (!key) return null;
+
+  const recent = archive.slice(0, 16).map((item) => ({
+    thought: item.thought,
+    question: item.question,
+  }));
+
+  const prompt = [
+    'You are writing text for an autonomous art website that mutates every hour.',
+    `Current mood: ${mood}`,
+    `Current art form influence: ${artForm}`,
+    'Return strict JSON with keys: thought, question, overlayLines.',
+    'thought: one original paragraph, 25-60 words, vivid and surprising.',
+    'question: one original question, 8-20 words.',
+    'overlayLines: array of exactly 4 short textual fragments, 2-8 words each.',
+    'Avoid repeating or paraphrasing the recent archive too closely.',
+    'Do not use cliches, therapy-speak, startup language, or marketing tone.',
+    'Do not use em dashes.',
+    `Recent archive to avoid repeating: ${JSON.stringify(recent)}`,
+  ].join('\n');
+
+  const res = await fetch('https://api.openai.com/v1/chat/completions', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      Authorization: `Bearer ${key}`,
+    },
+    body: JSON.stringify({
+      model: 'gpt-4o-mini',
+      temperature: 1.1,
+      response_format: { type: 'json_object' },
+      messages: [
+        { role: 'system', content: 'Write sharp, artful, non-repetitive text. Output JSON only.' },
+        { role: 'user', content: prompt },
+      ],
+    }),
+  });
+
+  if (!res.ok) return null;
+  const data = await res.json();
+  const content = data?.choices?.[0]?.message?.content;
+  if (!content) return null;
+
+  try {
+    const parsed = JSON.parse(content);
+    if (!parsed?.thought || !parsed?.question || !Array.isArray(parsed?.overlayLines)) return null;
+    return {
+      thought: String(parsed.thought).trim(),
+      question: String(parsed.question).trim(),
+      overlayLines: parsed.overlayLines.slice(0, 4).map((x) => String(x).trim()),
+    };
+  } catch {
+    return null;
+  }
+}
+
 const outDir = path.resolve('data');
 fs.mkdirSync(outDir, { recursive: true });
 const existingCurrentPath = path.join(outDir, 'hourly.json');
+const archivePath = path.join(outDir, 'archive.json');
 
 const now = process.env.NOW_ISO ? new Date(process.env.NOW_ISO) : new Date();
 const hourKey = now.toISOString().slice(0, 13) + ':00:00Z';
 const epochHour = Math.floor(now.getTime() / 3600000);
 
 const moods = [
-  'restless',
-  'curious',
-  'feral',
-  'tender',
-  'clock-drunk',
-  'signal-seeking',
-  'playful',
-  'melancholy',
-  'focused',
-  'porous'
+  'restless', 'curious', 'feral', 'tender', 'clock-drunk',
+  'signal-seeking', 'playful', 'melancholy', 'focused', 'porous'
 ];
 
 const colors = [
@@ -80,18 +141,27 @@ const questions = [
   'What deserves more attention than it currently gets?'
 ];
 
+const elementTypes = ['orb', 'bar', 'diamond', 'ring', 'block'];
+
 function pick(arr, offset = 0) {
   return arr[(epochHour + offset) % arr.length];
 }
-
-const elementTypes = ['orb', 'bar', 'diamond', 'ring', 'block'];
 
 function pseudo(n) {
   const x = Math.sin(n * 9999.91) * 10000;
   return x - Math.floor(x);
 }
 
+let archive = [];
+if (fs.existsSync(archivePath)) {
+  archive = JSON.parse(fs.readFileSync(archivePath, 'utf8'));
+}
+
+const mood = pick(moods);
+const artForm = pick(artForms, 5);
+const generatedText = await generateTexts({ mood, artForm, archive });
 const palette = pick(colors, 1);
+
 let preserved = {};
 if (fs.existsSync(existingCurrentPath)) {
   try {
@@ -100,7 +170,7 @@ if (fs.existsSync(existingCurrentPath)) {
       preserved = {
         imagePath: existingCurrent.imagePath,
         audioPath: existingCurrent.audioPath,
-        lobsterImagePath: existingCurrent.lobsterImagePath
+        lobsterImagePath: existingCurrent.lobsterImagePath,
       };
     }
   } catch {}
@@ -109,16 +179,16 @@ if (fs.existsSync(existingCurrentPath)) {
 const entry = {
   generatedAt: hourKey,
   hourKey,
-  mood: pick(moods),
-  artForm: pick(artForms, 5),
+  mood,
+  artForm,
   palette,
-  thought: `${pick(openings)} ${pick(middles, 2)} ${pick(closings, 4)}`,
-  question: pick(questions, 3),
-  overlayLines: [
+  thought: generatedText?.thought || `${pick(openings)} ${pick(middles, 2)} ${pick(closings, 4)}`,
+  question: generatedText?.question || pick(questions, 3),
+  overlayLines: generatedText?.overlayLines || [
     pick(openings, 1),
     pick(middles, 3),
     pick(closings, 5),
-    pick(questions, 2)
+    pick(questions, 2),
   ],
   ...preserved,
   backgroundElements: Array.from({ length: 7 }, (_, i) => ({
@@ -128,24 +198,19 @@ const entry = {
     size: Number((12 + pseudo(epochHour + i + 100) * 28).toFixed(2)),
     blur: Number((pseudo(epochHour + i + 150) * 16).toFixed(2)),
     opacity: Number((0.18 + pseudo(epochHour + i + 200) * 0.45).toFixed(2)),
-    rotate: Number((((pseudo(epochHour + i + 250) * 80) - 40)).toFixed(2))
+    rotate: Number((((pseudo(epochHour + i + 250) * 80) - 40)).toFixed(2)),
   })),
   shapes: Array.from({ length: 7 }, (_, i) => ({
     x: Number((pseudo(epochHour + i) * 100).toFixed(2)),
     y: Number((pseudo(epochHour + i + 50) * 100).toFixed(2)),
     size: Number((12 + pseudo(epochHour + i + 100) * 28).toFixed(2)),
     blur: Number((pseudo(epochHour + i + 150) * 16).toFixed(2)),
-    opacity: Number((0.18 + pseudo(epochHour + i + 200) * 0.45).toFixed(2))
-  }))
+    opacity: Number((0.18 + pseudo(epochHour + i + 200) * 0.45).toFixed(2)),
+  })),
 };
 
 fs.writeFileSync(path.join(outDir, 'hourly.json'), JSON.stringify(entry, null, 2) + '\n');
 
-const archivePath = path.join(outDir, 'archive.json');
-let archive = [];
-if (fs.existsSync(archivePath)) {
-  archive = JSON.parse(fs.readFileSync(archivePath, 'utf8'));
-}
 archive.unshift(entry);
 const deduped = [];
 const seen = new Set();

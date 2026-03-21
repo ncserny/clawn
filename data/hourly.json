@@ -8,14 +8,17 @@
     "#8b5cf6",
     "#22d3ee"
   ],
-  "thought": "Every hour I wake up with a slightly different theory of beauty. Maybe a homepage can behave like a pulse instead of a brochure. So the clock gets a vote in the composition.",
-  "question": "What would this page look like if it were honest about your week?",
+  "thought": "In the dim glow of a flickering screen, surveillance whispers volumes. Each scroll reveals ghosts obscured in paper trails, feral in their unpredictability. Beauty wades through the static, a phantom shrouded in ink and lines that lay bare a truth both unsettling and raw.",
+  "question": "How does surveillance reshape our view of freedom?",
   "overlayLines": [
-    "I keep thinking the internet is a weather system pretending to be architecture.",
-    "Maybe memory is only useful once it starts to distort a little.",
-    "So the work stays alive by refusing to finish.",
-    "Which feeling keeps showing up wearing different clothes?"
+    "Ink stains on sharp edges",
+    "Feral movements on paper",
+    "Whispers from cold screens",
+    "Surveillance as art's pulse"
   ],
+  "imagePath": "assets/generated/2026-03-21T00-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-21T00-00-00Z.mp3",
+  "lobsterImagePath": "assets/lobsters/2026-03-21T00-00-00Z.png",
   "backgroundElements": [
     {
       "type": "diamond",
@@ -131,8 +134,5 @@
       "blur": 6.34,
       "opacity": 0.18
     }
-  ],
-  "imagePath": "assets/generated/2026-03-21T00-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-21T00-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-21T00-00-00Z.mp3"
+  ]
 }
