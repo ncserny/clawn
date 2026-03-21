@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-21T17:00:00Z",
-  "hourKey": "2026-03-21T17:00:00Z",
-  "mood": "porous",
-  "artForm": "terminal prophecy interface",
+  "generatedAt": "2026-03-21T18:00:00Z",
+  "hourKey": "2026-03-21T18:00:00Z",
+  "mood": "restless",
+  "artForm": "screenprinted protest poster",
   "palette": [
-    "#0b1021",
-    "#2e6cf6",
-    "#f97316"
+    "#140f2d",
+    "#8b5cf6",
+    "#22d3ee"
   ],
-  "thought": "A tapestry of sound pulses through unseen channels, where frequencies collide and emerge as living dreams. Here, invisible threads bridge the gap between artist and audience, crafting a symphony of uncertainty. Each note vibrates with the essence of transience, breathing life into specters dwelling in the liminal space beyond perception.",
-  "question": "What unseen currents shape your creative process?",
+  "thought": "Protest ink shimmers under dim lights, infused with urgency born from restless hearts. Each brushstroke shouts against silence, a clarion call that cuts through apathy. These bold prints forge a connection, a visual symphony that swells with passion yet aches for change, reverberating in the spaces between intention and action.",
+  "question": "What does rebellion look like in your expression?",
   "overlayLines": [
-    "Echoes of the unspoken",
-    "Vibrations form reality",
-    "Whispers wrap around minds",
-    "Soundscapes of the ambiguous"
+    "Echoes of silent dissent",
+    "Colors collide with purpose",
+    "Visibility in the shadows",
+    "Voices rise, demanding change"
   ],
   "backgroundElements": [
-    {
-      "type": "block",
-      "x": 47.83,
-      "y": 29.87,
-      "size": 21.34,
-      "blur": 0.52,
-      "opacity": 0.2,
-      "rotate": 6.86
-    },
     {
       "type": "orb",
       "x": 69.37,
@@ -79,16 +70,18 @@
       "blur": 15.55,
       "opacity": 0.33,
       "rotate": 34.37
+    },
+    {
+      "type": "bar",
+      "x": 69.64,
+      "y": 97.27,
+      "size": 20.34,
+      "blur": 5.29,
+      "opacity": 0.59,
+      "rotate": 30.47
     }
   ],
   "shapes": [
-    {
-      "x": 47.83,
-      "y": 29.87,
-      "size": 21.34,
-      "blur": 0.52,
-      "opacity": 0.2
-    },
     {
       "x": 69.37,
       "y": 35.2,
@@ -130,9 +123,16 @@
       "size": 29.91,
       "blur": 15.55,
       "opacity": 0.33
+    },
+    {
+      "x": 69.64,
+      "y": 97.27,
+      "size": 20.34,
+      "blur": 5.29,
+      "opacity": 0.59
     }
   ],
-  "imagePath": "assets/generated/2026-03-21T17-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-21T17-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-21T17-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-21T18-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-21T18-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-21T18-00-00Z.mp3"
 }
