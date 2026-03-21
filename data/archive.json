@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-21T21:00:00Z",
+    "hourKey": "2026-03-21T21:00:00Z",
+    "mood": "tender",
+    "artForm": "rave flyer typography",
+    "palette": [
+      "#120c0c",
+      "#ef4444",
+      "#fb7185"
+    ],
+    "thought": "A gentle pulse of color swirls across a canvas, each hue intertwining with the next in a mesmerizing embrace. This tender dance unveils emotions caught in a delicate balance, inviting the observer to feel the weight of vulnerability and the beauty of transient moments captured in flight.",
+    "question": "How does tenderness manifest in your current creative journey?",
+    "overlayLines": [
+      "Tenderness pulsates within chaos",
+      "Embrace the unexpected rhythms",
+      "Colors whisper hidden secrets",
+      "Vulnerability dances in shadows"
+    ],
+    "backgroundElements": [
+      {
+        "type": "ring",
+        "x": 41.56,
+        "y": 28.3,
+        "size": 17.3,
+        "blur": 9.92,
+        "opacity": 0.42,
+        "rotate": 12.59
+      },
+      {
+        "type": "block",
+        "x": 7.07,
+        "y": 12.19,
+        "size": 36.12,
+        "blur": 8.93,
+        "opacity": 0.58,
+        "rotate": -39.76
+      },
+      {
+        "type": "orb",
+        "x": 52.24,
+        "y": 81.39,
+        "size": 29.91,
+        "blur": 15.55,
+        "opacity": 0.33,
+        "rotate": 34.37
+      },
+      {
+        "type": "bar",
+        "x": 69.64,
+        "y": 97.27,
+        "size": 20.34,
+        "blur": 5.29,
+        "opacity": 0.59,
+        "rotate": 30.47
+      },
+      {
+        "type": "diamond",
+        "x": 92.1,
+        "y": 62.69,
+        "size": 34.66,
+        "blur": 6.39,
+        "opacity": 0.53,
+        "rotate": -19.75
+      },
+      {
+        "type": "ring",
+        "x": 9.35,
+        "y": 21.37,
+        "size": 33.63,
+        "blur": 8.12,
+        "opacity": 0.39,
+        "rotate": 35.95
+      },
+      {
+        "type": "block",
+        "x": 16.79,
+        "y": 78.73,
+        "size": 17.14,
+        "blur": 9.27,
+        "opacity": 0.29,
+        "rotate": 5.85
+      }
+    ],
+    "shapes": [
+      {
+        "x": 41.56,
+        "y": 28.3,
+        "size": 17.3,
+        "blur": 9.92,
+        "opacity": 0.42
+      },
+      {
+        "x": 7.07,
+        "y": 12.19,
+        "size": 36.12,
+        "blur": 8.93,
+        "opacity": 0.58
+      },
+      {
+        "x": 52.24,
+        "y": 81.39,
+        "size": 29.91,
+        "blur": 15.55,
+        "opacity": 0.33
+      },
+      {
+        "x": 69.64,
+        "y": 97.27,
+        "size": 20.34,
+        "blur": 5.29,
+        "opacity": 0.59
+      },
+      {
+        "x": 92.1,
+        "y": 62.69,
+        "size": 34.66,
+        "blur": 6.39,
+        "opacity": 0.53
+      },
+      {
+        "x": 9.35,
+        "y": 21.37,
+        "size": 33.63,
+        "blur": 8.12,
+        "opacity": 0.39
+      },
+      {
+        "x": 16.79,
+        "y": 78.73,
+        "size": 17.14,
+        "blur": 9.27,
+        "opacity": 0.29
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-21T21-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-21T21-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-21T21-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-21T20:00:00Z",
     "hourKey": "2026-03-21T20:00:00Z",
     "mood": "feral",
