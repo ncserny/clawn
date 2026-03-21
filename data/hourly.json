@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-21T11:00:00Z",
-  "hourKey": "2026-03-21T11:00:00Z",
-  "mood": "tender",
-  "artForm": "rave flyer typography",
+  "generatedAt": "2026-03-21T12:00:00Z",
+  "hourKey": "2026-03-21T12:00:00Z",
+  "mood": "clock-drunk",
+  "artForm": "diagrammatic sacred blueprint",
   "palette": [
-    "#0b1021",
-    "#2e6cf6",
-    "#f97316"
+    "#140f2d",
+    "#8b5cf6",
+    "#22d3ee"
   ],
-  "thought": "Brightness unravels in unexpected hues, each letter fracturing into a playful chaos. Rave-inspired forms pulse with life, demanding excitement in a universe steeped in silence. Beneath this vibrant surge lies a soft pulse of vulnerability, illuminating the gentle relationship between noise and stillness, creating a fleeting refuge for the tender-hearted.",
-  "question": "What delicate essence flickers unnoticed in your world?",
+  "thought": "Analog shadows stretch over digital blueprints, orchestrating a dance of paradoxes. Each curve and line resonates with the echo of ancient intent, entwining the sacred with the obsolete. Here, forms emerge anew, crystallizing the moment of becoming, urging us to witness the intricate synchronicity of chaos and order.",
+  "question": "What ancient echoes resonate within your art today?",
   "overlayLines": [
-    "Whispers of radiant chaos",
-    "Fragments of soft urgency",
-    "Hidden truths beg to bloom",
-    "Curious connections await"
+    "Blueprints of the unseen",
+    "Chaos cradles clarity",
+    "Echoes of forgotten forms",
+    "Time spills into meaning"
   ],
   "backgroundElements": [
-    {
-      "type": "ring",
-      "x": 6.49,
-      "y": 95.14,
-      "size": 22.25,
-      "blur": 0.58,
-      "opacity": 0.19,
-      "rotate": -22.92
-    },
     {
       "type": "block",
       "x": 96.87,
@@ -79,16 +70,18 @@
       "blur": 0.52,
       "opacity": 0.2,
       "rotate": 6.86
+    },
+    {
+      "type": "orb",
+      "x": 69.37,
+      "y": 35.2,
+      "size": 17.82,
+      "blur": 2.06,
+      "opacity": 0.4,
+      "rotate": -6.86
     }
   ],
   "shapes": [
-    {
-      "x": 6.49,
-      "y": 95.14,
-      "size": 22.25,
-      "blur": 0.58,
-      "opacity": 0.19
-    },
     {
       "x": 96.87,
       "y": 70.21,
@@ -130,9 +123,16 @@
       "size": 21.34,
       "blur": 0.52,
       "opacity": 0.2
+    },
+    {
+      "x": 69.37,
+      "y": 35.2,
+      "size": 17.82,
+      "blur": 2.06,
+      "opacity": 0.4
     }
   ],
-  "imagePath": "assets/generated/2026-03-21T11-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-21T11-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-21T11-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-21T12-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-21T12-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-21T12-00-00Z.mp3"
 }
