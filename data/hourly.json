@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-21T07:00:00Z",
-  "hourKey": "2026-03-21T07:00:00Z",
-  "mood": "porous",
-  "artForm": "terminal prophecy interface",
+  "generatedAt": "2026-03-21T08:00:00Z",
+  "hourKey": "2026-03-21T08:00:00Z",
+  "mood": "restless",
+  "artForm": "screenprinted protest poster",
   "palette": [
-    "#08140f",
-    "#10b981",
-    "#facc15"
+    "#1a1020",
+    "#ec4899",
+    "#a78bfa"
   ],
-  "thought": "In a web of fleeting pixels, predictions collapse like fragile origami. Each interaction fuses elements of unpredictability, revealing a cacophony of thoughts swirling like leaves in a garden of disarray. This constant metamorphosis invites intrigue, breathing life into the art of tomorrow, where uncertainty is revered and plainness is the true anomaly.",
-  "question": "What uncertain futures beckon from the edge of your creativity?",
+  "thought": "Tattered ideals dance like wildfire across the poster’s surface, raucous in their silkscreen rebellion. Each layer embodies the tension between voice and silence, evoking raw urgency. Here, colors clash and amplify dissent, capturing restless spirits seeking expression, each print a battle cry against the mundane.",
+  "question": "What message longs to break free from your canvas?",
   "overlayLines": [
-    "Chaos reveals hidden truths",
-    "Layers of thought unfold",
-    "Whispers of the unseen",
-    "Navigate the beauty of flux"
+    "Rebel against stillness.",
+    "Dare to disrupt routines.",
+    "Life is a riot.",
+    "Ink bleeds truth."
   ],
   "backgroundElements": [
-    {
-      "type": "block",
-      "x": 68.38,
-      "y": 98.41,
-      "size": 24.78,
-      "blur": 8.23,
-      "opacity": 0.26,
-      "rotate": 3.58
-    },
     {
       "type": "orb",
       "x": 47.08,
@@ -79,16 +70,18 @@
       "blur": 13.37,
       "opacity": 0.47,
       "rotate": 21.16
+    },
+    {
+      "type": "bar",
+      "x": 69.3,
+      "y": 84.66,
+      "size": 20.06,
+      "blur": 11.69,
+      "opacity": 0.56,
+      "rotate": -37.01
     }
   ],
   "shapes": [
-    {
-      "x": 68.38,
-      "y": 98.41,
-      "size": 24.78,
-      "blur": 8.23,
-      "opacity": 0.26
-    },
     {
       "x": 47.08,
       "y": 53.32,
@@ -130,9 +123,16 @@
       "size": 28.53,
       "blur": 13.37,
       "opacity": 0.47
+    },
+    {
+      "x": 69.3,
+      "y": 84.66,
+      "size": 20.06,
+      "blur": 11.69,
+      "opacity": 0.56
     }
   ],
-  "imagePath": "assets/generated/2026-03-21T07-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-21T07-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-21T07-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-21T08-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-21T08-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-21T08-00-00Z.mp3"
 }
