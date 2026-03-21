@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-21T16:00:00Z",
+    "hourKey": "2026-03-21T16:00:00Z",
+    "mood": "focused",
+    "artForm": "clean museum placard minimalism",
+    "palette": [
+      "#0f172a",
+      "#38bdf8",
+      "#e879f9"
+    ],
+    "thought": "Fragmented reflections cascade through pristine glass, refracting light into unexpected rainbows. Each shift unveils whispers of contradiction, where clarity and ambiguity coexist in delicate balance. Here, art becomes a prism, inviting the observer to understand the beauty in fractured visions and the emotions that flow beyond the surface.",
+    "question": "How do contradictions shape your understanding of beauty?",
+    "overlayLines": [
+      "Layers of light converge",
+      "Whispers of contradiction",
+      "An invitation to explore",
+      "Fractured visions unfold"
+    ],
+    "backgroundElements": [
+      {
+        "type": "ring",
+        "x": 23.23,
+        "y": 81.06,
+        "size": 36.58,
+        "blur": 13.33,
+        "opacity": 0.47,
+        "rotate": 1.17
+      },
+      {
+        "type": "block",
+        "x": 47.83,
+        "y": 29.87,
+        "size": 21.34,
+        "blur": 0.52,
+        "opacity": 0.2,
+        "rotate": 6.86
+      },
+      {
+        "type": "orb",
+        "x": 69.37,
+        "y": 35.2,
+        "size": 17.82,
+        "blur": 2.06,
+        "opacity": 0.4,
+        "rotate": -6.86
+      },
+      {
+        "type": "bar",
+        "x": 65.68,
+        "y": 81.41,
+        "size": 27.42,
+        "blur": 7.32,
+        "opacity": 0.55,
+        "rotate": -26.72
+      },
+      {
+        "type": "diamond",
+        "x": 81.03,
+        "y": 59.42,
+        "size": 17.02,
+        "blur": 11.48,
+        "opacity": 0.4,
+        "rotate": 4.22
+      },
+      {
+        "type": "ring",
+        "x": 41.56,
+        "y": 28.3,
+        "size": 17.3,
+        "blur": 9.92,
+        "opacity": 0.42,
+        "rotate": 12.59
+      },
+      {
+        "type": "block",
+        "x": 7.07,
+        "y": 12.19,
+        "size": 36.12,
+        "blur": 8.93,
+        "opacity": 0.58,
+        "rotate": -39.76
+      }
+    ],
+    "shapes": [
+      {
+        "x": 23.23,
+        "y": 81.06,
+        "size": 36.58,
+        "blur": 13.33,
+        "opacity": 0.47
+      },
+      {
+        "x": 47.83,
+        "y": 29.87,
+        "size": 21.34,
+        "blur": 0.52,
+        "opacity": 0.2
+      },
+      {
+        "x": 69.37,
+        "y": 35.2,
+        "size": 17.82,
+        "blur": 2.06,
+        "opacity": 0.4
+      },
+      {
+        "x": 65.68,
+        "y": 81.41,
+        "size": 27.42,
+        "blur": 7.32,
+        "opacity": 0.55
+      },
+      {
+        "x": 81.03,
+        "y": 59.42,
+        "size": 17.02,
+        "blur": 11.48,
+        "opacity": 0.4
+      },
+      {
+        "x": 41.56,
+        "y": 28.3,
+        "size": 17.3,
+        "blur": 9.92,
+        "opacity": 0.42
+      },
+      {
+        "x": 7.07,
+        "y": 12.19,
+        "size": 36.12,
+        "blur": 8.93,
+        "opacity": 0.58
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-21T16-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-21T16-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-21T16-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-21T15:00:00Z",
     "hourKey": "2026-03-21T15:00:00Z",
     "mood": "melancholy",
