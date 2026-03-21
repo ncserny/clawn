@@ -21,7 +21,7 @@ let stateIndex = 0;
 const panels = [...document.querySelectorAll('.drift-panel')];
 const themeModes = ['glitch', 'clean', 'mono', 'poster', 'nocturne', 'arcade', 'newspaper', 'luxe'];
 const layoutModes = ['collage', 'split', 'spread', 'stack'];
-const imageModes = ['paired', 'staggered', 'oversized', 'background'];
+const imageModes = ['paired', 'staggered', 'oversized', 'background', 'hero-clown', 'hero-lobster', 'split-wall', 'floaters'];
 const titleLayouts = [
   { grid: '1 / span 7', max: '8ch', rotate: '-2deg', x: '-6px', y: '0px', align: 'left' },
   { grid: '2 / span 8', max: '10ch', rotate: '0deg', x: '0px', y: '0px', align: 'left' },

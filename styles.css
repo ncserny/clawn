@@ -838,3 +838,141 @@ body[data-layout="newspaper"] h1 {
   color: var(--fg);
   border-bottom-color: currentColor;
 }
+
+body[data-image-mode="hero-clown"] .image-panel {
+  grid-column: 1 / span 8;
+}
+body[data-image-mode="hero-clown"] .apparition-grid {
+  display: block;
+  min-height: 520px;
+}
+body[data-image-mode="hero-clown"] .apparition-card {
+  position: absolute;
+}
+body[data-image-mode="hero-clown"] .apparition-card:first-child {
+  inset: -20px 18% 30px -10%;
+  transform: rotate(-3deg);
+  z-index: 2;
+}
+body[data-image-mode="hero-clown"] .apparition-card:last-child {
+  width: 26%;
+  right: -2%;
+  bottom: 8%;
+  transform: rotate(8deg);
+  z-index: 3;
+}
+
+body[data-image-mode="hero-lobster"] .image-panel {
+  grid-column: 5 / span 8;
+}
+body[data-image-mode="hero-lobster"] .apparition-grid {
+  display: block;
+  min-height: 520px;
+}
+body[data-image-mode="hero-lobster"] .apparition-card {
+  position: absolute;
+}
+body[data-image-mode="hero-lobster"] .apparition-card:first-child {
+  width: 30%;
+  left: -4%;
+  top: 8%;
+  transform: rotate(-9deg);
+  z-index: 3;
+}
+body[data-image-mode="hero-lobster"] .apparition-card:last-child {
+  inset: -18px -8% 26px 10%;
+  transform: rotate(4deg);
+  z-index: 2;
+}
+
+body[data-image-mode="split-wall"] .image-panel {
+  grid-column: 1 / -1;
+}
+body[data-image-mode="split-wall"] .apparition-grid {
+  display: grid;
+  grid-template-columns: 1.2fr 0.8fr;
+  gap: 18px;
+  min-height: 440px;
+}
+body[data-image-mode="split-wall"] .apparition-card {
+  position: relative;
+}
+body[data-image-mode="split-wall"] .apparition-card:first-child {
+  transform: rotate(-1.6deg) translateY(-10px);
+}
+body[data-image-mode="split-wall"] .apparition-card:last-child {
+  transform: rotate(2.8deg) translateY(26px);
+}
+
+body[data-image-mode="floaters"] .image-panel {
+  background: transparent;
+  border-color: transparent;
+  box-shadow: none;
+}
+body[data-image-mode="floaters"] .apparition-grid {
+  display: block;
+  min-height: 430px;
+}
+body[data-image-mode="floaters"] .apparition-card {
+  position: absolute;
+}
+body[data-image-mode="floaters"] .apparition-card:first-child {
+  width: 52%;
+  left: -8%;
+  top: 8%;
+  transform: rotate(-7deg);
+}
+body[data-image-mode="floaters"] .apparition-card:last-child {
+  width: 38%;
+  right: 4%;
+  bottom: -2%;
+  transform: rotate(10deg);
+}
+body[data-image-mode="floaters"] .apparition-card .iteration-image {
+  box-shadow: 0 24px 90px rgba(0,0,0,0.3);
+}
+
+body[data-image-mode="hero-clown"] .apparition-card .iteration-image,
+body[data-image-mode="hero-lobster"] .apparition-card .iteration-image,
+body[data-image-mode="split-wall"] .apparition-card .iteration-image,
+body[data-image-mode="floaters"] .apparition-card .iteration-image {
+  aspect-ratio: auto;
+  min-height: 240px;
+}
+
+body[data-image-mode="hero-clown"] .apparition-card:first-child .iteration-image,
+body[data-image-mode="hero-lobster"] .apparition-card:last-child .iteration-image {
+  min-height: 420px;
+  object-fit: cover;
+}
+
+@media (max-width: 900px) {
+  body[data-image-mode="hero-clown"] .image-panel,
+  body[data-image-mode="hero-lobster"] .image-panel,
+  body[data-image-mode="split-wall"] .image-panel,
+  body[data-image-mode="floaters"] .image-panel {
+    grid-column: 1 / -1 !important;
+  }
+  body[data-image-mode="hero-clown"] .apparition-grid,
+  body[data-image-mode="hero-lobster"] .apparition-grid,
+  body[data-image-mode="split-wall"] .apparition-grid,
+  body[data-image-mode="floaters"] .apparition-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    min-height: 0;
+    gap: 12px;
+  }
+  body[data-image-mode="hero-clown"] .apparition-card,
+  body[data-image-mode="hero-lobster"] .apparition-card,
+  body[data-image-mode="split-wall"] .apparition-card,
+  body[data-image-mode="floaters"] .apparition-card {
+    position: relative;
+    inset: auto;
+    width: 100%;
+    transform: none;
+  }
+  body[data-image-mode="hero-clown"] .apparition-card .iteration-image,
+  body[data-image-mode="hero-lobster"] .apparition-card .iteration-image {
+    min-height: 0;
+  }
+}
