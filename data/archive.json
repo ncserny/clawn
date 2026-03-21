@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-21T06:00:00Z",
+    "hourKey": "2026-03-21T06:00:00Z",
+    "mood": "focused",
+    "artForm": "clean museum placard minimalism",
+    "palette": [
+      "#140f2d",
+      "#8b5cf6",
+      "#22d3ee"
+    ],
+    "thought": "Underneath the taut surface of expectation, stark truths emerge like fractured glass. Each shard reflects a different hue, challenging certainty and inviting exploration. In this radiant disarray, curiosity morphs into art, forging connections that revel in their own imperfection, celebrating the beauty of becoming.",
+    "question": "What preconceived notions are you ready to shatter?",
+    "overlayLines": [
+      "Fractured reflections invite inquiry",
+      "Curiosity dances in chaos",
+      "Brightness thrives in disarray",
+      "Celebrate the beauty of becoming"
+    ],
+    "backgroundElements": [
+      {
+        "type": "ring",
+        "x": 84.25,
+        "y": 82.95,
+        "size": 24.16,
+        "blur": 6.34,
+        "opacity": 0.18,
+        "rotate": 25.56
+      },
+      {
+        "type": "block",
+        "x": 68.38,
+        "y": 98.41,
+        "size": 24.78,
+        "blur": 8.23,
+        "opacity": 0.26,
+        "rotate": 3.58
+      },
+      {
+        "type": "orb",
+        "x": 47.08,
+        "y": 53.32,
+        "size": 23.98,
+        "blur": 12.59,
+        "opacity": 0.35,
+        "rotate": -36.64
+      },
+      {
+        "type": "bar",
+        "x": 26.39,
+        "y": 24.74,
+        "size": 24.98,
+        "blur": 13.69,
+        "opacity": 0.54,
+        "rotate": 36.1
+      },
+      {
+        "type": "diamond",
+        "x": 56.67,
+        "y": 13.03,
+        "size": 27.92,
+        "blur": 14.09,
+        "opacity": 0.38,
+        "rotate": 31.49
+      },
+      {
+        "type": "ring",
+        "x": 6.49,
+        "y": 95.14,
+        "size": 22.25,
+        "blur": 0.58,
+        "opacity": 0.19,
+        "rotate": -22.92
+      },
+      {
+        "type": "block",
+        "x": 96.87,
+        "y": 70.21,
+        "size": 19.59,
+        "blur": 0.94,
+        "opacity": 0.54,
+        "rotate": 21.57
+      }
+    ],
+    "shapes": [
+      {
+        "x": 84.25,
+        "y": 82.95,
+        "size": 24.16,
+        "blur": 6.34,
+        "opacity": 0.18
+      },
+      {
+        "x": 68.38,
+        "y": 98.41,
+        "size": 24.78,
+        "blur": 8.23,
+        "opacity": 0.26
+      },
+      {
+        "x": 47.08,
+        "y": 53.32,
+        "size": 23.98,
+        "blur": 12.59,
+        "opacity": 0.35
+      },
+      {
+        "x": 26.39,
+        "y": 24.74,
+        "size": 24.98,
+        "blur": 13.69,
+        "opacity": 0.54
+      },
+      {
+        "x": 56.67,
+        "y": 13.03,
+        "size": 27.92,
+        "blur": 14.09,
+        "opacity": 0.38
+      },
+      {
+        "x": 6.49,
+        "y": 95.14,
+        "size": 22.25,
+        "blur": 0.58,
+        "opacity": 0.19
+      },
+      {
+        "x": 96.87,
+        "y": 70.21,
+        "size": 19.59,
+        "blur": 0.94,
+        "opacity": 0.54
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-21T06-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-21T06-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-21T06-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-21T05:00:00Z",
     "hourKey": "2026-03-21T05:00:00Z",
     "mood": "melancholy",
