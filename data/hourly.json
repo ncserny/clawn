@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-21T04:00:00Z",
-  "hourKey": "2026-03-21T04:00:00Z",
-  "mood": "playful",
-  "artForm": "brutalist editorial spread",
+  "generatedAt": "2026-03-21T05:00:00Z",
+  "hourKey": "2026-03-21T05:00:00Z",
+  "mood": "melancholy",
+  "artForm": "xerox zine collage",
   "palette": [
-    "#0f172a",
-    "#38bdf8",
-    "#e879f9"
+    "#0b1021",
+    "#2e6cf6",
+    "#f97316"
   ],
-  "thought": "An avalanche of type floods pages, raw shapes colliding with whimsy. Each corner hosts a dance between chaos and clarity, a fierce contortion of thought. Shadows stretch across the canvas, crafting a surreal dialogue that tickles the imagination, revealing sensations bound to no single perspective.",
-  "question": "What would happen if joy flung itself into chaos?",
+  "thought": "Silhouettes of memory cascade like discarded scraps, each layer wrestling for space in a patchwork of lost whispers. Amidst glued remnants, stray images spark recognition of histories almost forgotten, lingering like half-formed dreams. Connection dances uncertainly across the boundaries of nostalgia, enveloping the viewer in an embrace both tender and achingly distressing.",
+  "question": "What fragments of your past haunt you quietly?",
   "overlayLines": [
-    "Dance in the absurdity",
-    "Sculpt your wildest dream",
-    "Whimsy strewn like breadcrumbs",
-    "Conflict breeds artistry"
+    "Echoes of what was",
+    "Fleeting moments caught",
+    "Whispers beneath chaos",
+    "Memory’s fragile dance"
   ],
   "backgroundElements": [
-    {
-      "type": "bar",
-      "x": 10.35,
-      "y": 72.23,
-      "size": 17.59,
-      "blur": 15.02,
-      "opacity": 0.63,
-      "rotate": 11.71
-    },
     {
       "type": "diamond",
       "x": 72.87,
@@ -79,16 +70,18 @@
       "blur": 14.09,
       "opacity": 0.38,
       "rotate": 31.49
+    },
+    {
+      "type": "ring",
+      "x": 6.49,
+      "y": 95.14,
+      "size": 22.25,
+      "blur": 0.58,
+      "opacity": 0.19,
+      "rotate": -22.92
     }
   ],
   "shapes": [
-    {
-      "x": 10.35,
-      "y": 72.23,
-      "size": 17.59,
-      "blur": 15.02,
-      "opacity": 0.63
-    },
     {
       "x": 72.87,
       "y": 34.47,
@@ -130,9 +123,16 @@
       "size": 27.92,
       "blur": 14.09,
       "opacity": 0.38
+    },
+    {
+      "x": 6.49,
+      "y": 95.14,
+      "size": 22.25,
+      "blur": 0.58,
+      "opacity": 0.19
     }
   ],
-  "imagePath": "assets/generated/2026-03-21T04-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-21T04-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-21T04-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-21T05-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-21T05-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-21T05-00-00Z.mp3"
 }
