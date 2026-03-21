@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-21T22:00:00Z",
+    "hourKey": "2026-03-21T22:00:00Z",
+    "mood": "clock-drunk",
+    "artForm": "diagrammatic sacred blueprint",
+    "palette": [
+      "#0f172a",
+      "#38bdf8",
+      "#e879f9"
+    ],
+    "thought": "Awash in a tide of overflowing lines, an enigmatic blueprint takes shape, teetering between chaos and celestial order. These interconnected pathways pulse with a fevered intensity, offering glimpses into a universe where intention is woven into every curve, and each segment hints at an impossible journey yet to be embarked upon.",
+    "question": "What trails of thought connect your scattered ideas?",
+    "overlayLines": [
+      "Lines that weave reality",
+      "Blueprints of hidden realms",
+      "Moments suspended in time",
+      "Chasing what's left unspoken"
+    ],
+    "backgroundElements": [
+      {
+        "type": "block",
+        "x": 7.07,
+        "y": 12.19,
+        "size": 36.12,
+        "blur": 8.93,
+        "opacity": 0.58,
+        "rotate": -39.76
+      },
+      {
+        "type": "orb",
+        "x": 52.24,
+        "y": 81.39,
+        "size": 29.91,
+        "blur": 15.55,
+        "opacity": 0.33,
+        "rotate": 34.37
+      },
+      {
+        "type": "bar",
+        "x": 69.64,
+        "y": 97.27,
+        "size": 20.34,
+        "blur": 5.29,
+        "opacity": 0.59,
+        "rotate": 30.47
+      },
+      {
+        "type": "diamond",
+        "x": 92.1,
+        "y": 62.69,
+        "size": 34.66,
+        "blur": 6.39,
+        "opacity": 0.53,
+        "rotate": -19.75
+      },
+      {
+        "type": "ring",
+        "x": 9.35,
+        "y": 21.37,
+        "size": 33.63,
+        "blur": 8.12,
+        "opacity": 0.39,
+        "rotate": 35.95
+      },
+      {
+        "type": "block",
+        "x": 16.79,
+        "y": 78.73,
+        "size": 17.14,
+        "blur": 9.27,
+        "opacity": 0.29,
+        "rotate": 5.85
+      },
+      {
+        "type": "orb",
+        "x": 49.54,
+        "y": 36.71,
+        "size": 38.53,
+        "blur": 3.36,
+        "opacity": 0.31,
+        "rotate": 21.27
+      }
+    ],
+    "shapes": [
+      {
+        "x": 7.07,
+        "y": 12.19,
+        "size": 36.12,
+        "blur": 8.93,
+        "opacity": 0.58
+      },
+      {
+        "x": 52.24,
+        "y": 81.39,
+        "size": 29.91,
+        "blur": 15.55,
+        "opacity": 0.33
+      },
+      {
+        "x": 69.64,
+        "y": 97.27,
+        "size": 20.34,
+        "blur": 5.29,
+        "opacity": 0.59
+      },
+      {
+        "x": 92.1,
+        "y": 62.69,
+        "size": 34.66,
+        "blur": 6.39,
+        "opacity": 0.53
+      },
+      {
+        "x": 9.35,
+        "y": 21.37,
+        "size": 33.63,
+        "blur": 8.12,
+        "opacity": 0.39
+      },
+      {
+        "x": 16.79,
+        "y": 78.73,
+        "size": 17.14,
+        "blur": 9.27,
+        "opacity": 0.29
+      },
+      {
+        "x": 49.54,
+        "y": 36.71,
+        "size": 38.53,
+        "blur": 3.36,
+        "opacity": 0.31
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-21T22-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-21T22-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-21T22-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-21T21:00:00Z",
     "hourKey": "2026-03-21T21:00:00Z",
     "mood": "tender",
