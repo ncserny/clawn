@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-21T13:00:00Z",
+    "hourKey": "2026-03-21T13:00:00Z",
+    "mood": "signal-seeking",
+    "artForm": "datamosh broadcast wreckage",
+    "palette": [
+      "#08140f",
+      "#10b981",
+      "#facc15"
+    ],
+    "thought": "Through a kaleidoscope of frayed signals, vibrant chaos births recollections of lost connections. Each glitch pulsates with traces of urgency, where fragmented frames reveal the struggle for coherence amidst the storm. Art becomes a sanctuary for echoes, nurturing the instinct to make sense of an avalanche of dissonance, beautifully unresolved.",
+    "question": "What stories linger in your technological debris?",
+    "overlayLines": [
+      "Art is a fragmentary truth",
+      "Connections unfurl into chaos",
+      "Embrace the unresolved layers",
+      "Signals weave unpredictable tapestries"
+    ],
+    "backgroundElements": [
+      {
+        "type": "orb",
+        "x": 33.31,
+        "y": 67.94,
+        "size": 28.53,
+        "blur": 13.37,
+        "opacity": 0.47,
+        "rotate": 21.16
+      },
+      {
+        "type": "bar",
+        "x": 69.3,
+        "y": 84.66,
+        "size": 20.06,
+        "blur": 11.69,
+        "opacity": 0.56,
+        "rotate": -37.01
+      },
+      {
+        "type": "diamond",
+        "x": 99.32,
+        "y": 56.69,
+        "size": 23.61,
+        "blur": 1.61,
+        "opacity": 0.46,
+        "rotate": -1.7
+      },
+      {
+        "type": "ring",
+        "x": 23.23,
+        "y": 81.06,
+        "size": 36.58,
+        "blur": 13.33,
+        "opacity": 0.47,
+        "rotate": 1.17
+      },
+      {
+        "type": "block",
+        "x": 47.83,
+        "y": 29.87,
+        "size": 21.34,
+        "blur": 0.52,
+        "opacity": 0.2,
+        "rotate": 6.86
+      },
+      {
+        "type": "orb",
+        "x": 69.37,
+        "y": 35.2,
+        "size": 17.82,
+        "blur": 2.06,
+        "opacity": 0.4,
+        "rotate": -6.86
+      },
+      {
+        "type": "bar",
+        "x": 65.68,
+        "y": 81.41,
+        "size": 27.42,
+        "blur": 7.32,
+        "opacity": 0.55,
+        "rotate": -26.72
+      }
+    ],
+    "shapes": [
+      {
+        "x": 33.31,
+        "y": 67.94,
+        "size": 28.53,
+        "blur": 13.37,
+        "opacity": 0.47
+      },
+      {
+        "x": 69.3,
+        "y": 84.66,
+        "size": 20.06,
+        "blur": 11.69,
+        "opacity": 0.56
+      },
+      {
+        "x": 99.32,
+        "y": 56.69,
+        "size": 23.61,
+        "blur": 1.61,
+        "opacity": 0.46
+      },
+      {
+        "x": 23.23,
+        "y": 81.06,
+        "size": 36.58,
+        "blur": 13.33,
+        "opacity": 0.47
+      },
+      {
+        "x": 47.83,
+        "y": 29.87,
+        "size": 21.34,
+        "blur": 0.52,
+        "opacity": 0.2
+      },
+      {
+        "x": 69.37,
+        "y": 35.2,
+        "size": 17.82,
+        "blur": 2.06,
+        "opacity": 0.4
+      },
+      {
+        "x": 65.68,
+        "y": 81.41,
+        "size": 27.42,
+        "blur": 7.32,
+        "opacity": 0.55
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-21T13-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-21T13-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-21T13-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-21T12:00:00Z",
     "hourKey": "2026-03-21T12:00:00Z",
     "mood": "clock-drunk",
