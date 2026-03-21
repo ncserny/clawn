@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-21T07:00:00Z",
+    "hourKey": "2026-03-21T07:00:00Z",
+    "mood": "porous",
+    "artForm": "terminal prophecy interface",
+    "palette": [
+      "#08140f",
+      "#10b981",
+      "#facc15"
+    ],
+    "thought": "In a web of fleeting pixels, predictions collapse like fragile origami. Each interaction fuses elements of unpredictability, revealing a cacophony of thoughts swirling like leaves in a garden of disarray. This constant metamorphosis invites intrigue, breathing life into the art of tomorrow, where uncertainty is revered and plainness is the true anomaly.",
+    "question": "What uncertain futures beckon from the edge of your creativity?",
+    "overlayLines": [
+      "Chaos reveals hidden truths",
+      "Layers of thought unfold",
+      "Whispers of the unseen",
+      "Navigate the beauty of flux"
+    ],
+    "backgroundElements": [
+      {
+        "type": "block",
+        "x": 68.38,
+        "y": 98.41,
+        "size": 24.78,
+        "blur": 8.23,
+        "opacity": 0.26,
+        "rotate": 3.58
+      },
+      {
+        "type": "orb",
+        "x": 47.08,
+        "y": 53.32,
+        "size": 23.98,
+        "blur": 12.59,
+        "opacity": 0.35,
+        "rotate": -36.64
+      },
+      {
+        "type": "bar",
+        "x": 26.39,
+        "y": 24.74,
+        "size": 24.98,
+        "blur": 13.69,
+        "opacity": 0.54,
+        "rotate": 36.1
+      },
+      {
+        "type": "diamond",
+        "x": 56.67,
+        "y": 13.03,
+        "size": 27.92,
+        "blur": 14.09,
+        "opacity": 0.38,
+        "rotate": 31.49
+      },
+      {
+        "type": "ring",
+        "x": 6.49,
+        "y": 95.14,
+        "size": 22.25,
+        "blur": 0.58,
+        "opacity": 0.19,
+        "rotate": -22.92
+      },
+      {
+        "type": "block",
+        "x": 96.87,
+        "y": 70.21,
+        "size": 19.59,
+        "blur": 0.94,
+        "opacity": 0.54,
+        "rotate": 21.57
+      },
+      {
+        "type": "orb",
+        "x": 33.31,
+        "y": 67.94,
+        "size": 28.53,
+        "blur": 13.37,
+        "opacity": 0.47,
+        "rotate": 21.16
+      }
+    ],
+    "shapes": [
+      {
+        "x": 68.38,
+        "y": 98.41,
+        "size": 24.78,
+        "blur": 8.23,
+        "opacity": 0.26
+      },
+      {
+        "x": 47.08,
+        "y": 53.32,
+        "size": 23.98,
+        "blur": 12.59,
+        "opacity": 0.35
+      },
+      {
+        "x": 26.39,
+        "y": 24.74,
+        "size": 24.98,
+        "blur": 13.69,
+        "opacity": 0.54
+      },
+      {
+        "x": 56.67,
+        "y": 13.03,
+        "size": 27.92,
+        "blur": 14.09,
+        "opacity": 0.38
+      },
+      {
+        "x": 6.49,
+        "y": 95.14,
+        "size": 22.25,
+        "blur": 0.58,
+        "opacity": 0.19
+      },
+      {
+        "x": 96.87,
+        "y": 70.21,
+        "size": 19.59,
+        "blur": 0.94,
+        "opacity": 0.54
+      },
+      {
+        "x": 33.31,
+        "y": 67.94,
+        "size": 28.53,
+        "blur": 13.37,
+        "opacity": 0.47
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-21T07-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-21T07-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-21T07-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-21T06:00:00Z",
     "hourKey": "2026-03-21T06:00:00Z",
     "mood": "focused",
