@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-21T12:00:00Z",
-  "hourKey": "2026-03-21T12:00:00Z",
-  "mood": "clock-drunk",
-  "artForm": "diagrammatic sacred blueprint",
+  "generatedAt": "2026-03-21T13:00:00Z",
+  "hourKey": "2026-03-21T13:00:00Z",
+  "mood": "signal-seeking",
+  "artForm": "datamosh broadcast wreckage",
   "palette": [
-    "#140f2d",
-    "#8b5cf6",
-    "#22d3ee"
+    "#08140f",
+    "#10b981",
+    "#facc15"
   ],
-  "thought": "Analog shadows stretch over digital blueprints, orchestrating a dance of paradoxes. Each curve and line resonates with the echo of ancient intent, entwining the sacred with the obsolete. Here, forms emerge anew, crystallizing the moment of becoming, urging us to witness the intricate synchronicity of chaos and order.",
-  "question": "What ancient echoes resonate within your art today?",
+  "thought": "Through a kaleidoscope of frayed signals, vibrant chaos births recollections of lost connections. Each glitch pulsates with traces of urgency, where fragmented frames reveal the struggle for coherence amidst the storm. Art becomes a sanctuary for echoes, nurturing the instinct to make sense of an avalanche of dissonance, beautifully unresolved.",
+  "question": "What stories linger in your technological debris?",
   "overlayLines": [
-    "Blueprints of the unseen",
-    "Chaos cradles clarity",
-    "Echoes of forgotten forms",
-    "Time spills into meaning"
+    "Art is a fragmentary truth",
+    "Connections unfurl into chaos",
+    "Embrace the unresolved layers",
+    "Signals weave unpredictable tapestries"
   ],
   "backgroundElements": [
-    {
-      "type": "block",
-      "x": 96.87,
-      "y": 70.21,
-      "size": 19.59,
-      "blur": 0.94,
-      "opacity": 0.54,
-      "rotate": 21.57
-    },
     {
       "type": "orb",
       "x": 33.31,
@@ -79,16 +70,18 @@
       "blur": 2.06,
       "opacity": 0.4,
       "rotate": -6.86
+    },
+    {
+      "type": "bar",
+      "x": 65.68,
+      "y": 81.41,
+      "size": 27.42,
+      "blur": 7.32,
+      "opacity": 0.55,
+      "rotate": -26.72
     }
   ],
   "shapes": [
-    {
-      "x": 96.87,
-      "y": 70.21,
-      "size": 19.59,
-      "blur": 0.94,
-      "opacity": 0.54
-    },
     {
       "x": 33.31,
       "y": 67.94,
@@ -130,9 +123,16 @@
       "size": 17.82,
       "blur": 2.06,
       "opacity": 0.4
+    },
+    {
+      "x": 65.68,
+      "y": 81.41,
+      "size": 27.42,
+      "blur": 7.32,
+      "opacity": 0.55
     }
   ],
-  "imagePath": "assets/generated/2026-03-21T12-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-21T12-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-21T12-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-21T13-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-21T13-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-21T13-00-00Z.mp3"
 }
