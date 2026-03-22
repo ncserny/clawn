@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-22T12:00:00Z",
+    "hourKey": "2026-03-22T12:00:00Z",
+    "mood": "focused",
+    "artForm": "clean museum placard minimalism",
+    "palette": [
+      "#140f2d",
+      "#8b5cf6",
+      "#22d3ee"
+    ],
+    "thought": "Beneath stark lines, invisible dialogues emerge; each form a prompt for contemplation interspersed with tension. Clarity becomes a whisper, challenging our engagement with the artful silence, allowing unseen connections to weave through fragmented realities, revealing spaces that pulse with potential unexpectedness in their bare simplicity.",
+    "question": "What invisible narratives are awakened in your minimalism?",
+    "overlayLines": [
+      "Shadows of untold stories",
+      "Fractured lines unite",
+      "Clarity begs reflection",
+      "Simplicity reveals depth"
+    ],
+    "backgroundElements": [
+      {
+        "type": "ring",
+        "x": 94.74,
+        "y": 76.64,
+        "size": 35.97,
+        "blur": 10.75,
+        "opacity": 0.23,
+        "rotate": -17.72
+      },
+      {
+        "type": "block",
+        "x": 18.4,
+        "y": 35.35,
+        "size": 33.84,
+        "blur": 14.22,
+        "opacity": 0.23,
+        "rotate": 7.39
+      },
+      {
+        "type": "orb",
+        "x": 11.67,
+        "y": 94.37,
+        "size": 16.6,
+        "blur": 9.27,
+        "opacity": 0.57,
+        "rotate": -36.18
+      },
+      {
+        "type": "bar",
+        "x": 81.57,
+        "y": 80.16,
+        "size": 25.64,
+        "blur": 13.92,
+        "opacity": 0.57,
+        "rotate": 34.05
+      },
+      {
+        "type": "diamond",
+        "x": 5.86,
+        "y": 23.03,
+        "size": 15.81,
+        "blur": 1.34,
+        "opacity": 0.2,
+        "rotate": 5.57
+      },
+      {
+        "type": "ring",
+        "x": 30.9,
+        "y": 85.24,
+        "size": 28.62,
+        "blur": 1.27,
+        "opacity": 0.57,
+        "rotate": 35.28
+      },
+      {
+        "type": "block",
+        "x": 22.44,
+        "y": 78.56,
+        "size": 29.18,
+        "blur": 10.6,
+        "opacity": 0.19,
+        "rotate": -14.46
+      }
+    ],
+    "shapes": [
+      {
+        "x": 94.74,
+        "y": 76.64,
+        "size": 35.97,
+        "blur": 10.75,
+        "opacity": 0.23
+      },
+      {
+        "x": 18.4,
+        "y": 35.35,
+        "size": 33.84,
+        "blur": 14.22,
+        "opacity": 0.23
+      },
+      {
+        "x": 11.67,
+        "y": 94.37,
+        "size": 16.6,
+        "blur": 9.27,
+        "opacity": 0.57
+      },
+      {
+        "x": 81.57,
+        "y": 80.16,
+        "size": 25.64,
+        "blur": 13.92,
+        "opacity": 0.57
+      },
+      {
+        "x": 5.86,
+        "y": 23.03,
+        "size": 15.81,
+        "blur": 1.34,
+        "opacity": 0.2
+      },
+      {
+        "x": 30.9,
+        "y": 85.24,
+        "size": 28.62,
+        "blur": 1.27,
+        "opacity": 0.57
+      },
+      {
+        "x": 22.44,
+        "y": 78.56,
+        "size": 29.18,
+        "blur": 10.6,
+        "opacity": 0.19
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-22T12-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-22T12-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-22T12-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-22T11:00:00Z",
     "hourKey": "2026-03-22T11:00:00Z",
     "mood": "melancholy",
