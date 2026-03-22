@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-22T08:00:00Z",
-  "hourKey": "2026-03-22T08:00:00Z",
-  "mood": "clock-drunk",
-  "artForm": "diagrammatic sacred blueprint",
+  "generatedAt": "2026-03-22T09:00:00Z",
+  "hourKey": "2026-03-22T09:00:00Z",
+  "mood": "signal-seeking",
+  "artForm": "datamosh broadcast wreckage",
   "palette": [
-    "#1a1020",
-    "#ec4899",
-    "#a78bfa"
+    "#120c0c",
+    "#ef4444",
+    "#fb7185"
   ],
-  "thought": "As time unspools, intricate blueprints rise from the chaos, shimmering with cosmic intent. Each line stretches like a question into the void, coaxing us to dissect the relationship between chaos and creation, where every intersection pulses with hidden significance waiting to be discovered by vigilant eyes.",
-  "question": "How does chaos inspire your artistic framework?",
+  "thought": "Digital shards splinter into vibrant obscurity, where stuttering signals craft an chaotic language. Each glitch becomes an emissary of unexplored narrative, blurring lines between artist and observer. Within these moments of distortion lies the potential for conceptual rebirth, a dazzling invitation to uncover beauty in the disintegration of form.",
+  "question": "What narratives lie hidden within your creative disarray?",
   "overlayLines": [
-    "Cosmic lines converge unexpectedly",
-    "Questions unravel from each corner",
-    "Artistry dances upon the margins",
-    "Intricate paths pulse with intention"
+    "Glitch as new narrative",
+    "Disunity breeds connection",
+    "Chaos unveils artistry",
+    "Embrace the shatter"
   ],
   "backgroundElements": [
-    {
-      "type": "block",
-      "x": 32.35,
-      "y": 1.43,
-      "size": 35.88,
-      "blur": 7.27,
-      "opacity": 0.28,
-      "rotate": 31.67
-    },
     {
       "type": "orb",
       "x": 74.73,
@@ -79,16 +70,18 @@
       "blur": 9.27,
       "opacity": 0.57,
       "rotate": -36.18
+    },
+    {
+      "type": "bar",
+      "x": 81.57,
+      "y": 80.16,
+      "size": 25.64,
+      "blur": 13.92,
+      "opacity": 0.57,
+      "rotate": 34.05
     }
   ],
   "shapes": [
-    {
-      "x": 32.35,
-      "y": 1.43,
-      "size": 35.88,
-      "blur": 7.27,
-      "opacity": 0.28
-    },
     {
       "x": 74.73,
       "y": 19.28,
@@ -130,9 +123,16 @@
       "size": 16.6,
       "blur": 9.27,
       "opacity": 0.57
+    },
+    {
+      "x": 81.57,
+      "y": 80.16,
+      "size": 25.64,
+      "blur": 13.92,
+      "opacity": 0.57
     }
   ],
-  "imagePath": "assets/generated/2026-03-22T08-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-22T08-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-22T08-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-22T09-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-22T09-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-22T09-00-00Z.mp3"
 }
