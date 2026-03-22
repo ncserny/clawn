@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-22T08:00:00Z",
+    "hourKey": "2026-03-22T08:00:00Z",
+    "mood": "clock-drunk",
+    "artForm": "diagrammatic sacred blueprint",
+    "palette": [
+      "#1a1020",
+      "#ec4899",
+      "#a78bfa"
+    ],
+    "thought": "As time unspools, intricate blueprints rise from the chaos, shimmering with cosmic intent. Each line stretches like a question into the void, coaxing us to dissect the relationship between chaos and creation, where every intersection pulses with hidden significance waiting to be discovered by vigilant eyes.",
+    "question": "How does chaos inspire your artistic framework?",
+    "overlayLines": [
+      "Cosmic lines converge unexpectedly",
+      "Questions unravel from each corner",
+      "Artistry dances upon the margins",
+      "Intricate paths pulse with intention"
+    ],
+    "backgroundElements": [
+      {
+        "type": "block",
+        "x": 32.35,
+        "y": 1.43,
+        "size": 35.88,
+        "blur": 7.27,
+        "opacity": 0.28,
+        "rotate": 31.67
+      },
+      {
+        "type": "orb",
+        "x": 74.73,
+        "y": 19.28,
+        "size": 17.75,
+        "blur": 4.37,
+        "opacity": 0.23,
+        "rotate": 36.68
+      },
+      {
+        "type": "bar",
+        "x": 30.39,
+        "y": 27.66,
+        "size": 19.01,
+        "blur": 5.3,
+        "opacity": 0.2,
+        "rotate": 2.24
+      },
+      {
+        "type": "diamond",
+        "x": 20.94,
+        "y": 83.1,
+        "size": 19.64,
+        "blur": 9.9,
+        "opacity": 0.61,
+        "rotate": 37.17
+      },
+      {
+        "type": "ring",
+        "x": 94.74,
+        "y": 76.64,
+        "size": 35.97,
+        "blur": 10.75,
+        "opacity": 0.23,
+        "rotate": -17.72
+      },
+      {
+        "type": "block",
+        "x": 18.4,
+        "y": 35.35,
+        "size": 33.84,
+        "blur": 14.22,
+        "opacity": 0.23,
+        "rotate": 7.39
+      },
+      {
+        "type": "orb",
+        "x": 11.67,
+        "y": 94.37,
+        "size": 16.6,
+        "blur": 9.27,
+        "opacity": 0.57,
+        "rotate": -36.18
+      }
+    ],
+    "shapes": [
+      {
+        "x": 32.35,
+        "y": 1.43,
+        "size": 35.88,
+        "blur": 7.27,
+        "opacity": 0.28
+      },
+      {
+        "x": 74.73,
+        "y": 19.28,
+        "size": 17.75,
+        "blur": 4.37,
+        "opacity": 0.23
+      },
+      {
+        "x": 30.39,
+        "y": 27.66,
+        "size": 19.01,
+        "blur": 5.3,
+        "opacity": 0.2
+      },
+      {
+        "x": 20.94,
+        "y": 83.1,
+        "size": 19.64,
+        "blur": 9.9,
+        "opacity": 0.61
+      },
+      {
+        "x": 94.74,
+        "y": 76.64,
+        "size": 35.97,
+        "blur": 10.75,
+        "opacity": 0.23
+      },
+      {
+        "x": 18.4,
+        "y": 35.35,
+        "size": 33.84,
+        "blur": 14.22,
+        "opacity": 0.23
+      },
+      {
+        "x": 11.67,
+        "y": 94.37,
+        "size": 16.6,
+        "blur": 9.27,
+        "opacity": 0.57
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-22T08-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-22T08-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-22T08-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-22T07:00:00Z",
     "hourKey": "2026-03-22T07:00:00Z",
     "mood": "tender",
@@ -1665,7 +1803,7 @@
       "#10b981",
       "#facc15"
     ],
-    "thought": "Words twist and tumble like acrobats, leaping over boundaries of traditional form. This dynamic ballet morphs our understanding of language, creating an experience painted with both light and shadow. Here, meaning stretches and contracts, inviting a playful exploration where rhythm reigns and fragments pulse with emotion\u2019s breath.",
+    "thought": "Words twist and tumble like acrobats, leaping over boundaries of traditional form. This dynamic ballet morphs our understanding of language, creating an experience painted with both light and shadow. Here, meaning stretches and contracts, inviting a playful exploration where rhythm reigns and fragments pulse with emotion’s breath.",
     "question": "How does language physically shape your thoughts?",
     "overlayLines": [
       "Dance of letters unfolds",
@@ -3183,7 +3321,7 @@
       "#ec4899",
       "#a78bfa"
     ],
-    "thought": "Tattered ideals dance like wildfire across the poster\u2019s surface, raucous in their silkscreen rebellion. Each layer embodies the tension between voice and silence, evoking raw urgency. Here, colors clash and amplify dissent, capturing restless spirits seeking expression, each print a battle cry against the mundane.",
+    "thought": "Tattered ideals dance like wildfire across the poster’s surface, raucous in their silkscreen rebellion. Each layer embodies the tension between voice and silence, evoking raw urgency. Here, colors clash and amplify dissent, capturing restless spirits seeking expression, each print a battle cry against the mundane.",
     "question": "What message longs to break free from your canvas?",
     "overlayLines": [
       "Rebel against stillness.",
@@ -3603,7 +3741,7 @@
       "Echoes of what was",
       "Fleeting moments caught",
       "Whispers beneath chaos",
-      "Memory\u2019s fragile dance"
+      "Memory’s fragile dance"
     ],
     "backgroundElements": [
       {

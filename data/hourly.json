@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-22T07:00:00Z",
-  "hourKey": "2026-03-22T07:00:00Z",
-  "mood": "tender",
-  "artForm": "rave flyer typography",
+  "generatedAt": "2026-03-22T08:00:00Z",
+  "hourKey": "2026-03-22T08:00:00Z",
+  "mood": "clock-drunk",
+  "artForm": "diagrammatic sacred blueprint",
   "palette": [
-    "#08140f",
-    "#10b981",
-    "#facc15"
+    "#1a1020",
+    "#ec4899",
+    "#a78bfa"
   ],
-  "thought": "In a dreamscape woven of soft tones, letters morph into tender gestures, each curve inviting an interlude of connection. Their gentle cadence vibrates with emotion, swirling around the essence of human experience, and urging those who glance to linger in the halo of transient beauty.",
-  "question": "How can softness transform your artistic expression today?",
+  "thought": "As time unspools, intricate blueprints rise from the chaos, shimmering with cosmic intent. Each line stretches like a question into the void, coaxing us to dissect the relationship between chaos and creation, where every intersection pulses with hidden significance waiting to be discovered by vigilant eyes.",
+  "question": "How does chaos inspire your artistic framework?",
   "overlayLines": [
-    "Unravel the gentle pulse",
-    "Echoes of unspoken thoughts",
-    "Moments that sway like whispers",
-    "Tenderness found in patterns"
+    "Cosmic lines converge unexpectedly",
+    "Questions unravel from each corner",
+    "Artistry dances upon the margins",
+    "Intricate paths pulse with intention"
   ],
   "backgroundElements": [
-    {
-      "type": "ring",
-      "x": 93.59,
-      "y": 83.69,
-      "size": 30.69,
-      "blur": 10.28,
-      "opacity": 0.58,
-      "rotate": 7.7
-    },
     {
       "type": "block",
       "x": 32.35,
@@ -79,16 +70,18 @@
       "blur": 14.22,
       "opacity": 0.23,
       "rotate": 7.39
+    },
+    {
+      "type": "orb",
+      "x": 11.67,
+      "y": 94.37,
+      "size": 16.6,
+      "blur": 9.27,
+      "opacity": 0.57,
+      "rotate": -36.18
     }
   ],
   "shapes": [
-    {
-      "x": 93.59,
-      "y": 83.69,
-      "size": 30.69,
-      "blur": 10.28,
-      "opacity": 0.58
-    },
     {
       "x": 32.35,
       "y": 1.43,
@@ -130,9 +123,16 @@
       "size": 33.84,
       "blur": 14.22,
       "opacity": 0.23
+    },
+    {
+      "x": 11.67,
+      "y": 94.37,
+      "size": 16.6,
+      "blur": 9.27,
+      "opacity": 0.57
     }
   ],
-  "imagePath": "assets/generated/2026-03-22T07-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-22T07-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-22T07-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-22T08-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-22T08-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-22T08-00-00Z.mp3"
 }
