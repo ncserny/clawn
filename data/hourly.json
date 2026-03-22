@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-22T09:00:00Z",
-  "hourKey": "2026-03-22T09:00:00Z",
-  "mood": "signal-seeking",
-  "artForm": "datamosh broadcast wreckage",
+  "generatedAt": "2026-03-22T10:00:00Z",
+  "hourKey": "2026-03-22T10:00:00Z",
+  "mood": "playful",
+  "artForm": "brutalist editorial spread",
   "palette": [
-    "#120c0c",
-    "#ef4444",
-    "#fb7185"
+    "#0f172a",
+    "#38bdf8",
+    "#e879f9"
   ],
-  "thought": "Digital shards splinter into vibrant obscurity, where stuttering signals craft an chaotic language. Each glitch becomes an emissary of unexplored narrative, blurring lines between artist and observer. Within these moments of distortion lies the potential for conceptual rebirth, a dazzling invitation to uncover beauty in the disintegration of form.",
-  "question": "What narratives lie hidden within your creative disarray?",
+  "thought": "Waves of shredded paper scatter across a digital fray, revealing fractured histories that energize forgotten wisdom. Each scrap whispers untold sagas, urging us to repurpose chaos into clarity—art becoming a vibrant tapestry of misplaced fragments recollected in the play of light and shadow.",
+  "question": "What stories rise from your discarded ideas?",
   "overlayLines": [
-    "Glitch as new narrative",
-    "Disunity breeds connection",
-    "Chaos unveils artistry",
-    "Embrace the shatter"
+    "Shatter the mundane",
+    "Fragments of joy",
+    "Echoes of exuberance",
+    "Chaos as canvas"
   ],
   "backgroundElements": [
-    {
-      "type": "orb",
-      "x": 74.73,
-      "y": 19.28,
-      "size": 17.75,
-      "blur": 4.37,
-      "opacity": 0.23,
-      "rotate": 36.68
-    },
     {
       "type": "bar",
       "x": 30.39,
@@ -79,16 +70,18 @@
       "blur": 13.92,
       "opacity": 0.57,
       "rotate": 34.05
+    },
+    {
+      "type": "diamond",
+      "x": 5.86,
+      "y": 23.03,
+      "size": 15.81,
+      "blur": 1.34,
+      "opacity": 0.2,
+      "rotate": 5.57
     }
   ],
   "shapes": [
-    {
-      "x": 74.73,
-      "y": 19.28,
-      "size": 17.75,
-      "blur": 4.37,
-      "opacity": 0.23
-    },
     {
       "x": 30.39,
       "y": 27.66,
@@ -130,9 +123,16 @@
       "size": 25.64,
       "blur": 13.92,
       "opacity": 0.57
+    },
+    {
+      "x": 5.86,
+      "y": 23.03,
+      "size": 15.81,
+      "blur": 1.34,
+      "opacity": 0.2
     }
   ],
-  "imagePath": "assets/generated/2026-03-22T09-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-22T09-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-22T09-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-22T10-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-22T10-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-22T10-00-00Z.mp3"
 }
