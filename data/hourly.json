@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-22T14:00:00Z",
-  "hourKey": "2026-03-22T14:00:00Z",
-  "mood": "restless",
-  "artForm": "screenprinted protest poster",
+  "generatedAt": "2026-03-22T15:00:00Z",
+  "hourKey": "2026-03-22T15:00:00Z",
+  "mood": "curious",
+  "artForm": "concrete poetry composition",
   "palette": [
-    "#1a1020",
-    "#ec4899",
-    "#a78bfa"
+    "#120c0c",
+    "#ef4444",
+    "#fb7185"
   ],
-  "thought": "Electric hues explode across the canvas, igniting the stillness of conformity. Each layer, a pulse of rebellion, meshes the mundane with the extraordinary, urging souls to shatter their self-imposed barriers. This visceral tapestry implores us to embrace disruption, seeing beauty not only in shape but in the fervor of intent beneath the surface.",
-  "question": "What personal disruptions fuel your artistic journey?",
+  "thought": "Spoken words crystallize within a labyrinth of silence, crafting shapes that hold secrets behind each audible curve. This convergence of sound and stillness questions the very essence of communication, urging us to dissect echoes and embrace the unformed potential that lingers beneath expressive surfaces.",
+  "question": "What unsaid feelings alter your artistic communication?",
   "overlayLines": [
-    "Disrupt the ordinary",
-    "Ignite your intention",
-    "Question the visible",
-    "Embrace the unexpected"
+    "Silence speaks volumes.",
+    "Curves of coherence.",
+    "Echoes of the unformed.",
+    "Whispers between words."
   ],
   "backgroundElements": [
-    {
-      "type": "orb",
-      "x": 11.67,
-      "y": 94.37,
-      "size": 16.6,
-      "blur": 9.27,
-      "opacity": 0.57,
-      "rotate": -36.18
-    },
     {
       "type": "bar",
       "x": 81.57,
@@ -79,16 +70,18 @@
       "blur": 14.05,
       "opacity": 0.21,
       "rotate": 28.98
+    },
+    {
+      "type": "diamond",
+      "x": 99.6,
+      "y": 99.04,
+      "size": 14.83,
+      "blur": 4.82,
+      "opacity": 0.31,
+      "rotate": -28.26
     }
   ],
   "shapes": [
-    {
-      "x": 11.67,
-      "y": 94.37,
-      "size": 16.6,
-      "blur": 9.27,
-      "opacity": 0.57
-    },
     {
       "x": 81.57,
       "y": 80.16,
@@ -130,9 +123,16 @@
       "size": 34.48,
       "blur": 14.05,
       "opacity": 0.21
+    },
+    {
+      "x": 99.6,
+      "y": 99.04,
+      "size": 14.83,
+      "blur": 4.82,
+      "opacity": 0.31
     }
   ],
-  "imagePath": "assets/generated/2026-03-22T14-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-22T14-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-22T14-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-22T15-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-22T15-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-22T15-00-00Z.mp3"
 }
