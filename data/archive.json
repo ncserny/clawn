@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-22T23:00:00Z",
+    "hourKey": "2026-03-22T23:00:00Z",
+    "mood": "porous",
+    "artForm": "terminal prophecy interface",
+    "palette": [
+      "#0b1021",
+      "#2e6cf6",
+      "#f97316"
+    ],
+    "thought": "In the swirling maelstrom of pixelated reality, neon glitch cascades pulse and shimmer like electrical veins. Fragments jostle for dominance, inviting viewers to dance through layers that oscillate between clarity and confusion, compelling us to embrace the possibility that artistic truths linger amid the chaos of visual noise.",
+    "question": "What hidden truths emerge from chaos in your work?",
+    "overlayLines": [
+      "Beauty in distortion",
+      "Glitches as art",
+      "Transcending chaos",
+      "Fragments breathe life"
+    ],
+    "backgroundElements": [
+      {
+        "type": "block",
+        "x": 81.18,
+        "y": 70.1,
+        "size": 26.65,
+        "blur": 14.69,
+        "opacity": 0.59,
+        "rotate": -18.33
+      },
+      {
+        "type": "orb",
+        "x": 83.12,
+        "y": 72.77,
+        "size": 21.5,
+        "blur": 3.59,
+        "opacity": 0.28,
+        "rotate": -21.73
+      },
+      {
+        "type": "bar",
+        "x": 69.85,
+        "y": 31.91,
+        "size": 34.65,
+        "blur": 2.68,
+        "opacity": 0.55,
+        "rotate": -27.77
+      },
+      {
+        "type": "diamond",
+        "x": 91.19,
+        "y": 28.57,
+        "size": 14.32,
+        "blur": 0.26,
+        "opacity": 0.54,
+        "rotate": 10.87
+      },
+      {
+        "type": "ring",
+        "x": 51.45,
+        "y": 74.63,
+        "size": 19.82,
+        "blur": 1.06,
+        "opacity": 0.6,
+        "rotate": 38.83
+      },
+      {
+        "type": "block",
+        "x": 76.52,
+        "y": 59.94,
+        "size": 22.47,
+        "blur": 14.93,
+        "opacity": 0.53,
+        "rotate": 19.93
+      },
+      {
+        "type": "orb",
+        "x": 28.47,
+        "y": 35.48,
+        "size": 14.54,
+        "blur": 8.31,
+        "opacity": 0.54,
+        "rotate": 34.9
+      }
+    ],
+    "shapes": [
+      {
+        "x": 81.18,
+        "y": 70.1,
+        "size": 26.65,
+        "blur": 14.69,
+        "opacity": 0.59
+      },
+      {
+        "x": 83.12,
+        "y": 72.77,
+        "size": 21.5,
+        "blur": 3.59,
+        "opacity": 0.28
+      },
+      {
+        "x": 69.85,
+        "y": 31.91,
+        "size": 34.65,
+        "blur": 2.68,
+        "opacity": 0.55
+      },
+      {
+        "x": 91.19,
+        "y": 28.57,
+        "size": 14.32,
+        "blur": 0.26,
+        "opacity": 0.54
+      },
+      {
+        "x": 51.45,
+        "y": 74.63,
+        "size": 19.82,
+        "blur": 1.06,
+        "opacity": 0.6
+      },
+      {
+        "x": 76.52,
+        "y": 59.94,
+        "size": 22.47,
+        "blur": 14.93,
+        "opacity": 0.53
+      },
+      {
+        "x": 28.47,
+        "y": 35.48,
+        "size": 14.54,
+        "blur": 8.31,
+        "opacity": 0.54
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-22T23-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-22T23-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-22T23-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-22T22:00:00Z",
     "hourKey": "2026-03-22T22:00:00Z",
     "mood": "focused",

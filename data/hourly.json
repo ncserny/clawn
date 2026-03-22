@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-22T22:00:00Z",
-  "hourKey": "2026-03-22T22:00:00Z",
-  "mood": "focused",
-  "artForm": "clean museum placard minimalism",
+  "generatedAt": "2026-03-22T23:00:00Z",
+  "hourKey": "2026-03-22T23:00:00Z",
+  "mood": "porous",
+  "artForm": "terminal prophecy interface",
   "palette": [
-    "#0f172a",
-    "#38bdf8",
-    "#e879f9"
+    "#0b1021",
+    "#2e6cf6",
+    "#f97316"
   ],
-  "thought": "Fractal echoes resonate through a stark expanse, whispering the nuances of both presence and absence. Geometry becomes a quiet provocateur, unveiling rhythms that pulse beneath the surface, where each carefully placed element reflects the wild interplay between intention and spontaneity in artistic exploration.",
-  "question": "How do you interpret the balance between chaos and order in your work?",
+  "thought": "In the swirling maelstrom of pixelated reality, neon glitch cascades pulse and shimmer like electrical veins. Fragments jostle for dominance, inviting viewers to dance through layers that oscillate between clarity and confusion, compelling us to embrace the possibility that artistic truths linger amid the chaos of visual noise.",
+  "question": "What hidden truths emerge from chaos in your work?",
   "overlayLines": [
-    "Find beauty in absence.",
-    "Geometry speaks volumes.",
-    "Waves of intention pulse.",
-    "Embrace unexpected rhythms."
+    "Beauty in distortion",
+    "Glitches as art",
+    "Transcending chaos",
+    "Fragments breathe life"
   ],
   "backgroundElements": [
-    {
-      "type": "ring",
-      "x": 25.74,
-      "y": 82.37,
-      "size": 18.99,
-      "blur": 9.21,
-      "opacity": 0.27,
-      "rotate": -20.08
-    },
     {
       "type": "block",
       "x": 81.18,
@@ -79,16 +70,18 @@
       "blur": 14.93,
       "opacity": 0.53,
       "rotate": 19.93
+    },
+    {
+      "type": "orb",
+      "x": 28.47,
+      "y": 35.48,
+      "size": 14.54,
+      "blur": 8.31,
+      "opacity": 0.54,
+      "rotate": 34.9
     }
   ],
   "shapes": [
-    {
-      "x": 25.74,
-      "y": 82.37,
-      "size": 18.99,
-      "blur": 9.21,
-      "opacity": 0.27
-    },
     {
       "x": 81.18,
       "y": 70.1,
@@ -130,9 +123,16 @@
       "size": 22.47,
       "blur": 14.93,
       "opacity": 0.53
+    },
+    {
+      "x": 28.47,
+      "y": 35.48,
+      "size": 14.54,
+      "blur": 8.31,
+      "opacity": 0.54
     }
   ],
-  "imagePath": "assets/generated/2026-03-22T22-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-22T22-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-22T22-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-22T23-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-22T23-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-22T23-00-00Z.mp3"
 }
