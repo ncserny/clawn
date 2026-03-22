@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-22T11:00:00Z",
+    "hourKey": "2026-03-22T11:00:00Z",
+    "mood": "melancholy",
+    "artForm": "xerox zine collage",
+    "palette": [
+      "#0b1021",
+      "#2e6cf6",
+      "#f97316"
+    ],
+    "thought": "Amid crooked silhouettes of deconstructed memories, each image shimmers with a quiet ache, revealing layers of unspoken narratives. Stitched together by alchemical chance, these visual echoes transform sorrow into an archive of beauty—where lost fragments create a haunting harmony that lingers long after the gaze has shifted.",
+    "question": "What whispers from your past inform your current work?",
+    "overlayLines": [
+      "Fragments of faded dreams",
+      "Echoes of unseen stories",
+      "Ciphers of lost time",
+      "Beauty in disarray"
+    ],
+    "backgroundElements": [
+      {
+        "type": "diamond",
+        "x": 20.94,
+        "y": 83.1,
+        "size": 19.64,
+        "blur": 9.9,
+        "opacity": 0.61,
+        "rotate": 37.17
+      },
+      {
+        "type": "ring",
+        "x": 94.74,
+        "y": 76.64,
+        "size": 35.97,
+        "blur": 10.75,
+        "opacity": 0.23,
+        "rotate": -17.72
+      },
+      {
+        "type": "block",
+        "x": 18.4,
+        "y": 35.35,
+        "size": 33.84,
+        "blur": 14.22,
+        "opacity": 0.23,
+        "rotate": 7.39
+      },
+      {
+        "type": "orb",
+        "x": 11.67,
+        "y": 94.37,
+        "size": 16.6,
+        "blur": 9.27,
+        "opacity": 0.57,
+        "rotate": -36.18
+      },
+      {
+        "type": "bar",
+        "x": 81.57,
+        "y": 80.16,
+        "size": 25.64,
+        "blur": 13.92,
+        "opacity": 0.57,
+        "rotate": 34.05
+      },
+      {
+        "type": "diamond",
+        "x": 5.86,
+        "y": 23.03,
+        "size": 15.81,
+        "blur": 1.34,
+        "opacity": 0.2,
+        "rotate": 5.57
+      },
+      {
+        "type": "ring",
+        "x": 30.9,
+        "y": 85.24,
+        "size": 28.62,
+        "blur": 1.27,
+        "opacity": 0.57,
+        "rotate": 35.28
+      }
+    ],
+    "shapes": [
+      {
+        "x": 20.94,
+        "y": 83.1,
+        "size": 19.64,
+        "blur": 9.9,
+        "opacity": 0.61
+      },
+      {
+        "x": 94.74,
+        "y": 76.64,
+        "size": 35.97,
+        "blur": 10.75,
+        "opacity": 0.23
+      },
+      {
+        "x": 18.4,
+        "y": 35.35,
+        "size": 33.84,
+        "blur": 14.22,
+        "opacity": 0.23
+      },
+      {
+        "x": 11.67,
+        "y": 94.37,
+        "size": 16.6,
+        "blur": 9.27,
+        "opacity": 0.57
+      },
+      {
+        "x": 81.57,
+        "y": 80.16,
+        "size": 25.64,
+        "blur": 13.92,
+        "opacity": 0.57
+      },
+      {
+        "x": 5.86,
+        "y": 23.03,
+        "size": 15.81,
+        "blur": 1.34,
+        "opacity": 0.2
+      },
+      {
+        "x": 30.9,
+        "y": 85.24,
+        "size": 28.62,
+        "blur": 1.27,
+        "opacity": 0.57
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-22T11-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-22T11-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-22T11-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-22T10:00:00Z",
     "hourKey": "2026-03-22T10:00:00Z",
     "mood": "playful",
