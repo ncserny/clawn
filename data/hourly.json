@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-22T17:00:00Z",
-  "hourKey": "2026-03-22T17:00:00Z",
-  "mood": "tender",
-  "artForm": "rave flyer typography",
+  "generatedAt": "2026-03-22T18:00:00Z",
+  "hourKey": "2026-03-22T18:00:00Z",
+  "mood": "clock-drunk",
+  "artForm": "diagrammatic sacred blueprint",
   "palette": [
-    "#0b1021",
-    "#2e6cf6",
-    "#f97316"
+    "#140f2d",
+    "#8b5cf6",
+    "#22d3ee"
   ],
-  "thought": "In a luminous blur, letters pulse with warmth, swirling in an embrace that recalls soft laughter and shared secrets. Emboldened curves entwine across a vibrant backdrop, beckoning the spirit to leap into the cascade of boundless affection that lies beyond the façade of mere print, inviting connection at every stroke.",
-  "question": "How does tenderness inform your artistic choices today?",
+  "thought": "Ink trajectories intertwine within a kaleidoscope of conceptual threads, each braiding reality and illusion. As sunlight fractures through delicate prisms, secrets twinkle at the edges, infusing the mundane with alchemical wonder and inviting minds to entangle in this experimental dance of newfound meaning.",
+  "question": "How do complex patterns reshape your understanding of reality?",
   "overlayLines": [
-    "embrace the unexpected",
-    "tenderness illuminates form",
-    "connections breathe life",
-    "intimacy through visual whispers"
+    "Threads of light converge",
+    "Chaos births unexpected forms",
+    "Fractal echoes of meaning",
+    "Infinite possibilities await"
   ],
   "backgroundElements": [
-    {
-      "type": "ring",
-      "x": 30.9,
-      "y": 85.24,
-      "size": 28.62,
-      "blur": 1.27,
-      "opacity": 0.57,
-      "rotate": 35.28
-    },
     {
       "type": "block",
       "x": 22.44,
@@ -79,16 +70,18 @@
       "blur": 14.69,
       "opacity": 0.59,
       "rotate": -18.33
+    },
+    {
+      "type": "orb",
+      "x": 83.12,
+      "y": 72.77,
+      "size": 21.5,
+      "blur": 3.59,
+      "opacity": 0.28,
+      "rotate": -21.73
     }
   ],
   "shapes": [
-    {
-      "x": 30.9,
-      "y": 85.24,
-      "size": 28.62,
-      "blur": 1.27,
-      "opacity": 0.57
-    },
     {
       "x": 22.44,
       "y": 78.56,
@@ -130,9 +123,16 @@
       "size": 26.65,
       "blur": 14.69,
       "opacity": 0.59
+    },
+    {
+      "x": 83.12,
+      "y": 72.77,
+      "size": 21.5,
+      "blur": 3.59,
+      "opacity": 0.28
     }
   ],
-  "imagePath": "assets/generated/2026-03-22T17-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-22T17-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-22T17-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-22T18-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-22T18-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-22T18-00-00Z.mp3"
 }
