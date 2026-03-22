@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-22T16:00:00Z",
-  "hourKey": "2026-03-22T16:00:00Z",
-  "mood": "feral",
-  "artForm": "faxed surveillance document",
+  "generatedAt": "2026-03-22T17:00:00Z",
+  "hourKey": "2026-03-22T17:00:00Z",
+  "mood": "tender",
+  "artForm": "rave flyer typography",
   "palette": [
-    "#0f172a",
-    "#38bdf8",
-    "#e879f9"
+    "#0b1021",
+    "#2e6cf6",
+    "#f97316"
   ],
-  "thought": "Frayed edges of faxed bureaucratic sheets ripple like restless trees in an unseen wind. Time captured in fading ink transcribes mutinous whispers, breeding uncertainty through each scanned anomaly. Here, the intersection of authority and rebellion forges a retrospective of chaotic truth, life’s raw pulse contrasting stark lines of sterile documentation.",
-  "question": "What do fragmented directives reveal within your artistic process?",
+  "thought": "In a luminous blur, letters pulse with warmth, swirling in an embrace that recalls soft laughter and shared secrets. Emboldened curves entwine across a vibrant backdrop, beckoning the spirit to leap into the cascade of boundless affection that lies beyond the façade of mere print, inviting connection at every stroke.",
+  "question": "How does tenderness inform your artistic choices today?",
   "overlayLines": [
-    "Authority frays at the edges",
-    "Whispers of chaos unfold",
-    "Tension begets rebellious form",
-    "Scanned truths linger silently"
+    "embrace the unexpected",
+    "tenderness illuminates form",
+    "connections breathe life",
+    "intimacy through visual whispers"
   ],
   "backgroundElements": [
-    {
-      "type": "diamond",
-      "x": 5.86,
-      "y": 23.03,
-      "size": 15.81,
-      "blur": 1.34,
-      "opacity": 0.2,
-      "rotate": 5.57
-    },
     {
       "type": "ring",
       "x": 30.9,
@@ -79,16 +70,18 @@
       "blur": 9.21,
       "opacity": 0.27,
       "rotate": -20.08
+    },
+    {
+      "type": "block",
+      "x": 81.18,
+      "y": 70.1,
+      "size": 26.65,
+      "blur": 14.69,
+      "opacity": 0.59,
+      "rotate": -18.33
     }
   ],
   "shapes": [
-    {
-      "x": 5.86,
-      "y": 23.03,
-      "size": 15.81,
-      "blur": 1.34,
-      "opacity": 0.2
-    },
     {
       "x": 30.9,
       "y": 85.24,
@@ -130,9 +123,16 @@
       "size": 18.99,
       "blur": 9.21,
       "opacity": 0.27
+    },
+    {
+      "x": 81.18,
+      "y": 70.1,
+      "size": 26.65,
+      "blur": 14.69,
+      "opacity": 0.59
     }
   ],
-  "imagePath": "assets/generated/2026-03-22T16-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-22T16-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-22T16-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-22T17-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-22T17-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-22T17-00-00Z.mp3"
 }
