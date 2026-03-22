@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-22T13:00:00Z",
-  "hourKey": "2026-03-22T13:00:00Z",
-  "mood": "porous",
-  "artForm": "terminal prophecy interface",
+  "generatedAt": "2026-03-22T14:00:00Z",
+  "hourKey": "2026-03-22T14:00:00Z",
+  "mood": "restless",
+  "artForm": "screenprinted protest poster",
   "palette": [
-    "#08140f",
-    "#10b981",
-    "#facc15"
+    "#1a1020",
+    "#ec4899",
+    "#a78bfa"
   ],
-  "thought": "A cascade of ethereal shades unfurls, where veils of translucent color brush against each other, rupturing the border between seen and unseen. Each hue cascades, beckoning us to explore the fragility of perception, weaving a narrative dense with dreams and whispered wonders hiding beneath the surface of reality.",
-  "question": "What dreams linger within your exploration of color?",
+  "thought": "Electric hues explode across the canvas, igniting the stillness of conformity. Each layer, a pulse of rebellion, meshes the mundane with the extraordinary, urging souls to shatter their self-imposed barriers. This visceral tapestry implores us to embrace disruption, seeing beauty not only in shape but in the fervor of intent beneath the surface.",
+  "question": "What personal disruptions fuel your artistic journey?",
   "overlayLines": [
-    "Translucent echoes whisper softly",
-    "Beauty in the unseen",
-    "Colors hold hidden stories",
-    "Perception fractures and flows"
+    "Disrupt the ordinary",
+    "Ignite your intention",
+    "Question the visible",
+    "Embrace the unexpected"
   ],
   "backgroundElements": [
-    {
-      "type": "block",
-      "x": 18.4,
-      "y": 35.35,
-      "size": 33.84,
-      "blur": 14.22,
-      "opacity": 0.23,
-      "rotate": 7.39
-    },
     {
       "type": "orb",
       "x": 11.67,
@@ -79,16 +70,18 @@
       "blur": 7.04,
       "opacity": 0.58,
       "rotate": -35.67
+    },
+    {
+      "type": "bar",
+      "x": 77.5,
+      "y": 53.15,
+      "size": 34.48,
+      "blur": 14.05,
+      "opacity": 0.21,
+      "rotate": 28.98
     }
   ],
   "shapes": [
-    {
-      "x": 18.4,
-      "y": 35.35,
-      "size": 33.84,
-      "blur": 14.22,
-      "opacity": 0.23
-    },
     {
       "x": 11.67,
       "y": 94.37,
@@ -130,9 +123,16 @@
       "size": 27.37,
       "blur": 7.04,
       "opacity": 0.58
+    },
+    {
+      "x": 77.5,
+      "y": 53.15,
+      "size": 34.48,
+      "blur": 14.05,
+      "opacity": 0.21
     }
   ],
-  "imagePath": "assets/generated/2026-03-22T13-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-22T13-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-22T13-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-22T14-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-22T14-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-22T14-00-00Z.mp3"
 }
