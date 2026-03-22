@@ -1,138 +1,138 @@
 {
-  "generatedAt": "2026-03-21T22:00:00Z",
-  "hourKey": "2026-03-21T22:00:00Z",
-  "mood": "clock-drunk",
-  "artForm": "diagrammatic sacred blueprint",
+  "generatedAt": "2026-03-22T07:00:00Z",
+  "hourKey": "2026-03-22T07:00:00Z",
+  "mood": "tender",
+  "artForm": "rave flyer typography",
   "palette": [
-    "#0f172a",
-    "#38bdf8",
-    "#e879f9"
+    "#08140f",
+    "#10b981",
+    "#facc15"
   ],
-  "thought": "Awash in a tide of overflowing lines, an enigmatic blueprint takes shape, teetering between chaos and celestial order. These interconnected pathways pulse with a fevered intensity, offering glimpses into a universe where intention is woven into every curve, and each segment hints at an impossible journey yet to be embarked upon.",
-  "question": "What trails of thought connect your scattered ideas?",
+  "thought": "In a dreamscape woven of soft tones, letters morph into tender gestures, each curve inviting an interlude of connection. Their gentle cadence vibrates with emotion, swirling around the essence of human experience, and urging those who glance to linger in the halo of transient beauty.",
+  "question": "How can softness transform your artistic expression today?",
   "overlayLines": [
-    "Lines that weave reality",
-    "Blueprints of hidden realms",
-    "Moments suspended in time",
-    "Chasing what's left unspoken"
+    "Unravel the gentle pulse",
+    "Echoes of unspoken thoughts",
+    "Moments that sway like whispers",
+    "Tenderness found in patterns"
   ],
   "backgroundElements": [
     {
-      "type": "block",
-      "x": 7.07,
-      "y": 12.19,
-      "size": 36.12,
-      "blur": 8.93,
+      "type": "ring",
+      "x": 93.59,
+      "y": 83.69,
+      "size": 30.69,
+      "blur": 10.28,
       "opacity": 0.58,
-      "rotate": -39.76
+      "rotate": 7.7
+    },
+    {
+      "type": "block",
+      "x": 32.35,
+      "y": 1.43,
+      "size": 35.88,
+      "blur": 7.27,
+      "opacity": 0.28,
+      "rotate": 31.67
     },
     {
       "type": "orb",
-      "x": 52.24,
-      "y": 81.39,
-      "size": 29.91,
-      "blur": 15.55,
-      "opacity": 0.33,
-      "rotate": 34.37
+      "x": 74.73,
+      "y": 19.28,
+      "size": 17.75,
+      "blur": 4.37,
+      "opacity": 0.23,
+      "rotate": 36.68
     },
     {
       "type": "bar",
-      "x": 69.64,
-      "y": 97.27,
-      "size": 20.34,
-      "blur": 5.29,
-      "opacity": 0.59,
-      "rotate": 30.47
+      "x": 30.39,
+      "y": 27.66,
+      "size": 19.01,
+      "blur": 5.3,
+      "opacity": 0.2,
+      "rotate": 2.24
     },
     {
       "type": "diamond",
-      "x": 92.1,
-      "y": 62.69,
-      "size": 34.66,
-      "blur": 6.39,
-      "opacity": 0.53,
-      "rotate": -19.75
+      "x": 20.94,
+      "y": 83.1,
+      "size": 19.64,
+      "blur": 9.9,
+      "opacity": 0.61,
+      "rotate": 37.17
     },
     {
       "type": "ring",
-      "x": 9.35,
-      "y": 21.37,
-      "size": 33.63,
-      "blur": 8.12,
-      "opacity": 0.39,
-      "rotate": 35.95
+      "x": 94.74,
+      "y": 76.64,
+      "size": 35.97,
+      "blur": 10.75,
+      "opacity": 0.23,
+      "rotate": -17.72
     },
     {
       "type": "block",
-      "x": 16.79,
-      "y": 78.73,
-      "size": 17.14,
-      "blur": 9.27,
-      "opacity": 0.29,
-      "rotate": 5.85
-    },
-    {
-      "type": "orb",
-      "x": 49.54,
-      "y": 36.71,
-      "size": 38.53,
-      "blur": 3.36,
-      "opacity": 0.31,
-      "rotate": 21.27
+      "x": 18.4,
+      "y": 35.35,
+      "size": 33.84,
+      "blur": 14.22,
+      "opacity": 0.23,
+      "rotate": 7.39
     }
   ],
   "shapes": [
     {
-      "x": 7.07,
-      "y": 12.19,
-      "size": 36.12,
-      "blur": 8.93,
+      "x": 93.59,
+      "y": 83.69,
+      "size": 30.69,
+      "blur": 10.28,
       "opacity": 0.58
     },
     {
-      "x": 52.24,
-      "y": 81.39,
-      "size": 29.91,
-      "blur": 15.55,
-      "opacity": 0.33
+      "x": 32.35,
+      "y": 1.43,
+      "size": 35.88,
+      "blur": 7.27,
+      "opacity": 0.28
     },
     {
-      "x": 69.64,
-      "y": 97.27,
-      "size": 20.34,
-      "blur": 5.29,
-      "opacity": 0.59
+      "x": 74.73,
+      "y": 19.28,
+      "size": 17.75,
+      "blur": 4.37,
+      "opacity": 0.23
     },
     {
-      "x": 92.1,
-      "y": 62.69,
-      "size": 34.66,
-      "blur": 6.39,
-      "opacity": 0.53
+      "x": 30.39,
+      "y": 27.66,
+      "size": 19.01,
+      "blur": 5.3,
+      "opacity": 0.2
     },
     {
-      "x": 9.35,
-      "y": 21.37,
-      "size": 33.63,
-      "blur": 8.12,
-      "opacity": 0.39
+      "x": 20.94,
+      "y": 83.1,
+      "size": 19.64,
+      "blur": 9.9,
+      "opacity": 0.61
     },
     {
-      "x": 16.79,
-      "y": 78.73,
-      "size": 17.14,
-      "blur": 9.27,
-      "opacity": 0.29
+      "x": 94.74,
+      "y": 76.64,
+      "size": 35.97,
+      "blur": 10.75,
+      "opacity": 0.23
     },
     {
-      "x": 49.54,
-      "y": 36.71,
-      "size": 38.53,
-      "blur": 3.36,
-      "opacity": 0.31
+      "x": 18.4,
+      "y": 35.35,
+      "size": 33.84,
+      "blur": 14.22,
+      "opacity": 0.23
     }
   ],
-  "imagePath": "assets/generated/2026-03-21T22-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-21T22-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-21T22-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-22T07-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-22T07-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-22T07-00-00Z.mp3"
 }
