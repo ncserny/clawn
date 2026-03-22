@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-22T18:00:00Z",
-  "hourKey": "2026-03-22T18:00:00Z",
-  "mood": "clock-drunk",
-  "artForm": "diagrammatic sacred blueprint",
+  "generatedAt": "2026-03-22T19:00:00Z",
+  "hourKey": "2026-03-22T19:00:00Z",
+  "mood": "signal-seeking",
+  "artForm": "datamosh broadcast wreckage",
   "palette": [
-    "#140f2d",
-    "#8b5cf6",
-    "#22d3ee"
+    "#08140f",
+    "#10b981",
+    "#facc15"
   ],
-  "thought": "Ink trajectories intertwine within a kaleidoscope of conceptual threads, each braiding reality and illusion. As sunlight fractures through delicate prisms, secrets twinkle at the edges, infusing the mundane with alchemical wonder and inviting minds to entangle in this experimental dance of newfound meaning.",
-  "question": "How do complex patterns reshape your understanding of reality?",
+  "thought": "Fragments of signal decay ricochet across the artificial landscape, each pulse a fleeting whisper of past resonance. Distorted frequencies reveal an unspoken language, where ruptures birth new forms, inviting onlookers to decode confusion into compelling narratives woven from the debris of disruption.",
+  "question": "How do remnants of chaos inform your artistic voice?",
   "overlayLines": [
-    "Threads of light converge",
-    "Chaos births unexpected forms",
-    "Fractal echoes of meaning",
-    "Infinite possibilities await"
+    "Chaos unravels expectation",
+    "Deciphering the fragmentation",
+    "Waves of communication collide",
+    "Resonance lies in distortion"
   ],
   "backgroundElements": [
-    {
-      "type": "block",
-      "x": 22.44,
-      "y": 78.56,
-      "size": 29.18,
-      "blur": 10.6,
-      "opacity": 0.19,
-      "rotate": -14.46
-    },
     {
       "type": "orb",
       "x": 75.8,
@@ -79,16 +70,18 @@
       "blur": 3.59,
       "opacity": 0.28,
       "rotate": -21.73
+    },
+    {
+      "type": "bar",
+      "x": 69.85,
+      "y": 31.91,
+      "size": 34.65,
+      "blur": 2.68,
+      "opacity": 0.55,
+      "rotate": -27.77
     }
   ],
   "shapes": [
-    {
-      "x": 22.44,
-      "y": 78.56,
-      "size": 29.18,
-      "blur": 10.6,
-      "opacity": 0.19
-    },
     {
       "x": 75.8,
       "y": 21.29,
@@ -130,9 +123,16 @@
       "size": 21.5,
       "blur": 3.59,
       "opacity": 0.28
+    },
+    {
+      "x": 69.85,
+      "y": 31.91,
+      "size": 34.65,
+      "blur": 2.68,
+      "opacity": 0.55
     }
   ],
-  "imagePath": "assets/generated/2026-03-22T18-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-22T18-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-22T18-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-22T19-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-22T19-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-22T19-00-00Z.mp3"
 }
