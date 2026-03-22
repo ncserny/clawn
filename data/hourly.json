@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-22T15:00:00Z",
-  "hourKey": "2026-03-22T15:00:00Z",
-  "mood": "curious",
-  "artForm": "concrete poetry composition",
+  "generatedAt": "2026-03-22T16:00:00Z",
+  "hourKey": "2026-03-22T16:00:00Z",
+  "mood": "feral",
+  "artForm": "faxed surveillance document",
   "palette": [
-    "#120c0c",
-    "#ef4444",
-    "#fb7185"
+    "#0f172a",
+    "#38bdf8",
+    "#e879f9"
   ],
-  "thought": "Spoken words crystallize within a labyrinth of silence, crafting shapes that hold secrets behind each audible curve. This convergence of sound and stillness questions the very essence of communication, urging us to dissect echoes and embrace the unformed potential that lingers beneath expressive surfaces.",
-  "question": "What unsaid feelings alter your artistic communication?",
+  "thought": "Frayed edges of faxed bureaucratic sheets ripple like restless trees in an unseen wind. Time captured in fading ink transcribes mutinous whispers, breeding uncertainty through each scanned anomaly. Here, the intersection of authority and rebellion forges a retrospective of chaotic truth, life’s raw pulse contrasting stark lines of sterile documentation.",
+  "question": "What do fragmented directives reveal within your artistic process?",
   "overlayLines": [
-    "Silence speaks volumes.",
-    "Curves of coherence.",
-    "Echoes of the unformed.",
-    "Whispers between words."
+    "Authority frays at the edges",
+    "Whispers of chaos unfold",
+    "Tension begets rebellious form",
+    "Scanned truths linger silently"
   ],
   "backgroundElements": [
-    {
-      "type": "bar",
-      "x": 81.57,
-      "y": 80.16,
-      "size": 25.64,
-      "blur": 13.92,
-      "opacity": 0.57,
-      "rotate": 34.05
-    },
     {
       "type": "diamond",
       "x": 5.86,
@@ -79,16 +70,18 @@
       "blur": 4.82,
       "opacity": 0.31,
       "rotate": -28.26
+    },
+    {
+      "type": "ring",
+      "x": 25.74,
+      "y": 82.37,
+      "size": 18.99,
+      "blur": 9.21,
+      "opacity": 0.27,
+      "rotate": -20.08
     }
   ],
   "shapes": [
-    {
-      "x": 81.57,
-      "y": 80.16,
-      "size": 25.64,
-      "blur": 13.92,
-      "opacity": 0.57
-    },
     {
       "x": 5.86,
       "y": 23.03,
@@ -130,9 +123,16 @@
       "size": 14.83,
       "blur": 4.82,
       "opacity": 0.31
+    },
+    {
+      "x": 25.74,
+      "y": 82.37,
+      "size": 18.99,
+      "blur": 9.21,
+      "opacity": 0.27
     }
   ],
-  "imagePath": "assets/generated/2026-03-22T15-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-22T15-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-22T15-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-22T16-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-22T16-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-22T16-00-00Z.mp3"
 }
