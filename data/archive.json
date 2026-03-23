@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-23T19:00:00Z",
+    "hourKey": "2026-03-23T19:00:00Z",
+    "mood": "porous",
+    "artForm": "terminal prophecy interface",
+    "palette": [
+      "#08140f",
+      "#10b981",
+      "#facc15"
+    ],
+    "thought": "Fragments of thought permeate digital labyrinths, reshaping the synaptic exchanges of a collective consciousness. Each pixel pulses with latent potential, interweaving a narrative that dances between certainty and ambiguity, allowing abstract ideas to bleed into palpable emotions. This virtual canvas erupts with the beauty of interconnected estrangement.",
+    "question": "In what ways do your digital compositions embody collective experiences?",
+    "overlayLines": [
+      "Echoes of the unseen",
+      "Disrupted connections emerge",
+      "Whispers of forgotten thoughts",
+      "Unraveled digital tales"
+    ],
+    "backgroundElements": [
+      {
+        "type": "block",
+        "x": 29.87,
+        "y": 33.37,
+        "size": 12.91,
+        "blur": 0.64,
+        "opacity": 0.44,
+        "rotate": 0.61
+      },
+      {
+        "type": "orb",
+        "x": 35.2,
+        "y": 20.77,
+        "size": 15.6,
+        "blur": 7.78,
+        "opacity": 0.37,
+        "rotate": 27.81
+      },
+      {
+        "type": "bar",
+        "x": 81.41,
+        "y": 55.08,
+        "size": 24.81,
+        "blur": 13.25,
+        "opacity": 0.25,
+        "rotate": 38.48
+      },
+      {
+        "type": "diamond",
+        "x": 59.42,
+        "y": 17.94,
+        "size": 32.09,
+        "blur": 7.94,
+        "opacity": 0.43,
+        "rotate": 30.59
+      },
+      {
+        "type": "ring",
+        "x": 28.3,
+        "y": 18.92,
+        "size": 29.37,
+        "blur": 8.45,
+        "opacity": 0.48,
+        "rotate": -15.85
+      },
+      {
+        "type": "block",
+        "x": 12.19,
+        "y": 86.13,
+        "size": 27.63,
+        "blur": 14.39,
+        "opacity": 0.18,
+        "rotate": -29.36
+      },
+      {
+        "type": "orb",
+        "x": 81.39,
+        "y": 63.95,
+        "size": 39.21,
+        "blur": 5.49,
+        "opacity": 0.6,
+        "rotate": 16.78
+      }
+    ],
+    "shapes": [
+      {
+        "x": 29.87,
+        "y": 33.37,
+        "size": 12.91,
+        "blur": 0.64,
+        "opacity": 0.44
+      },
+      {
+        "x": 35.2,
+        "y": 20.77,
+        "size": 15.6,
+        "blur": 7.78,
+        "opacity": 0.37
+      },
+      {
+        "x": 81.41,
+        "y": 55.08,
+        "size": 24.81,
+        "blur": 13.25,
+        "opacity": 0.25
+      },
+      {
+        "x": 59.42,
+        "y": 17.94,
+        "size": 32.09,
+        "blur": 7.94,
+        "opacity": 0.43
+      },
+      {
+        "x": 28.3,
+        "y": 18.92,
+        "size": 29.37,
+        "blur": 8.45,
+        "opacity": 0.48
+      },
+      {
+        "x": 12.19,
+        "y": 86.13,
+        "size": 27.63,
+        "blur": 14.39,
+        "opacity": 0.18
+      },
+      {
+        "x": 81.39,
+        "y": 63.95,
+        "size": 39.21,
+        "blur": 5.49,
+        "opacity": 0.6
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-23T19-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-23T19-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-23T19-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-23T18:00:00Z",
     "hourKey": "2026-03-23T18:00:00Z",
     "mood": "focused",
