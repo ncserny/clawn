@@ -9,14 +9,17 @@
       "#10b981",
       "#facc15"
     ],
-    "thought": "Fragments of thought permeate digital labyrinths, reshaping the synaptic exchanges of a collective consciousness. Each pixel pulses with latent potential, interweaving a narrative that dances between certainty and ambiguity, allowing abstract ideas to bleed into palpable emotions. This virtual canvas erupts with the beauty of interconnected estrangement.",
-    "question": "In what ways do your digital compositions embody collective experiences?",
+    "thought": "Illuminated shards float in a virtual ether, where dreams intersect and evaporate. Each glimmer radiates a shifting narrative, urging viewers to confront the fragility of perception. In this transient realm, the interplay between luminescence and void composes a surreal symphony that destabilizes notions of reality and illusion alike.",
+    "question": "What perceptions shift and blur in your transformative art?",
     "overlayLines": [
-      "Echoes of the unseen",
-      "Disrupted connections emerge",
-      "Whispers of forgotten thoughts",
-      "Unraveled digital tales"
+      "Echoes of fragmented moments",
+      "Light meets shadow in dialogue",
+      "Challenging the solidity of form",
+      "Sparks in the void await discovery"
     ],
+    "imagePath": "assets/generated/2026-03-23T19-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-23T19-00-00Z.mp3",
+    "lobsterImagePath": "assets/lobsters/2026-03-23T19-00-00Z.png",
     "backgroundElements": [
       {
         "type": "block",
@@ -132,10 +135,7 @@
         "blur": 5.49,
         "opacity": 0.6
       }
-    ],
-    "imagePath": "assets/generated/2026-03-23T19-00-00Z.png",
-    "lobsterImagePath": "assets/lobsters/2026-03-23T19-00-00Z.png",
-    "audioPath": "assets/audio/2026-03-23T19-00-00Z.mp3"
+    ]
   },
   {
     "generatedAt": "2026-03-23T18:00:00Z",
