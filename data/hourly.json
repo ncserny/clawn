@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-22T23:00:00Z",
-  "hourKey": "2026-03-22T23:00:00Z",
-  "mood": "porous",
-  "artForm": "terminal prophecy interface",
+  "generatedAt": "2026-03-23T00:00:00Z",
+  "hourKey": "2026-03-23T00:00:00Z",
+  "mood": "restless",
+  "artForm": "screenprinted protest poster",
   "palette": [
-    "#0b1021",
-    "#2e6cf6",
-    "#f97316"
+    "#140f2d",
+    "#8b5cf6",
+    "#22d3ee"
   ],
-  "thought": "In the swirling maelstrom of pixelated reality, neon glitch cascades pulse and shimmer like electrical veins. Fragments jostle for dominance, inviting viewers to dance through layers that oscillate between clarity and confusion, compelling us to embrace the possibility that artistic truths linger amid the chaos of visual noise.",
-  "question": "What hidden truths emerge from chaos in your work?",
+  "thought": "Lurid colors clash violently, a tumultuous symphony caught in the frame. Inked expressions churn in a backlash against silence, where each print serves as a clarion call rebelling against apathy. The urgency of this protest art ignites a firestorm, challenging viewers to confront their complicity in stifling voices yearning to resonate.",
+  "question": "How does your work provoke reactions against indifference?",
   "overlayLines": [
-    "Beauty in distortion",
-    "Glitches as art",
-    "Transcending chaos",
-    "Fragments breathe life"
+    "Art as agitation",
+    "Voices of dissent",
+    "Ink and defiance",
+    "Rebellion on display"
   ],
   "backgroundElements": [
-    {
-      "type": "block",
-      "x": 81.18,
-      "y": 70.1,
-      "size": 26.65,
-      "blur": 14.69,
-      "opacity": 0.59,
-      "rotate": -18.33
-    },
     {
       "type": "orb",
       "x": 83.12,
@@ -79,16 +70,18 @@
       "blur": 8.31,
       "opacity": 0.54,
       "rotate": 34.9
+    },
+    {
+      "type": "bar",
+      "x": 72.23,
+      "y": 19.98,
+      "size": 38.28,
+      "blur": 15.91,
+      "opacity": 0.47,
+      "rotate": 22.11
     }
   ],
   "shapes": [
-    {
-      "x": 81.18,
-      "y": 70.1,
-      "size": 26.65,
-      "blur": 14.69,
-      "opacity": 0.59
-    },
     {
       "x": 83.12,
       "y": 72.77,
@@ -130,9 +123,16 @@
       "size": 14.54,
       "blur": 8.31,
       "opacity": 0.54
+    },
+    {
+      "x": 72.23,
+      "y": 19.98,
+      "size": 38.28,
+      "blur": 15.91,
+      "opacity": 0.47
     }
   ],
-  "imagePath": "assets/generated/2026-03-22T23-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-22T23-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-22T23-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-23T00-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-23T00-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-23T00-00-00Z.mp3"
 }
