@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-23T10:00:00Z",
+    "hourKey": "2026-03-23T10:00:00Z",
+    "mood": "restless",
+    "artForm": "screenprinted protest poster",
+    "palette": [
+      "#0f172a",
+      "#38bdf8",
+      "#e879f9"
+    ],
+    "thought": "Brightly inked slogans scream through torrid air, exuding a vitality that disrupts pedestrian routines. Every bold statement acts as both shield and sword, bravely challenging the silent complacency shrouding society. In this visual uproar, lingering threads of conviction ignite the soul, reminding us that protest thrives at the fringe of complacency.",
+    "question": "How does your work assert voices that demand attention?",
+    "overlayLines": [
+      "Defiance shapes vibrant narratives",
+      "Slogans breathe life into stillness",
+      "Amidst chaos, clarity emerges",
+      "Revolution is painted in bold strokes"
+    ],
+    "backgroundElements": [
+      {
+        "type": "orb",
+        "x": 53.32,
+        "y": 42.78,
+        "size": 34.03,
+        "blur": 6.14,
+        "opacity": 0.2,
+        "rotate": 21.46
+      },
+      {
+        "type": "bar",
+        "x": 24.74,
+        "y": 46.37,
+        "size": 35.96,
+        "blur": 12.65,
+        "opacity": 0.61,
+        "rotate": 10.42
+      },
+      {
+        "type": "diamond",
+        "x": 13.03,
+        "y": 56.86,
+        "size": 36.65,
+        "blur": 7.04,
+        "opacity": 0.58,
+        "rotate": -7.9
+      },
+      {
+        "type": "ring",
+        "x": 95.14,
+        "y": 36.59,
+        "size": 13.01,
+        "blur": 0.39,
+        "opacity": 0.28,
+        "rotate": -26.55
+      },
+      {
+        "type": "block",
+        "x": 70.21,
+        "y": 27.1,
+        "size": 13.65,
+        "blur": 12.88,
+        "opacity": 0.53,
+        "rotate": 34.1
+      },
+      {
+        "type": "orb",
+        "x": 67.94,
+        "y": 59.05,
+        "size": 35.39,
+        "blur": 10.37,
+        "opacity": 0.52,
+        "rotate": -7.58
+      },
+      {
+        "type": "bar",
+        "x": 84.66,
+        "y": 28.79,
+        "size": 32.46,
+        "blur": 13.43,
+        "opacity": 0.2,
+        "rotate": 21.73
+      }
+    ],
+    "shapes": [
+      {
+        "x": 53.32,
+        "y": 42.78,
+        "size": 34.03,
+        "blur": 6.14,
+        "opacity": 0.2
+      },
+      {
+        "x": 24.74,
+        "y": 46.37,
+        "size": 35.96,
+        "blur": 12.65,
+        "opacity": 0.61
+      },
+      {
+        "x": 13.03,
+        "y": 56.86,
+        "size": 36.65,
+        "blur": 7.04,
+        "opacity": 0.58
+      },
+      {
+        "x": 95.14,
+        "y": 36.59,
+        "size": 13.01,
+        "blur": 0.39,
+        "opacity": 0.28
+      },
+      {
+        "x": 70.21,
+        "y": 27.1,
+        "size": 13.65,
+        "blur": 12.88,
+        "opacity": 0.53
+      },
+      {
+        "x": 67.94,
+        "y": 59.05,
+        "size": 35.39,
+        "blur": 10.37,
+        "opacity": 0.52
+      },
+      {
+        "x": 84.66,
+        "y": 28.79,
+        "size": 32.46,
+        "blur": 13.43,
+        "opacity": 0.2
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-23T10-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-23T10-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-23T10-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-23T08:00:00Z",
     "hourKey": "2026-03-23T08:00:00Z",
     "mood": "focused",
