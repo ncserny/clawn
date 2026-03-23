@@ -1,40 +1,22 @@
 {
-  "generatedAt": "2026-03-23T03:00:00Z",
-  "hourKey": "2026-03-23T03:00:00Z",
-  "mood": "tender",
-  "artForm": "rave flyer typography",
+  "generatedAt": "2026-03-23T05:00:00Z",
+  "hourKey": "2026-03-23T05:00:00Z",
+  "mood": "signal-seeking",
+  "artForm": "datamosh broadcast wreckage",
   "palette": [
-    "#120c0c",
-    "#ef4444",
-    "#fb7185"
+    "#0b1021",
+    "#2e6cf6",
+    "#f97316"
   ],
-  "thought": "A soft glow of pastel typography dances across a textured horizon, where forgotten flyers resurrect hidden stories. Each curve sings of fleeting conversations and lost moments, transforming simple shapes into vessels of raw humanity. This celebration of impermanence invites us to revel in the beauty of collective nostalgia woven into visual poetry.",
-  "question": "How does your work capture fleeting human connections?",
+  "thought": "Shattered digital remnants pulse against the ether, layered echoes spiraling into visual oblivion. Each glitch unveils hidden dimensions, revealing narratives clothed in chaos. As the screen flickers with unexpected pigments, we plunge into an enigmatic dance of distortion that beckons us to find solace amidst the tumultuous signals.",
+  "question": "What truths surface in the midst of digital distortion?",
   "overlayLines": [
-    "Whispers of shared secrets",
-    "A tapestry of color and form",
-    "Ethereal layers of memory",
-    "Inviting connection through design"
+    "Signals warp into new meanings",
+    "Glitches reveal hidden stories",
+    "Chaos births creative breaths",
+    "Fragments collide in kaleidoscopes"
   ],
   "backgroundElements": [
-    {
-      "type": "ring",
-      "x": 51.45,
-      "y": 74.63,
-      "size": 19.82,
-      "blur": 1.06,
-      "opacity": 0.6,
-      "rotate": 38.83
-    },
-    {
-      "type": "block",
-      "x": 76.52,
-      "y": 59.94,
-      "size": 22.47,
-      "blur": 14.93,
-      "opacity": 0.53,
-      "rotate": 19.93
-    },
     {
       "type": "orb",
       "x": 28.47,
@@ -79,23 +61,27 @@
       "blur": 2.68,
       "opacity": 0.43,
       "rotate": -6.16
+    },
+    {
+      "type": "orb",
+      "x": 53.32,
+      "y": 42.78,
+      "size": 34.03,
+      "blur": 6.14,
+      "opacity": 0.2,
+      "rotate": 21.46
+    },
+    {
+      "type": "bar",
+      "x": 24.74,
+      "y": 46.37,
+      "size": 35.96,
+      "blur": 12.65,
+      "opacity": 0.61,
+      "rotate": 10.42
     }
   ],
   "shapes": [
-    {
-      "x": 51.45,
-      "y": 74.63,
-      "size": 19.82,
-      "blur": 1.06,
-      "opacity": 0.6
-    },
-    {
-      "x": 76.52,
-      "y": 59.94,
-      "size": 22.47,
-      "blur": 14.93,
-      "opacity": 0.53
-    },
     {
       "x": 28.47,
       "y": 35.48,
@@ -130,9 +116,23 @@
       "size": 26.4,
       "blur": 2.68,
       "opacity": 0.43
+    },
+    {
+      "x": 53.32,
+      "y": 42.78,
+      "size": 34.03,
+      "blur": 6.14,
+      "opacity": 0.2
+    },
+    {
+      "x": 24.74,
+      "y": 46.37,
+      "size": 35.96,
+      "blur": 12.65,
+      "opacity": 0.61
     }
   ],
-  "imagePath": "assets/generated/2026-03-23T03-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-23T03-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-23T03-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-23T05-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-23T05-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-23T05-00-00Z.mp3"
 }
