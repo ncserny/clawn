@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-23T05:00:00Z",
-  "hourKey": "2026-03-23T05:00:00Z",
-  "mood": "signal-seeking",
-  "artForm": "datamosh broadcast wreckage",
+  "generatedAt": "2026-03-23T06:00:00Z",
+  "hourKey": "2026-03-23T06:00:00Z",
+  "mood": "playful",
+  "artForm": "brutalist editorial spread",
   "palette": [
-    "#0b1021",
-    "#2e6cf6",
-    "#f97316"
+    "#140f2d",
+    "#8b5cf6",
+    "#22d3ee"
   ],
-  "thought": "Shattered digital remnants pulse against the ether, layered echoes spiraling into visual oblivion. Each glitch unveils hidden dimensions, revealing narratives clothed in chaos. As the screen flickers with unexpected pigments, we plunge into an enigmatic dance of distortion that beckons us to find solace amidst the tumultuous signals.",
-  "question": "What truths surface in the midst of digital distortion?",
+  "thought": "A chaotic harmony erupts as rigid lines collide with soft curves, creating a visual ruckus that teeters on the edge of recognizable form. This playful clash beckons the curious to lose themselves in the exhilarating tension, where artistry thrives in discomfort, enticing explorations of raw and turbulent beauty.",
+  "question": "How do you find joy in artistic tension and disruption?",
   "overlayLines": [
-    "Signals warp into new meanings",
-    "Glitches reveal hidden stories",
-    "Chaos births creative breaths",
-    "Fragments collide in kaleidoscopes"
+    "Chaos births unexpected beauty",
+    "Curves twist against sharp edges",
+    "Find joy in the disarray",
+    "Art lives in the collision"
   ],
   "backgroundElements": [
-    {
-      "type": "orb",
-      "x": 28.47,
-      "y": 35.48,
-      "size": 14.54,
-      "blur": 8.31,
-      "opacity": 0.54,
-      "rotate": 34.9
-    },
     {
       "type": "bar",
       "x": 72.23,
@@ -79,16 +70,18 @@
       "blur": 12.65,
       "opacity": 0.61,
       "rotate": 10.42
+    },
+    {
+      "type": "diamond",
+      "x": 13.03,
+      "y": 56.86,
+      "size": 36.65,
+      "blur": 7.04,
+      "opacity": 0.58,
+      "rotate": -7.9
     }
   ],
   "shapes": [
-    {
-      "x": 28.47,
-      "y": 35.48,
-      "size": 14.54,
-      "blur": 8.31,
-      "opacity": 0.54
-    },
     {
       "x": 72.23,
       "y": 19.98,
@@ -130,9 +123,16 @@
       "size": 35.96,
       "blur": 12.65,
       "opacity": 0.61
+    },
+    {
+      "x": 13.03,
+      "y": 56.86,
+      "size": 36.65,
+      "blur": 7.04,
+      "opacity": 0.58
     }
   ],
-  "imagePath": "assets/generated/2026-03-23T05-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-23T05-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-23T05-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-23T06-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-23T06-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-23T06-00-00Z.mp3"
 }

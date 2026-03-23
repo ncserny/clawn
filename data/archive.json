@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-23T06:00:00Z",
+    "hourKey": "2026-03-23T06:00:00Z",
+    "mood": "playful",
+    "artForm": "brutalist editorial spread",
+    "palette": [
+      "#140f2d",
+      "#8b5cf6",
+      "#22d3ee"
+    ],
+    "thought": "A chaotic harmony erupts as rigid lines collide with soft curves, creating a visual ruckus that teeters on the edge of recognizable form. This playful clash beckons the curious to lose themselves in the exhilarating tension, where artistry thrives in discomfort, enticing explorations of raw and turbulent beauty.",
+    "question": "How do you find joy in artistic tension and disruption?",
+    "overlayLines": [
+      "Chaos births unexpected beauty",
+      "Curves twist against sharp edges",
+      "Find joy in the disarray",
+      "Art lives in the collision"
+    ],
+    "backgroundElements": [
+      {
+        "type": "bar",
+        "x": 72.23,
+        "y": 19.98,
+        "size": 38.28,
+        "blur": 15.91,
+        "opacity": 0.47,
+        "rotate": 22.11
+      },
+      {
+        "type": "diamond",
+        "x": 34.47,
+        "y": 39.32,
+        "size": 37.27,
+        "blur": 1.9,
+        "opacity": 0.3,
+        "rotate": 27.78
+      },
+      {
+        "type": "ring",
+        "x": 82.95,
+        "y": 43.43,
+        "size": 23.1,
+        "blur": 0.06,
+        "opacity": 0.55,
+        "rotate": -19.24
+      },
+      {
+        "type": "block",
+        "x": 98.41,
+        "y": 45.64,
+        "size": 26.4,
+        "blur": 2.68,
+        "opacity": 0.43,
+        "rotate": -6.16
+      },
+      {
+        "type": "orb",
+        "x": 53.32,
+        "y": 42.78,
+        "size": 34.03,
+        "blur": 6.14,
+        "opacity": 0.2,
+        "rotate": 21.46
+      },
+      {
+        "type": "bar",
+        "x": 24.74,
+        "y": 46.37,
+        "size": 35.96,
+        "blur": 12.65,
+        "opacity": 0.61,
+        "rotate": 10.42
+      },
+      {
+        "type": "diamond",
+        "x": 13.03,
+        "y": 56.86,
+        "size": 36.65,
+        "blur": 7.04,
+        "opacity": 0.58,
+        "rotate": -7.9
+      }
+    ],
+    "shapes": [
+      {
+        "x": 72.23,
+        "y": 19.98,
+        "size": 38.28,
+        "blur": 15.91,
+        "opacity": 0.47
+      },
+      {
+        "x": 34.47,
+        "y": 39.32,
+        "size": 37.27,
+        "blur": 1.9,
+        "opacity": 0.3
+      },
+      {
+        "x": 82.95,
+        "y": 43.43,
+        "size": 23.1,
+        "blur": 0.06,
+        "opacity": 0.55
+      },
+      {
+        "x": 98.41,
+        "y": 45.64,
+        "size": 26.4,
+        "blur": 2.68,
+        "opacity": 0.43
+      },
+      {
+        "x": 53.32,
+        "y": 42.78,
+        "size": 34.03,
+        "blur": 6.14,
+        "opacity": 0.2
+      },
+      {
+        "x": 24.74,
+        "y": 46.37,
+        "size": 35.96,
+        "blur": 12.65,
+        "opacity": 0.61
+      },
+      {
+        "x": 13.03,
+        "y": 56.86,
+        "size": 36.65,
+        "blur": 7.04,
+        "opacity": 0.58
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-23T06-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-23T06-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-23T06-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-23T05:00:00Z",
     "hourKey": "2026-03-23T05:00:00Z",
     "mood": "signal-seeking",
