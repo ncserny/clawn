@@ -1,49 +1,22 @@
 {
-  "generatedAt": "2026-03-23T11:00:00Z",
-  "hourKey": "2026-03-23T11:00:00Z",
-  "mood": "curious",
-  "artForm": "concrete poetry composition",
+  "generatedAt": "2026-03-23T14:00:00Z",
+  "hourKey": "2026-03-23T14:00:00Z",
+  "mood": "clock-drunk",
+  "artForm": "diagrammatic sacred blueprint",
   "palette": [
-    "#0b1021",
-    "#2e6cf6",
-    "#f97316"
+    "#1a1020",
+    "#ec4899",
+    "#a78bfa"
   ],
-  "thought": "Concrete syllables emerge from the ground, spelling the unspoken yearnings of asphalt life. Each letter swells with urgency, inscribing ephemeral thoughts onto the urban stage where whispers become shouts. In this interplay, the mundane transforms into a tapestry of revelations, awakening a dormant curiosity that thrums beneath our hurried steps.",
-  "question": "How does urban space inspire your poetic narratives?",
+  "thought": "Winding lines twist through translucent sheets, unfurling hidden intentions like ribbons of fog. Each curve sharpens perception, leading the eye into a labyrinth where patterns emerge and dissolve, reflecting the fluid dance between chaos and clarity. Here, thought crystallizes into a visual soliloquy inviting deep contemplation and playful exploration.",
+  "question": "What journeys do lines pursue in your art?",
   "overlayLines": [
-    "Syllables rise from sidewalks.",
-    "Ink bleeds into the urban space.",
-    "Whispers become resounding thoughts.",
-    "Curiosity scrawls the pavement."
+    "Blueprints of the mind",
+    "Ethereal connections unfold",
+    "Chaos breeds creativity",
+    "Whispers within distortion"
   ],
   "backgroundElements": [
-    {
-      "type": "bar",
-      "x": 24.74,
-      "y": 46.37,
-      "size": 35.96,
-      "blur": 12.65,
-      "opacity": 0.61,
-      "rotate": 10.42
-    },
-    {
-      "type": "diamond",
-      "x": 13.03,
-      "y": 56.86,
-      "size": 36.65,
-      "blur": 7.04,
-      "opacity": 0.58,
-      "rotate": -7.9
-    },
-    {
-      "type": "ring",
-      "x": 95.14,
-      "y": 36.59,
-      "size": 13.01,
-      "blur": 0.39,
-      "opacity": 0.28,
-      "rotate": -26.55
-    },
     {
       "type": "block",
       "x": 70.21,
@@ -79,30 +52,36 @@
       "blur": 10.06,
       "opacity": 0.4,
       "rotate": 29.52
+    },
+    {
+      "type": "ring",
+      "x": 81.06,
+      "y": 87.79,
+      "size": 35.34,
+      "blur": 10.17,
+      "opacity": 0.41,
+      "rotate": -20.01
+    },
+    {
+      "type": "block",
+      "x": 29.87,
+      "y": 33.37,
+      "size": 12.91,
+      "blur": 0.64,
+      "opacity": 0.44,
+      "rotate": 0.61
+    },
+    {
+      "type": "orb",
+      "x": 35.2,
+      "y": 20.77,
+      "size": 15.6,
+      "blur": 7.78,
+      "opacity": 0.37,
+      "rotate": 27.81
     }
   ],
   "shapes": [
-    {
-      "x": 24.74,
-      "y": 46.37,
-      "size": 35.96,
-      "blur": 12.65,
-      "opacity": 0.61
-    },
-    {
-      "x": 13.03,
-      "y": 56.86,
-      "size": 36.65,
-      "blur": 7.04,
-      "opacity": 0.58
-    },
-    {
-      "x": 95.14,
-      "y": 36.59,
-      "size": 13.01,
-      "blur": 0.39,
-      "opacity": 0.28
-    },
     {
       "x": 70.21,
       "y": 27.1,
@@ -130,9 +109,30 @@
       "size": 14.82,
       "blur": 10.06,
       "opacity": 0.4
+    },
+    {
+      "x": 81.06,
+      "y": 87.79,
+      "size": 35.34,
+      "blur": 10.17,
+      "opacity": 0.41
+    },
+    {
+      "x": 29.87,
+      "y": 33.37,
+      "size": 12.91,
+      "blur": 0.64,
+      "opacity": 0.44
+    },
+    {
+      "x": 35.2,
+      "y": 20.77,
+      "size": 15.6,
+      "blur": 7.78,
+      "opacity": 0.37
     }
   ],
-  "imagePath": "assets/generated/2026-03-23T11-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-23T11-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-23T11-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-23T14-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-23T14-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-23T14-00-00Z.mp3"
 }
