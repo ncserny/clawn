@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-23T14:00:00Z",
-  "hourKey": "2026-03-23T14:00:00Z",
-  "mood": "clock-drunk",
-  "artForm": "diagrammatic sacred blueprint",
+  "generatedAt": "2026-03-23T15:00:00Z",
+  "hourKey": "2026-03-23T15:00:00Z",
+  "mood": "signal-seeking",
+  "artForm": "datamosh broadcast wreckage",
   "palette": [
-    "#1a1020",
-    "#ec4899",
-    "#a78bfa"
+    "#120c0c",
+    "#ef4444",
+    "#fb7185"
   ],
-  "thought": "Winding lines twist through translucent sheets, unfurling hidden intentions like ribbons of fog. Each curve sharpens perception, leading the eye into a labyrinth where patterns emerge and dissolve, reflecting the fluid dance between chaos and clarity. Here, thought crystallizes into a visual soliloquy inviting deep contemplation and playful exploration.",
-  "question": "What journeys do lines pursue in your art?",
+  "thought": "Fleeting images collide like car wrecks amid digital ruins, where artifacts of the past blink erratically. Each moment of visual chaos reveals tantalizing glimpses into forgotten narratives, urging a relentless quest for signal amidst clamor. This relentless search transforms the ethereal silence into a resonance that demands our attention and inquiry.",
+  "question": "What narratives do you seek in visual discord?",
   "overlayLines": [
-    "Blueprints of the mind",
-    "Ethereal connections unfold",
-    "Chaos breeds creativity",
-    "Whispers within distortion"
+    "Lost amidst pixelated noise",
+    "Glimpses of fractured history",
+    "Decay births new meanings",
+    "Fragments whisper untold truths"
   ],
   "backgroundElements": [
-    {
-      "type": "block",
-      "x": 70.21,
-      "y": 27.1,
-      "size": 13.65,
-      "blur": 12.88,
-      "opacity": 0.53,
-      "rotate": 34.1
-    },
     {
       "type": "orb",
       "x": 67.94,
@@ -79,16 +70,18 @@
       "blur": 7.78,
       "opacity": 0.37,
       "rotate": 27.81
+    },
+    {
+      "type": "bar",
+      "x": 81.41,
+      "y": 55.08,
+      "size": 24.81,
+      "blur": 13.25,
+      "opacity": 0.25,
+      "rotate": 38.48
     }
   ],
   "shapes": [
-    {
-      "x": 70.21,
-      "y": 27.1,
-      "size": 13.65,
-      "blur": 12.88,
-      "opacity": 0.53
-    },
     {
       "x": 67.94,
       "y": 59.05,
@@ -130,9 +123,16 @@
       "size": 15.6,
       "blur": 7.78,
       "opacity": 0.37
+    },
+    {
+      "x": 81.41,
+      "y": 55.08,
+      "size": 24.81,
+      "blur": 13.25,
+      "opacity": 0.25
     }
   ],
-  "imagePath": "assets/generated/2026-03-23T14-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-23T14-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-23T14-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-23T15-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-23T15-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-23T15-00-00Z.mp3"
 }
