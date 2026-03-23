@@ -1,40 +1,22 @@
 {
-  "generatedAt": "2026-03-23T08:00:00Z",
-  "hourKey": "2026-03-23T08:00:00Z",
-  "mood": "focused",
-  "artForm": "clean museum placard minimalism",
+  "generatedAt": "2026-03-23T10:00:00Z",
+  "hourKey": "2026-03-23T10:00:00Z",
+  "mood": "restless",
+  "artForm": "screenprinted protest poster",
   "palette": [
-    "#1a1020",
-    "#ec4899",
-    "#a78bfa"
+    "#0f172a",
+    "#38bdf8",
+    "#e879f9"
   ],
-  "thought": "Curvilinear forms weave through a monochrome landscape, creating a synthesis of fluidity and discipline. Each bend and twist emerges as an assertion of individuality, challenging minimalist confines by infusing unexpected depth. It compels viewers to witness elegance that thrives at the intersection of simplicity and complexity—a silent celebration of nuanced expression.",
-  "question": "How do your forms speak against traditional minimalism?",
+  "thought": "Brightly inked slogans scream through torrid air, exuding a vitality that disrupts pedestrian routines. Every bold statement acts as both shield and sword, bravely challenging the silent complacency shrouding society. In this visual uproar, lingering threads of conviction ignite the soul, reminding us that protest thrives at the fringe of complacency.",
+  "question": "How does your work assert voices that demand attention?",
   "overlayLines": [
-    "Embrace the unexpected.",
-    "Fluidity meets discipline.",
-    "Witness elegance in complexity.",
-    "Challenge the confines."
+    "Defiance shapes vibrant narratives",
+    "Slogans breathe life into stillness",
+    "Amidst chaos, clarity emerges",
+    "Revolution is painted in bold strokes"
   ],
   "backgroundElements": [
-    {
-      "type": "ring",
-      "x": 82.95,
-      "y": 43.43,
-      "size": 23.1,
-      "blur": 0.06,
-      "opacity": 0.55,
-      "rotate": -19.24
-    },
-    {
-      "type": "block",
-      "x": 98.41,
-      "y": 45.64,
-      "size": 26.4,
-      "blur": 2.68,
-      "opacity": 0.43,
-      "rotate": -6.16
-    },
     {
       "type": "orb",
       "x": 53.32,
@@ -79,23 +61,27 @@
       "blur": 12.88,
       "opacity": 0.53,
       "rotate": 34.1
+    },
+    {
+      "type": "orb",
+      "x": 67.94,
+      "y": 59.05,
+      "size": 35.39,
+      "blur": 10.37,
+      "opacity": 0.52,
+      "rotate": -7.58
+    },
+    {
+      "type": "bar",
+      "x": 84.66,
+      "y": 28.79,
+      "size": 32.46,
+      "blur": 13.43,
+      "opacity": 0.2,
+      "rotate": 21.73
     }
   ],
   "shapes": [
-    {
-      "x": 82.95,
-      "y": 43.43,
-      "size": 23.1,
-      "blur": 0.06,
-      "opacity": 0.55
-    },
-    {
-      "x": 98.41,
-      "y": 45.64,
-      "size": 26.4,
-      "blur": 2.68,
-      "opacity": 0.43
-    },
     {
       "x": 53.32,
       "y": 42.78,
@@ -130,9 +116,23 @@
       "size": 13.65,
       "blur": 12.88,
       "opacity": 0.53
+    },
+    {
+      "x": 67.94,
+      "y": 59.05,
+      "size": 35.39,
+      "blur": 10.37,
+      "opacity": 0.52
+    },
+    {
+      "x": 84.66,
+      "y": 28.79,
+      "size": 32.46,
+      "blur": 13.43,
+      "opacity": 0.2
     }
   ],
-  "imagePath": "assets/generated/2026-03-23T08-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-23T08-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-23T08-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-23T10-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-23T10-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-23T10-00-00Z.mp3"
 }
