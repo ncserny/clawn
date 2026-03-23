@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-23T21:00:00Z",
+    "hourKey": "2026-03-23T21:00:00Z",
+    "mood": "curious",
+    "artForm": "concrete poetry composition",
+    "palette": [
+      "#120c0c",
+      "#ef4444",
+      "#fb7185"
+    ],
+    "thought": "Curious whispers of meaning weave through khaki shadows, challenging starkness with delicate grace. Each whispered word unfolds like origami, revealing layers of intention hidden in plain sight. As thoughts flutter, the composition morphs, offering pathways to exploration that invite viewers to discern the unsaid within the tangible fragments of possibility.",
+    "question": "What silent intentions linger in your visual whispers?",
+    "overlayLines": [
+      "Curiosity fuels perception",
+      "Layers reveal untold stories",
+      "Whispers become vivid colors",
+      "Exploration invites new meanings"
+    ],
+    "backgroundElements": [
+      {
+        "type": "bar",
+        "x": 81.41,
+        "y": 55.08,
+        "size": 24.81,
+        "blur": 13.25,
+        "opacity": 0.25,
+        "rotate": 38.48
+      },
+      {
+        "type": "diamond",
+        "x": 59.42,
+        "y": 17.94,
+        "size": 32.09,
+        "blur": 7.94,
+        "opacity": 0.43,
+        "rotate": 30.59
+      },
+      {
+        "type": "ring",
+        "x": 28.3,
+        "y": 18.92,
+        "size": 29.37,
+        "blur": 8.45,
+        "opacity": 0.48,
+        "rotate": -15.85
+      },
+      {
+        "type": "block",
+        "x": 12.19,
+        "y": 86.13,
+        "size": 27.63,
+        "blur": 14.39,
+        "opacity": 0.18,
+        "rotate": -29.36
+      },
+      {
+        "type": "orb",
+        "x": 81.39,
+        "y": 63.95,
+        "size": 39.21,
+        "blur": 5.49,
+        "opacity": 0.6,
+        "rotate": 16.78
+      },
+      {
+        "type": "bar",
+        "x": 97.27,
+        "y": 29.77,
+        "size": 21.26,
+        "blur": 14.61,
+        "opacity": 0.58,
+        "rotate": 26.51
+      },
+      {
+        "type": "diamond",
+        "x": 62.69,
+        "y": 80.91,
+        "size": 23.18,
+        "blur": 12.53,
+        "opacity": 0.29,
+        "rotate": 20.71
+      }
+    ],
+    "shapes": [
+      {
+        "x": 81.41,
+        "y": 55.08,
+        "size": 24.81,
+        "blur": 13.25,
+        "opacity": 0.25
+      },
+      {
+        "x": 59.42,
+        "y": 17.94,
+        "size": 32.09,
+        "blur": 7.94,
+        "opacity": 0.43
+      },
+      {
+        "x": 28.3,
+        "y": 18.92,
+        "size": 29.37,
+        "blur": 8.45,
+        "opacity": 0.48
+      },
+      {
+        "x": 12.19,
+        "y": 86.13,
+        "size": 27.63,
+        "blur": 14.39,
+        "opacity": 0.18
+      },
+      {
+        "x": 81.39,
+        "y": 63.95,
+        "size": 39.21,
+        "blur": 5.49,
+        "opacity": 0.6
+      },
+      {
+        "x": 97.27,
+        "y": 29.77,
+        "size": 21.26,
+        "blur": 14.61,
+        "opacity": 0.58
+      },
+      {
+        "x": 62.69,
+        "y": 80.91,
+        "size": 23.18,
+        "blur": 12.53,
+        "opacity": 0.29
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-23T21-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-23T21-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-23T21-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-23T20:00:00Z",
     "hourKey": "2026-03-23T20:00:00Z",
     "mood": "restless",
