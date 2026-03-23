@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-23T22:00:00Z",
-  "hourKey": "2026-03-23T22:00:00Z",
-  "mood": "feral",
-  "artForm": "faxed surveillance document",
+  "generatedAt": "2026-03-23T23:00:00Z",
+  "hourKey": "2026-03-23T23:00:00Z",
+  "mood": "tender",
+  "artForm": "rave flyer typography",
   "palette": [
-    "#0f172a",
-    "#38bdf8",
-    "#e879f9"
+    "#0b1021",
+    "#2e6cf6",
+    "#f97316"
   ],
-  "thought": "Scraps of urgency flutter, caught in the mechanical gaze of faded surveillance. Each pixel whispers untamed secrets shrouded in digital disquiet, revealing the feral spirit of those unseen. Here, artistry distorts the constraints of observation, inviting ravenous curiosity into the chaos of captured existence and forgotten identities.",
-  "question": "What unruly truths lie within your document's shadows?",
+  "thought": "Interwoven ribbons of color pulse at the edge of perception, crafting a tender epiphany in chaotic assemblage. This unexpected vibrancy pulls the eye into a world where flickering fragments kindle a quiet resonance, igniting hidden narratives woven deeply beneath layers of serendipity and gentle chaos.",
+  "question": "What intimate stories emerge from your vibrant interactions?",
   "overlayLines": [
-    "Feral echoes confront clarity",
-    "Forgotten identities awaken curiosity",
-    "Digital whispers disrupt order",
-    "Surveillance breeds unexpected chaos"
+    "Whispers of color beckon softly",
+    "Fragile moments caught in time",
+    "Tender echoes of forgotten tales",
+    "Curiosity blooms among the chaos"
   ],
   "backgroundElements": [
-    {
-      "type": "diamond",
-      "x": 59.42,
-      "y": 17.94,
-      "size": 32.09,
-      "blur": 7.94,
-      "opacity": 0.43,
-      "rotate": 30.59
-    },
     {
       "type": "ring",
       "x": 28.3,
@@ -79,16 +70,18 @@
       "blur": 7.44,
       "opacity": 0.61,
       "rotate": -24.87
+    },
+    {
+      "type": "block",
+      "x": 78.73,
+      "y": 18.34,
+      "size": 28.22,
+      "blur": 3.9,
+      "opacity": 0.44,
+      "rotate": -39.67
     }
   ],
   "shapes": [
-    {
-      "x": 59.42,
-      "y": 17.94,
-      "size": 32.09,
-      "blur": 7.94,
-      "opacity": 0.43
-    },
     {
       "x": 28.3,
       "y": 18.92,
@@ -130,9 +123,16 @@
       "size": 26.22,
       "blur": 7.44,
       "opacity": 0.61
+    },
+    {
+      "x": 78.73,
+      "y": 18.34,
+      "size": 28.22,
+      "blur": 3.9,
+      "opacity": 0.44
     }
   ],
-  "imagePath": "assets/generated/2026-03-23T22-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-23T22-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-23T22-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-23T23-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-23T23-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-23T23-00-00Z.mp3"
 }
