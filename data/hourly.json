@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-24T03:00:00Z",
-  "hourKey": "2026-03-24T03:00:00Z",
-  "mood": "melancholy",
-  "artForm": "xerox zine collage",
+  "generatedAt": "2026-03-24T04:00:00Z",
+  "hourKey": "2026-03-24T04:00:00Z",
+  "mood": "focused",
+  "artForm": "clean museum placard minimalism",
   "palette": [
-    "#120c0c",
-    "#ef4444",
-    "#fb7185"
+    "#0f172a",
+    "#38bdf8",
+    "#e879f9"
   ],
-  "thought": "Amidst the cracked surfaces of lost pages, wistful silhouettes of forgotten lives shield their stories. Each faint imprint resonates with unvoiced longings, layering richness onto the dullness of absence. This delicate assemblage invites introspection, beckoning viewers to unravel the haunting poetry suspended in the quiet margins of existence.",
-  "question": "What hidden longings linger in your decaying narratives?",
+  "thought": "Glinting surfaces reflect skittering moments, each one a fleeting gem captured in the sharp light of scrutiny. As intricately stitched realities intertwine, viewers are beckoned to navigate the overlapping nuances that shape our stories. Here, the shimmer of ambiguity becomes an invitation to embrace the multifaceted nature of perception.",
+  "question": "What nuances might be hiding in your reflective spaces?",
   "overlayLines": [
-    "Whispers of the unseen",
-    "Frayed edges pull focus",
-    "Layered silence speaks volumes",
-    "Fragments of forgotten dreams"
+    "Glimmers of fleeting moments",
+    "Sculpted layers of reality",
+    "Embrace the multifaceted",
+    "Navigating our shared stories"
   ],
   "backgroundElements": [
-    {
-      "type": "diamond",
-      "x": 62.69,
-      "y": 80.91,
-      "size": 23.18,
-      "blur": 12.53,
-      "opacity": 0.29,
-      "rotate": 20.71
-    },
     {
       "type": "ring",
       "x": 21.37,
@@ -79,16 +70,18 @@
       "blur": 14.12,
       "opacity": 0.45,
       "rotate": -11.9
+    },
+    {
+      "type": "block",
+      "x": 1.43,
+      "y": 85.28,
+      "size": 24.72,
+      "blur": 3.55,
+      "opacity": 0.58,
+      "rotate": 20.16
     }
   ],
   "shapes": [
-    {
-      "x": 62.69,
-      "y": 80.91,
-      "size": 23.18,
-      "blur": 12.53,
-      "opacity": 0.29
-    },
     {
       "x": 21.37,
       "y": 77.26,
@@ -130,9 +123,16 @@
       "size": 29.98,
       "blur": 14.12,
       "opacity": 0.45
+    },
+    {
+      "x": 1.43,
+      "y": 85.28,
+      "size": 24.72,
+      "blur": 3.55,
+      "opacity": 0.58
     }
   ],
-  "imagePath": "assets/generated/2026-03-24T03-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-24T03-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-24T03-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-24T04-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-24T04-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-24T04-00-00Z.mp3"
 }
