@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-24T11:00:00Z",
-  "hourKey": "2026-03-24T11:00:00Z",
-  "mood": "signal-seeking",
-  "artForm": "datamosh broadcast wreckage",
+  "generatedAt": "2026-03-24T12:00:00Z",
+  "hourKey": "2026-03-24T12:00:00Z",
+  "mood": "playful",
+  "artForm": "brutalist editorial spread",
   "palette": [
-    "#0b1021",
-    "#2e6cf6",
-    "#f97316"
+    "#140f2d",
+    "#8b5cf6",
+    "#22d3ee"
   ],
-  "thought": "Amidst a montage of fragmented screens, distorted signals pulse with stories that straddle the edge of coherence. Each clash of pixelated noise becomes a reverberation of lost connections, evoking a longing for clarity and belonging. Viewers are lured into this chaotic embrace, where art mirrors the dance of existence in its unrefined glory.",
-  "question": "How do fractured realities find meaning in your expression?",
+  "thought": "Beneath the weight of geometric shadows, playful eruptions of color release symphonic chaos. Each angle spins a fragmented yarn, inviting laughter amidst disarray. This tapestry of unapologetic forms captivates, provoking a whimsical dance of thoughts that churn the viewer's expectations like playful currents in a river of creativity.",
+  "question": "What truths leap between your chaotic shapes and forms?",
   "overlayLines": [
-    "Fragments of lost signals",
-    "Chaos burns through screens",
-    "Longing for connection",
-    "Art in disarray speaks"
+    "Cacophonous lines beckon adventure.",
+    "Whimsy in every twist and turn.",
+    "Geometry meets joyous rebellion.",
+    "Dare to disrupt the ordinary."
   ],
   "backgroundElements": [
-    {
-      "type": "orb",
-      "x": 19.28,
-      "y": 20.52,
-      "size": 19.65,
-      "blur": 1.91,
-      "opacity": 0.61,
-      "rotate": 8.82
-    },
     {
       "type": "bar",
       "x": 27.66,
@@ -79,16 +70,18 @@
       "blur": 13.75,
       "opacity": 0.6,
       "rotate": 26.61
+    },
+    {
+      "type": "diamond",
+      "x": 23.03,
+      "y": 13.6,
+      "size": 14.35,
+      "blur": 0.74,
+      "opacity": 0.44,
+      "rotate": -18.09
     }
   ],
   "shapes": [
-    {
-      "x": 19.28,
-      "y": 20.52,
-      "size": 19.65,
-      "blur": 1.91,
-      "opacity": 0.61
-    },
     {
       "x": 27.66,
       "y": 25.03,
@@ -130,9 +123,16 @@
       "size": 36.37,
       "blur": 13.75,
       "opacity": 0.6
+    },
+    {
+      "x": 23.03,
+      "y": 13.6,
+      "size": 14.35,
+      "blur": 0.74,
+      "opacity": 0.44
     }
   ],
-  "imagePath": "assets/generated/2026-03-24T11-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-24T11-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-24T11-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-24T12-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-24T12-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-24T12-00-00Z.mp3"
 }
