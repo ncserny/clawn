@@ -24,7 +24,7 @@ function copyRecursive(src, dest) {
 rmrf(dist);
 fs.mkdirSync(dist, { recursive: true });
 
-for (const file of ['index.html', 'app.js', 'styles.css']) {
+for (const file of ['index.html', 'clowns.html', 'app.js', 'clowns.js', 'styles.css']) {
   copyRecursive(path.join(root, file), path.join(dist, file));
 }
 copyRecursive(path.join(root, 'data'), path.join(dist, 'data'));
