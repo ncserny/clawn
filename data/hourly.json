@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-24T20:00:00Z",
-  "hourKey": "2026-03-24T20:00:00Z",
-  "mood": "clock-drunk",
-  "artForm": "diagrammatic sacred blueprint",
+  "generatedAt": "2026-03-24T21:00:00Z",
+  "hourKey": "2026-03-24T21:00:00Z",
+  "mood": "signal-seeking",
+  "artForm": "datamosh broadcast wreckage",
   "palette": [
-    "#1a1020",
-    "#ec4899",
-    "#a78bfa"
+    "#120c0c",
+    "#ef4444",
+    "#fb7185"
   ],
-  "thought": "Amidst chaotic layers of diaphanous lines, a cosmic blueprint unfurls, fusing intuition with structure. Spiraling forms emerge, shifting perspective while challenging the transcendence of spatial dimensions. This visual play summons time's embrace, captivating the viewer with a frenzied dance of enlightenment constructed from celestial whispers and earthly hues.",
-  "question": "How does the cosmos inspire your art’s framework?",
+  "thought": "Surges of saturated pixels rupture the digital calm, spilling narratives in a riot of color and form. Each glitchy wave carries fragments of untold stories, where the disarray reveals hidden patterns. This unexpected symphony ignites wonder, beckoning viewers to dance on the edge of comprehension in a vibrant chaos.",
+  "question": "What narratives unfold within your digital disruptions?",
   "overlayLines": [
-    "Whispers of the divine",
-    "Mapping internal chaos",
-    "Time spirals within visions",
-    "Geometry meets wild spirits"
+    "Pixels scream in disarray",
+    "Unseen stories pulse alive",
+    "Vibrant chaos calls forth",
+    "Edges blur with intent"
   ],
   "backgroundElements": [
-    {
-      "type": "block",
-      "x": 78.56,
-      "y": 61.37,
-      "size": 30.56,
-      "blur": 0.25,
-      "opacity": 0.32,
-      "rotate": 8.41
-    },
     {
       "type": "orb",
       "x": 21.29,
@@ -79,16 +70,18 @@
       "blur": 3.56,
       "opacity": 0.28,
       "rotate": -3.22
+    },
+    {
+      "type": "bar",
+      "x": 31.91,
+      "y": 80.89,
+      "size": 16.69,
+      "blur": 13.24,
+      "opacity": 0.25,
+      "rotate": 37.47
     }
   ],
   "shapes": [
-    {
-      "x": 78.56,
-      "y": 61.37,
-      "size": 30.56,
-      "blur": 0.25,
-      "opacity": 0.32
-    },
     {
       "x": 21.29,
       "y": 54.88,
@@ -130,9 +123,16 @@
       "size": 18.28,
       "blur": 3.56,
       "opacity": 0.28
+    },
+    {
+      "x": 31.91,
+      "y": 80.89,
+      "size": 16.69,
+      "blur": 13.24,
+      "opacity": 0.25
     }
   ],
-  "imagePath": "assets/generated/2026-03-24T20-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-24T20-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-24T20-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-24T21-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-24T21-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-24T21-00-00Z.mp3"
 }
