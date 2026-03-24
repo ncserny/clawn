@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-23T23:00:00Z",
-  "hourKey": "2026-03-23T23:00:00Z",
-  "mood": "tender",
-  "artForm": "rave flyer typography",
+  "generatedAt": "2026-03-24T00:00:00Z",
+  "hourKey": "2026-03-24T00:00:00Z",
+  "mood": "clock-drunk",
+  "artForm": "diagrammatic sacred blueprint",
   "palette": [
-    "#0b1021",
-    "#2e6cf6",
-    "#f97316"
+    "#140f2d",
+    "#8b5cf6",
+    "#22d3ee"
   ],
-  "thought": "Interwoven ribbons of color pulse at the edge of perception, crafting a tender epiphany in chaotic assemblage. This unexpected vibrancy pulls the eye into a world where flickering fragments kindle a quiet resonance, igniting hidden narratives woven deeply beneath layers of serendipity and gentle chaos.",
-  "question": "What intimate stories emerge from your vibrant interactions?",
+  "thought": "In a realm where constellations of ink skitter across gridded expanses, sacred geometries pulsate with undeniable energy. Each shape thrums with cryptic resonance, inviting seekers to delve into labyrinthine interpretations that challenge the known. Here, the sacred and the mundane collide in vibrant symphony, evoking a shared quest for meaning amidst dazzling chaos.",
+  "question": "How do you navigate chaos in your sacred symmetries?",
   "overlayLines": [
-    "Whispers of color beckon softly",
-    "Fragile moments caught in time",
-    "Tender echoes of forgotten tales",
-    "Curiosity blooms among the chaos"
+    "Can chaos reveal clarity?",
+    "What do shapes whisper?",
+    "How does energy shape perception?",
+    "Where does uncertainty spark wonder?"
   ],
   "backgroundElements": [
-    {
-      "type": "ring",
-      "x": 28.3,
-      "y": 18.92,
-      "size": 29.37,
-      "blur": 8.45,
-      "opacity": 0.48,
-      "rotate": -15.85
-    },
     {
       "type": "block",
       "x": 12.19,
@@ -79,16 +70,18 @@
       "blur": 3.9,
       "opacity": 0.44,
       "rotate": -39.67
+    },
+    {
+      "type": "orb",
+      "x": 36.71,
+      "y": 94.74,
+      "size": 17.88,
+      "blur": 4.71,
+      "opacity": 0.52,
+      "rotate": 39.46
     }
   ],
   "shapes": [
-    {
-      "x": 28.3,
-      "y": 18.92,
-      "size": 29.37,
-      "blur": 8.45,
-      "opacity": 0.48
-    },
     {
       "x": 12.19,
       "y": 86.13,
@@ -130,9 +123,16 @@
       "size": 28.22,
       "blur": 3.9,
       "opacity": 0.44
+    },
+    {
+      "x": 36.71,
+      "y": 94.74,
+      "size": 17.88,
+      "blur": 4.71,
+      "opacity": 0.52
     }
   ],
-  "imagePath": "assets/generated/2026-03-23T23-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-23T23-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-23T23-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-24T00-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-24T00-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-24T00-00-00Z.mp3"
 }

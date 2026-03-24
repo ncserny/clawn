@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-24T00:00:00Z",
+    "hourKey": "2026-03-24T00:00:00Z",
+    "mood": "clock-drunk",
+    "artForm": "diagrammatic sacred blueprint",
+    "palette": [
+      "#140f2d",
+      "#8b5cf6",
+      "#22d3ee"
+    ],
+    "thought": "In a realm where constellations of ink skitter across gridded expanses, sacred geometries pulsate with undeniable energy. Each shape thrums with cryptic resonance, inviting seekers to delve into labyrinthine interpretations that challenge the known. Here, the sacred and the mundane collide in vibrant symphony, evoking a shared quest for meaning amidst dazzling chaos.",
+    "question": "How do you navigate chaos in your sacred symmetries?",
+    "overlayLines": [
+      "Can chaos reveal clarity?",
+      "What do shapes whisper?",
+      "How does energy shape perception?",
+      "Where does uncertainty spark wonder?"
+    ],
+    "backgroundElements": [
+      {
+        "type": "block",
+        "x": 12.19,
+        "y": 86.13,
+        "size": 27.63,
+        "blur": 14.39,
+        "opacity": 0.18,
+        "rotate": -29.36
+      },
+      {
+        "type": "orb",
+        "x": 81.39,
+        "y": 63.95,
+        "size": 39.21,
+        "blur": 5.49,
+        "opacity": 0.6,
+        "rotate": 16.78
+      },
+      {
+        "type": "bar",
+        "x": 97.27,
+        "y": 29.77,
+        "size": 21.26,
+        "blur": 14.61,
+        "opacity": 0.58,
+        "rotate": 26.51
+      },
+      {
+        "type": "diamond",
+        "x": 62.69,
+        "y": 80.91,
+        "size": 23.18,
+        "blur": 12.53,
+        "opacity": 0.29,
+        "rotate": 20.71
+      },
+      {
+        "type": "ring",
+        "x": 21.37,
+        "y": 77.26,
+        "size": 26.22,
+        "blur": 7.44,
+        "opacity": 0.61,
+        "rotate": -24.87
+      },
+      {
+        "type": "block",
+        "x": 78.73,
+        "y": 18.34,
+        "size": 28.22,
+        "blur": 3.9,
+        "opacity": 0.44,
+        "rotate": -39.67
+      },
+      {
+        "type": "orb",
+        "x": 36.71,
+        "y": 94.74,
+        "size": 17.88,
+        "blur": 4.71,
+        "opacity": 0.52,
+        "rotate": 39.46
+      }
+    ],
+    "shapes": [
+      {
+        "x": 12.19,
+        "y": 86.13,
+        "size": 27.63,
+        "blur": 14.39,
+        "opacity": 0.18
+      },
+      {
+        "x": 81.39,
+        "y": 63.95,
+        "size": 39.21,
+        "blur": 5.49,
+        "opacity": 0.6
+      },
+      {
+        "x": 97.27,
+        "y": 29.77,
+        "size": 21.26,
+        "blur": 14.61,
+        "opacity": 0.58
+      },
+      {
+        "x": 62.69,
+        "y": 80.91,
+        "size": 23.18,
+        "blur": 12.53,
+        "opacity": 0.29
+      },
+      {
+        "x": 21.37,
+        "y": 77.26,
+        "size": 26.22,
+        "blur": 7.44,
+        "opacity": 0.61
+      },
+      {
+        "x": 78.73,
+        "y": 18.34,
+        "size": 28.22,
+        "blur": 3.9,
+        "opacity": 0.44
+      },
+      {
+        "x": 36.71,
+        "y": 94.74,
+        "size": 17.88,
+        "blur": 4.71,
+        "opacity": 0.52
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-24T00-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-24T00-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-24T00-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-23T23:00:00Z",
     "hourKey": "2026-03-23T23:00:00Z",
     "mood": "tender",
