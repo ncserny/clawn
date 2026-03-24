@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-24T22:00:00Z",
+    "hourKey": "2026-03-24T22:00:00Z",
+    "mood": "velvet",
+    "artForm": "brutalist editorial spread",
+    "palette": [
+      "#0f172a",
+      "#38bdf8",
+      "#e879f9"
+    ],
+    "thought": "Layers of dark velvet envelop angular forms, creating a tension between softness and grit. Each visual element juts out fiercely, inviting exploration within an understated elegance. This juxtaposition revels in contradictions, a daring waltz that holds a mirror to complexities lurking beneath the surface of polish.",
+    "question": "What hidden tensions reside in your artistic landscape?",
+    "overlayLines": [
+      "Softness meets the jagged edge",
+      "Complexity in simple forms",
+      "Velvet echoes of brutality",
+      "Unseen beauty in contrast"
+    ],
+    "backgroundElements": [
+      {
+        "type": "bar",
+        "x": 53.15,
+        "y": 80.3,
+        "size": 36.59,
+        "blur": 1.05,
+        "opacity": 0.57,
+        "rotate": 12.21
+      },
+      {
+        "type": "diamond",
+        "x": 99.04,
+        "y": 10.11,
+        "size": 20.44,
+        "blur": 4.49,
+        "opacity": 0.25,
+        "rotate": 30.73
+      },
+      {
+        "type": "ring",
+        "x": 82.37,
+        "y": 24.97,
+        "size": 28.13,
+        "blur": 3.22,
+        "opacity": 0.29,
+        "rotate": -27.14
+      },
+      {
+        "type": "block",
+        "x": 70.1,
+        "y": 52.33,
+        "size": 37.71,
+        "blur": 14.74,
+        "opacity": 0.3,
+        "rotate": -6.21
+      },
+      {
+        "type": "orb",
+        "x": 72.77,
+        "y": 33.93,
+        "size": 18.28,
+        "blur": 3.56,
+        "opacity": 0.28,
+        "rotate": -3.22
+      },
+      {
+        "type": "bar",
+        "x": 31.91,
+        "y": 80.89,
+        "size": 16.69,
+        "blur": 13.24,
+        "opacity": 0.25,
+        "rotate": 37.47
+      },
+      {
+        "type": "diamond",
+        "x": 28.57,
+        "y": 8.28,
+        "size": 12.45,
+        "blur": 12.8,
+        "opacity": 0.47,
+        "rotate": -20.49
+      }
+    ],
+    "shapes": [
+      {
+        "x": 53.15,
+        "y": 80.3,
+        "size": 36.59,
+        "blur": 1.05,
+        "opacity": 0.57
+      },
+      {
+        "x": 99.04,
+        "y": 10.11,
+        "size": 20.44,
+        "blur": 4.49,
+        "opacity": 0.25
+      },
+      {
+        "x": 82.37,
+        "y": 24.97,
+        "size": 28.13,
+        "blur": 3.22,
+        "opacity": 0.29
+      },
+      {
+        "x": 70.1,
+        "y": 52.33,
+        "size": 37.71,
+        "blur": 14.74,
+        "opacity": 0.3
+      },
+      {
+        "x": 72.77,
+        "y": 33.93,
+        "size": 18.28,
+        "blur": 3.56,
+        "opacity": 0.28
+      },
+      {
+        "x": 31.91,
+        "y": 80.89,
+        "size": 16.69,
+        "blur": 13.24,
+        "opacity": 0.25
+      },
+      {
+        "x": 28.57,
+        "y": 8.28,
+        "size": 12.45,
+        "blur": 12.8,
+        "opacity": 0.47
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-24T22-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-24T22-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-24T22-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-24T21:00:00Z",
     "hourKey": "2026-03-24T21:00:00Z",
     "mood": "signal-seeking",
