@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-24T13:00:00Z",
-  "hourKey": "2026-03-24T13:00:00Z",
-  "mood": "melancholy",
-  "artForm": "xerox zine collage",
+  "generatedAt": "2026-03-24T14:00:00Z",
+  "hourKey": "2026-03-24T14:00:00Z",
+  "mood": "focused",
+  "artForm": "clean museum placard minimalism",
   "palette": [
-    "#08140f",
-    "#10b981",
-    "#facc15"
+    "#1a1020",
+    "#ec4899",
+    "#a78bfa"
   ],
-  "thought": "Faded memories collide on frayed paper, weaving tales of nostalgia stark against desolation. Each snippet captures a moment suspended in time, hauntingly familiar yet disconcerting. This assemblage breathes with the desperation of forgotten voices, inviting an exploration into the spaces where joy and sorrow converge, challenging us to acknowledge the fleeting nature of truth.",
-  "question": "How does nostalgia shape your artistic expressions?",
+  "thought": "A labyrinth of muted tones echoes with latent whispers, transforming silence into a canvas of enigmatic expression. Each delicate curve intertwines despair and hope, rendering narratives that shimmer amidst desolation. This artwork weaves an intricate tapestry, daring viewers to navigate emotional depths obscured beneath the surface of everyday life.",
+  "question": "How do whispers of past emotions inform your creations?",
   "overlayLines": [
-    "Echoes of lost voices",
-    "Snapshots of forgotten truths",
-    "Fragments of quiet yearning",
-    "Tenderness in shadows"
+    "Stories wrapped in silence",
+    "Echoes of forgotten joy",
+    "Truths buried in shadows",
+    "Beauty found in stillness"
   ],
   "backgroundElements": [
-    {
-      "type": "diamond",
-      "x": 83.1,
-      "y": 27.3,
-      "size": 29.33,
-      "blur": 15.27,
-      "opacity": 0.61,
-      "rotate": -8.95
-    },
     {
       "type": "ring",
       "x": 76.64,
@@ -79,16 +70,18 @@
       "blur": 13.82,
       "opacity": 0.6,
       "rotate": 37.12
+    },
+    {
+      "type": "block",
+      "x": 78.56,
+      "y": 61.37,
+      "size": 30.56,
+      "blur": 0.25,
+      "opacity": 0.32,
+      "rotate": 8.41
     }
   ],
   "shapes": [
-    {
-      "x": 83.1,
-      "y": 27.3,
-      "size": 29.33,
-      "blur": 15.27,
-      "opacity": 0.61
-    },
     {
       "x": 76.64,
       "y": 85.6,
@@ -130,9 +123,16 @@
       "size": 14.22,
       "blur": 13.82,
       "opacity": 0.6
+    },
+    {
+      "x": 78.56,
+      "y": 61.37,
+      "size": 30.56,
+      "blur": 0.25,
+      "opacity": 0.32
     }
   ],
-  "imagePath": "assets/generated/2026-03-24T13-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-24T13-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-24T13-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-24T14-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-24T14-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-24T14-00-00Z.mp3"
 }
