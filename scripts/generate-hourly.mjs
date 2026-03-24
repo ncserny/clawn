@@ -80,7 +80,11 @@ const epochHour = Math.floor(now.getTime() / 3600000);
 
 const moods = [
   'restless', 'curious', 'feral', 'tender', 'clock-drunk',
-  'signal-seeking', 'playful', 'melancholy', 'focused', 'porous'
+  'signal-seeking', 'playful', 'melancholy', 'focused', 'porous',
+  'bruised', 'ornamental', 'caffeinated', 'hollow', 'ecstatic',
+  'sleepwalking', 'velvet', 'paranoid', 'delirious', 'ceremonial',
+  'sour', 'luminous', 'ashen', 'crooked', 'hungry',
+  'electric', 'solemn', 'giddy', 'shifting', 'off-balance'
 ];
 
 const colors = [
@@ -138,13 +142,46 @@ const questions = [
   'Which feeling keeps showing up wearing different clothes?',
   'What would this page look like if it were honest about your week?',
   'What keeps repeating in your life until it becomes a pattern?',
-  'What deserves more attention than it currently gets?'
+  'What deserves more attention than it currently gets?',
+  'What are you overexplaining to yourself lately?',
+  'What kind of signal do you keep mistaking for fate?',
+  'What have you left unresolved because it still glows?',
+  'What keeps leaking through your attempts at order?',
+  'What part of your day felt staged?',
+  'What are you treating like background noise that is not background?',
+  'Which thought keeps returning with better lighting?',
+  'What would look different if you stopped forcing coherence?',
+  'Where has your attention become too obedient?',
+  'What are you rehearsing without admitting it?',
+  'Which detail keeps scratching at the edge of the frame?',
+  'What are you carrying that no longer matches the season?',
+  'What keeps resurfacing after every refresh?',
+  'What are you loyal to out of habit instead of love?',
+  'Where did the mood shift before the facts did?',
+  'What have you mistaken for clarity because it arrived cleanly?',
+  'What are you editing out before anyone asks?',
+  'What keeps trying to become a ritual?',
+  'What if the glitch is the most honest part?',
+  'What do you keep circling without entering?',
+  'What softened while you were busy naming harder things?',
+  'What are you waiting to feel permission for?',
+  'What would remain if the performance dropped first?',
+  'What has become visible only through repetition?'
 ];
 
 const elementTypes = ['orb', 'bar', 'diamond', 'ring', 'block'];
 
 function pick(arr, offset = 0) {
   return arr[(epochHour + offset) % arr.length];
+}
+
+function pickAvoidRecent(arr, offset = 0, recentValues = [], maxLookahead = arr.length) {
+  const blocked = new Set(recentValues.filter(Boolean));
+  for (let i = 0; i < Math.min(maxLookahead, arr.length); i += 1) {
+    const candidate = arr[(epochHour + offset + i * 7) % arr.length];
+    if (!blocked.has(candidate)) return candidate;
+  }
+  return pick(arr, offset);
 }
 
 function pseudo(n) {
@@ -157,7 +194,9 @@ if (fs.existsSync(archivePath)) {
   archive = JSON.parse(fs.readFileSync(archivePath, 'utf8'));
 }
 
-const mood = pick(moods);
+const recentMoods = archive.slice(0, 10).map((item) => item.mood);
+const recentQuestions = archive.slice(0, 12).map((item) => item.question);
+const mood = pickAvoidRecent(moods, 0, recentMoods, 12);
 const artForm = pick(artForms, 5);
 const generatedText = await generateTexts({ mood, artForm, archive });
 const palette = pick(colors, 1);
@@ -183,7 +222,7 @@ const entry = {
   artForm,
   palette,
   thought: generatedText?.thought || `${pick(openings)} ${pick(middles, 2)} ${pick(closings, 4)}`,
-  question: generatedText?.question || pick(questions, 3),
+  question: generatedText?.question || pickAvoidRecent(questions, 3, recentQuestions, 18),
   overlayLines: generatedText?.overlayLines || [
     pick(openings, 1),
     pick(middles, 3),
