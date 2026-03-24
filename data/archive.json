@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-24T20:00:00Z",
+    "hourKey": "2026-03-24T20:00:00Z",
+    "mood": "clock-drunk",
+    "artForm": "diagrammatic sacred blueprint",
+    "palette": [
+      "#1a1020",
+      "#ec4899",
+      "#a78bfa"
+    ],
+    "thought": "Amidst chaotic layers of diaphanous lines, a cosmic blueprint unfurls, fusing intuition with structure. Spiraling forms emerge, shifting perspective while challenging the transcendence of spatial dimensions. This visual play summons time's embrace, captivating the viewer with a frenzied dance of enlightenment constructed from celestial whispers and earthly hues.",
+    "question": "How does the cosmos inspire your art’s framework?",
+    "overlayLines": [
+      "Whispers of the divine",
+      "Mapping internal chaos",
+      "Time spirals within visions",
+      "Geometry meets wild spirits"
+    ],
+    "backgroundElements": [
+      {
+        "type": "block",
+        "x": 78.56,
+        "y": 61.37,
+        "size": 30.56,
+        "blur": 0.25,
+        "opacity": 0.32,
+        "rotate": 8.41
+      },
+      {
+        "type": "orb",
+        "x": 21.29,
+        "y": 54.88,
+        "size": 24.32,
+        "blur": 14.25,
+        "opacity": 0.2,
+        "rotate": 38.18
+      },
+      {
+        "type": "bar",
+        "x": 53.15,
+        "y": 80.3,
+        "size": 36.59,
+        "blur": 1.05,
+        "opacity": 0.57,
+        "rotate": 12.21
+      },
+      {
+        "type": "diamond",
+        "x": 99.04,
+        "y": 10.11,
+        "size": 20.44,
+        "blur": 4.49,
+        "opacity": 0.25,
+        "rotate": 30.73
+      },
+      {
+        "type": "ring",
+        "x": 82.37,
+        "y": 24.97,
+        "size": 28.13,
+        "blur": 3.22,
+        "opacity": 0.29,
+        "rotate": -27.14
+      },
+      {
+        "type": "block",
+        "x": 70.1,
+        "y": 52.33,
+        "size": 37.71,
+        "blur": 14.74,
+        "opacity": 0.3,
+        "rotate": -6.21
+      },
+      {
+        "type": "orb",
+        "x": 72.77,
+        "y": 33.93,
+        "size": 18.28,
+        "blur": 3.56,
+        "opacity": 0.28,
+        "rotate": -3.22
+      }
+    ],
+    "shapes": [
+      {
+        "x": 78.56,
+        "y": 61.37,
+        "size": 30.56,
+        "blur": 0.25,
+        "opacity": 0.32
+      },
+      {
+        "x": 21.29,
+        "y": 54.88,
+        "size": 24.32,
+        "blur": 14.25,
+        "opacity": 0.2
+      },
+      {
+        "x": 53.15,
+        "y": 80.3,
+        "size": 36.59,
+        "blur": 1.05,
+        "opacity": 0.57
+      },
+      {
+        "x": 99.04,
+        "y": 10.11,
+        "size": 20.44,
+        "blur": 4.49,
+        "opacity": 0.25
+      },
+      {
+        "x": 82.37,
+        "y": 24.97,
+        "size": 28.13,
+        "blur": 3.22,
+        "opacity": 0.29
+      },
+      {
+        "x": 70.1,
+        "y": 52.33,
+        "size": 37.71,
+        "blur": 14.74,
+        "opacity": 0.3
+      },
+      {
+        "x": 72.77,
+        "y": 33.93,
+        "size": 18.28,
+        "blur": 3.56,
+        "opacity": 0.28
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-24T20-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-24T20-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-24T20-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-24T17:00:00Z",
     "hourKey": "2026-03-24T17:00:00Z",
     "mood": "curious",

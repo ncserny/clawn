@@ -1,49 +1,22 @@
 {
-  "generatedAt": "2026-03-24T17:00:00Z",
-  "hourKey": "2026-03-24T17:00:00Z",
-  "mood": "curious",
-  "artForm": "concrete poetry composition",
+  "generatedAt": "2026-03-24T20:00:00Z",
+  "hourKey": "2026-03-24T20:00:00Z",
+  "mood": "clock-drunk",
+  "artForm": "diagrammatic sacred blueprint",
   "palette": [
-    "#0b1021",
-    "#2e6cf6",
-    "#f97316"
+    "#1a1020",
+    "#ec4899",
+    "#a78bfa"
   ],
-  "thought": "In a swirl of letters and shapes, meaning flows like water, pooling into unexpected shapes. Each word bends and breaks under the weight of emotion, crafting a space where intensity meets whimsy. This concrete poem transcends form, inviting exploration into the depths of thought and the joy of creation that ebbs and surges.",
-  "question": "What unexpected forms emerge in your play with language?",
+  "thought": "Amidst chaotic layers of diaphanous lines, a cosmic blueprint unfurls, fusing intuition with structure. Spiraling forms emerge, shifting perspective while challenging the transcendence of spatial dimensions. This visual play summons time's embrace, captivating the viewer with a frenzied dance of enlightenment constructed from celestial whispers and earthly hues.",
+  "question": "How does the cosmos inspire your art’s framework?",
   "overlayLines": [
-    "Language dances with meaning",
-    "Words break geometric norms",
-    "Layers of thought collide",
-    "Art tempts the curious mind"
+    "Whispers of the divine",
+    "Mapping internal chaos",
+    "Time spirals within visions",
+    "Geometry meets wild spirits"
   ],
   "backgroundElements": [
-    {
-      "type": "bar",
-      "x": 80.16,
-      "y": 48.72,
-      "size": 36.37,
-      "blur": 13.75,
-      "opacity": 0.6,
-      "rotate": 26.61
-    },
-    {
-      "type": "diamond",
-      "x": 23.03,
-      "y": 13.6,
-      "size": 14.35,
-      "blur": 0.74,
-      "opacity": 0.44,
-      "rotate": -18.09
-    },
-    {
-      "type": "ring",
-      "x": 85.24,
-      "y": 59.35,
-      "size": 14.22,
-      "blur": 13.82,
-      "opacity": 0.6,
-      "rotate": 37.12
-    },
     {
       "type": "block",
       "x": 78.56,
@@ -79,30 +52,36 @@
       "blur": 4.49,
       "opacity": 0.25,
       "rotate": 30.73
+    },
+    {
+      "type": "ring",
+      "x": 82.37,
+      "y": 24.97,
+      "size": 28.13,
+      "blur": 3.22,
+      "opacity": 0.29,
+      "rotate": -27.14
+    },
+    {
+      "type": "block",
+      "x": 70.1,
+      "y": 52.33,
+      "size": 37.71,
+      "blur": 14.74,
+      "opacity": 0.3,
+      "rotate": -6.21
+    },
+    {
+      "type": "orb",
+      "x": 72.77,
+      "y": 33.93,
+      "size": 18.28,
+      "blur": 3.56,
+      "opacity": 0.28,
+      "rotate": -3.22
     }
   ],
   "shapes": [
-    {
-      "x": 80.16,
-      "y": 48.72,
-      "size": 36.37,
-      "blur": 13.75,
-      "opacity": 0.6
-    },
-    {
-      "x": 23.03,
-      "y": 13.6,
-      "size": 14.35,
-      "blur": 0.74,
-      "opacity": 0.44
-    },
-    {
-      "x": 85.24,
-      "y": 59.35,
-      "size": 14.22,
-      "blur": 13.82,
-      "opacity": 0.6
-    },
     {
       "x": 78.56,
       "y": 61.37,
@@ -130,9 +109,30 @@
       "size": 20.44,
       "blur": 4.49,
       "opacity": 0.25
+    },
+    {
+      "x": 82.37,
+      "y": 24.97,
+      "size": 28.13,
+      "blur": 3.22,
+      "opacity": 0.29
+    },
+    {
+      "x": 70.1,
+      "y": 52.33,
+      "size": 37.71,
+      "blur": 14.74,
+      "opacity": 0.3
+    },
+    {
+      "x": 72.77,
+      "y": 33.93,
+      "size": 18.28,
+      "blur": 3.56,
+      "opacity": 0.28
     }
   ],
-  "imagePath": "assets/generated/2026-03-24T17-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-24T17-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-24T17-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-24T20-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-24T20-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-24T20-00-00Z.mp3"
 }
