@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-24T01:00:00Z",
+    "hourKey": "2026-03-24T01:00:00Z",
+    "mood": "signal-seeking",
+    "artForm": "datamosh broadcast wreckage",
+    "palette": [
+      "#08140f",
+      "#10b981",
+      "#facc15"
+    ],
+    "thought": "Time fragments collide, reconstituting memories in chaotic bursts. Exquisite madness unfolds as code glitches mimic dancing flames. Amidst this confounding wreckage, clarity flickers where disarray masks unseen beauty. Here, vibrant chaos offers an invitation to discover sacred patterns woven through the dissonance of noise and light.",
+    "question": "In what ways does chaos reveal hidden structures?",
+    "overlayLines": [
+      "Where beauty meets disarray",
+      "Signals lost in the ether",
+      "Echoes of forgotten stories",
+      "Art as a mirror to chaos"
+    ],
+    "backgroundElements": [
+      {
+        "type": "orb",
+        "x": 81.39,
+        "y": 63.95,
+        "size": 39.21,
+        "blur": 5.49,
+        "opacity": 0.6,
+        "rotate": 16.78
+      },
+      {
+        "type": "bar",
+        "x": 97.27,
+        "y": 29.77,
+        "size": 21.26,
+        "blur": 14.61,
+        "opacity": 0.58,
+        "rotate": 26.51
+      },
+      {
+        "type": "diamond",
+        "x": 62.69,
+        "y": 80.91,
+        "size": 23.18,
+        "blur": 12.53,
+        "opacity": 0.29,
+        "rotate": 20.71
+      },
+      {
+        "type": "ring",
+        "x": 21.37,
+        "y": 77.26,
+        "size": 26.22,
+        "blur": 7.44,
+        "opacity": 0.61,
+        "rotate": -24.87
+      },
+      {
+        "type": "block",
+        "x": 78.73,
+        "y": 18.34,
+        "size": 28.22,
+        "blur": 3.9,
+        "opacity": 0.44,
+        "rotate": -39.67
+      },
+      {
+        "type": "orb",
+        "x": 36.71,
+        "y": 94.74,
+        "size": 17.88,
+        "blur": 4.71,
+        "opacity": 0.52,
+        "rotate": 39.46
+      },
+      {
+        "type": "bar",
+        "x": 30.65,
+        "y": 65.53,
+        "size": 18.83,
+        "blur": 8.72,
+        "opacity": 0.44,
+        "rotate": -14.37
+      }
+    ],
+    "shapes": [
+      {
+        "x": 81.39,
+        "y": 63.95,
+        "size": 39.21,
+        "blur": 5.49,
+        "opacity": 0.6
+      },
+      {
+        "x": 97.27,
+        "y": 29.77,
+        "size": 21.26,
+        "blur": 14.61,
+        "opacity": 0.58
+      },
+      {
+        "x": 62.69,
+        "y": 80.91,
+        "size": 23.18,
+        "blur": 12.53,
+        "opacity": 0.29
+      },
+      {
+        "x": 21.37,
+        "y": 77.26,
+        "size": 26.22,
+        "blur": 7.44,
+        "opacity": 0.61
+      },
+      {
+        "x": 78.73,
+        "y": 18.34,
+        "size": 28.22,
+        "blur": 3.9,
+        "opacity": 0.44
+      },
+      {
+        "x": 36.71,
+        "y": 94.74,
+        "size": 17.88,
+        "blur": 4.71,
+        "opacity": 0.52
+      },
+      {
+        "x": 30.65,
+        "y": 65.53,
+        "size": 18.83,
+        "blur": 8.72,
+        "opacity": 0.44
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-24T01-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-24T01-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-24T01-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-24T00:00:00Z",
     "hourKey": "2026-03-24T00:00:00Z",
     "mood": "clock-drunk",
