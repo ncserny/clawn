@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-24T06:00:00Z",
+    "hourKey": "2026-03-24T06:00:00Z",
+    "mood": "restless",
+    "artForm": "screenprinted protest poster",
+    "palette": [
+      "#140f2d",
+      "#8b5cf6",
+      "#22d3ee"
+    ],
+    "thought": "Rushed rhythms pulse against stark backgrounds, scattering defiance like shrapnel. Each bold hue asserts a riotous claim on attention, transforming silence into a resounding manifesto. Viewers are impelled to dissect the tumultuous layers of opposition, where the vibrant clash serves as both a call to action and a canvas of unrest.",
+    "question": "How do you portray unrest in vivid strokes?",
+    "overlayLines": [
+      "Disruption breeds new visions.",
+      "Screams captured in silence.",
+      "Unrest in color and form.",
+      "Articulating dissent through chaos."
+    ],
+    "backgroundElements": [
+      {
+        "type": "orb",
+        "x": 36.71,
+        "y": 94.74,
+        "size": 17.88,
+        "blur": 4.71,
+        "opacity": 0.52,
+        "rotate": 39.46
+      },
+      {
+        "type": "bar",
+        "x": 30.65,
+        "y": 65.53,
+        "size": 18.83,
+        "blur": 8.72,
+        "opacity": 0.44,
+        "rotate": -14.37
+      },
+      {
+        "type": "diamond",
+        "x": 8.63,
+        "y": 14.36,
+        "size": 22.8,
+        "blur": 3.31,
+        "opacity": 0.18,
+        "rotate": -4.41
+      },
+      {
+        "type": "ring",
+        "x": 83.69,
+        "y": 66.75,
+        "size": 29.98,
+        "blur": 14.12,
+        "opacity": 0.45,
+        "rotate": -11.9
+      },
+      {
+        "type": "block",
+        "x": 1.43,
+        "y": 85.28,
+        "size": 24.72,
+        "blur": 3.55,
+        "opacity": 0.58,
+        "rotate": 20.16
+      },
+      {
+        "type": "orb",
+        "x": 19.28,
+        "y": 20.52,
+        "size": 19.65,
+        "blur": 1.91,
+        "opacity": 0.61,
+        "rotate": 8.82
+      },
+      {
+        "type": "bar",
+        "x": 27.66,
+        "y": 25.03,
+        "size": 21.28,
+        "blur": 0.75,
+        "opacity": 0.42,
+        "rotate": 36.41
+      }
+    ],
+    "shapes": [
+      {
+        "x": 36.71,
+        "y": 94.74,
+        "size": 17.88,
+        "blur": 4.71,
+        "opacity": 0.52
+      },
+      {
+        "x": 30.65,
+        "y": 65.53,
+        "size": 18.83,
+        "blur": 8.72,
+        "opacity": 0.44
+      },
+      {
+        "x": 8.63,
+        "y": 14.36,
+        "size": 22.8,
+        "blur": 3.31,
+        "opacity": 0.18
+      },
+      {
+        "x": 83.69,
+        "y": 66.75,
+        "size": 29.98,
+        "blur": 14.12,
+        "opacity": 0.45
+      },
+      {
+        "x": 1.43,
+        "y": 85.28,
+        "size": 24.72,
+        "blur": 3.55,
+        "opacity": 0.58
+      },
+      {
+        "x": 19.28,
+        "y": 20.52,
+        "size": 19.65,
+        "blur": 1.91,
+        "opacity": 0.61
+      },
+      {
+        "x": 27.66,
+        "y": 25.03,
+        "size": 21.28,
+        "blur": 0.75,
+        "opacity": 0.42
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-24T06-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-24T06-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-24T06-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-24T05:00:00Z",
     "hourKey": "2026-03-24T05:00:00Z",
     "mood": "porous",
