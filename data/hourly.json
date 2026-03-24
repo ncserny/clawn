@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-24T21:00:00Z",
-  "hourKey": "2026-03-24T21:00:00Z",
-  "mood": "signal-seeking",
-  "artForm": "datamosh broadcast wreckage",
+  "generatedAt": "2026-03-24T22:00:00Z",
+  "hourKey": "2026-03-24T22:00:00Z",
+  "mood": "velvet",
+  "artForm": "brutalist editorial spread",
   "palette": [
-    "#120c0c",
-    "#ef4444",
-    "#fb7185"
+    "#0f172a",
+    "#38bdf8",
+    "#e879f9"
   ],
-  "thought": "Surges of saturated pixels rupture the digital calm, spilling narratives in a riot of color and form. Each glitchy wave carries fragments of untold stories, where the disarray reveals hidden patterns. This unexpected symphony ignites wonder, beckoning viewers to dance on the edge of comprehension in a vibrant chaos.",
-  "question": "What narratives unfold within your digital disruptions?",
+  "thought": "Layers of dark velvet envelop angular forms, creating a tension between softness and grit. Each visual element juts out fiercely, inviting exploration within an understated elegance. This juxtaposition revels in contradictions, a daring waltz that holds a mirror to complexities lurking beneath the surface of polish.",
+  "question": "What hidden tensions reside in your artistic landscape?",
   "overlayLines": [
-    "Pixels scream in disarray",
-    "Unseen stories pulse alive",
-    "Vibrant chaos calls forth",
-    "Edges blur with intent"
+    "Softness meets the jagged edge",
+    "Complexity in simple forms",
+    "Velvet echoes of brutality",
+    "Unseen beauty in contrast"
   ],
   "backgroundElements": [
-    {
-      "type": "orb",
-      "x": 21.29,
-      "y": 54.88,
-      "size": 24.32,
-      "blur": 14.25,
-      "opacity": 0.2,
-      "rotate": 38.18
-    },
     {
       "type": "bar",
       "x": 53.15,
@@ -79,16 +70,18 @@
       "blur": 13.24,
       "opacity": 0.25,
       "rotate": 37.47
+    },
+    {
+      "type": "diamond",
+      "x": 28.57,
+      "y": 8.28,
+      "size": 12.45,
+      "blur": 12.8,
+      "opacity": 0.47,
+      "rotate": -20.49
     }
   ],
   "shapes": [
-    {
-      "x": 21.29,
-      "y": 54.88,
-      "size": 24.32,
-      "blur": 14.25,
-      "opacity": 0.2
-    },
     {
       "x": 53.15,
       "y": 80.3,
@@ -130,9 +123,16 @@
       "size": 16.69,
       "blur": 13.24,
       "opacity": 0.25
+    },
+    {
+      "x": 28.57,
+      "y": 8.28,
+      "size": 12.45,
+      "blur": 12.8,
+      "opacity": 0.47
     }
   ],
-  "imagePath": "assets/generated/2026-03-24T21-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-24T21-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-24T21-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-24T22-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-24T22-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-24T22-00-00Z.mp3"
 }
