@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-24T08:00:00Z",
-  "hourKey": "2026-03-24T08:00:00Z",
-  "mood": "feral",
-  "artForm": "faxed surveillance document",
+  "generatedAt": "2026-03-24T09:00:00Z",
+  "hourKey": "2026-03-24T09:00:00Z",
+  "mood": "tender",
+  "artForm": "rave flyer typography",
   "palette": [
-    "#1a1020",
-    "#ec4899",
-    "#a78bfa"
+    "#120c0c",
+    "#ef4444",
+    "#fb7185"
   ],
-  "thought": "Feral edges slashing through monochrome boundaries, whispered codes resonate with wild truths clawing for illumination. Ink splatters dance dissident choreography, a bold rebellion of secrecy demanding to be seen. In this frenetic tableau, the clash of authority and liberty births explosive insights that linger like shadows in daylight.",
-  "question": "How do you translate wild truths into your work?",
+  "thought": "Fragments of light pierce through tender hues, crafting an emotional symphony that invites deep introspection. Each curve and swirl coalesces into a moment of serene beauty, a celebration of vulnerability that beckons viewers to embrace their own inner landscapes, painted with whispers of love and loss.",
+  "question": "How do you express vulnerability in your artistic journey?",
   "overlayLines": [
-    "Frenzied echoes await",
-    "Untamed shadows weave",
-    "Revel in rebellious glories",
-    "Clawing for vivid light"
+    "Tender colors whisper truths",
+    "Love blooms in soft shadows",
+    "Intimacy dances with loss",
+    "Layers reveal hidden depths"
   ],
   "backgroundElements": [
-    {
-      "type": "diamond",
-      "x": 8.63,
-      "y": 14.36,
-      "size": 22.8,
-      "blur": 3.31,
-      "opacity": 0.18,
-      "rotate": -4.41
-    },
     {
       "type": "ring",
       "x": 83.69,
@@ -79,16 +70,18 @@
       "blur": 1.89,
       "opacity": 0.31,
       "rotate": -1.21
+    },
+    {
+      "type": "block",
+      "x": 35.35,
+      "y": 77.98,
+      "size": 36.89,
+      "blur": 1.81,
+      "opacity": 0.45,
+      "rotate": -30.59
     }
   ],
   "shapes": [
-    {
-      "x": 8.63,
-      "y": 14.36,
-      "size": 22.8,
-      "blur": 3.31,
-      "opacity": 0.18
-    },
     {
       "x": 83.69,
       "y": 66.75,
@@ -130,9 +123,16 @@
       "size": 30.81,
       "blur": 1.89,
       "opacity": 0.31
+    },
+    {
+      "x": 35.35,
+      "y": 77.98,
+      "size": 36.89,
+      "blur": 1.81,
+      "opacity": 0.45
     }
   ],
-  "imagePath": "assets/generated/2026-03-24T08-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-24T08-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-24T08-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-24T09-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-24T09-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-24T09-00-00Z.mp3"
 }
