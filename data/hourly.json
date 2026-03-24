@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-24T06:00:00Z",
-  "hourKey": "2026-03-24T06:00:00Z",
-  "mood": "restless",
-  "artForm": "screenprinted protest poster",
+  "generatedAt": "2026-03-24T07:00:00Z",
+  "hourKey": "2026-03-24T07:00:00Z",
+  "mood": "curious",
+  "artForm": "concrete poetry composition",
   "palette": [
-    "#140f2d",
-    "#8b5cf6",
-    "#22d3ee"
+    "#08140f",
+    "#10b981",
+    "#facc15"
   ],
-  "thought": "Rushed rhythms pulse against stark backgrounds, scattering defiance like shrapnel. Each bold hue asserts a riotous claim on attention, transforming silence into a resounding manifesto. Viewers are impelled to dissect the tumultuous layers of opposition, where the vibrant clash serves as both a call to action and a canvas of unrest.",
-  "question": "How do you portray unrest in vivid strokes?",
+  "thought": "Unruly traces of discourse scatter across stark pages, each mark an echo vibrating with untold histories. Riddled with complexity and juxtaposition, this composition invites viewers to decipher layered meanings lurking within. Here, the written word distorts into wonder, urging a fresh examination of neglected or overlooked truths.",
+  "question": "What complexities of the past spring forth in your textural landscapes?",
   "overlayLines": [
-    "Disruption breeds new visions.",
-    "Screams captured in silence.",
-    "Unrest in color and form.",
-    "Articulating dissent through chaos."
+    "Words as shadows contemplate time",
+    "Echoes bleed into the silence",
+    "Fragments await discovery within chaos",
+    "Layers whisper untold narratives"
   ],
   "backgroundElements": [
-    {
-      "type": "orb",
-      "x": 36.71,
-      "y": 94.74,
-      "size": 17.88,
-      "blur": 4.71,
-      "opacity": 0.52,
-      "rotate": 39.46
-    },
     {
       "type": "bar",
       "x": 30.65,
@@ -79,16 +70,18 @@
       "blur": 0.75,
       "opacity": 0.42,
       "rotate": 36.41
+    },
+    {
+      "type": "diamond",
+      "x": 83.1,
+      "y": 27.3,
+      "size": 29.33,
+      "blur": 15.27,
+      "opacity": 0.61,
+      "rotate": -8.95
     }
   ],
   "shapes": [
-    {
-      "x": 36.71,
-      "y": 94.74,
-      "size": 17.88,
-      "blur": 4.71,
-      "opacity": 0.52
-    },
     {
       "x": 30.65,
       "y": 65.53,
@@ -130,9 +123,16 @@
       "size": 21.28,
       "blur": 0.75,
       "opacity": 0.42
+    },
+    {
+      "x": 83.1,
+      "y": 27.3,
+      "size": 29.33,
+      "blur": 15.27,
+      "opacity": 0.61
     }
   ],
-  "imagePath": "assets/generated/2026-03-24T06-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-24T06-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-24T06-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-24T07-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-24T07-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-24T07-00-00Z.mp3"
 }
