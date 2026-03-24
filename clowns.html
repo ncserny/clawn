@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>clowns — clawn archive overview</title>
+    <meta name="description" content="A single-page overview of every Clawn clown image in the archive." />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Inter:wght@400;500;600;700;800&family=Syne:wght@400;500;700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css?v=20260324-clowns1" />
+  </head>
+  <body class="clowns-page" data-theme="nocturne">
+    <div class="noise"></div>
+    <div class="scan-vignette"></div>
+
+    <main class="shell clowns-shell">
+      <header class="clowns-hero drift-panel" data-panel="hero">
+        <div>
+          <p class="eyebrow">clawn / clown archive overview</p>
+          <h1 class="clowns-title">every clown on one page.</h1>
+          <p class="lede clowns-lede">
+            A flat view into the hourly residue archive. Each card pulls from <span class="mono">archive.json</span>
+            and shows the clown image, timestamp, mood, and question for that hour.
+          </p>
+        </div>
+        <nav class="clowns-nav">
+          <a href="./index.html">back to live mutation</a>
+          <a href="https://nader.io/projects/clawn" target="_blank" rel="noreferrer">project info</a>
+        </nav>
+      </header>
+
+      <section class="clowns-summary drift-panel" data-panel="summary">
+        <div>
+          <p class="label">archive coverage</p>
+          <p id="clownsCount" class="clowns-summary-value">loading…</p>
+        </div>
+        <div>
+          <p class="label">latest visible hour</p>
+          <p id="clownsLatest" class="mono">loading…</p>
+        </div>
+        <div>
+          <p class="label">oldest visible hour</p>
+          <p id="clownsOldest" class="mono">loading…</p>
+        </div>
+      </section>
+
+      <section class="clowns-grid-wrap drift-panel" data-panel="grid">
+        <div class="section-head">
+          <p class="label">all clown residues</p>
+          <p class="section-kicker">latest first</p>
+        </div>
+        <div id="clownsGrid" class="clowns-grid"></div>
+      </section>
+    </main>
+
+    <script type="module" src="clowns.js?v=20260324-clowns1"></script>
+  </body>
+</html>
