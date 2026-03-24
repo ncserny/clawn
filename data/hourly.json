@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-24T10:00:00Z",
-  "hourKey": "2026-03-24T10:00:00Z",
-  "mood": "clock-drunk",
-  "artForm": "diagrammatic sacred blueprint",
+  "generatedAt": "2026-03-24T11:00:00Z",
+  "hourKey": "2026-03-24T11:00:00Z",
+  "mood": "signal-seeking",
+  "artForm": "datamosh broadcast wreckage",
   "palette": [
-    "#0f172a",
-    "#38bdf8",
-    "#e879f9"
+    "#0b1021",
+    "#2e6cf6",
+    "#f97316"
   ],
-  "thought": "Electric lines pulse through the sacred diagram, mapping dreams entwined with reality. Each intersection sparks inspiration, mirroring the disarray of thought spiraling into focus. This visual syntax of abstract intention invites explorers into hidden realms, revealing that structure and chaos can coexist in harmonious disarray.",
-  "question": "What new perspectives can diagrammatic blueprints bring to your work?",
+  "thought": "Amidst a montage of fragmented screens, distorted signals pulse with stories that straddle the edge of coherence. Each clash of pixelated noise becomes a reverberation of lost connections, evoking a longing for clarity and belonging. Viewers are lured into this chaotic embrace, where art mirrors the dance of existence in its unrefined glory.",
+  "question": "How do fractured realities find meaning in your expression?",
   "overlayLines": [
-    "Fleeting moments captured vividly",
-    "Ethereal whispers of chaos",
-    "Awakening symbiotic energies",
-    "Navigating layered complexities"
+    "Fragments of lost signals",
+    "Chaos burns through screens",
+    "Longing for connection",
+    "Art in disarray speaks"
   ],
   "backgroundElements": [
-    {
-      "type": "block",
-      "x": 1.43,
-      "y": 85.28,
-      "size": 24.72,
-      "blur": 3.55,
-      "opacity": 0.58,
-      "rotate": 20.16
-    },
     {
       "type": "orb",
       "x": 19.28,
@@ -79,16 +70,18 @@
       "blur": 14.01,
       "opacity": 0.2,
       "rotate": -4.34
+    },
+    {
+      "type": "bar",
+      "x": 80.16,
+      "y": 48.72,
+      "size": 36.37,
+      "blur": 13.75,
+      "opacity": 0.6,
+      "rotate": 26.61
     }
   ],
   "shapes": [
-    {
-      "x": 1.43,
-      "y": 85.28,
-      "size": 24.72,
-      "blur": 3.55,
-      "opacity": 0.58
-    },
     {
       "x": 19.28,
       "y": 20.52,
@@ -130,9 +123,16 @@
       "size": 28.22,
       "blur": 14.01,
       "opacity": 0.2
+    },
+    {
+      "x": 80.16,
+      "y": 48.72,
+      "size": 36.37,
+      "blur": 13.75,
+      "opacity": 0.6
     }
   ],
-  "imagePath": "assets/generated/2026-03-24T10-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-24T10-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-24T10-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-24T11-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-24T11-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-24T11-00-00Z.mp3"
 }
