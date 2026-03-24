@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-24T16:00:00Z",
+    "hourKey": "2026-03-24T16:00:00Z",
+    "mood": "restless",
+    "artForm": "screenprinted protest poster",
+    "palette": [
+      "#0f172a",
+      "#38bdf8",
+      "#e879f9"
+    ],
+    "thought": "Ink sputters in wild rebellion, splashing against the void, each mark a protest against stifling silence. Bright slogans weave through vibrant chaos, breaking through the monotony while urging defiance. This visceral tapestry stirs unrest within, igniting conversations in the language of unfiltered urgency that shouts rather than whispers.",
+    "question": "What message bursts forth in your creative upheaval?",
+    "overlayLines": [
+      "Defy the silence",
+      "Ink your truth",
+      "Revolt through art",
+      "Whispers of chaos"
+    ],
+    "backgroundElements": [
+      {
+        "type": "orb",
+        "x": 94.37,
+        "y": 16.41,
+        "size": 28.22,
+        "blur": 14.01,
+        "opacity": 0.2,
+        "rotate": -4.34
+      },
+      {
+        "type": "bar",
+        "x": 80.16,
+        "y": 48.72,
+        "size": 36.37,
+        "blur": 13.75,
+        "opacity": 0.6,
+        "rotate": 26.61
+      },
+      {
+        "type": "diamond",
+        "x": 23.03,
+        "y": 13.6,
+        "size": 14.35,
+        "blur": 0.74,
+        "opacity": 0.44,
+        "rotate": -18.09
+      },
+      {
+        "type": "ring",
+        "x": 85.24,
+        "y": 59.35,
+        "size": 14.22,
+        "blur": 13.82,
+        "opacity": 0.6,
+        "rotate": 37.12
+      },
+      {
+        "type": "block",
+        "x": 78.56,
+        "y": 61.37,
+        "size": 30.56,
+        "blur": 0.25,
+        "opacity": 0.32,
+        "rotate": 8.41
+      },
+      {
+        "type": "orb",
+        "x": 21.29,
+        "y": 54.88,
+        "size": 24.32,
+        "blur": 14.25,
+        "opacity": 0.2,
+        "rotate": 38.18
+      },
+      {
+        "type": "bar",
+        "x": 53.15,
+        "y": 80.3,
+        "size": 36.59,
+        "blur": 1.05,
+        "opacity": 0.57,
+        "rotate": 12.21
+      }
+    ],
+    "shapes": [
+      {
+        "x": 94.37,
+        "y": 16.41,
+        "size": 28.22,
+        "blur": 14.01,
+        "opacity": 0.2
+      },
+      {
+        "x": 80.16,
+        "y": 48.72,
+        "size": 36.37,
+        "blur": 13.75,
+        "opacity": 0.6
+      },
+      {
+        "x": 23.03,
+        "y": 13.6,
+        "size": 14.35,
+        "blur": 0.74,
+        "opacity": 0.44
+      },
+      {
+        "x": 85.24,
+        "y": 59.35,
+        "size": 14.22,
+        "blur": 13.82,
+        "opacity": 0.6
+      },
+      {
+        "x": 78.56,
+        "y": 61.37,
+        "size": 30.56,
+        "blur": 0.25,
+        "opacity": 0.32
+      },
+      {
+        "x": 21.29,
+        "y": 54.88,
+        "size": 24.32,
+        "blur": 14.25,
+        "opacity": 0.2
+      },
+      {
+        "x": 53.15,
+        "y": 80.3,
+        "size": 36.59,
+        "blur": 1.05,
+        "opacity": 0.57
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-24T16-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-24T16-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-24T16-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-24T15:00:00Z",
     "hourKey": "2026-03-24T15:00:00Z",
     "mood": "porous",
