@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-24T07:00:00Z",
-  "hourKey": "2026-03-24T07:00:00Z",
-  "mood": "curious",
-  "artForm": "concrete poetry composition",
+  "generatedAt": "2026-03-24T08:00:00Z",
+  "hourKey": "2026-03-24T08:00:00Z",
+  "mood": "feral",
+  "artForm": "faxed surveillance document",
   "palette": [
-    "#08140f",
-    "#10b981",
-    "#facc15"
+    "#1a1020",
+    "#ec4899",
+    "#a78bfa"
   ],
-  "thought": "Unruly traces of discourse scatter across stark pages, each mark an echo vibrating with untold histories. Riddled with complexity and juxtaposition, this composition invites viewers to decipher layered meanings lurking within. Here, the written word distorts into wonder, urging a fresh examination of neglected or overlooked truths.",
-  "question": "What complexities of the past spring forth in your textural landscapes?",
+  "thought": "Feral edges slashing through monochrome boundaries, whispered codes resonate with wild truths clawing for illumination. Ink splatters dance dissident choreography, a bold rebellion of secrecy demanding to be seen. In this frenetic tableau, the clash of authority and liberty births explosive insights that linger like shadows in daylight.",
+  "question": "How do you translate wild truths into your work?",
   "overlayLines": [
-    "Words as shadows contemplate time",
-    "Echoes bleed into the silence",
-    "Fragments await discovery within chaos",
-    "Layers whisper untold narratives"
+    "Frenzied echoes await",
+    "Untamed shadows weave",
+    "Revel in rebellious glories",
+    "Clawing for vivid light"
   ],
   "backgroundElements": [
-    {
-      "type": "bar",
-      "x": 30.65,
-      "y": 65.53,
-      "size": 18.83,
-      "blur": 8.72,
-      "opacity": 0.44,
-      "rotate": -14.37
-    },
     {
       "type": "diamond",
       "x": 8.63,
@@ -79,16 +70,18 @@
       "blur": 15.27,
       "opacity": 0.61,
       "rotate": -8.95
+    },
+    {
+      "type": "ring",
+      "x": 76.64,
+      "y": 85.6,
+      "size": 30.81,
+      "blur": 1.89,
+      "opacity": 0.31,
+      "rotate": -1.21
     }
   ],
   "shapes": [
-    {
-      "x": 30.65,
-      "y": 65.53,
-      "size": 18.83,
-      "blur": 8.72,
-      "opacity": 0.44
-    },
     {
       "x": 8.63,
       "y": 14.36,
@@ -130,9 +123,16 @@
       "size": 29.33,
       "blur": 15.27,
       "opacity": 0.61
+    },
+    {
+      "x": 76.64,
+      "y": 85.6,
+      "size": 30.81,
+      "blur": 1.89,
+      "opacity": 0.31
     }
   ],
-  "imagePath": "assets/generated/2026-03-24T07-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-24T07-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-24T07-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-24T08-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-24T08-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-24T08-00-00Z.mp3"
 }
