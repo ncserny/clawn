@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-25T03:00:00Z",
-  "hourKey": "2026-03-25T03:00:00Z",
-  "mood": "luminous",
-  "artForm": "concrete poetry composition",
+  "generatedAt": "2026-03-25T04:00:00Z",
+  "hourKey": "2026-03-25T04:00:00Z",
+  "mood": "ashen",
+  "artForm": "faxed surveillance document",
   "palette": [
-    "#120c0c",
-    "#ef4444",
-    "#fb7185"
+    "#0f172a",
+    "#38bdf8",
+    "#e879f9"
   ],
-  "thought": "Radiant typography spills across the canvas, each letter a vibrant heartbeat in an unending symphony. This composition weaves concrete imagery into a luminous tapestry, dancing between chaos and clarity. Fragments of thought shimmer under the light, inviting exploration of language as a visceral experience resonating with energy and exhilaration.",
-  "question": "How does your composition challenge traditional perceptions of language?",
+  "thought": "Hidden beneath layers of secrecy, faded text illuminates silent witness to unseen lives. Each block whispers tales of surveillance, etching emotional scars into the air. This art pierces through the mundane to reveal the spectral essence lying beneath our monitored existence, confronting us with the haunting truth of observation.",
+  "question": "What truths are obscured within your layers of observation?",
   "overlayLines": [
-    "Fragments of bright energy",
-    "Words that pulse with life",
-    "Unfolding a vibrant narrative",
-    "Experience the luminous flow"
+    "Fragments of unseen lives",
+    "Whispers in faded ink",
+    "Echoes of silent watch",
+    "Surveillance unveils shadows"
   ],
   "backgroundElements": [
-    {
-      "type": "bar",
-      "x": 31.91,
-      "y": 80.89,
-      "size": 16.69,
-      "blur": 13.24,
-      "opacity": 0.25,
-      "rotate": 37.47
-    },
     {
       "type": "diamond",
       "x": 28.57,
@@ -79,16 +70,18 @@
       "blur": 4.28,
       "opacity": 0.56,
       "rotate": -8.41
+    },
+    {
+      "type": "ring",
+      "x": 43.43,
+      "y": 39.65,
+      "size": 12.11,
+      "blur": 13.11,
+      "opacity": 0.3,
+      "rotate": 30.55
     }
   ],
   "shapes": [
-    {
-      "x": 31.91,
-      "y": 80.89,
-      "size": 16.69,
-      "blur": 13.24,
-      "opacity": 0.25
-    },
     {
       "x": 28.57,
       "y": 8.28,
@@ -130,9 +123,16 @@
       "size": 15.32,
       "blur": 4.28,
       "opacity": 0.56
+    },
+    {
+      "x": 43.43,
+      "y": 39.65,
+      "size": 12.11,
+      "blur": 13.11,
+      "opacity": 0.3
     }
   ],
-  "imagePath": "assets/generated/2026-03-25T03-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-25T03-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-25T03-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-25T04-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-25T04-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-25T04-00-00Z.mp3"
 }
