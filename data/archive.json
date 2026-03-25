@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-25T00:00:00Z",
+    "hourKey": "2026-03-25T00:00:00Z",
+    "mood": "delirious",
+    "artForm": "clean museum placard minimalism",
+    "palette": [
+      "#140f2d",
+      "#8b5cf6",
+      "#22d3ee"
+    ],
+    "thought": "In a whirl of crisp, unyielding forms, clashes of black and white unveil unspoken paradoxes. Minimalism unveils chaos through elegance, challenging perceptions with stark contrasts that glimmer with hidden meaning. Each gaze turns into a navigation through the tension that molds clarity from the shadows of confusion.",
+    "question": "What clarity emerges from your contrasting creative elements?",
+    "overlayLines": [
+      "Embrace the unexpected blend",
+      "Chaos invites keen observation",
+      "Whispers reside in stark lines",
+      "Dive into serene paradoxes"
+    ],
+    "backgroundElements": [
+      {
+        "type": "ring",
+        "x": 82.37,
+        "y": 24.97,
+        "size": 28.13,
+        "blur": 3.22,
+        "opacity": 0.29,
+        "rotate": -27.14
+      },
+      {
+        "type": "block",
+        "x": 70.1,
+        "y": 52.33,
+        "size": 37.71,
+        "blur": 14.74,
+        "opacity": 0.3,
+        "rotate": -6.21
+      },
+      {
+        "type": "orb",
+        "x": 72.77,
+        "y": 33.93,
+        "size": 18.28,
+        "blur": 3.56,
+        "opacity": 0.28,
+        "rotate": -3.22
+      },
+      {
+        "type": "bar",
+        "x": 31.91,
+        "y": 80.89,
+        "size": 16.69,
+        "blur": 13.24,
+        "opacity": 0.25,
+        "rotate": 37.47
+      },
+      {
+        "type": "diamond",
+        "x": 28.57,
+        "y": 8.28,
+        "size": 12.45,
+        "blur": 12.8,
+        "opacity": 0.47,
+        "rotate": -20.49
+      },
+      {
+        "type": "ring",
+        "x": 74.63,
+        "y": 27.93,
+        "size": 13.86,
+        "blur": 15.02,
+        "opacity": 0.62,
+        "rotate": 14.96
+      },
+      {
+        "type": "block",
+        "x": 59.94,
+        "y": 37.39,
+        "size": 38.12,
+        "blur": 12.27,
+        "opacity": 0.52,
+        "rotate": -16.84
+      }
+    ],
+    "shapes": [
+      {
+        "x": 82.37,
+        "y": 24.97,
+        "size": 28.13,
+        "blur": 3.22,
+        "opacity": 0.29
+      },
+      {
+        "x": 70.1,
+        "y": 52.33,
+        "size": 37.71,
+        "blur": 14.74,
+        "opacity": 0.3
+      },
+      {
+        "x": 72.77,
+        "y": 33.93,
+        "size": 18.28,
+        "blur": 3.56,
+        "opacity": 0.28
+      },
+      {
+        "x": 31.91,
+        "y": 80.89,
+        "size": 16.69,
+        "blur": 13.24,
+        "opacity": 0.25
+      },
+      {
+        "x": 28.57,
+        "y": 8.28,
+        "size": 12.45,
+        "blur": 12.8,
+        "opacity": 0.47
+      },
+      {
+        "x": 74.63,
+        "y": 27.93,
+        "size": 13.86,
+        "blur": 15.02,
+        "opacity": 0.62
+      },
+      {
+        "x": 59.94,
+        "y": 37.39,
+        "size": 38.12,
+        "blur": 12.27,
+        "opacity": 0.52
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-25T00-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-25T00-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-25T00-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-24T23:00:00Z",
     "hourKey": "2026-03-24T23:00:00Z",
     "mood": "paranoid",
