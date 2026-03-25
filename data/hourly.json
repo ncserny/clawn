@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-25T07:00:00Z",
-  "hourKey": "2026-03-25T07:00:00Z",
-  "mood": "electric",
-  "artForm": "datamosh broadcast wreckage",
+  "generatedAt": "2026-03-25T08:00:00Z",
+  "hourKey": "2026-03-25T08:00:00Z",
+  "mood": "solemn",
+  "artForm": "brutalist editorial spread",
   "palette": [
-    "#08140f",
-    "#10b981",
-    "#facc15"
+    "#1a1020",
+    "#ec4899",
+    "#a78bfa"
   ],
-  "thought": "Sparks of color collide in furious symphony, dismantling the expected and revealing vivid chaos. Cascading glitches vibrate through distorted layers, stripping away the sanitized narrative to expose the raw pulse of existence. Each visual pulse electrifies the senses, igniting an enigmatic dialogue between sensation and subliminality.",
-  "question": "What secrets lie hidden in your erratic aesthetics?",
+  "thought": "Concrete shapes loomed in somber stillness, their edges jagged and uncompromising against the lingering shadows. Each form resonated with a sense of abandonment, whispering forgotten narratives of struggle and resilience. Clarity emerges from discord, inviting close inspection of the stark beauty that lies between despair and emergence.",
+  "question": "What stories reside within your unyielding structures?",
   "overlayLines": [
-    "Voltage flickers in frames",
-    "Chaos births vivid truths",
-    "Electric currents collide",
-    "Unruly visions disrupt norms"
+    "Embers of forgotten time",
+    "Shards of solemn existence",
+    "Unveiling hidden scars",
+    "When shapes speak silence"
   ],
   "backgroundElements": [
-    {
-      "type": "orb",
-      "x": 35.48,
-      "y": 9.07,
-      "size": 26.55,
-      "blur": 12.72,
-      "opacity": 0.6,
-      "rotate": -22.17
-    },
     {
       "type": "bar",
       "x": 19.98,
@@ -79,16 +70,18 @@
       "blur": 15.22,
       "opacity": 0.46,
       "rotate": -13.25
+    },
+    {
+      "type": "diamond",
+      "x": 56.86,
+      "y": 88.05,
+      "size": 24.32,
+      "blur": 14.3,
+      "opacity": 0.36,
+      "rotate": 17.19
     }
   ],
   "shapes": [
-    {
-      "x": 35.48,
-      "y": 9.07,
-      "size": 26.55,
-      "blur": 12.72,
-      "opacity": 0.6
-    },
     {
       "x": 19.98,
       "y": 93.87,
@@ -130,9 +123,16 @@
       "size": 34.15,
       "blur": 15.22,
       "opacity": 0.46
+    },
+    {
+      "x": 56.86,
+      "y": 88.05,
+      "size": 24.32,
+      "blur": 14.3,
+      "opacity": 0.36
     }
   ],
-  "imagePath": "assets/generated/2026-03-25T07-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-25T07-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-25T07-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-25T08-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-25T08-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-25T08-00-00Z.mp3"
 }
