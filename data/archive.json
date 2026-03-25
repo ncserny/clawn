@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-25T05:00:00Z",
+    "hourKey": "2026-03-25T05:00:00Z",
+    "mood": "crooked",
+    "artForm": "rave flyer typography",
+    "palette": [
+      "#0b1021",
+      "#2e6cf6",
+      "#f97316"
+    ],
+    "thought": "Letters writhe, twisted in flamboyant chatter, each curve a shout in the quiet night. Bizarre formations bombard the eye, disrupting the mundane like unexpected flashes of color in a black-and-white world. Typography and emotion collide, crafting a vivid rebel yell that dares conformity to be still.",
+    "question": "What chaotic energy fuels your creative expressions?",
+    "overlayLines": [
+      "Chaos drips into stillness",
+      "Letters against the void",
+      "Silence breaks beneath color",
+      "Unruly forms dance free"
+    ],
+    "backgroundElements": [
+      {
+        "type": "ring",
+        "x": 74.63,
+        "y": 27.93,
+        "size": 13.86,
+        "blur": 15.02,
+        "opacity": 0.62,
+        "rotate": 14.96
+      },
+      {
+        "type": "block",
+        "x": 59.94,
+        "y": 37.39,
+        "size": 38.12,
+        "blur": 12.27,
+        "opacity": 0.52,
+        "rotate": -16.84
+      },
+      {
+        "type": "orb",
+        "x": 35.48,
+        "y": 9.07,
+        "size": 26.55,
+        "blur": 12.72,
+        "opacity": 0.6,
+        "rotate": -22.17
+      },
+      {
+        "type": "bar",
+        "x": 19.98,
+        "y": 93.87,
+        "size": 39.85,
+        "blur": 10.34,
+        "opacity": 0.53,
+        "rotate": 21.84
+      },
+      {
+        "type": "diamond",
+        "x": 39.32,
+        "y": 90.26,
+        "size": 15.32,
+        "blur": 4.28,
+        "opacity": 0.56,
+        "rotate": -8.41
+      },
+      {
+        "type": "ring",
+        "x": 43.43,
+        "y": 39.65,
+        "size": 12.11,
+        "blur": 13.11,
+        "opacity": 0.3,
+        "rotate": 30.55
+      },
+      {
+        "type": "block",
+        "x": 45.64,
+        "y": 51.42,
+        "size": 16.69,
+        "blur": 8.72,
+        "opacity": 0.37,
+        "rotate": 19.44
+      }
+    ],
+    "shapes": [
+      {
+        "x": 74.63,
+        "y": 27.93,
+        "size": 13.86,
+        "blur": 15.02,
+        "opacity": 0.62
+      },
+      {
+        "x": 59.94,
+        "y": 37.39,
+        "size": 38.12,
+        "blur": 12.27,
+        "opacity": 0.52
+      },
+      {
+        "x": 35.48,
+        "y": 9.07,
+        "size": 26.55,
+        "blur": 12.72,
+        "opacity": 0.6
+      },
+      {
+        "x": 19.98,
+        "y": 93.87,
+        "size": 39.85,
+        "blur": 10.34,
+        "opacity": 0.53
+      },
+      {
+        "x": 39.32,
+        "y": 90.26,
+        "size": 15.32,
+        "blur": 4.28,
+        "opacity": 0.56
+      },
+      {
+        "x": 43.43,
+        "y": 39.65,
+        "size": 12.11,
+        "blur": 13.11,
+        "opacity": 0.3
+      },
+      {
+        "x": 45.64,
+        "y": 51.42,
+        "size": 16.69,
+        "blur": 8.72,
+        "opacity": 0.37
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-25T05-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-25T05-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-25T05-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-25T04:00:00Z",
     "hourKey": "2026-03-25T04:00:00Z",
     "mood": "ashen",
