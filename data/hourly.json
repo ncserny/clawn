@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-25T21:00:00Z",
-  "hourKey": "2026-03-25T21:00:00Z",
-  "mood": "porous",
-  "artForm": "terminal prophecy interface",
+  "generatedAt": "2026-03-25T22:00:00Z",
+  "hourKey": "2026-03-25T22:00:00Z",
+  "mood": "bruised",
+  "artForm": "screenprinted protest poster",
   "palette": [
-    "#120c0c",
-    "#ef4444",
-    "#fb7185"
+    "#0f172a",
+    "#38bdf8",
+    "#e879f9"
   ],
-  "thought": "Transmission waves flicker like an indecipherable prophecy, a glimpse of forgotten futures wrapped in uncertainty. Fragments of shimmering light scatter thoughts into the ether, urging introspection on the fragile web connecting existence. In this cacophony, the pulse of potential ignites, crafting a landscape where questions remain alive, even in silence.",
-  "question": "How does uncertainty shape your artistic vision?",
+  "thought": "Shattered fragments scatter across the canvas, each curl of paper a protest against the silence. Bold colors wail, each stroke echoing the anguished cries of unheard voices. The art commands attention, a visceral reminder that beauty persists amidst torn hopes and bruised realities, demanding both engagement and reflection.",
+  "question": "How does your art articulate the pain of unvoiced struggles?",
   "overlayLines": [
-    "Echoes of potential arise",
-    "Futures painted in shadows",
-    "Navigating through whispers",
-    "Questions linger in silence"
+    "Echoes of shattered dreams",
+    "Silent screams on paper",
+    "Protests etched in ink",
+    "Resilience in chaos"
   ],
   "backgroundElements": [
-    {
-      "type": "block",
-      "x": 33.37,
-      "y": 3.24,
-      "size": 13.12,
-      "blur": 9.37,
-      "opacity": 0.41,
-      "rotate": 26.7
-    },
     {
       "type": "orb",
       "x": 20.77,
@@ -79,16 +70,18 @@
       "blur": 14.87,
       "opacity": 0.5,
       "rotate": -3.15
+    },
+    {
+      "type": "bar",
+      "x": 29.77,
+      "y": 33.06,
+      "size": 37.57,
+      "blur": 14.09,
+      "opacity": 0.55,
+      "rotate": -17.63
     }
   ],
   "shapes": [
-    {
-      "x": 33.37,
-      "y": 3.24,
-      "size": 13.12,
-      "blur": 9.37,
-      "opacity": 0.41
-    },
     {
       "x": 20.77,
       "y": 12.85,
@@ -130,9 +123,16 @@
       "size": 21.61,
       "blur": 14.87,
       "opacity": 0.5
+    },
+    {
+      "x": 29.77,
+      "y": 33.06,
+      "size": 37.57,
+      "blur": 14.09,
+      "opacity": 0.55
     }
   ],
-  "imagePath": "assets/generated/2026-03-25T21-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-25T21-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-25T21-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-25T22-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-25T22-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-25T22-00-00Z.mp3"
 }

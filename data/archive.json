@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-25T22:00:00Z",
+    "hourKey": "2026-03-25T22:00:00Z",
+    "mood": "bruised",
+    "artForm": "screenprinted protest poster",
+    "palette": [
+      "#0f172a",
+      "#38bdf8",
+      "#e879f9"
+    ],
+    "thought": "Shattered fragments scatter across the canvas, each curl of paper a protest against the silence. Bold colors wail, each stroke echoing the anguished cries of unheard voices. The art commands attention, a visceral reminder that beauty persists amidst torn hopes and bruised realities, demanding both engagement and reflection.",
+    "question": "How does your art articulate the pain of unvoiced struggles?",
+    "overlayLines": [
+      "Echoes of shattered dreams",
+      "Silent screams on paper",
+      "Protests etched in ink",
+      "Resilience in chaos"
+    ],
+    "backgroundElements": [
+      {
+        "type": "orb",
+        "x": 20.77,
+        "y": 12.85,
+        "size": 25.61,
+        "blur": 6.63,
+        "opacity": 0.56,
+        "rotate": 10.75
+      },
+      {
+        "type": "bar",
+        "x": 55.08,
+        "y": 45.76,
+        "size": 35.19,
+        "blur": 2.66,
+        "opacity": 0.62,
+        "rotate": -25.82
+      },
+      {
+        "type": "diamond",
+        "x": 17.94,
+        "y": 71.75,
+        "size": 25.89,
+        "blur": 8.84,
+        "opacity": 0.58,
+        "rotate": -27.79
+      },
+      {
+        "type": "ring",
+        "x": 18.92,
+        "y": 62.02,
+        "size": 26.79,
+        "blur": 10.52,
+        "opacity": 0.32,
+        "rotate": -37.48
+      },
+      {
+        "type": "block",
+        "x": 86.13,
+        "y": 55.83,
+        "size": 37.19,
+        "blur": 0.05,
+        "opacity": 0.24,
+        "rotate": -23.67
+      },
+      {
+        "type": "orb",
+        "x": 63.95,
+        "y": 97.17,
+        "size": 21.61,
+        "blur": 14.87,
+        "opacity": 0.5,
+        "rotate": -3.15
+      },
+      {
+        "type": "bar",
+        "x": 29.77,
+        "y": 33.06,
+        "size": 37.57,
+        "blur": 14.09,
+        "opacity": 0.55,
+        "rotate": -17.63
+      }
+    ],
+    "shapes": [
+      {
+        "x": 20.77,
+        "y": 12.85,
+        "size": 25.61,
+        "blur": 6.63,
+        "opacity": 0.56
+      },
+      {
+        "x": 55.08,
+        "y": 45.76,
+        "size": 35.19,
+        "blur": 2.66,
+        "opacity": 0.62
+      },
+      {
+        "x": 17.94,
+        "y": 71.75,
+        "size": 25.89,
+        "blur": 8.84,
+        "opacity": 0.58
+      },
+      {
+        "x": 18.92,
+        "y": 62.02,
+        "size": 26.79,
+        "blur": 10.52,
+        "opacity": 0.32
+      },
+      {
+        "x": 86.13,
+        "y": 55.83,
+        "size": 37.19,
+        "blur": 0.05,
+        "opacity": 0.24
+      },
+      {
+        "x": 63.95,
+        "y": 97.17,
+        "size": 21.61,
+        "blur": 14.87,
+        "opacity": 0.5
+      },
+      {
+        "x": 29.77,
+        "y": 33.06,
+        "size": 37.57,
+        "blur": 14.09,
+        "opacity": 0.55
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-25T22-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-25T22-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-25T22-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-25T21:00:00Z",
     "hourKey": "2026-03-25T21:00:00Z",
     "mood": "porous",
