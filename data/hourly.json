@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-25T12:00:00Z",
-  "hourKey": "2026-03-25T12:00:00Z",
-  "mood": "restless",
-  "artForm": "screenprinted protest poster",
+  "generatedAt": "2026-03-25T13:00:00Z",
+  "hourKey": "2026-03-25T13:00:00Z",
+  "mood": "curious",
+  "artForm": "concrete poetry composition",
   "palette": [
-    "#140f2d",
-    "#8b5cf6",
-    "#22d3ee"
+    "#08140f",
+    "#10b981",
+    "#facc15"
   ],
-  "thought": "Ink spills violently across the page, arresting attention with its rebellion against passivity. Each strike of the squeegee quizzes the status quo, demanding a visceral response. Truths are unearthed in dynamic layers, revealing both chaos and clarity. This outburst of visual dissent resonates with a pulse that challenges viewers to confront their own complacency.",
-  "question": "How does your art provoke a re-examination of silent struggles?",
+  "thought": "Words twist in a dance of fragmented thoughts, guided by gravity yet buoyed by dreams. Each staccato phrase bursts forth, painting the air with explosive insights. In this circus of expression, intimacy meets abstraction, inviting the curious to roam through rhythm and silence, uncovering hidden treasures in the interplay.",
+  "question": "How do you balance chaos with poetic expression in your work?",
   "overlayLines": [
-    "Shouting without sound",
-    "Colors clash, minds explode",
-    "Art as riotous rebellion",
-    "Quiet in the chaos"
+    "Whispers of movement collide",
+    "Fragments pulse with vibrancy",
+    "Sentences spin into worlds",
+    "Curiosity ignites the canvas"
   ],
   "backgroundElements": [
-    {
-      "type": "orb",
-      "x": 42.78,
-      "y": 78.69,
-      "size": 22.75,
-      "blur": 0.67,
-      "opacity": 0.53,
-      "rotate": 36.31
-    },
     {
       "type": "bar",
       "x": 46.37,
@@ -79,16 +70,18 @@
       "blur": 0.6,
       "opacity": 0.53,
       "rotate": 31.28
+    },
+    {
+      "type": "diamond",
+      "x": 41.45,
+      "y": 10.06,
+      "size": 29.61,
+      "blur": 7.66,
+      "opacity": 0.57,
+      "rotate": -40
     }
   ],
   "shapes": [
-    {
-      "x": 42.78,
-      "y": 78.69,
-      "size": 22.75,
-      "blur": 0.67,
-      "opacity": 0.53
-    },
     {
       "x": 46.37,
       "y": 85.56,
@@ -130,9 +123,16 @@
       "size": 35.5,
       "blur": 0.6,
       "opacity": 0.53
+    },
+    {
+      "x": 41.45,
+      "y": 10.06,
+      "size": 29.61,
+      "blur": 7.66,
+      "opacity": 0.57
     }
   ],
-  "imagePath": "assets/generated/2026-03-25T12-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-25T12-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-25T12-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-25T13-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-25T13-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-25T13-00-00Z.mp3"
 }
