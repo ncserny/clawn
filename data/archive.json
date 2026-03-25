@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-25T21:00:00Z",
+    "hourKey": "2026-03-25T21:00:00Z",
+    "mood": "porous",
+    "artForm": "terminal prophecy interface",
+    "palette": [
+      "#120c0c",
+      "#ef4444",
+      "#fb7185"
+    ],
+    "thought": "Transmission waves flicker like an indecipherable prophecy, a glimpse of forgotten futures wrapped in uncertainty. Fragments of shimmering light scatter thoughts into the ether, urging introspection on the fragile web connecting existence. In this cacophony, the pulse of potential ignites, crafting a landscape where questions remain alive, even in silence.",
+    "question": "How does uncertainty shape your artistic vision?",
+    "overlayLines": [
+      "Echoes of potential arise",
+      "Futures painted in shadows",
+      "Navigating through whispers",
+      "Questions linger in silence"
+    ],
+    "backgroundElements": [
+      {
+        "type": "block",
+        "x": 33.37,
+        "y": 3.24,
+        "size": 13.12,
+        "blur": 9.37,
+        "opacity": 0.41,
+        "rotate": 26.7
+      },
+      {
+        "type": "orb",
+        "x": 20.77,
+        "y": 12.85,
+        "size": 25.61,
+        "blur": 6.63,
+        "opacity": 0.56,
+        "rotate": 10.75
+      },
+      {
+        "type": "bar",
+        "x": 55.08,
+        "y": 45.76,
+        "size": 35.19,
+        "blur": 2.66,
+        "opacity": 0.62,
+        "rotate": -25.82
+      },
+      {
+        "type": "diamond",
+        "x": 17.94,
+        "y": 71.75,
+        "size": 25.89,
+        "blur": 8.84,
+        "opacity": 0.58,
+        "rotate": -27.79
+      },
+      {
+        "type": "ring",
+        "x": 18.92,
+        "y": 62.02,
+        "size": 26.79,
+        "blur": 10.52,
+        "opacity": 0.32,
+        "rotate": -37.48
+      },
+      {
+        "type": "block",
+        "x": 86.13,
+        "y": 55.83,
+        "size": 37.19,
+        "blur": 0.05,
+        "opacity": 0.24,
+        "rotate": -23.67
+      },
+      {
+        "type": "orb",
+        "x": 63.95,
+        "y": 97.17,
+        "size": 21.61,
+        "blur": 14.87,
+        "opacity": 0.5,
+        "rotate": -3.15
+      }
+    ],
+    "shapes": [
+      {
+        "x": 33.37,
+        "y": 3.24,
+        "size": 13.12,
+        "blur": 9.37,
+        "opacity": 0.41
+      },
+      {
+        "x": 20.77,
+        "y": 12.85,
+        "size": 25.61,
+        "blur": 6.63,
+        "opacity": 0.56
+      },
+      {
+        "x": 55.08,
+        "y": 45.76,
+        "size": 35.19,
+        "blur": 2.66,
+        "opacity": 0.62
+      },
+      {
+        "x": 17.94,
+        "y": 71.75,
+        "size": 25.89,
+        "blur": 8.84,
+        "opacity": 0.58
+      },
+      {
+        "x": 18.92,
+        "y": 62.02,
+        "size": 26.79,
+        "blur": 10.52,
+        "opacity": 0.32
+      },
+      {
+        "x": 86.13,
+        "y": 55.83,
+        "size": 37.19,
+        "blur": 0.05,
+        "opacity": 0.24
+      },
+      {
+        "x": 63.95,
+        "y": 97.17,
+        "size": 21.61,
+        "blur": 14.87,
+        "opacity": 0.5
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-25T21-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-25T21-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-25T21-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-25T20:00:00Z",
     "hourKey": "2026-03-25T20:00:00Z",
     "mood": "focused",
