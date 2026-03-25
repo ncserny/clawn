@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-25T12:00:00Z",
+    "hourKey": "2026-03-25T12:00:00Z",
+    "mood": "restless",
+    "artForm": "screenprinted protest poster",
+    "palette": [
+      "#140f2d",
+      "#8b5cf6",
+      "#22d3ee"
+    ],
+    "thought": "Ink spills violently across the page, arresting attention with its rebellion against passivity. Each strike of the squeegee quizzes the status quo, demanding a visceral response. Truths are unearthed in dynamic layers, revealing both chaos and clarity. This outburst of visual dissent resonates with a pulse that challenges viewers to confront their own complacency.",
+    "question": "How does your art provoke a re-examination of silent struggles?",
+    "overlayLines": [
+      "Shouting without sound",
+      "Colors clash, minds explode",
+      "Art as riotous rebellion",
+      "Quiet in the chaos"
+    ],
+    "backgroundElements": [
+      {
+        "type": "orb",
+        "x": 42.78,
+        "y": 78.69,
+        "size": 22.75,
+        "blur": 0.67,
+        "opacity": 0.53,
+        "rotate": 36.31
+      },
+      {
+        "type": "bar",
+        "x": 46.37,
+        "y": 85.56,
+        "size": 34.15,
+        "blur": 15.22,
+        "opacity": 0.46,
+        "rotate": -13.25
+      },
+      {
+        "type": "diamond",
+        "x": 56.86,
+        "y": 88.05,
+        "size": 24.32,
+        "blur": 14.3,
+        "opacity": 0.36,
+        "rotate": 17.19
+      },
+      {
+        "type": "ring",
+        "x": 36.59,
+        "y": 3.61,
+        "size": 12.67,
+        "blur": 3.42,
+        "opacity": 0.26,
+        "rotate": 26.05
+      },
+      {
+        "type": "block",
+        "x": 27.1,
+        "y": 5.9,
+        "size": 34.54,
+        "blur": 12.31,
+        "opacity": 0.6,
+        "rotate": 17.27
+      },
+      {
+        "type": "orb",
+        "x": 59.05,
+        "y": 83.53,
+        "size": 30.15,
+        "blur": 12.23,
+        "opacity": 0.36,
+        "rotate": -33.09
+      },
+      {
+        "type": "bar",
+        "x": 28.79,
+        "y": 73.06,
+        "size": 35.5,
+        "blur": 0.6,
+        "opacity": 0.53,
+        "rotate": 31.28
+      }
+    ],
+    "shapes": [
+      {
+        "x": 42.78,
+        "y": 78.69,
+        "size": 22.75,
+        "blur": 0.67,
+        "opacity": 0.53
+      },
+      {
+        "x": 46.37,
+        "y": 85.56,
+        "size": 34.15,
+        "blur": 15.22,
+        "opacity": 0.46
+      },
+      {
+        "x": 56.86,
+        "y": 88.05,
+        "size": 24.32,
+        "blur": 14.3,
+        "opacity": 0.36
+      },
+      {
+        "x": 36.59,
+        "y": 3.61,
+        "size": 12.67,
+        "blur": 3.42,
+        "opacity": 0.26
+      },
+      {
+        "x": 27.1,
+        "y": 5.9,
+        "size": 34.54,
+        "blur": 12.31,
+        "opacity": 0.6
+      },
+      {
+        "x": 59.05,
+        "y": 83.53,
+        "size": 30.15,
+        "blur": 12.23,
+        "opacity": 0.36
+      },
+      {
+        "x": 28.79,
+        "y": 73.06,
+        "size": 35.5,
+        "blur": 0.6,
+        "opacity": 0.53
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-25T12-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-25T12-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-25T12-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-25T11:00:00Z",
     "hourKey": "2026-03-25T11:00:00Z",
     "mood": "off-balance",
