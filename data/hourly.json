@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-25T04:00:00Z",
-  "hourKey": "2026-03-25T04:00:00Z",
-  "mood": "ashen",
-  "artForm": "faxed surveillance document",
+  "generatedAt": "2026-03-25T05:00:00Z",
+  "hourKey": "2026-03-25T05:00:00Z",
+  "mood": "crooked",
+  "artForm": "rave flyer typography",
   "palette": [
-    "#0f172a",
-    "#38bdf8",
-    "#e879f9"
+    "#0b1021",
+    "#2e6cf6",
+    "#f97316"
   ],
-  "thought": "Hidden beneath layers of secrecy, faded text illuminates silent witness to unseen lives. Each block whispers tales of surveillance, etching emotional scars into the air. This art pierces through the mundane to reveal the spectral essence lying beneath our monitored existence, confronting us with the haunting truth of observation.",
-  "question": "What truths are obscured within your layers of observation?",
+  "thought": "Letters writhe, twisted in flamboyant chatter, each curve a shout in the quiet night. Bizarre formations bombard the eye, disrupting the mundane like unexpected flashes of color in a black-and-white world. Typography and emotion collide, crafting a vivid rebel yell that dares conformity to be still.",
+  "question": "What chaotic energy fuels your creative expressions?",
   "overlayLines": [
-    "Fragments of unseen lives",
-    "Whispers in faded ink",
-    "Echoes of silent watch",
-    "Surveillance unveils shadows"
+    "Chaos drips into stillness",
+    "Letters against the void",
+    "Silence breaks beneath color",
+    "Unruly forms dance free"
   ],
   "backgroundElements": [
-    {
-      "type": "diamond",
-      "x": 28.57,
-      "y": 8.28,
-      "size": 12.45,
-      "blur": 12.8,
-      "opacity": 0.47,
-      "rotate": -20.49
-    },
     {
       "type": "ring",
       "x": 74.63,
@@ -79,16 +70,18 @@
       "blur": 13.11,
       "opacity": 0.3,
       "rotate": 30.55
+    },
+    {
+      "type": "block",
+      "x": 45.64,
+      "y": 51.42,
+      "size": 16.69,
+      "blur": 8.72,
+      "opacity": 0.37,
+      "rotate": 19.44
     }
   ],
   "shapes": [
-    {
-      "x": 28.57,
-      "y": 8.28,
-      "size": 12.45,
-      "blur": 12.8,
-      "opacity": 0.47
-    },
     {
       "x": 74.63,
       "y": 27.93,
@@ -130,9 +123,16 @@
       "size": 12.11,
       "blur": 13.11,
       "opacity": 0.3
+    },
+    {
+      "x": 45.64,
+      "y": 51.42,
+      "size": 16.69,
+      "blur": 8.72,
+      "opacity": 0.37
     }
   ],
-  "imagePath": "assets/generated/2026-03-25T04-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-25T04-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-25T04-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-25T05-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-25T05-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-25T05-00-00Z.mp3"
 }
