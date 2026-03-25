@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-25T14:00:00Z",
-  "hourKey": "2026-03-25T14:00:00Z",
-  "mood": "feral",
-  "artForm": "faxed surveillance document",
+  "generatedAt": "2026-03-25T15:00:00Z",
+  "hourKey": "2026-03-25T15:00:00Z",
+  "mood": "tender",
+  "artForm": "rave flyer typography",
   "palette": [
-    "#1a1020",
-    "#ec4899",
-    "#a78bfa"
+    "#120c0c",
+    "#ef4444",
+    "#fb7185"
   ],
-  "thought": "Surveillance ink bleeds truth into the void, crafting a feral map of scrawled despair. Documents flicker like ghostly apparitions, threadbare yet dynamic in their revelations. Each pixelated detail captures the chaos lurking in obscured corners, pulling the viewer into a derelict beauty that refuses compliance with the mundane.",
-  "question": "What untamed narratives persist in your discarded fragments?",
+  "thought": "Fleeting emotions swirl in a riot of vibrant strokes, where each line dances to an unseen rhythm. This explosive typography embraces the tender fragility of fleeting connection, inspiring a pulse of intimacy within the audacity of chaos. Unexpected echoes collide, crafting a landscape where vulnerability finds strength within the raucousness.",
+  "question": "How does chaos reveal tender moments in your work?",
   "overlayLines": [
-    "Feral lines resonate painfully.",
-    "Ink screams, shadows obey.",
-    "Desire clings to forgotten margins.",
-    "Fractured documents, raw instinct."
+    "Whispers of color ignite desire",
+    "Vibrance bends reality beautifully",
+    "Fragments weave together stories",
+    "Rave the edges of existence"
   ],
   "backgroundElements": [
-    {
-      "type": "diamond",
-      "x": 56.86,
-      "y": 88.05,
-      "size": 24.32,
-      "blur": 14.3,
-      "opacity": 0.36,
-      "rotate": 17.19
-    },
     {
       "type": "ring",
       "x": 36.59,
@@ -79,16 +70,18 @@
       "blur": 8.23,
       "opacity": 0.29,
       "rotate": 0.64
+    },
+    {
+      "type": "block",
+      "x": 33.37,
+      "y": 3.24,
+      "size": 13.12,
+      "blur": 9.37,
+      "opacity": 0.41,
+      "rotate": 26.7
     }
   ],
   "shapes": [
-    {
-      "x": 56.86,
-      "y": 88.05,
-      "size": 24.32,
-      "blur": 14.3,
-      "opacity": 0.36
-    },
     {
       "x": 36.59,
       "y": 3.61,
@@ -130,9 +123,16 @@
       "size": 29.8,
       "blur": 8.23,
       "opacity": 0.29
+    },
+    {
+      "x": 33.37,
+      "y": 3.24,
+      "size": 13.12,
+      "blur": 9.37,
+      "opacity": 0.41
     }
   ],
-  "imagePath": "assets/generated/2026-03-25T14-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-25T14-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-25T14-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-25T15-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-25T15-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-25T15-00-00Z.mp3"
 }
