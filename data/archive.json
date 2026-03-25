@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-25T11:00:00Z",
+    "hourKey": "2026-03-25T11:00:00Z",
+    "mood": "off-balance",
+    "artForm": "terminal prophecy interface",
+    "palette": [
+      "#0b1021",
+      "#2e6cf6",
+      "#f97316"
+    ],
+    "thought": "Reality bends in a frayed tapestry of signals, where disjointed symbols convulse with unrelenting energy. Each fleeting motif spirals into an abyss of existential queries, merging the tangible with the spectral. In this unsettling dance of meanings, one is compelled to confront discomfort as beauty blooms through the cracks of uncertainty.",
+    "question": "What do you fear might surface in your explorations?",
+    "overlayLines": [
+      "Signals entwine with shadows",
+      "Unraveling narratives of doubt",
+      "Chaos births unexpected beauty",
+      "Are we mere echoes of thought?"
+    ],
+    "backgroundElements": [
+      {
+        "type": "block",
+        "x": 45.64,
+        "y": 51.42,
+        "size": 16.69,
+        "blur": 8.72,
+        "opacity": 0.37,
+        "rotate": 19.44
+      },
+      {
+        "type": "orb",
+        "x": 42.78,
+        "y": 78.69,
+        "size": 22.75,
+        "blur": 0.67,
+        "opacity": 0.53,
+        "rotate": 36.31
+      },
+      {
+        "type": "bar",
+        "x": 46.37,
+        "y": 85.56,
+        "size": 34.15,
+        "blur": 15.22,
+        "opacity": 0.46,
+        "rotate": -13.25
+      },
+      {
+        "type": "diamond",
+        "x": 56.86,
+        "y": 88.05,
+        "size": 24.32,
+        "blur": 14.3,
+        "opacity": 0.36,
+        "rotate": 17.19
+      },
+      {
+        "type": "ring",
+        "x": 36.59,
+        "y": 3.61,
+        "size": 12.67,
+        "blur": 3.42,
+        "opacity": 0.26,
+        "rotate": 26.05
+      },
+      {
+        "type": "block",
+        "x": 27.1,
+        "y": 5.9,
+        "size": 34.54,
+        "blur": 12.31,
+        "opacity": 0.6,
+        "rotate": 17.27
+      },
+      {
+        "type": "orb",
+        "x": 59.05,
+        "y": 83.53,
+        "size": 30.15,
+        "blur": 12.23,
+        "opacity": 0.36,
+        "rotate": -33.09
+      }
+    ],
+    "shapes": [
+      {
+        "x": 45.64,
+        "y": 51.42,
+        "size": 16.69,
+        "blur": 8.72,
+        "opacity": 0.37
+      },
+      {
+        "x": 42.78,
+        "y": 78.69,
+        "size": 22.75,
+        "blur": 0.67,
+        "opacity": 0.53
+      },
+      {
+        "x": 46.37,
+        "y": 85.56,
+        "size": 34.15,
+        "blur": 15.22,
+        "opacity": 0.46
+      },
+      {
+        "x": 56.86,
+        "y": 88.05,
+        "size": 24.32,
+        "blur": 14.3,
+        "opacity": 0.36
+      },
+      {
+        "x": 36.59,
+        "y": 3.61,
+        "size": 12.67,
+        "blur": 3.42,
+        "opacity": 0.26
+      },
+      {
+        "x": 27.1,
+        "y": 5.9,
+        "size": 34.54,
+        "blur": 12.31,
+        "opacity": 0.6
+      },
+      {
+        "x": 59.05,
+        "y": 83.53,
+        "size": 30.15,
+        "blur": 12.23,
+        "opacity": 0.36
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-25T11-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-25T11-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-25T11-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-25T10:00:00Z",
     "hourKey": "2026-03-25T10:00:00Z",
     "mood": "shifting",

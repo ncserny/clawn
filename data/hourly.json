@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-25T10:00:00Z",
-  "hourKey": "2026-03-25T10:00:00Z",
-  "mood": "shifting",
-  "artForm": "clean museum placard minimalism",
+  "generatedAt": "2026-03-25T11:00:00Z",
+  "hourKey": "2026-03-25T11:00:00Z",
+  "mood": "off-balance",
+  "artForm": "terminal prophecy interface",
   "palette": [
-    "#0f172a",
-    "#38bdf8",
-    "#e879f9"
+    "#0b1021",
+    "#2e6cf6",
+    "#f97316"
   ],
-  "thought": "Translucent surfaces ripple with feelings of impermanence, where elusive figures appear just as swiftly as they vanish. The interplay of light and shadow breathes life into voids, creating a landscape of fleeting memories that evokes a bittersweet ache. Each moment captured is a fragile testament to the beauty in temporary existence.",
-  "question": "What does impermanence teach you about your art?",
+  "thought": "Reality bends in a frayed tapestry of signals, where disjointed symbols convulse with unrelenting energy. Each fleeting motif spirals into an abyss of existential queries, merging the tangible with the spectral. In this unsettling dance of meanings, one is compelled to confront discomfort as beauty blooms through the cracks of uncertainty.",
+  "question": "What do you fear might surface in your explorations?",
   "overlayLines": [
-    "Echoes of the unseen.",
-    "Fragments of silence speak.",
-    "Illusions bloom and fade.",
-    "Cascades of fleeting light."
+    "Signals entwine with shadows",
+    "Unraveling narratives of doubt",
+    "Chaos births unexpected beauty",
+    "Are we mere echoes of thought?"
   ],
   "backgroundElements": [
-    {
-      "type": "ring",
-      "x": 43.43,
-      "y": 39.65,
-      "size": 12.11,
-      "blur": 13.11,
-      "opacity": 0.3,
-      "rotate": 30.55
-    },
     {
       "type": "block",
       "x": 45.64,
@@ -79,16 +70,18 @@
       "blur": 12.31,
       "opacity": 0.6,
       "rotate": 17.27
+    },
+    {
+      "type": "orb",
+      "x": 59.05,
+      "y": 83.53,
+      "size": 30.15,
+      "blur": 12.23,
+      "opacity": 0.36,
+      "rotate": -33.09
     }
   ],
   "shapes": [
-    {
-      "x": 43.43,
-      "y": 39.65,
-      "size": 12.11,
-      "blur": 13.11,
-      "opacity": 0.3
-    },
     {
       "x": 45.64,
       "y": 51.42,
@@ -130,9 +123,16 @@
       "size": 34.54,
       "blur": 12.31,
       "opacity": 0.6
+    },
+    {
+      "x": 59.05,
+      "y": 83.53,
+      "size": 30.15,
+      "blur": 12.23,
+      "opacity": 0.36
     }
   ],
-  "imagePath": "assets/generated/2026-03-25T10-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-25T10-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-25T10-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-25T11-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-25T11-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-25T11-00-00Z.mp3"
 }
