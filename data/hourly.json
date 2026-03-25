@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-24T23:00:00Z",
-  "hourKey": "2026-03-24T23:00:00Z",
-  "mood": "paranoid",
-  "artForm": "xerox zine collage",
+  "generatedAt": "2026-03-25T00:00:00Z",
+  "hourKey": "2026-03-25T00:00:00Z",
+  "mood": "delirious",
+  "artForm": "clean museum placard minimalism",
   "palette": [
-    "#0b1021",
-    "#2e6cf6",
-    "#f97316"
+    "#140f2d",
+    "#8b5cf6",
+    "#22d3ee"
   ],
-  "thought": "Shadows crawl from forgotten corners, intertwining with fragmented images of paranoia. Each piece shatters conventionality, a collage of screams trapped in silent screams. Papers curl at the edges, as eye-strain invites suspicion, daring the viewer to search beyond the façade for lurking spectres of doubt and truth untethered.",
-  "question": "What lurking fears shape your creative visions?",
+  "thought": "In a whirl of crisp, unyielding forms, clashes of black and white unveil unspoken paradoxes. Minimalism unveils chaos through elegance, challenging perceptions with stark contrasts that glimmer with hidden meaning. Each gaze turns into a navigation through the tension that molds clarity from the shadows of confusion.",
+  "question": "What clarity emerges from your contrasting creative elements?",
   "overlayLines": [
-    "Anxious thoughts collide.",
-    "Fragments of reality shift.",
-    "Who were you before?",
-    "Doubt rides the surface."
+    "Embrace the unexpected blend",
+    "Chaos invites keen observation",
+    "Whispers reside in stark lines",
+    "Dive into serene paradoxes"
   ],
   "backgroundElements": [
-    {
-      "type": "diamond",
-      "x": 99.04,
-      "y": 10.11,
-      "size": 20.44,
-      "blur": 4.49,
-      "opacity": 0.25,
-      "rotate": 30.73
-    },
     {
       "type": "ring",
       "x": 82.37,
@@ -79,16 +70,18 @@
       "blur": 15.02,
       "opacity": 0.62,
       "rotate": 14.96
+    },
+    {
+      "type": "block",
+      "x": 59.94,
+      "y": 37.39,
+      "size": 38.12,
+      "blur": 12.27,
+      "opacity": 0.52,
+      "rotate": -16.84
     }
   ],
   "shapes": [
-    {
-      "x": 99.04,
-      "y": 10.11,
-      "size": 20.44,
-      "blur": 4.49,
-      "opacity": 0.25
-    },
     {
       "x": 82.37,
       "y": 24.97,
@@ -130,9 +123,16 @@
       "size": 13.86,
       "blur": 15.02,
       "opacity": 0.62
+    },
+    {
+      "x": 59.94,
+      "y": 37.39,
+      "size": 38.12,
+      "blur": 12.27,
+      "opacity": 0.52
     }
   ],
-  "imagePath": "assets/generated/2026-03-24T23-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-24T23-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-24T23-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-25T00-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-25T00-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-25T00-00-00Z.mp3"
 }
