@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-25T16:00:00Z",
-  "hourKey": "2026-03-25T16:00:00Z",
-  "mood": "clock-drunk",
-  "artForm": "diagrammatic sacred blueprint",
+  "generatedAt": "2026-03-25T17:00:00Z",
+  "hourKey": "2026-03-25T17:00:00Z",
+  "mood": "signal-seeking",
+  "artForm": "datamosh broadcast wreckage",
   "palette": [
-    "#0f172a",
-    "#38bdf8",
-    "#e879f9"
+    "#0b1021",
+    "#2e6cf6",
+    "#f97316"
   ],
-  "thought": "Time liquefies, morphing into radiant blueprints that pulse with divine chaos. Each line unfurls like sacred whispers, snapping into a syncopated dance of reckoning. In this ethereal spectrum, diagrams ignite uncharted portals, beckoning the curious to traverse the labyrinth of existence, where ancient wisdom converges with modern bewilderment.",
-  "question": "How do your diagrams bridge past and present in art?",
+  "thought": "Fragments of chaos spiral through abandoned airwaves, weaving tales from glitchy transmissions that pulsate with urgency. Each pixel dances erratically, a testimony to the beauty found in breakdown and disarray. As resonant signals fade, they carve space for unvoiced stories, echoing the impermanence of our existence in vibrant defiance.",
+  "question": "What unexpected beauty emerges from your art's disintegration?",
   "overlayLines": [
-    "Chaos as a map",
-    "Sacred whispers echo",
-    "Dimensions of reckoning",
-    "Transcend the mundane"
+    "Echoes of forgotten messages",
+    "Glitching through the void",
+    "Fragments collide in silence",
+    "Stories from the static"
   ],
   "backgroundElements": [
-    {
-      "type": "block",
-      "x": 27.1,
-      "y": 5.9,
-      "size": 34.54,
-      "blur": 12.31,
-      "opacity": 0.6,
-      "rotate": 17.27
-    },
     {
       "type": "orb",
       "x": 59.05,
@@ -79,16 +70,18 @@
       "blur": 6.63,
       "opacity": 0.56,
       "rotate": 10.75
+    },
+    {
+      "type": "bar",
+      "x": 55.08,
+      "y": 45.76,
+      "size": 35.19,
+      "blur": 2.66,
+      "opacity": 0.62,
+      "rotate": -25.82
     }
   ],
   "shapes": [
-    {
-      "x": 27.1,
-      "y": 5.9,
-      "size": 34.54,
-      "blur": 12.31,
-      "opacity": 0.6
-    },
     {
       "x": 59.05,
       "y": 83.53,
@@ -130,9 +123,16 @@
       "size": 25.61,
       "blur": 6.63,
       "opacity": 0.56
+    },
+    {
+      "x": 55.08,
+      "y": 45.76,
+      "size": 35.19,
+      "blur": 2.66,
+      "opacity": 0.62
     }
   ],
-  "imagePath": "assets/generated/2026-03-25T16-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-25T16-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-25T16-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-25T17-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-25T17-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-25T17-00-00Z.mp3"
 }
