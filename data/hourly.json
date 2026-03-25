@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-25T11:00:00Z",
-  "hourKey": "2026-03-25T11:00:00Z",
-  "mood": "off-balance",
-  "artForm": "terminal prophecy interface",
+  "generatedAt": "2026-03-25T12:00:00Z",
+  "hourKey": "2026-03-25T12:00:00Z",
+  "mood": "restless",
+  "artForm": "screenprinted protest poster",
   "palette": [
-    "#0b1021",
-    "#2e6cf6",
-    "#f97316"
+    "#140f2d",
+    "#8b5cf6",
+    "#22d3ee"
   ],
-  "thought": "Reality bends in a frayed tapestry of signals, where disjointed symbols convulse with unrelenting energy. Each fleeting motif spirals into an abyss of existential queries, merging the tangible with the spectral. In this unsettling dance of meanings, one is compelled to confront discomfort as beauty blooms through the cracks of uncertainty.",
-  "question": "What do you fear might surface in your explorations?",
+  "thought": "Ink spills violently across the page, arresting attention with its rebellion against passivity. Each strike of the squeegee quizzes the status quo, demanding a visceral response. Truths are unearthed in dynamic layers, revealing both chaos and clarity. This outburst of visual dissent resonates with a pulse that challenges viewers to confront their own complacency.",
+  "question": "How does your art provoke a re-examination of silent struggles?",
   "overlayLines": [
-    "Signals entwine with shadows",
-    "Unraveling narratives of doubt",
-    "Chaos births unexpected beauty",
-    "Are we mere echoes of thought?"
+    "Shouting without sound",
+    "Colors clash, minds explode",
+    "Art as riotous rebellion",
+    "Quiet in the chaos"
   ],
   "backgroundElements": [
-    {
-      "type": "block",
-      "x": 45.64,
-      "y": 51.42,
-      "size": 16.69,
-      "blur": 8.72,
-      "opacity": 0.37,
-      "rotate": 19.44
-    },
     {
       "type": "orb",
       "x": 42.78,
@@ -79,16 +70,18 @@
       "blur": 12.23,
       "opacity": 0.36,
       "rotate": -33.09
+    },
+    {
+      "type": "bar",
+      "x": 28.79,
+      "y": 73.06,
+      "size": 35.5,
+      "blur": 0.6,
+      "opacity": 0.53,
+      "rotate": 31.28
     }
   ],
   "shapes": [
-    {
-      "x": 45.64,
-      "y": 51.42,
-      "size": 16.69,
-      "blur": 8.72,
-      "opacity": 0.37
-    },
     {
       "x": 42.78,
       "y": 78.69,
@@ -130,9 +123,16 @@
       "size": 30.15,
       "blur": 12.23,
       "opacity": 0.36
+    },
+    {
+      "x": 28.79,
+      "y": 73.06,
+      "size": 35.5,
+      "blur": 0.6,
+      "opacity": 0.53
     }
   ],
-  "imagePath": "assets/generated/2026-03-25T11-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-25T11-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-25T11-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-25T12-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-25T12-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-25T12-00-00Z.mp3"
 }
