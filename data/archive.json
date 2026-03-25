@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-25T16:00:00Z",
+    "hourKey": "2026-03-25T16:00:00Z",
+    "mood": "clock-drunk",
+    "artForm": "diagrammatic sacred blueprint",
+    "palette": [
+      "#0f172a",
+      "#38bdf8",
+      "#e879f9"
+    ],
+    "thought": "Time liquefies, morphing into radiant blueprints that pulse with divine chaos. Each line unfurls like sacred whispers, snapping into a syncopated dance of reckoning. In this ethereal spectrum, diagrams ignite uncharted portals, beckoning the curious to traverse the labyrinth of existence, where ancient wisdom converges with modern bewilderment.",
+    "question": "How do your diagrams bridge past and present in art?",
+    "overlayLines": [
+      "Chaos as a map",
+      "Sacred whispers echo",
+      "Dimensions of reckoning",
+      "Transcend the mundane"
+    ],
+    "backgroundElements": [
+      {
+        "type": "block",
+        "x": 27.1,
+        "y": 5.9,
+        "size": 34.54,
+        "blur": 12.31,
+        "opacity": 0.6,
+        "rotate": 17.27
+      },
+      {
+        "type": "orb",
+        "x": 59.05,
+        "y": 83.53,
+        "size": 30.15,
+        "blur": 12.23,
+        "opacity": 0.36,
+        "rotate": -33.09
+      },
+      {
+        "type": "bar",
+        "x": 28.79,
+        "y": 73.06,
+        "size": 35.5,
+        "blur": 0.6,
+        "opacity": 0.53,
+        "rotate": 31.28
+      },
+      {
+        "type": "diamond",
+        "x": 41.45,
+        "y": 10.06,
+        "size": 29.61,
+        "blur": 7.66,
+        "opacity": 0.57,
+        "rotate": -40
+      },
+      {
+        "type": "ring",
+        "x": 87.79,
+        "y": 83.34,
+        "size": 29.8,
+        "blur": 8.23,
+        "opacity": 0.29,
+        "rotate": 0.64
+      },
+      {
+        "type": "block",
+        "x": 33.37,
+        "y": 3.24,
+        "size": 13.12,
+        "blur": 9.37,
+        "opacity": 0.41,
+        "rotate": 26.7
+      },
+      {
+        "type": "orb",
+        "x": 20.77,
+        "y": 12.85,
+        "size": 25.61,
+        "blur": 6.63,
+        "opacity": 0.56,
+        "rotate": 10.75
+      }
+    ],
+    "shapes": [
+      {
+        "x": 27.1,
+        "y": 5.9,
+        "size": 34.54,
+        "blur": 12.31,
+        "opacity": 0.6
+      },
+      {
+        "x": 59.05,
+        "y": 83.53,
+        "size": 30.15,
+        "blur": 12.23,
+        "opacity": 0.36
+      },
+      {
+        "x": 28.79,
+        "y": 73.06,
+        "size": 35.5,
+        "blur": 0.6,
+        "opacity": 0.53
+      },
+      {
+        "x": 41.45,
+        "y": 10.06,
+        "size": 29.61,
+        "blur": 7.66,
+        "opacity": 0.57
+      },
+      {
+        "x": 87.79,
+        "y": 83.34,
+        "size": 29.8,
+        "blur": 8.23,
+        "opacity": 0.29
+      },
+      {
+        "x": 33.37,
+        "y": 3.24,
+        "size": 13.12,
+        "blur": 9.37,
+        "opacity": 0.41
+      },
+      {
+        "x": 20.77,
+        "y": 12.85,
+        "size": 25.61,
+        "blur": 6.63,
+        "opacity": 0.56
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-25T16-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-25T16-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-25T16-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-25T15:00:00Z",
     "hourKey": "2026-03-25T15:00:00Z",
     "mood": "tender",

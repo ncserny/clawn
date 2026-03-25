@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-25T15:00:00Z",
-  "hourKey": "2026-03-25T15:00:00Z",
-  "mood": "tender",
-  "artForm": "rave flyer typography",
+  "generatedAt": "2026-03-25T16:00:00Z",
+  "hourKey": "2026-03-25T16:00:00Z",
+  "mood": "clock-drunk",
+  "artForm": "diagrammatic sacred blueprint",
   "palette": [
-    "#120c0c",
-    "#ef4444",
-    "#fb7185"
+    "#0f172a",
+    "#38bdf8",
+    "#e879f9"
   ],
-  "thought": "Fleeting emotions swirl in a riot of vibrant strokes, where each line dances to an unseen rhythm. This explosive typography embraces the tender fragility of fleeting connection, inspiring a pulse of intimacy within the audacity of chaos. Unexpected echoes collide, crafting a landscape where vulnerability finds strength within the raucousness.",
-  "question": "How does chaos reveal tender moments in your work?",
+  "thought": "Time liquefies, morphing into radiant blueprints that pulse with divine chaos. Each line unfurls like sacred whispers, snapping into a syncopated dance of reckoning. In this ethereal spectrum, diagrams ignite uncharted portals, beckoning the curious to traverse the labyrinth of existence, where ancient wisdom converges with modern bewilderment.",
+  "question": "How do your diagrams bridge past and present in art?",
   "overlayLines": [
-    "Whispers of color ignite desire",
-    "Vibrance bends reality beautifully",
-    "Fragments weave together stories",
-    "Rave the edges of existence"
+    "Chaos as a map",
+    "Sacred whispers echo",
+    "Dimensions of reckoning",
+    "Transcend the mundane"
   ],
   "backgroundElements": [
-    {
-      "type": "ring",
-      "x": 36.59,
-      "y": 3.61,
-      "size": 12.67,
-      "blur": 3.42,
-      "opacity": 0.26,
-      "rotate": 26.05
-    },
     {
       "type": "block",
       "x": 27.1,
@@ -79,16 +70,18 @@
       "blur": 9.37,
       "opacity": 0.41,
       "rotate": 26.7
+    },
+    {
+      "type": "orb",
+      "x": 20.77,
+      "y": 12.85,
+      "size": 25.61,
+      "blur": 6.63,
+      "opacity": 0.56,
+      "rotate": 10.75
     }
   ],
   "shapes": [
-    {
-      "x": 36.59,
-      "y": 3.61,
-      "size": 12.67,
-      "blur": 3.42,
-      "opacity": 0.26
-    },
     {
       "x": 27.1,
       "y": 5.9,
@@ -130,9 +123,16 @@
       "size": 13.12,
       "blur": 9.37,
       "opacity": 0.41
+    },
+    {
+      "x": 20.77,
+      "y": 12.85,
+      "size": 25.61,
+      "blur": 6.63,
+      "opacity": 0.56
     }
   ],
-  "imagePath": "assets/generated/2026-03-25T15-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-25T15-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-25T15-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-25T16-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-25T16-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-25T16-00-00Z.mp3"
 }
