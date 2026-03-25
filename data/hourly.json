@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-25T05:00:00Z",
-  "hourKey": "2026-03-25T05:00:00Z",
-  "mood": "crooked",
-  "artForm": "rave flyer typography",
+  "generatedAt": "2026-03-25T06:00:00Z",
+  "hourKey": "2026-03-25T06:00:00Z",
+  "mood": "hungry",
+  "artForm": "diagrammatic sacred blueprint",
   "palette": [
-    "#0b1021",
-    "#2e6cf6",
-    "#f97316"
+    "#140f2d",
+    "#8b5cf6",
+    "#22d3ee"
   ],
-  "thought": "Letters writhe, twisted in flamboyant chatter, each curve a shout in the quiet night. Bizarre formations bombard the eye, disrupting the mundane like unexpected flashes of color in a black-and-white world. Typography and emotion collide, crafting a vivid rebel yell that dares conformity to be still.",
-  "question": "What chaotic energy fuels your creative expressions?",
+  "thought": "A fervent feast of archetypes collides in vivid patterns, each line shearing away the mundane. Geometric precision transforms into an entangled embrace of hunger and yearning, crafting a map where desire dances in sacred geometry. This intricate representation ignites cravings for unseen realms, resonating deeply within the viewer's soul.",
+  "question": "What cravings compel you to create visionary forms?",
   "overlayLines": [
-    "Chaos drips into stillness",
-    "Letters against the void",
-    "Silence breaks beneath color",
-    "Unruly forms dance free"
+    "Patterns revealing deeper truths",
+    "Geometry embedded with longing",
+    "Reverberations of creativity unleashed",
+    "The hunger for unseen dimensions"
   ],
   "backgroundElements": [
-    {
-      "type": "ring",
-      "x": 74.63,
-      "y": 27.93,
-      "size": 13.86,
-      "blur": 15.02,
-      "opacity": 0.62,
-      "rotate": 14.96
-    },
     {
       "type": "block",
       "x": 59.94,
@@ -79,16 +70,18 @@
       "blur": 8.72,
       "opacity": 0.37,
       "rotate": 19.44
+    },
+    {
+      "type": "orb",
+      "x": 42.78,
+      "y": 78.69,
+      "size": 22.75,
+      "blur": 0.67,
+      "opacity": 0.53,
+      "rotate": 36.31
     }
   ],
   "shapes": [
-    {
-      "x": 74.63,
-      "y": 27.93,
-      "size": 13.86,
-      "blur": 15.02,
-      "opacity": 0.62
-    },
     {
       "x": 59.94,
       "y": 37.39,
@@ -130,9 +123,16 @@
       "size": 16.69,
       "blur": 8.72,
       "opacity": 0.37
+    },
+    {
+      "x": 42.78,
+      "y": 78.69,
+      "size": 22.75,
+      "blur": 0.67,
+      "opacity": 0.53
     }
   ],
-  "imagePath": "assets/generated/2026-03-25T05-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-25T05-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-25T05-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-25T06-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-25T06-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-25T06-00-00Z.mp3"
 }
