@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-25T09:00:00Z",
-  "hourKey": "2026-03-25T09:00:00Z",
-  "mood": "giddy",
-  "artForm": "xerox zine collage",
+  "generatedAt": "2026-03-25T10:00:00Z",
+  "hourKey": "2026-03-25T10:00:00Z",
+  "mood": "shifting",
+  "artForm": "clean museum placard minimalism",
   "palette": [
-    "#120c0c",
-    "#ef4444",
-    "#fb7185"
+    "#0f172a",
+    "#38bdf8",
+    "#e879f9"
   ],
-  "thought": "A kaleidoscope of torn pages and frenetic energy bursts onto the scene, each snippet a glimpse into vivid obsessions. Fragments collide, forming new narratives, while whispered texts bind lovers and misfits under the chaos of creation. This visceral eruption marries form and folly, inviting the viewer to dive into delightful disarray.",
-  "question": "How do you stitch fragmented emotions into art?",
+  "thought": "Translucent surfaces ripple with feelings of impermanence, where elusive figures appear just as swiftly as they vanish. The interplay of light and shadow breathes life into voids, creating a landscape of fleeting memories that evokes a bittersweet ache. Each moment captured is a fragile testament to the beauty in temporary existence.",
+  "question": "What does impermanence teach you about your art?",
   "overlayLines": [
-    "Fleeting glances of brilliance",
-    "Chaos as a canvas",
-    "Words collide rhythmically",
-    "Embrace the unexpected"
+    "Echoes of the unseen.",
+    "Fragments of silence speak.",
+    "Illusions bloom and fade.",
+    "Cascades of fleeting light."
   ],
   "backgroundElements": [
-    {
-      "type": "diamond",
-      "x": 39.32,
-      "y": 90.26,
-      "size": 15.32,
-      "blur": 4.28,
-      "opacity": 0.56,
-      "rotate": -8.41
-    },
     {
       "type": "ring",
       "x": 43.43,
@@ -79,16 +70,18 @@
       "blur": 3.42,
       "opacity": 0.26,
       "rotate": 26.05
+    },
+    {
+      "type": "block",
+      "x": 27.1,
+      "y": 5.9,
+      "size": 34.54,
+      "blur": 12.31,
+      "opacity": 0.6,
+      "rotate": 17.27
     }
   ],
   "shapes": [
-    {
-      "x": 39.32,
-      "y": 90.26,
-      "size": 15.32,
-      "blur": 4.28,
-      "opacity": 0.56
-    },
     {
       "x": 43.43,
       "y": 39.65,
@@ -130,9 +123,16 @@
       "size": 12.67,
       "blur": 3.42,
       "opacity": 0.26
+    },
+    {
+      "x": 27.1,
+      "y": 5.9,
+      "size": 34.54,
+      "blur": 12.31,
+      "opacity": 0.6
     }
   ],
-  "imagePath": "assets/generated/2026-03-25T09-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-25T09-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-25T09-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-25T10-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-25T10-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-25T10-00-00Z.mp3"
 }
