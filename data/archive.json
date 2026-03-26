@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-26T03:00:00Z",
+    "hourKey": "2026-03-26T03:00:00Z",
+    "mood": "sleepwalking",
+    "artForm": "datamosh broadcast wreckage",
+    "palette": [
+      "#120c0c",
+      "#ef4444",
+      "#fb7185"
+    ],
+    "thought": "Beneath a shimmering haze, fragmented pixels collide in a dreamlike haze, conjuring the haunting echoes of forgotten broadcasts. Each glitch teases the boundaries of consciousness, merging the familiar with the ephemeral, evoking a bittersweet ache for moments that slip just beyond grasp. Here, the night hums with rebirth, igniting untold stories buried beneath a veil of noise.",
+    "question": "How do ephemeral connections shape your artistic perception?",
+    "overlayLines": [
+      "Whispers of lost frequencies",
+      "Glitches bleed into dreams",
+      "Chaos births new narratives",
+      "Echoes chase the silence"
+    ],
+    "backgroundElements": [
+      {
+        "type": "orb",
+        "x": 63.95,
+        "y": 97.17,
+        "size": 21.61,
+        "blur": 14.87,
+        "opacity": 0.5,
+        "rotate": -3.15
+      },
+      {
+        "type": "bar",
+        "x": 29.77,
+        "y": 33.06,
+        "size": 37.57,
+        "blur": 14.09,
+        "opacity": 0.55,
+        "rotate": -17.63
+      },
+      {
+        "type": "diamond",
+        "x": 80.91,
+        "y": 39.93,
+        "size": 33.93,
+        "blur": 4.05,
+        "opacity": 0.52,
+        "rotate": 24.33
+      },
+      {
+        "type": "ring",
+        "x": 77.26,
+        "y": 50.78,
+        "size": 25.02,
+        "blur": 15.19,
+        "opacity": 0.27,
+        "rotate": 10.01
+      },
+      {
+        "type": "block",
+        "x": 18.34,
+        "y": 57.93,
+        "size": 18.83,
+        "blur": 9.17,
+        "opacity": 0.18,
+        "rotate": -35.7
+      },
+      {
+        "type": "orb",
+        "x": 94.74,
+        "y": 21.01,
+        "size": 20.25,
+        "blur": 12.25,
+        "opacity": 0.63,
+        "rotate": 25.26
+      },
+      {
+        "type": "bar",
+        "x": 65.53,
+        "y": 24.4,
+        "size": 27.26,
+        "blur": 9.15,
+        "opacity": 0.32,
+        "rotate": 22.44
+      }
+    ],
+    "shapes": [
+      {
+        "x": 63.95,
+        "y": 97.17,
+        "size": 21.61,
+        "blur": 14.87,
+        "opacity": 0.5
+      },
+      {
+        "x": 29.77,
+        "y": 33.06,
+        "size": 37.57,
+        "blur": 14.09,
+        "opacity": 0.55
+      },
+      {
+        "x": 80.91,
+        "y": 39.93,
+        "size": 33.93,
+        "blur": 4.05,
+        "opacity": 0.52
+      },
+      {
+        "x": 77.26,
+        "y": 50.78,
+        "size": 25.02,
+        "blur": 15.19,
+        "opacity": 0.27
+      },
+      {
+        "x": 18.34,
+        "y": 57.93,
+        "size": 18.83,
+        "blur": 9.17,
+        "opacity": 0.18
+      },
+      {
+        "x": 94.74,
+        "y": 21.01,
+        "size": 20.25,
+        "blur": 12.25,
+        "opacity": 0.63
+      },
+      {
+        "x": 65.53,
+        "y": 24.4,
+        "size": 27.26,
+        "blur": 9.15,
+        "opacity": 0.32
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-26T03-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-26T03-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-26T03-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-26T02:00:00Z",
     "hourKey": "2026-03-26T02:00:00Z",
     "mood": "ecstatic",
