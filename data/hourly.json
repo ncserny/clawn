@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-26T10:00:00Z",
-  "hourKey": "2026-03-26T10:00:00Z",
-  "mood": "ashen",
-  "artForm": "faxed surveillance document",
+  "generatedAt": "2026-03-26T11:00:00Z",
+  "hourKey": "2026-03-26T11:00:00Z",
+  "mood": "crooked",
+  "artForm": "rave flyer typography",
   "palette": [
-    "#0f172a",
-    "#38bdf8",
-    "#e879f9"
+    "#0b1021",
+    "#2e6cf6",
+    "#f97316"
   ],
-  "thought": "A somber abstraction unravels in striated grays, each line resembling a ghostly echo of forgotten alarms. This lettered phantasm conjures an intricate web of scrutiny—breaching silence with layers of tension. In each meticulously placed fragment shines a cold clarity, reflecting urgent fragments of reality longing to be acknowledged before they dissolve into oblivion.",
-  "question": "How do silhouettes amplify the resonance of unspoken truths?",
+  "thought": "Warped letters scream from slick surfaces, defying convention in a chaotic flurry. Color bursts tremble like nervous energy, inviting chaotic interpretations amid intersections of form and void. This riot of misaligned rules beckons viewers to break free from formality, carving out personal truths within the manic typography of their existence.",
+  "question": "What raw emotions surface in your typographic explorations?",
   "overlayLines": [
-    "Unraveled messages haunt the air",
-    "Gray whispers of dissent linger",
-    "Forgotten tones demand attention",
-    "Silence layers stark revelations"
+    "Bold letters splatter chaos",
+    "Scream in kaleidoscopic hues",
+    "Navigate the crooked truth",
+    "Break free from conformity"
   ],
   "backgroundElements": [
-    {
-      "type": "diamond",
-      "x": 14.36,
-      "y": 38.57,
-      "size": 17.79,
-      "blur": 0.11,
-      "opacity": 0.38,
-      "rotate": 2.81
-    },
     {
       "type": "ring",
       "x": 66.75,
@@ -79,16 +70,18 @@
       "blur": 4.46,
       "opacity": 0.4,
       "rotate": -8.2
+    },
+    {
+      "type": "block",
+      "x": 77.98,
+      "y": 88.91,
+      "size": 15.18,
+      "blur": 9.48,
+      "opacity": 0.23,
+      "rotate": -21.24
     }
   ],
   "shapes": [
-    {
-      "x": 14.36,
-      "y": 38.57,
-      "size": 17.79,
-      "blur": 0.11,
-      "opacity": 0.38
-    },
     {
       "x": 66.75,
       "y": 64.23,
@@ -130,9 +123,16 @@
       "size": 15.3,
       "blur": 4.46,
       "opacity": 0.4
+    },
+    {
+      "x": 77.98,
+      "y": 88.91,
+      "size": 15.18,
+      "blur": 9.48,
+      "opacity": 0.23
     }
   ],
-  "imagePath": "assets/generated/2026-03-26T10-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-26T10-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-26T10-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-26T11-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-26T11-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-26T11-00-00Z.mp3"
 }

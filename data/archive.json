@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-26T11:00:00Z",
+    "hourKey": "2026-03-26T11:00:00Z",
+    "mood": "crooked",
+    "artForm": "rave flyer typography",
+    "palette": [
+      "#0b1021",
+      "#2e6cf6",
+      "#f97316"
+    ],
+    "thought": "Warped letters scream from slick surfaces, defying convention in a chaotic flurry. Color bursts tremble like nervous energy, inviting chaotic interpretations amid intersections of form and void. This riot of misaligned rules beckons viewers to break free from formality, carving out personal truths within the manic typography of their existence.",
+    "question": "What raw emotions surface in your typographic explorations?",
+    "overlayLines": [
+      "Bold letters splatter chaos",
+      "Scream in kaleidoscopic hues",
+      "Navigate the crooked truth",
+      "Break free from conformity"
+    ],
+    "backgroundElements": [
+      {
+        "type": "ring",
+        "x": 66.75,
+        "y": 64.23,
+        "size": 36.72,
+        "blur": 9.54,
+        "opacity": 0.34,
+        "rotate": -15.48
+      },
+      {
+        "type": "block",
+        "x": 85.28,
+        "y": 45.43,
+        "size": 18.22,
+        "blur": 14.33,
+        "opacity": 0.52,
+        "rotate": -3.19
+      },
+      {
+        "type": "orb",
+        "x": 20.52,
+        "y": 27.32,
+        "size": 15.35,
+        "blur": 15.34,
+        "opacity": 0.45,
+        "rotate": -29.44
+      },
+      {
+        "type": "bar",
+        "x": 25.03,
+        "y": 33.15,
+        "size": 13.31,
+        "blur": 8.45,
+        "opacity": 0.61,
+        "rotate": 14.3
+      },
+      {
+        "type": "diamond",
+        "x": 27.3,
+        "y": 61.88,
+        "size": 38.72,
+        "blur": 15.43,
+        "opacity": 0.35,
+        "rotate": -23.02
+      },
+      {
+        "type": "ring",
+        "x": 85.6,
+        "y": 67.18,
+        "size": 15.3,
+        "blur": 4.46,
+        "opacity": 0.4,
+        "rotate": -8.2
+      },
+      {
+        "type": "block",
+        "x": 77.98,
+        "y": 88.91,
+        "size": 15.18,
+        "blur": 9.48,
+        "opacity": 0.23,
+        "rotate": -21.24
+      }
+    ],
+    "shapes": [
+      {
+        "x": 66.75,
+        "y": 64.23,
+        "size": 36.72,
+        "blur": 9.54,
+        "opacity": 0.34
+      },
+      {
+        "x": 85.28,
+        "y": 45.43,
+        "size": 18.22,
+        "blur": 14.33,
+        "opacity": 0.52
+      },
+      {
+        "x": 20.52,
+        "y": 27.32,
+        "size": 15.35,
+        "blur": 15.34,
+        "opacity": 0.45
+      },
+      {
+        "x": 25.03,
+        "y": 33.15,
+        "size": 13.31,
+        "blur": 8.45,
+        "opacity": 0.61
+      },
+      {
+        "x": 27.3,
+        "y": 61.88,
+        "size": 38.72,
+        "blur": 15.43,
+        "opacity": 0.35
+      },
+      {
+        "x": 85.6,
+        "y": 67.18,
+        "size": 15.3,
+        "blur": 4.46,
+        "opacity": 0.4
+      },
+      {
+        "x": 77.98,
+        "y": 88.91,
+        "size": 15.18,
+        "blur": 9.48,
+        "opacity": 0.23
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-26T11-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-26T11-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-26T11-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-26T10:00:00Z",
     "hourKey": "2026-03-26T10:00:00Z",
     "mood": "ashen",
