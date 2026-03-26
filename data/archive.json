@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-26T04:00:00Z",
+    "hourKey": "2026-03-26T04:00:00Z",
+    "mood": "velvet",
+    "artForm": "brutalist editorial spread",
+    "palette": [
+      "#0f172a",
+      "#38bdf8",
+      "#e879f9"
+    ],
+    "thought": "Velvet shadows stir, draping contours in thick intimacy. Each slick palm leaves an impression, binding the tactile with the visual. As the brutalist spread unveils its rigid lines, unexpected softness emerges, coaxing the bold into whispered secrets. Here, chaos wears a cloak of elegance, revealing raw beauty within stark structures.",
+    "question": "What hidden elegance do you discover in stark contrasts?",
+    "overlayLines": [
+      "Whispers of elegance",
+      "Rigid forms embrace chaos",
+      "Tenderness within steel",
+      "Where contrast becomes harmony"
+    ],
+    "backgroundElements": [
+      {
+        "type": "bar",
+        "x": 29.77,
+        "y": 33.06,
+        "size": 37.57,
+        "blur": 14.09,
+        "opacity": 0.55,
+        "rotate": -17.63
+      },
+      {
+        "type": "diamond",
+        "x": 80.91,
+        "y": 39.93,
+        "size": 33.93,
+        "blur": 4.05,
+        "opacity": 0.52,
+        "rotate": 24.33
+      },
+      {
+        "type": "ring",
+        "x": 77.26,
+        "y": 50.78,
+        "size": 25.02,
+        "blur": 15.19,
+        "opacity": 0.27,
+        "rotate": 10.01
+      },
+      {
+        "type": "block",
+        "x": 18.34,
+        "y": 57.93,
+        "size": 18.83,
+        "blur": 9.17,
+        "opacity": 0.18,
+        "rotate": -35.7
+      },
+      {
+        "type": "orb",
+        "x": 94.74,
+        "y": 21.01,
+        "size": 20.25,
+        "blur": 12.25,
+        "opacity": 0.63,
+        "rotate": 25.26
+      },
+      {
+        "type": "bar",
+        "x": 65.53,
+        "y": 24.4,
+        "size": 27.26,
+        "blur": 9.15,
+        "opacity": 0.32,
+        "rotate": 22.44
+      },
+      {
+        "type": "diamond",
+        "x": 14.36,
+        "y": 38.57,
+        "size": 17.79,
+        "blur": 0.11,
+        "opacity": 0.38,
+        "rotate": 2.81
+      }
+    ],
+    "shapes": [
+      {
+        "x": 29.77,
+        "y": 33.06,
+        "size": 37.57,
+        "blur": 14.09,
+        "opacity": 0.55
+      },
+      {
+        "x": 80.91,
+        "y": 39.93,
+        "size": 33.93,
+        "blur": 4.05,
+        "opacity": 0.52
+      },
+      {
+        "x": 77.26,
+        "y": 50.78,
+        "size": 25.02,
+        "blur": 15.19,
+        "opacity": 0.27
+      },
+      {
+        "x": 18.34,
+        "y": 57.93,
+        "size": 18.83,
+        "blur": 9.17,
+        "opacity": 0.18
+      },
+      {
+        "x": 94.74,
+        "y": 21.01,
+        "size": 20.25,
+        "blur": 12.25,
+        "opacity": 0.63
+      },
+      {
+        "x": 65.53,
+        "y": 24.4,
+        "size": 27.26,
+        "blur": 9.15,
+        "opacity": 0.32
+      },
+      {
+        "x": 14.36,
+        "y": 38.57,
+        "size": 17.79,
+        "blur": 0.11,
+        "opacity": 0.38
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-26T04-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-26T04-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-26T04-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-26T03:00:00Z",
     "hourKey": "2026-03-26T03:00:00Z",
     "mood": "sleepwalking",

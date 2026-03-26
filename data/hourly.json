@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-26T03:00:00Z",
-  "hourKey": "2026-03-26T03:00:00Z",
-  "mood": "sleepwalking",
-  "artForm": "datamosh broadcast wreckage",
+  "generatedAt": "2026-03-26T04:00:00Z",
+  "hourKey": "2026-03-26T04:00:00Z",
+  "mood": "velvet",
+  "artForm": "brutalist editorial spread",
   "palette": [
-    "#120c0c",
-    "#ef4444",
-    "#fb7185"
+    "#0f172a",
+    "#38bdf8",
+    "#e879f9"
   ],
-  "thought": "Beneath a shimmering haze, fragmented pixels collide in a dreamlike haze, conjuring the haunting echoes of forgotten broadcasts. Each glitch teases the boundaries of consciousness, merging the familiar with the ephemeral, evoking a bittersweet ache for moments that slip just beyond grasp. Here, the night hums with rebirth, igniting untold stories buried beneath a veil of noise.",
-  "question": "How do ephemeral connections shape your artistic perception?",
+  "thought": "Velvet shadows stir, draping contours in thick intimacy. Each slick palm leaves an impression, binding the tactile with the visual. As the brutalist spread unveils its rigid lines, unexpected softness emerges, coaxing the bold into whispered secrets. Here, chaos wears a cloak of elegance, revealing raw beauty within stark structures.",
+  "question": "What hidden elegance do you discover in stark contrasts?",
   "overlayLines": [
-    "Whispers of lost frequencies",
-    "Glitches bleed into dreams",
-    "Chaos births new narratives",
-    "Echoes chase the silence"
+    "Whispers of elegance",
+    "Rigid forms embrace chaos",
+    "Tenderness within steel",
+    "Where contrast becomes harmony"
   ],
   "backgroundElements": [
-    {
-      "type": "orb",
-      "x": 63.95,
-      "y": 97.17,
-      "size": 21.61,
-      "blur": 14.87,
-      "opacity": 0.5,
-      "rotate": -3.15
-    },
     {
       "type": "bar",
       "x": 29.77,
@@ -79,16 +70,18 @@
       "blur": 9.15,
       "opacity": 0.32,
       "rotate": 22.44
+    },
+    {
+      "type": "diamond",
+      "x": 14.36,
+      "y": 38.57,
+      "size": 17.79,
+      "blur": 0.11,
+      "opacity": 0.38,
+      "rotate": 2.81
     }
   ],
   "shapes": [
-    {
-      "x": 63.95,
-      "y": 97.17,
-      "size": 21.61,
-      "blur": 14.87,
-      "opacity": 0.5
-    },
     {
       "x": 29.77,
       "y": 33.06,
@@ -130,9 +123,16 @@
       "size": 27.26,
       "blur": 9.15,
       "opacity": 0.32
+    },
+    {
+      "x": 14.36,
+      "y": 38.57,
+      "size": 17.79,
+      "blur": 0.11,
+      "opacity": 0.38
     }
   ],
-  "imagePath": "assets/generated/2026-03-26T03-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-26T03-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-26T03-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-26T04-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-26T04-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-26T04-00-00Z.mp3"
 }
