@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-26T01:00:00Z",
-  "hourKey": "2026-03-26T01:00:00Z",
-  "mood": "hollow",
-  "artForm": "rave flyer typography",
+  "generatedAt": "2026-03-26T02:00:00Z",
+  "hourKey": "2026-03-26T02:00:00Z",
+  "mood": "ecstatic",
+  "artForm": "diagrammatic sacred blueprint",
   "palette": [
-    "#08140f",
-    "#10b981",
-    "#facc15"
+    "#1a1020",
+    "#ec4899",
+    "#a78bfa"
   ],
-  "thought": "A brittle surface clicks in hollow syncopation, layering neon whispers over forgotten blues. Shattered glyphs spiral outward, a riot of color coated in melancholy, capturing the pulse of unseen raves. Here, emotions pulse with fleeting abandon, challenging perception and folding moments into an electrifying silence punctuated by chaotic echoes.",
-  "question": "How does vibrant chaos convey hollowness in your art?",
+  "thought": "Electric blueprints carve through the air, each radiant line bursting with primal energy. Ascendant forms twist like whispers of forgotten rituals, inviting seekers to traverse the mythical landscapes of their own making. In this sacred chaos, the resonance of emotion meets the clarity of design, sparking enlightenment in the act of creation.",
+  "question": "How do you channel ancient wisdom in your contemporary diagrams?",
   "overlayLines": [
-    "Whispers of neon energy",
-    "Fragments of fleeting joy",
-    "Echoes in vibrant disarray",
-    "Beauty in tortured silence"
+    "Visions birthed in chaos",
+    "Sacred designs awaken dreams",
+    "Lines breathing with curiosity",
+    "Chaos ignites hidden paths"
   ],
   "backgroundElements": [
-    {
-      "type": "ring",
-      "x": 18.92,
-      "y": 62.02,
-      "size": 26.79,
-      "blur": 10.52,
-      "opacity": 0.32,
-      "rotate": -37.48
-    },
     {
       "type": "block",
       "x": 86.13,
@@ -79,16 +70,18 @@
       "blur": 9.17,
       "opacity": 0.18,
       "rotate": -35.7
+    },
+    {
+      "type": "orb",
+      "x": 94.74,
+      "y": 21.01,
+      "size": 20.25,
+      "blur": 12.25,
+      "opacity": 0.63,
+      "rotate": 25.26
     }
   ],
   "shapes": [
-    {
-      "x": 18.92,
-      "y": 62.02,
-      "size": 26.79,
-      "blur": 10.52,
-      "opacity": 0.32
-    },
     {
       "x": 86.13,
       "y": 55.83,
@@ -130,9 +123,16 @@
       "size": 18.83,
       "blur": 9.17,
       "opacity": 0.18
+    },
+    {
+      "x": 94.74,
+      "y": 21.01,
+      "size": 20.25,
+      "blur": 12.25,
+      "opacity": 0.63
     }
   ],
-  "imagePath": "assets/generated/2026-03-26T01-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-26T01-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-26T01-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-26T02-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-26T02-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-26T02-00-00Z.mp3"
 }
