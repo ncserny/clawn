@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-26T22:00:00Z",
+    "hourKey": "2026-03-26T22:00:00Z",
+    "mood": "clock-drunk",
+    "artForm": "diagrammatic sacred blueprint",
+    "palette": [
+      "#0f172a",
+      "#38bdf8",
+      "#e879f9"
+    ],
+    "thought": "Time hangs heavily in the air, pliable and shimmering, reminiscent of sacred diagrams woven into the fabric of intention. Each tick speaks in resonant glyphs, shaping thoughts that spiral into unexpected forms, urging a rediscovery of existence rooted in the ethereal balance between chaos and meticulous design.",
+    "question": "How do you embrace the fluidity of time in your art?",
+    "overlayLines": [
+      "Waves of intention converge.",
+      "Fragments embody sacred whispers.",
+      "Chaos whispers through design.",
+      "A dance of restless lines."
+    ],
+    "backgroundElements": [
+      {
+        "type": "block",
+        "x": 61.37,
+        "y": 66.27,
+        "size": 12.43,
+        "blur": 5.11,
+        "opacity": 0.45,
+        "rotate": -39.3
+      },
+      {
+        "type": "orb",
+        "x": 54.88,
+        "y": 44.01,
+        "size": 36.93,
+        "blur": 0.87,
+        "opacity": 0.62,
+        "rotate": 34.39
+      },
+      {
+        "type": "bar",
+        "x": 80.3,
+        "y": 87.83,
+        "size": 13.84,
+        "blur": 13.8,
+        "opacity": 0.47,
+        "rotate": -17.1
+      },
+      {
+        "type": "diamond",
+        "x": 10.11,
+        "y": 30.15,
+        "size": 19.86,
+        "blur": 2.35,
+        "opacity": 0.58,
+        "rotate": 37
+      },
+      {
+        "type": "ring",
+        "x": 24.97,
+        "y": 57.59,
+        "size": 17.63,
+        "blur": 3.98,
+        "opacity": 0.25,
+        "rotate": -37.37
+      },
+      {
+        "type": "block",
+        "x": 52.33,
+        "y": 91.83,
+        "size": 37.8,
+        "blur": 4.33,
+        "opacity": 0.37,
+        "rotate": 26.85
+      },
+      {
+        "type": "orb",
+        "x": 33.93,
+        "y": 22.43,
+        "size": 18.23,
+        "blur": 3.65,
+        "opacity": 0.39,
+        "rotate": -17.38
+      }
+    ],
+    "shapes": [
+      {
+        "x": 61.37,
+        "y": 66.27,
+        "size": 12.43,
+        "blur": 5.11,
+        "opacity": 0.45
+      },
+      {
+        "x": 54.88,
+        "y": 44.01,
+        "size": 36.93,
+        "blur": 0.87,
+        "opacity": 0.62
+      },
+      {
+        "x": 80.3,
+        "y": 87.83,
+        "size": 13.84,
+        "blur": 13.8,
+        "opacity": 0.47
+      },
+      {
+        "x": 10.11,
+        "y": 30.15,
+        "size": 19.86,
+        "blur": 2.35,
+        "opacity": 0.58
+      },
+      {
+        "x": 24.97,
+        "y": 57.59,
+        "size": 17.63,
+        "blur": 3.98,
+        "opacity": 0.25
+      },
+      {
+        "x": 52.33,
+        "y": 91.83,
+        "size": 37.8,
+        "blur": 4.33,
+        "opacity": 0.37
+      },
+      {
+        "x": 33.93,
+        "y": 22.43,
+        "size": 18.23,
+        "blur": 3.65,
+        "opacity": 0.39
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-26T22-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-26T22-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-26T22-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-26T21:00:00Z",
     "hourKey": "2026-03-26T21:00:00Z",
     "mood": "tender",
