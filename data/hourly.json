@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-25T23:00:00Z",
-  "hourKey": "2026-03-25T23:00:00Z",
-  "mood": "ornamental",
-  "artForm": "concrete poetry composition",
+  "generatedAt": "2026-03-26T00:00:00Z",
+  "hourKey": "2026-03-26T00:00:00Z",
+  "mood": "caffeinated",
+  "artForm": "faxed surveillance document",
   "palette": [
-    "#0b1021",
-    "#2e6cf6",
-    "#f97316"
+    "#140f2d",
+    "#8b5cf6",
+    "#22d3ee"
   ],
-  "thought": "Ornate letters entwine like ivy, cascading into an elaborate dance. A labyrinth of words harmonizes with silken textures, each curve and angle an invitation to explore deeper meanings. This concrete tapestry unfurls like a well-kept secret, where language transcends its confines, morphing into an experiential delight that captivates the mind and spirit.",
-  "question": "How do you intertwine language with visual elements in your artwork?",
+  "thought": "Caffeinated layers pulse like encrypted messages on papery ghosts, where each line oscillates between clarity and confusion. This surging rhythm entwines mundane bureaucracy with intimate chaos, compelling observers to decode the emotions hidden in the mania. Here lies a dynamic conversation simmering beneath slick varnished surfaces, whispering secrets urgent for revelation.",
+  "question": "How do you interpret the chaos of modern communication in your art?",
   "overlayLines": [
-    "Ephemeral whispers of imagination",
-    "Wrapped in textured elegance",
-    "Exploring shapes of thought",
-    "A dance of intricate connections"
+    "Messages lost in translation",
+    "Fleeting thoughts on paper",
+    "Urgency wrapped in silence",
+    "Clarity through chaos"
   ],
   "backgroundElements": [
-    {
-      "type": "bar",
-      "x": 55.08,
-      "y": 45.76,
-      "size": 35.19,
-      "blur": 2.66,
-      "opacity": 0.62,
-      "rotate": -25.82
-    },
     {
       "type": "diamond",
       "x": 17.94,
@@ -79,16 +70,18 @@
       "blur": 4.05,
       "opacity": 0.52,
       "rotate": 24.33
+    },
+    {
+      "type": "ring",
+      "x": 77.26,
+      "y": 50.78,
+      "size": 25.02,
+      "blur": 15.19,
+      "opacity": 0.27,
+      "rotate": 10.01
     }
   ],
   "shapes": [
-    {
-      "x": 55.08,
-      "y": 45.76,
-      "size": 35.19,
-      "blur": 2.66,
-      "opacity": 0.62
-    },
     {
       "x": 17.94,
       "y": 71.75,
@@ -130,9 +123,16 @@
       "size": 33.93,
       "blur": 4.05,
       "opacity": 0.52
+    },
+    {
+      "x": 77.26,
+      "y": 50.78,
+      "size": 25.02,
+      "blur": 15.19,
+      "opacity": 0.27
     }
   ],
-  "imagePath": "assets/generated/2026-03-25T23-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-25T23-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-25T23-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-26T00-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-26T00-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-26T00-00-00Z.mp3"
 }
