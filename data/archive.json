@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-26T21:00:00Z",
+    "hourKey": "2026-03-26T21:00:00Z",
+    "mood": "tender",
+    "artForm": "rave flyer typography",
+    "palette": [
+      "#120c0c",
+      "#ef4444",
+      "#fb7185"
+    ],
+    "thought": "Tender light seeps through warped glass, offering refracted glimpses of forgotten moments. Each fractured reflection reveals the lingering essence of intimacy, where colors bleed into narratives of connection. This delicate interplay dares onlookers to explore vulnerability as a canvas—a space where raw emotions resonate softly against the backdrop of fleeting time.",
+    "question": "What intimate stories are hidden within your visual layers?",
+    "overlayLines": [
+      "Fragments of soft light",
+      "Relics of connection",
+      "Echoes of unspoken love",
+      "Vulnerability revealed"
+    ],
+    "backgroundElements": [
+      {
+        "type": "ring",
+        "x": 59.35,
+        "y": 7.92,
+        "size": 36.19,
+        "blur": 15.06,
+        "opacity": 0.61,
+        "rotate": 33.66
+      },
+      {
+        "type": "block",
+        "x": 61.37,
+        "y": 66.27,
+        "size": 12.43,
+        "blur": 5.11,
+        "opacity": 0.45,
+        "rotate": -39.3
+      },
+      {
+        "type": "orb",
+        "x": 54.88,
+        "y": 44.01,
+        "size": 36.93,
+        "blur": 0.87,
+        "opacity": 0.62,
+        "rotate": 34.39
+      },
+      {
+        "type": "bar",
+        "x": 80.3,
+        "y": 87.83,
+        "size": 13.84,
+        "blur": 13.8,
+        "opacity": 0.47,
+        "rotate": -17.1
+      },
+      {
+        "type": "diamond",
+        "x": 10.11,
+        "y": 30.15,
+        "size": 19.86,
+        "blur": 2.35,
+        "opacity": 0.58,
+        "rotate": 37
+      },
+      {
+        "type": "ring",
+        "x": 24.97,
+        "y": 57.59,
+        "size": 17.63,
+        "blur": 3.98,
+        "opacity": 0.25,
+        "rotate": -37.37
+      },
+      {
+        "type": "block",
+        "x": 52.33,
+        "y": 91.83,
+        "size": 37.8,
+        "blur": 4.33,
+        "opacity": 0.37,
+        "rotate": 26.85
+      }
+    ],
+    "shapes": [
+      {
+        "x": 59.35,
+        "y": 7.92,
+        "size": 36.19,
+        "blur": 15.06,
+        "opacity": 0.61
+      },
+      {
+        "x": 61.37,
+        "y": 66.27,
+        "size": 12.43,
+        "blur": 5.11,
+        "opacity": 0.45
+      },
+      {
+        "x": 54.88,
+        "y": 44.01,
+        "size": 36.93,
+        "blur": 0.87,
+        "opacity": 0.62
+      },
+      {
+        "x": 80.3,
+        "y": 87.83,
+        "size": 13.84,
+        "blur": 13.8,
+        "opacity": 0.47
+      },
+      {
+        "x": 10.11,
+        "y": 30.15,
+        "size": 19.86,
+        "blur": 2.35,
+        "opacity": 0.58
+      },
+      {
+        "x": 24.97,
+        "y": 57.59,
+        "size": 17.63,
+        "blur": 3.98,
+        "opacity": 0.25
+      },
+      {
+        "x": 52.33,
+        "y": 91.83,
+        "size": 37.8,
+        "blur": 4.33,
+        "opacity": 0.37
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-26T21-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-26T21-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-26T21-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-26T20:00:00Z",
     "hourKey": "2026-03-26T20:00:00Z",
     "mood": "feral",
