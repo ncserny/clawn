@@ -1,58 +1,22 @@
 {
-  "generatedAt": "2026-03-26T13:00:00Z",
-  "hourKey": "2026-03-26T13:00:00Z",
-  "mood": "electric",
-  "artForm": "datamosh broadcast wreckage",
+  "generatedAt": "2026-03-26T17:00:00Z",
+  "hourKey": "2026-03-26T17:00:00Z",
+  "mood": "off-balance",
+  "artForm": "terminal prophecy interface",
   "palette": [
-    "#08140f",
-    "#10b981",
-    "#facc15"
+    "#0b1021",
+    "#2e6cf6",
+    "#f97316"
   ],
-  "thought": "Electricity surges through the fabric of images, each pixel vibrating with the discord of reality's fractures. Data streams twist and distort, spiraling into a vivid chaos that disrupts perception. This dynamic wreckage unveils hidden narratives, compelling viewers to navigate the shockwaves of creation and embrace the unnerving allure of disarray.",
-  "question": "What hidden narratives emerge from your digital distortions?",
+  "thought": "An unsettling rhythm emerges from the void, vibrating between discordant frequencies and lost futures. Each pixel represents a prophecy, whispering warnings tangled in vivid hues. As these spectral hues clash, an off-kilter harmony surfaces, enticing the observer to unravel the threads of chaos woven into the fabric of existence.",
+  "question": "What prophecies linger in your creations from the unseen?",
   "overlayLines": [
-    "Frequencies of vivid chaos",
-    "Pixels scream in disarray",
-    "Whispers of radiant distortion",
-    "Embrace the fractured pulse"
+    "Echoes of the undone",
+    "Whispers intertwined",
+    "Chaos reveals truth",
+    "Navigating lost visions"
   ],
   "backgroundElements": [
-    {
-      "type": "orb",
-      "x": 20.52,
-      "y": 27.32,
-      "size": 15.35,
-      "blur": 15.34,
-      "opacity": 0.45,
-      "rotate": -29.44
-    },
-    {
-      "type": "bar",
-      "x": 25.03,
-      "y": 33.15,
-      "size": 13.31,
-      "blur": 8.45,
-      "opacity": 0.61,
-      "rotate": 14.3
-    },
-    {
-      "type": "diamond",
-      "x": 27.3,
-      "y": 61.88,
-      "size": 38.72,
-      "blur": 15.43,
-      "opacity": 0.35,
-      "rotate": -23.02
-    },
-    {
-      "type": "ring",
-      "x": 85.6,
-      "y": 67.18,
-      "size": 15.3,
-      "blur": 4.46,
-      "opacity": 0.4,
-      "rotate": -8.2
-    },
     {
       "type": "block",
       "x": 77.98,
@@ -79,37 +43,45 @@
       "blur": 14.81,
       "opacity": 0.55,
       "rotate": 0.11
+    },
+    {
+      "type": "diamond",
+      "x": 13.6,
+      "y": 8.4,
+      "size": 13.3,
+      "blur": 9.11,
+      "opacity": 0.3,
+      "rotate": -0.75
+    },
+    {
+      "type": "ring",
+      "x": 59.35,
+      "y": 7.92,
+      "size": 36.19,
+      "blur": 15.06,
+      "opacity": 0.61,
+      "rotate": 33.66
+    },
+    {
+      "type": "block",
+      "x": 61.37,
+      "y": 66.27,
+      "size": 12.43,
+      "blur": 5.11,
+      "opacity": 0.45,
+      "rotate": -39.3
+    },
+    {
+      "type": "orb",
+      "x": 54.88,
+      "y": 44.01,
+      "size": 36.93,
+      "blur": 0.87,
+      "opacity": 0.62,
+      "rotate": 34.39
     }
   ],
   "shapes": [
-    {
-      "x": 20.52,
-      "y": 27.32,
-      "size": 15.35,
-      "blur": 15.34,
-      "opacity": 0.45
-    },
-    {
-      "x": 25.03,
-      "y": 33.15,
-      "size": 13.31,
-      "blur": 8.45,
-      "opacity": 0.61
-    },
-    {
-      "x": 27.3,
-      "y": 61.88,
-      "size": 38.72,
-      "blur": 15.43,
-      "opacity": 0.35
-    },
-    {
-      "x": 85.6,
-      "y": 67.18,
-      "size": 15.3,
-      "blur": 4.46,
-      "opacity": 0.4
-    },
     {
       "x": 77.98,
       "y": 88.91,
@@ -130,9 +102,37 @@
       "size": 36.06,
       "blur": 14.81,
       "opacity": 0.55
+    },
+    {
+      "x": 13.6,
+      "y": 8.4,
+      "size": 13.3,
+      "blur": 9.11,
+      "opacity": 0.3
+    },
+    {
+      "x": 59.35,
+      "y": 7.92,
+      "size": 36.19,
+      "blur": 15.06,
+      "opacity": 0.61
+    },
+    {
+      "x": 61.37,
+      "y": 66.27,
+      "size": 12.43,
+      "blur": 5.11,
+      "opacity": 0.45
+    },
+    {
+      "x": 54.88,
+      "y": 44.01,
+      "size": 36.93,
+      "blur": 0.87,
+      "opacity": 0.62
     }
   ],
-  "imagePath": "assets/generated/2026-03-26T13-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-26T13-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-26T13-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-26T17-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-26T17-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-26T17-00-00Z.mp3"
 }
