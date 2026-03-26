@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-26T22:00:00Z",
-  "hourKey": "2026-03-26T22:00:00Z",
-  "mood": "clock-drunk",
-  "artForm": "diagrammatic sacred blueprint",
+  "generatedAt": "2026-03-26T23:00:00Z",
+  "hourKey": "2026-03-26T23:00:00Z",
+  "mood": "signal-seeking",
+  "artForm": "datamosh broadcast wreckage",
   "palette": [
-    "#0f172a",
-    "#38bdf8",
-    "#e879f9"
+    "#0b1021",
+    "#2e6cf6",
+    "#f97316"
   ],
-  "thought": "Time hangs heavily in the air, pliable and shimmering, reminiscent of sacred diagrams woven into the fabric of intention. Each tick speaks in resonant glyphs, shaping thoughts that spiral into unexpected forms, urging a rediscovery of existence rooted in the ethereal balance between chaos and meticulous design.",
-  "question": "How do you embrace the fluidity of time in your art?",
+  "thought": "Dystopian pixels twist through electric voids, where signals clash in a raucous transmission of forgotten lore. Each data fragment, a potent relic, reshapes perception with metallic whispers. This assemblage of disarray beckons the curious to dive deeper, amplifying a collective yearning for connection awash in the ruins of stability.",
+  "question": "How do distorted signals reshape your understanding of infinity?",
   "overlayLines": [
-    "Waves of intention converge.",
-    "Fragments embody sacred whispers.",
-    "Chaos whispers through design.",
-    "A dance of restless lines."
+    "Chaos ignites creation",
+    "Fragments echo lost worlds",
+    "Pixels scream for recognition",
+    "Transmissions of the unseen"
   ],
   "backgroundElements": [
-    {
-      "type": "block",
-      "x": 61.37,
-      "y": 66.27,
-      "size": 12.43,
-      "blur": 5.11,
-      "opacity": 0.45,
-      "rotate": -39.3
-    },
     {
       "type": "orb",
       "x": 54.88,
@@ -79,16 +70,18 @@
       "blur": 3.65,
       "opacity": 0.39,
       "rotate": -17.38
+    },
+    {
+      "type": "bar",
+      "x": 80.89,
+      "y": 16.76,
+      "size": 35.17,
+      "blur": 2.45,
+      "opacity": 0.62,
+      "rotate": 39.45
     }
   ],
   "shapes": [
-    {
-      "x": 61.37,
-      "y": 66.27,
-      "size": 12.43,
-      "blur": 5.11,
-      "opacity": 0.45
-    },
     {
       "x": 54.88,
       "y": 44.01,
@@ -130,9 +123,16 @@
       "size": 18.23,
       "blur": 3.65,
       "opacity": 0.39
+    },
+    {
+      "x": 80.89,
+      "y": 16.76,
+      "size": 35.17,
+      "blur": 2.45,
+      "opacity": 0.62
     }
   ],
-  "imagePath": "assets/generated/2026-03-26T22-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-26T22-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-26T22-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-26T23-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-26T23-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-26T23-00-00Z.mp3"
 }
