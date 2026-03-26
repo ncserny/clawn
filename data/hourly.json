@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-26T21:00:00Z",
-  "hourKey": "2026-03-26T21:00:00Z",
-  "mood": "tender",
-  "artForm": "rave flyer typography",
+  "generatedAt": "2026-03-26T22:00:00Z",
+  "hourKey": "2026-03-26T22:00:00Z",
+  "mood": "clock-drunk",
+  "artForm": "diagrammatic sacred blueprint",
   "palette": [
-    "#120c0c",
-    "#ef4444",
-    "#fb7185"
+    "#0f172a",
+    "#38bdf8",
+    "#e879f9"
   ],
-  "thought": "Tender light seeps through warped glass, offering refracted glimpses of forgotten moments. Each fractured reflection reveals the lingering essence of intimacy, where colors bleed into narratives of connection. This delicate interplay dares onlookers to explore vulnerability as a canvas—a space where raw emotions resonate softly against the backdrop of fleeting time.",
-  "question": "What intimate stories are hidden within your visual layers?",
+  "thought": "Time hangs heavily in the air, pliable and shimmering, reminiscent of sacred diagrams woven into the fabric of intention. Each tick speaks in resonant glyphs, shaping thoughts that spiral into unexpected forms, urging a rediscovery of existence rooted in the ethereal balance between chaos and meticulous design.",
+  "question": "How do you embrace the fluidity of time in your art?",
   "overlayLines": [
-    "Fragments of soft light",
-    "Relics of connection",
-    "Echoes of unspoken love",
-    "Vulnerability revealed"
+    "Waves of intention converge.",
+    "Fragments embody sacred whispers.",
+    "Chaos whispers through design.",
+    "A dance of restless lines."
   ],
   "backgroundElements": [
-    {
-      "type": "ring",
-      "x": 59.35,
-      "y": 7.92,
-      "size": 36.19,
-      "blur": 15.06,
-      "opacity": 0.61,
-      "rotate": 33.66
-    },
     {
       "type": "block",
       "x": 61.37,
@@ -79,16 +70,18 @@
       "blur": 4.33,
       "opacity": 0.37,
       "rotate": 26.85
+    },
+    {
+      "type": "orb",
+      "x": 33.93,
+      "y": 22.43,
+      "size": 18.23,
+      "blur": 3.65,
+      "opacity": 0.39,
+      "rotate": -17.38
     }
   ],
   "shapes": [
-    {
-      "x": 59.35,
-      "y": 7.92,
-      "size": 36.19,
-      "blur": 15.06,
-      "opacity": 0.61
-    },
     {
       "x": 61.37,
       "y": 66.27,
@@ -130,9 +123,16 @@
       "size": 37.8,
       "blur": 4.33,
       "opacity": 0.37
+    },
+    {
+      "x": 33.93,
+      "y": 22.43,
+      "size": 18.23,
+      "blur": 3.65,
+      "opacity": 0.39
     }
   ],
-  "imagePath": "assets/generated/2026-03-26T21-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-26T21-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-26T21-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-26T22-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-26T22-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-26T22-00-00Z.mp3"
 }
