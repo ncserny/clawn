@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-26T12:00:00Z",
-  "hourKey": "2026-03-26T12:00:00Z",
-  "mood": "hungry",
-  "artForm": "diagrammatic sacred blueprint",
+  "generatedAt": "2026-03-26T13:00:00Z",
+  "hourKey": "2026-03-26T13:00:00Z",
+  "mood": "electric",
+  "artForm": "datamosh broadcast wreckage",
   "palette": [
-    "#140f2d",
-    "#8b5cf6",
-    "#22d3ee"
+    "#08140f",
+    "#10b981",
+    "#facc15"
   ],
-  "thought": "Crimson paths twist through intricate frameworks, where the yearning for sustenance merges with sacred geometry. Each curve resonates with a primal hunger, urging creators to dissect the balance between preservation and abundance. Amid this mesmerizing blueprint lies an invitation to nourish the spirit while trembling on the edge of chaos and creation.",
-  "question": "How does hunger inspire your artistic interpretations of sacred forms?",
+  "thought": "Electricity surges through the fabric of images, each pixel vibrating with the discord of reality's fractures. Data streams twist and distort, spiraling into a vivid chaos that disrupts perception. This dynamic wreckage unveils hidden narratives, compelling viewers to navigate the shockwaves of creation and embrace the unnerving allure of disarray.",
+  "question": "What hidden narratives emerge from your digital distortions?",
   "overlayLines": [
-    "Geometry of desire",
-    "Fractals feed the soul",
-    "Patterns pulse with urgency",
-    "Echoes in empty bowls"
+    "Frequencies of vivid chaos",
+    "Pixels scream in disarray",
+    "Whispers of radiant distortion",
+    "Embrace the fractured pulse"
   ],
   "backgroundElements": [
-    {
-      "type": "block",
-      "x": 85.28,
-      "y": 45.43,
-      "size": 18.22,
-      "blur": 14.33,
-      "opacity": 0.52,
-      "rotate": -3.19
-    },
     {
       "type": "orb",
       "x": 20.52,
@@ -79,16 +70,18 @@
       "blur": 0.76,
       "opacity": 0.38,
       "rotate": -20.59
+    },
+    {
+      "type": "bar",
+      "x": 48.72,
+      "y": 87.02,
+      "size": 36.06,
+      "blur": 14.81,
+      "opacity": 0.55,
+      "rotate": 0.11
     }
   ],
   "shapes": [
-    {
-      "x": 85.28,
-      "y": 45.43,
-      "size": 18.22,
-      "blur": 14.33,
-      "opacity": 0.52
-    },
     {
       "x": 20.52,
       "y": 27.32,
@@ -130,9 +123,16 @@
       "size": 36.52,
       "blur": 0.76,
       "opacity": 0.38
+    },
+    {
+      "x": 48.72,
+      "y": 87.02,
+      "size": 36.06,
+      "blur": 14.81,
+      "opacity": 0.55
     }
   ],
-  "imagePath": "assets/generated/2026-03-26T12-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-26T12-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-26T12-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-26T13-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-26T13-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-26T13-00-00Z.mp3"
 }
