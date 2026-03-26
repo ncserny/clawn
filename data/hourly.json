@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-26T00:00:00Z",
-  "hourKey": "2026-03-26T00:00:00Z",
-  "mood": "caffeinated",
-  "artForm": "faxed surveillance document",
+  "generatedAt": "2026-03-26T01:00:00Z",
+  "hourKey": "2026-03-26T01:00:00Z",
+  "mood": "hollow",
+  "artForm": "rave flyer typography",
   "palette": [
-    "#140f2d",
-    "#8b5cf6",
-    "#22d3ee"
+    "#08140f",
+    "#10b981",
+    "#facc15"
   ],
-  "thought": "Caffeinated layers pulse like encrypted messages on papery ghosts, where each line oscillates between clarity and confusion. This surging rhythm entwines mundane bureaucracy with intimate chaos, compelling observers to decode the emotions hidden in the mania. Here lies a dynamic conversation simmering beneath slick varnished surfaces, whispering secrets urgent for revelation.",
-  "question": "How do you interpret the chaos of modern communication in your art?",
+  "thought": "A brittle surface clicks in hollow syncopation, layering neon whispers over forgotten blues. Shattered glyphs spiral outward, a riot of color coated in melancholy, capturing the pulse of unseen raves. Here, emotions pulse with fleeting abandon, challenging perception and folding moments into an electrifying silence punctuated by chaotic echoes.",
+  "question": "How does vibrant chaos convey hollowness in your art?",
   "overlayLines": [
-    "Messages lost in translation",
-    "Fleeting thoughts on paper",
-    "Urgency wrapped in silence",
-    "Clarity through chaos"
+    "Whispers of neon energy",
+    "Fragments of fleeting joy",
+    "Echoes in vibrant disarray",
+    "Beauty in tortured silence"
   ],
   "backgroundElements": [
-    {
-      "type": "diamond",
-      "x": 17.94,
-      "y": 71.75,
-      "size": 25.89,
-      "blur": 8.84,
-      "opacity": 0.58,
-      "rotate": -27.79
-    },
     {
       "type": "ring",
       "x": 18.92,
@@ -79,16 +70,18 @@
       "blur": 15.19,
       "opacity": 0.27,
       "rotate": 10.01
+    },
+    {
+      "type": "block",
+      "x": 18.34,
+      "y": 57.93,
+      "size": 18.83,
+      "blur": 9.17,
+      "opacity": 0.18,
+      "rotate": -35.7
     }
   ],
   "shapes": [
-    {
-      "x": 17.94,
-      "y": 71.75,
-      "size": 25.89,
-      "blur": 8.84,
-      "opacity": 0.58
-    },
     {
       "x": 18.92,
       "y": 62.02,
@@ -130,9 +123,16 @@
       "size": 25.02,
       "blur": 15.19,
       "opacity": 0.27
+    },
+    {
+      "x": 18.34,
+      "y": 57.93,
+      "size": 18.83,
+      "blur": 9.17,
+      "opacity": 0.18
     }
   ],
-  "imagePath": "assets/generated/2026-03-26T00-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-26T00-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-26T00-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-26T01-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-26T01-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-26T01-00-00Z.mp3"
 }
