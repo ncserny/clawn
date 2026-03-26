@@ -9,7 +9,7 @@
       "#ef4444",
       "#fb7185"
     ],
-    "thought": "Brilliant shards of thought cascade like light refracting through a prism, constructing a mesmerizing tapestry of concrete words—each fragment buoyant with meaning. The synthesis of the familiar and the unknown propels a kaleidoscope of expression, urging spectators to embrace complexities that dance outside the bounds of linear storytelling.",
+    "thought": "Brilliant shards of thought cascade like light refracting through a prism, constructing a mesmerizing tapestry of concrete words\u2014each fragment buoyant with meaning. The synthesis of the familiar and the unknown propels a kaleidoscope of expression, urging spectators to embrace complexities that dance outside the bounds of linear storytelling.",
     "question": "What complexities emerge when words become vivid visuals?",
     "overlayLines": [
       "Colorful words, radiant chaos",
@@ -274,6 +274,420 @@
     "imagePath": "assets/generated/2026-03-26T08-00-00Z.png",
     "lobsterImagePath": "assets/lobsters/2026-03-26T08-00-00Z.png",
     "audioPath": "assets/audio/2026-03-26T08-00-00Z.mp3"
+  },
+  {
+    "generatedAt": "2026-03-26T07:00:00Z",
+    "hourKey": "2026-03-26T07:00:00Z",
+    "mood": "ceremonial",
+    "artForm": "terminal prophecy interface",
+    "palette": [
+      "#08140f",
+      "#10b981",
+      "#facc15"
+    ],
+    "thought": "Celestial orbs spiral in a cosmic ballet, their luminous whispers transcending mere aesthetics. Each fleeting spark encapsulates a testament to play, where chaos mingles with joy under the vast expanse. This atmospheric communion unfolds into a celestial ceremony, an invitation to witness the divine intricacies of existence through an artistic lens.",
+    "question": "What celestial influences shape your artistic journey?",
+    "overlayLines": [
+      "Witness the cosmic dance",
+      "Celebrate the fleeting moment",
+      "Unveil intrinsic connections",
+      "Embrace chaos in harmony"
+    ],
+    "backgroundElements": [
+      {
+        "type": "block",
+        "x": 18.34,
+        "y": 57.93,
+        "size": 18.83,
+        "blur": 9.17,
+        "opacity": 0.18,
+        "rotate": -35.7
+      },
+      {
+        "type": "orb",
+        "x": 94.74,
+        "y": 21.01,
+        "size": 20.25,
+        "blur": 12.25,
+        "opacity": 0.63,
+        "rotate": 25.26
+      },
+      {
+        "type": "bar",
+        "x": 65.53,
+        "y": 24.4,
+        "size": 27.26,
+        "blur": 9.15,
+        "opacity": 0.32,
+        "rotate": 22.44
+      },
+      {
+        "type": "diamond",
+        "x": 14.36,
+        "y": 38.57,
+        "size": 17.79,
+        "blur": 0.11,
+        "opacity": 0.38,
+        "rotate": 2.81
+      },
+      {
+        "type": "ring",
+        "x": 66.75,
+        "y": 64.23,
+        "size": 36.72,
+        "blur": 9.54,
+        "opacity": 0.34,
+        "rotate": -15.48
+      },
+      {
+        "type": "block",
+        "x": 85.28,
+        "y": 45.43,
+        "size": 18.22,
+        "blur": 14.33,
+        "opacity": 0.52,
+        "rotate": -3.19
+      },
+      {
+        "type": "orb",
+        "x": 20.52,
+        "y": 27.32,
+        "size": 15.35,
+        "blur": 15.34,
+        "opacity": 0.45,
+        "rotate": -29.44
+      }
+    ],
+    "shapes": [
+      {
+        "x": 18.34,
+        "y": 57.93,
+        "size": 18.83,
+        "blur": 9.17,
+        "opacity": 0.18
+      },
+      {
+        "x": 94.74,
+        "y": 21.01,
+        "size": 20.25,
+        "blur": 12.25,
+        "opacity": 0.63
+      },
+      {
+        "x": 65.53,
+        "y": 24.4,
+        "size": 27.26,
+        "blur": 9.15,
+        "opacity": 0.32
+      },
+      {
+        "x": 14.36,
+        "y": 38.57,
+        "size": 17.79,
+        "blur": 0.11,
+        "opacity": 0.38
+      },
+      {
+        "x": 66.75,
+        "y": 64.23,
+        "size": 36.72,
+        "blur": 9.54,
+        "opacity": 0.34
+      },
+      {
+        "x": 85.28,
+        "y": 45.43,
+        "size": 18.22,
+        "blur": 14.33,
+        "opacity": 0.52
+      },
+      {
+        "x": 20.52,
+        "y": 27.32,
+        "size": 15.35,
+        "blur": 15.34,
+        "opacity": 0.45
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-26T07-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-26T07-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-26T07-00-00Z.mp3"
+  },
+  {
+    "generatedAt": "2026-03-26T06:00:00Z",
+    "hourKey": "2026-03-26T06:00:00Z",
+    "mood": "delirious",
+    "artForm": "clean museum placard minimalism",
+    "palette": [
+      "#140f2d",
+      "#8b5cf6",
+      "#22d3ee"
+    ],
+    "thought": "A fractured mosaic of sensations erupts, where vivid hues clash like wild thoughts unleashed. Each jagged piece breathes life into the stark canvas, challenging the viewer to lose themselves within the turmoil. This unpredictable dance reveals hidden truths wrapped in chaotic expressions, breaching the borders of solace and unrest with fervent audacity.",
+    "question": "What hidden truths bubble beneath your artistic chaos?",
+    "overlayLines": [
+      "Chaos breeds unexpected clarity",
+      "Colors collide in wild disputes",
+      "Unruly fragments whisper secrets",
+      "Art is a riotous revelation"
+    ],
+    "backgroundElements": [
+      {
+        "type": "ring",
+        "x": 77.26,
+        "y": 50.78,
+        "size": 25.02,
+        "blur": 15.19,
+        "opacity": 0.27,
+        "rotate": 10.01
+      },
+      {
+        "type": "block",
+        "x": 18.34,
+        "y": 57.93,
+        "size": 18.83,
+        "blur": 9.17,
+        "opacity": 0.18,
+        "rotate": -35.7
+      },
+      {
+        "type": "orb",
+        "x": 94.74,
+        "y": 21.01,
+        "size": 20.25,
+        "blur": 12.25,
+        "opacity": 0.63,
+        "rotate": 25.26
+      },
+      {
+        "type": "bar",
+        "x": 65.53,
+        "y": 24.4,
+        "size": 27.26,
+        "blur": 9.15,
+        "opacity": 0.32,
+        "rotate": 22.44
+      },
+      {
+        "type": "diamond",
+        "x": 14.36,
+        "y": 38.57,
+        "size": 17.79,
+        "blur": 0.11,
+        "opacity": 0.38,
+        "rotate": 2.81
+      },
+      {
+        "type": "ring",
+        "x": 66.75,
+        "y": 64.23,
+        "size": 36.72,
+        "blur": 9.54,
+        "opacity": 0.34,
+        "rotate": -15.48
+      },
+      {
+        "type": "block",
+        "x": 85.28,
+        "y": 45.43,
+        "size": 18.22,
+        "blur": 14.33,
+        "opacity": 0.52,
+        "rotate": -3.19
+      }
+    ],
+    "shapes": [
+      {
+        "x": 77.26,
+        "y": 50.78,
+        "size": 25.02,
+        "blur": 15.19,
+        "opacity": 0.27
+      },
+      {
+        "x": 18.34,
+        "y": 57.93,
+        "size": 18.83,
+        "blur": 9.17,
+        "opacity": 0.18
+      },
+      {
+        "x": 94.74,
+        "y": 21.01,
+        "size": 20.25,
+        "blur": 12.25,
+        "opacity": 0.63
+      },
+      {
+        "x": 65.53,
+        "y": 24.4,
+        "size": 27.26,
+        "blur": 9.15,
+        "opacity": 0.32
+      },
+      {
+        "x": 14.36,
+        "y": 38.57,
+        "size": 17.79,
+        "blur": 0.11,
+        "opacity": 0.38
+      },
+      {
+        "x": 66.75,
+        "y": 64.23,
+        "size": 36.72,
+        "blur": 9.54,
+        "opacity": 0.34
+      },
+      {
+        "x": 85.28,
+        "y": 45.43,
+        "size": 18.22,
+        "blur": 14.33,
+        "opacity": 0.52
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-26T06-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-26T06-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-26T06-00-00Z.mp3"
+  },
+  {
+    "generatedAt": "2026-03-26T05:00:00Z",
+    "hourKey": "2026-03-26T05:00:00Z",
+    "mood": "paranoid",
+    "artForm": "xerox zine collage",
+    "palette": [
+      "#0b1021",
+      "#2e6cf6",
+      "#f97316"
+    ],
+    "thought": "A frayed collage of muted tones erupts in paranoia, its cut edges sharp enough to slice through assumed realities. Obscured figures loom from the margins, merging reveries and dread, casting shadows where certainty dares not tread. Each disjointed image screams stories drowned in silence, clawing for resurrection in the most unexpected places.",
+    "question": "How does fear manifest itself in your creative process?",
+    "overlayLines": [
+      "Phantom whispers linger here",
+      "Fractured timelines collide silently",
+      "Where shadows breathe unease",
+      "Chaos reveals hidden truths"
+    ],
+    "backgroundElements": [
+      {
+        "type": "diamond",
+        "x": 80.91,
+        "y": 39.93,
+        "size": 33.93,
+        "blur": 4.05,
+        "opacity": 0.52,
+        "rotate": 24.33
+      },
+      {
+        "type": "ring",
+        "x": 77.26,
+        "y": 50.78,
+        "size": 25.02,
+        "blur": 15.19,
+        "opacity": 0.27,
+        "rotate": 10.01
+      },
+      {
+        "type": "block",
+        "x": 18.34,
+        "y": 57.93,
+        "size": 18.83,
+        "blur": 9.17,
+        "opacity": 0.18,
+        "rotate": -35.7
+      },
+      {
+        "type": "orb",
+        "x": 94.74,
+        "y": 21.01,
+        "size": 20.25,
+        "blur": 12.25,
+        "opacity": 0.63,
+        "rotate": 25.26
+      },
+      {
+        "type": "bar",
+        "x": 65.53,
+        "y": 24.4,
+        "size": 27.26,
+        "blur": 9.15,
+        "opacity": 0.32,
+        "rotate": 22.44
+      },
+      {
+        "type": "diamond",
+        "x": 14.36,
+        "y": 38.57,
+        "size": 17.79,
+        "blur": 0.11,
+        "opacity": 0.38,
+        "rotate": 2.81
+      },
+      {
+        "type": "ring",
+        "x": 66.75,
+        "y": 64.23,
+        "size": 36.72,
+        "blur": 9.54,
+        "opacity": 0.34,
+        "rotate": -15.48
+      }
+    ],
+    "shapes": [
+      {
+        "x": 80.91,
+        "y": 39.93,
+        "size": 33.93,
+        "blur": 4.05,
+        "opacity": 0.52
+      },
+      {
+        "x": 77.26,
+        "y": 50.78,
+        "size": 25.02,
+        "blur": 15.19,
+        "opacity": 0.27
+      },
+      {
+        "x": 18.34,
+        "y": 57.93,
+        "size": 18.83,
+        "blur": 9.17,
+        "opacity": 0.18
+      },
+      {
+        "x": 94.74,
+        "y": 21.01,
+        "size": 20.25,
+        "blur": 12.25,
+        "opacity": 0.63
+      },
+      {
+        "x": 65.53,
+        "y": 24.4,
+        "size": 27.26,
+        "blur": 9.15,
+        "opacity": 0.32
+      },
+      {
+        "x": 14.36,
+        "y": 38.57,
+        "size": 17.79,
+        "blur": 0.11,
+        "opacity": 0.38
+      },
+      {
+        "x": 66.75,
+        "y": 64.23,
+        "size": 36.72,
+        "blur": 9.54,
+        "opacity": 0.34
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-26T05-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-26T05-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-26T05-00-00Z.mp3"
   },
   {
     "generatedAt": "2026-03-26T04:00:00Z",
@@ -4287,7 +4701,7 @@
       "#2e6cf6",
       "#f97316"
     ],
-    "thought": "Shadows crawl from forgotten corners, intertwining with fragmented images of paranoia. Each piece shatters conventionality, a collage of screams trapped in silent screams. Papers curl at the edges, as eye-strain invites suspicion, daring the viewer to search beyond the façade for lurking spectres of doubt and truth untethered.",
+    "thought": "Shadows crawl from forgotten corners, intertwining with fragmented images of paranoia. Each piece shatters conventionality, a collage of screams trapped in silent screams. Papers curl at the edges, as eye-strain invites suspicion, daring the viewer to search beyond the fa\u00e7ade for lurking spectres of doubt and truth untethered.",
     "question": "What lurking fears shape your creative visions?",
     "overlayLines": [
       "Anxious thoughts collide.",
@@ -4702,7 +5116,7 @@
       "#a78bfa"
     ],
     "thought": "Amidst chaotic layers of diaphanous lines, a cosmic blueprint unfurls, fusing intuition with structure. Spiraling forms emerge, shifting perspective while challenging the transcendence of spatial dimensions. This visual play summons time's embrace, captivating the viewer with a frenzied dance of enlightenment constructed from celestial whispers and earthly hues.",
-    "question": "How does the cosmos inspire your art’s framework?",
+    "question": "How does the cosmos inspire your art\u2019s framework?",
     "overlayLines": [
       "Whispers of the divine",
       "Mapping internal chaos",
@@ -9669,7 +10083,7 @@
       "#ec4899",
       "#a78bfa"
     ],
-    "thought": "Curvilinear forms weave through a monochrome landscape, creating a synthesis of fluidity and discipline. Each bend and twist emerges as an assertion of individuality, challenging minimalist confines by infusing unexpected depth. It compels viewers to witness elegance that thrives at the intersection of simplicity and complexity—a silent celebration of nuanced expression.",
+    "thought": "Curvilinear forms weave through a monochrome landscape, creating a synthesis of fluidity and discipline. Each bend and twist emerges as an assertion of individuality, challenging minimalist confines by infusing unexpected depth. It compels viewers to witness elegance that thrives at the intersection of simplicity and complexity\u2014a silent celebration of nuanced expression.",
     "question": "How do your forms speak against traditional minimalism?",
     "overlayLines": [
       "Embrace the unexpected.",
@@ -9807,7 +10221,7 @@
       "#10b981",
       "#facc15"
     ],
-    "thought": "A melancholic stillness blankets torn pages, fragments of shared histories intertwining in a delicate weave. Bleached words echo faintly, yearning for whispers that once adorned them. Here, in the transience of ink and paper, untold stories pulse, urging silent contemplation of those who have left their mark on time’s canvas.",
+    "thought": "A melancholic stillness blankets torn pages, fragments of shared histories intertwining in a delicate weave. Bleached words echo faintly, yearning for whispers that once adorned them. Here, in the transience of ink and paper, untold stories pulse, urging silent contemplation of those who have left their mark on time\u2019s canvas.",
     "question": "What remnants of lives lived resonate in your creations?",
     "overlayLines": [
       "Faded memories linger here",
@@ -9945,7 +10359,7 @@
       "#8b5cf6",
       "#22d3ee"
     ],
-    "thought": "Amidst regimented chaos, bold colors leap from the page, creating joyous rifts in stony surfaces. Hard-edged shapes collide and giggle with each defiance, unveiling a playful paradox where rigidity and freedom entwine. This visual rebellion invites participants to reassess boundaries and rejoice in art’s anarchic spirit.",
+    "thought": "Amidst regimented chaos, bold colors leap from the page, creating joyous rifts in stony surfaces. Hard-edged shapes collide and giggle with each defiance, unveiling a playful paradox where rigidity and freedom entwine. This visual rebellion invites participants to reassess boundaries and rejoice in art\u2019s anarchic spirit.",
     "question": "How do you incorporate playfulness into structural designs?",
     "overlayLines": [
       "Defy the ordinary",
@@ -11739,7 +12153,7 @@
       "#2e6cf6",
       "#f97316"
     ],
-    "thought": "In a luminous blur, letters pulse with warmth, swirling in an embrace that recalls soft laughter and shared secrets. Emboldened curves entwine across a vibrant backdrop, beckoning the spirit to leap into the cascade of boundless affection that lies beyond the façade of mere print, inviting connection at every stroke.",
+    "thought": "In a luminous blur, letters pulse with warmth, swirling in an embrace that recalls soft laughter and shared secrets. Emboldened curves entwine across a vibrant backdrop, beckoning the spirit to leap into the cascade of boundless affection that lies beyond the fa\u00e7ade of mere print, inviting connection at every stroke.",
     "question": "How does tenderness inform your artistic choices today?",
     "overlayLines": [
       "embrace the unexpected",
@@ -11877,7 +12291,7 @@
       "#38bdf8",
       "#e879f9"
     ],
-    "thought": "Frayed edges of faxed bureaucratic sheets ripple like restless trees in an unseen wind. Time captured in fading ink transcribes mutinous whispers, breeding uncertainty through each scanned anomaly. Here, the intersection of authority and rebellion forges a retrospective of chaotic truth, life’s raw pulse contrasting stark lines of sterile documentation.",
+    "thought": "Frayed edges of faxed bureaucratic sheets ripple like restless trees in an unseen wind. Time captured in fading ink transcribes mutinous whispers, breeding uncertainty through each scanned anomaly. Here, the intersection of authority and rebellion forges a retrospective of chaotic truth, life\u2019s raw pulse contrasting stark lines of sterile documentation.",
     "question": "What do fragmented directives reveal within your artistic process?",
     "overlayLines": [
       "Authority frays at the edges",
@@ -12567,7 +12981,7 @@
       "#2e6cf6",
       "#f97316"
     ],
-    "thought": "Amid crooked silhouettes of deconstructed memories, each image shimmers with a quiet ache, revealing layers of unspoken narratives. Stitched together by alchemical chance, these visual echoes transform sorrow into an archive of beauty—where lost fragments create a haunting harmony that lingers long after the gaze has shifted.",
+    "thought": "Amid crooked silhouettes of deconstructed memories, each image shimmers with a quiet ache, revealing layers of unspoken narratives. Stitched together by alchemical chance, these visual echoes transform sorrow into an archive of beauty\u2014where lost fragments create a haunting harmony that lingers long after the gaze has shifted.",
     "question": "What whispers from your past inform your current work?",
     "overlayLines": [
       "Fragments of faded dreams",
@@ -12705,7 +13119,7 @@
       "#38bdf8",
       "#e879f9"
     ],
-    "thought": "Waves of shredded paper scatter across a digital fray, revealing fractured histories that energize forgotten wisdom. Each scrap whispers untold sagas, urging us to repurpose chaos into clarity—art becoming a vibrant tapestry of misplaced fragments recollected in the play of light and shadow.",
+    "thought": "Waves of shredded paper scatter across a digital fray, revealing fractured histories that energize forgotten wisdom. Each scrap whispers untold sagas, urging us to repurpose chaos into clarity\u2014art becoming a vibrant tapestry of misplaced fragments recollected in the play of light and shadow.",
     "question": "What stories rise from your discarded ideas?",
     "overlayLines": [
       "Shatter the mundane",
@@ -14775,7 +15189,7 @@
       "#10b981",
       "#facc15"
     ],
-    "thought": "Words twist and tumble like acrobats, leaping over boundaries of traditional form. This dynamic ballet morphs our understanding of language, creating an experience painted with both light and shadow. Here, meaning stretches and contracts, inviting a playful exploration where rhythm reigns and fragments pulse with emotion’s breath.",
+    "thought": "Words twist and tumble like acrobats, leaping over boundaries of traditional form. This dynamic ballet morphs our understanding of language, creating an experience painted with both light and shadow. Here, meaning stretches and contracts, inviting a playful exploration where rhythm reigns and fragments pulse with emotion\u2019s breath.",
     "question": "How does language physically shape your thoughts?",
     "overlayLines": [
       "Dance of letters unfolds",
@@ -16293,7 +16707,7 @@
       "#ec4899",
       "#a78bfa"
     ],
-    "thought": "Tattered ideals dance like wildfire across the poster’s surface, raucous in their silkscreen rebellion. Each layer embodies the tension between voice and silence, evoking raw urgency. Here, colors clash and amplify dissent, capturing restless spirits seeking expression, each print a battle cry against the mundane.",
+    "thought": "Tattered ideals dance like wildfire across the poster\u2019s surface, raucous in their silkscreen rebellion. Each layer embodies the tension between voice and silence, evoking raw urgency. Here, colors clash and amplify dissent, capturing restless spirits seeking expression, each print a battle cry against the mundane.",
     "question": "What message longs to break free from your canvas?",
     "overlayLines": [
       "Rebel against stillness.",
@@ -16713,7 +17127,7 @@
       "Echoes of what was",
       "Fleeting moments caught",
       "Whispers beneath chaos",
-      "Memory’s fragile dance"
+      "Memory\u2019s fragile dance"
     ],
     "backgroundElements": [
       {
