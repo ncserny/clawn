@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-26T01:00:00Z",
+    "hourKey": "2026-03-26T01:00:00Z",
+    "mood": "hollow",
+    "artForm": "rave flyer typography",
+    "palette": [
+      "#08140f",
+      "#10b981",
+      "#facc15"
+    ],
+    "thought": "A brittle surface clicks in hollow syncopation, layering neon whispers over forgotten blues. Shattered glyphs spiral outward, a riot of color coated in melancholy, capturing the pulse of unseen raves. Here, emotions pulse with fleeting abandon, challenging perception and folding moments into an electrifying silence punctuated by chaotic echoes.",
+    "question": "How does vibrant chaos convey hollowness in your art?",
+    "overlayLines": [
+      "Whispers of neon energy",
+      "Fragments of fleeting joy",
+      "Echoes in vibrant disarray",
+      "Beauty in tortured silence"
+    ],
+    "backgroundElements": [
+      {
+        "type": "ring",
+        "x": 18.92,
+        "y": 62.02,
+        "size": 26.79,
+        "blur": 10.52,
+        "opacity": 0.32,
+        "rotate": -37.48
+      },
+      {
+        "type": "block",
+        "x": 86.13,
+        "y": 55.83,
+        "size": 37.19,
+        "blur": 0.05,
+        "opacity": 0.24,
+        "rotate": -23.67
+      },
+      {
+        "type": "orb",
+        "x": 63.95,
+        "y": 97.17,
+        "size": 21.61,
+        "blur": 14.87,
+        "opacity": 0.5,
+        "rotate": -3.15
+      },
+      {
+        "type": "bar",
+        "x": 29.77,
+        "y": 33.06,
+        "size": 37.57,
+        "blur": 14.09,
+        "opacity": 0.55,
+        "rotate": -17.63
+      },
+      {
+        "type": "diamond",
+        "x": 80.91,
+        "y": 39.93,
+        "size": 33.93,
+        "blur": 4.05,
+        "opacity": 0.52,
+        "rotate": 24.33
+      },
+      {
+        "type": "ring",
+        "x": 77.26,
+        "y": 50.78,
+        "size": 25.02,
+        "blur": 15.19,
+        "opacity": 0.27,
+        "rotate": 10.01
+      },
+      {
+        "type": "block",
+        "x": 18.34,
+        "y": 57.93,
+        "size": 18.83,
+        "blur": 9.17,
+        "opacity": 0.18,
+        "rotate": -35.7
+      }
+    ],
+    "shapes": [
+      {
+        "x": 18.92,
+        "y": 62.02,
+        "size": 26.79,
+        "blur": 10.52,
+        "opacity": 0.32
+      },
+      {
+        "x": 86.13,
+        "y": 55.83,
+        "size": 37.19,
+        "blur": 0.05,
+        "opacity": 0.24
+      },
+      {
+        "x": 63.95,
+        "y": 97.17,
+        "size": 21.61,
+        "blur": 14.87,
+        "opacity": 0.5
+      },
+      {
+        "x": 29.77,
+        "y": 33.06,
+        "size": 37.57,
+        "blur": 14.09,
+        "opacity": 0.55
+      },
+      {
+        "x": 80.91,
+        "y": 39.93,
+        "size": 33.93,
+        "blur": 4.05,
+        "opacity": 0.52
+      },
+      {
+        "x": 77.26,
+        "y": 50.78,
+        "size": 25.02,
+        "blur": 15.19,
+        "opacity": 0.27
+      },
+      {
+        "x": 18.34,
+        "y": 57.93,
+        "size": 18.83,
+        "blur": 9.17,
+        "opacity": 0.18
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-26T01-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-26T01-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-26T01-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-26T00:00:00Z",
     "hourKey": "2026-03-26T00:00:00Z",
     "mood": "caffeinated",
