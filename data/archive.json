@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-26T08:00:00Z",
+    "hourKey": "2026-03-26T08:00:00Z",
+    "mood": "sour",
+    "artForm": "screenprinted protest poster",
+    "palette": [
+      "#1a1020",
+      "#ec4899",
+      "#a78bfa"
+    ],
+    "thought": "A torrent of sharp colors collides, framed within a stark vision that defies the comfortable. This aggressive statement resonates with primal urgency, each word choice carving an assertion deep into the viewer's consciousness. Beauty coalesces with painful truth, demanding exposure and dialogue, an artistic rallying cry against apathy and complacency.",
+    "question": "What emotions arise from your boldest artistic defiance?",
+    "overlayLines": [
+      "Rage against the silence.",
+      "Color screams freedom.",
+      "Truth in every tear.",
+      "Art as urgent protest."
+    ],
+    "backgroundElements": [
+      {
+        "type": "orb",
+        "x": 94.74,
+        "y": 21.01,
+        "size": 20.25,
+        "blur": 12.25,
+        "opacity": 0.63,
+        "rotate": 25.26
+      },
+      {
+        "type": "bar",
+        "x": 65.53,
+        "y": 24.4,
+        "size": 27.26,
+        "blur": 9.15,
+        "opacity": 0.32,
+        "rotate": 22.44
+      },
+      {
+        "type": "diamond",
+        "x": 14.36,
+        "y": 38.57,
+        "size": 17.79,
+        "blur": 0.11,
+        "opacity": 0.38,
+        "rotate": 2.81
+      },
+      {
+        "type": "ring",
+        "x": 66.75,
+        "y": 64.23,
+        "size": 36.72,
+        "blur": 9.54,
+        "opacity": 0.34,
+        "rotate": -15.48
+      },
+      {
+        "type": "block",
+        "x": 85.28,
+        "y": 45.43,
+        "size": 18.22,
+        "blur": 14.33,
+        "opacity": 0.52,
+        "rotate": -3.19
+      },
+      {
+        "type": "orb",
+        "x": 20.52,
+        "y": 27.32,
+        "size": 15.35,
+        "blur": 15.34,
+        "opacity": 0.45,
+        "rotate": -29.44
+      },
+      {
+        "type": "bar",
+        "x": 25.03,
+        "y": 33.15,
+        "size": 13.31,
+        "blur": 8.45,
+        "opacity": 0.61,
+        "rotate": 14.3
+      }
+    ],
+    "shapes": [
+      {
+        "x": 94.74,
+        "y": 21.01,
+        "size": 20.25,
+        "blur": 12.25,
+        "opacity": 0.63
+      },
+      {
+        "x": 65.53,
+        "y": 24.4,
+        "size": 27.26,
+        "blur": 9.15,
+        "opacity": 0.32
+      },
+      {
+        "x": 14.36,
+        "y": 38.57,
+        "size": 17.79,
+        "blur": 0.11,
+        "opacity": 0.38
+      },
+      {
+        "x": 66.75,
+        "y": 64.23,
+        "size": 36.72,
+        "blur": 9.54,
+        "opacity": 0.34
+      },
+      {
+        "x": 85.28,
+        "y": 45.43,
+        "size": 18.22,
+        "blur": 14.33,
+        "opacity": 0.52
+      },
+      {
+        "x": 20.52,
+        "y": 27.32,
+        "size": 15.35,
+        "blur": 15.34,
+        "opacity": 0.45
+      },
+      {
+        "x": 25.03,
+        "y": 33.15,
+        "size": 13.31,
+        "blur": 8.45,
+        "opacity": 0.61
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-26T08-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-26T08-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-26T08-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-26T04:00:00Z",
     "hourKey": "2026-03-26T04:00:00Z",
     "mood": "velvet",
