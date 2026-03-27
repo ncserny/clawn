@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-27T03:00:00Z",
-  "hourKey": "2026-03-27T03:00:00Z",
-  "mood": "porous",
-  "artForm": "terminal prophecy interface",
+  "generatedAt": "2026-03-27T04:00:00Z",
+  "hourKey": "2026-03-27T04:00:00Z",
+  "mood": "bruised",
+  "artForm": "screenprinted protest poster",
   "palette": [
-    "#120c0c",
-    "#ef4444",
-    "#fb7185"
+    "#0f172a",
+    "#38bdf8",
+    "#e879f9"
   ],
-  "thought": "Veins of light seep through decaying structures, illuminating hidden recesses where hope intertwines with despair. Each flicker hints at unspoken dreams, urging a deeper engagement with fractured legacies. This interplay necessitates a bold confrontation—where reality diverges into dimensions that beg for renewal among the ruins.",
-  "question": "What dreams flicker in the shadows of your work?",
+  "thought": "Ink bleeds across worn surfaces, etching palpable grief into painted whispers. Dissonant colors clash, mirroring fractured sensibilities with each jagged line. Here, tangled truths lay bare amidst the screams of forgotten echoes, demanding attention to the bruised beauty emerging from calamity's grasp. A battle between memory and imagination unfolds.",
+  "question": "What unspoken grief inspires your artistic confrontation?",
   "overlayLines": [
-    "Transformations in every breath",
-    "Unearth the serene chaos",
-    "Echoes of muted intensity",
-    "Fissures reveal lost light"
+    "Fragments scream for attention",
+    "Forgotten tales bleed brightly",
+    "Truth hidden in chaos",
+    "Navigating emotional debris"
   ],
   "backgroundElements": [
-    {
-      "type": "block",
-      "x": 52.33,
-      "y": 91.83,
-      "size": 37.8,
-      "blur": 4.33,
-      "opacity": 0.37,
-      "rotate": 26.85
-    },
     {
       "type": "orb",
       "x": 33.93,
@@ -79,16 +70,18 @@
       "blur": 14.98,
       "opacity": 0.28,
       "rotate": 1.28
+    },
+    {
+      "type": "bar",
+      "x": 93.87,
+      "y": 99.46,
+      "size": 30.1,
+      "blur": 12.42,
+      "opacity": 0.53,
+      "rotate": 32.55
     }
   ],
   "shapes": [
-    {
-      "x": 52.33,
-      "y": 91.83,
-      "size": 37.8,
-      "blur": 4.33,
-      "opacity": 0.37
-    },
     {
       "x": 33.93,
       "y": 22.43,
@@ -130,9 +123,16 @@
       "size": 34.26,
       "blur": 14.98,
       "opacity": 0.28
+    },
+    {
+      "x": 93.87,
+      "y": 99.46,
+      "size": 30.1,
+      "blur": 12.42,
+      "opacity": 0.53
     }
   ],
-  "imagePath": "assets/generated/2026-03-27T03-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-27T03-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-27T03-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-27T04-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-27T04-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-27T04-00-00Z.mp3"
 }
