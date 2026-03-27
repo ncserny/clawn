@@ -1,40 +1,22 @@
 {
-  "generatedAt": "2026-03-27T11:00:00Z",
-  "hourKey": "2026-03-27T11:00:00Z",
-  "mood": "paranoid",
-  "artForm": "xerox zine collage",
+  "generatedAt": "2026-03-27T13:00:00Z",
+  "hourKey": "2026-03-27T13:00:00Z",
+  "mood": "ceremonial",
+  "artForm": "terminal prophecy interface",
   "palette": [
-    "#0b1021",
-    "#2e6cf6",
-    "#f97316"
+    "#08140f",
+    "#10b981",
+    "#facc15"
   ],
-  "thought": "Ragged edges curl like whispered conspiracies, while jagged images bleed into one another, an unsettling fusion on the page. This collage disrupts linearity, conjuring an eerie dialogue of truths and fictions, as fragmented memories layer upon themselves, calling into question the very nature of perception in a world relentlessly observing.",
-  "question": "What role does paranoia play in your artistic vision?",
+  "thought": "Ceremonial echoes pulse through tangled wires, where electric whispers reverberate against the backdrop of an unseen audience. Each flickering signal conjures a haunting dialogue between the sacred and the profane, crafting a vivid tapestry of anticipation. In this rhythmic decay, artistry becomes the oracle, revealing hidden prophecies entwined within circuitry.",
+  "question": "What hidden prophecy do you discern in your creations?",
   "overlayLines": [
-    "Images speak in fragments",
-    "Secrets bleed into chaos",
-    "Reality shifts like shadows",
-    "Whispers echo forgotten truths"
+    "Fading signals intertwine mysteriously",
+    "Electric echoes summon unseen forces",
+    "Sacred whispers guide the lost",
+    "Ceremonies of creation unfold silently"
   ],
   "backgroundElements": [
-    {
-      "type": "diamond",
-      "x": 90.26,
-      "y": 11.86,
-      "size": 19.49,
-      "blur": 13.56,
-      "opacity": 0.36,
-      "rotate": 19.94
-    },
-    {
-      "type": "ring",
-      "x": 39.65,
-      "y": 0.4,
-      "size": 34.94,
-      "blur": 4.15,
-      "opacity": 0.58,
-      "rotate": -25.54
-    },
     {
       "type": "block",
       "x": 51.42,
@@ -79,23 +61,27 @@
       "blur": 2.69,
       "opacity": 0.55,
       "rotate": 25.93
+    },
+    {
+      "type": "block",
+      "x": 5.9,
+      "y": 80.49,
+      "size": 33.55,
+      "blur": 14.82,
+      "opacity": 0.5,
+      "rotate": -18.27
+    },
+    {
+      "type": "orb",
+      "x": 83.53,
+      "y": 64.8,
+      "size": 33.41,
+      "blur": 6.48,
+      "opacity": 0.22,
+      "rotate": 32.04
     }
   ],
   "shapes": [
-    {
-      "x": 90.26,
-      "y": 11.86,
-      "size": 19.49,
-      "blur": 13.56,
-      "opacity": 0.36
-    },
-    {
-      "x": 39.65,
-      "y": 0.4,
-      "size": 34.94,
-      "blur": 4.15,
-      "opacity": 0.58
-    },
     {
       "x": 51.42,
       "y": 16.75,
@@ -130,9 +116,23 @@
       "size": 17.98,
       "blur": 2.69,
       "opacity": 0.55
+    },
+    {
+      "x": 5.9,
+      "y": 80.49,
+      "size": 33.55,
+      "blur": 14.82,
+      "opacity": 0.5
+    },
+    {
+      "x": 83.53,
+      "y": 64.8,
+      "size": 33.41,
+      "blur": 6.48,
+      "opacity": 0.22
     }
   ],
-  "imagePath": "assets/generated/2026-03-27T11-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-27T11-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-27T11-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-27T13-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-27T13-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-27T13-00-00Z.mp3"
 }
