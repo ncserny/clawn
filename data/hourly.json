@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-27T13:00:00Z",
-  "hourKey": "2026-03-27T13:00:00Z",
-  "mood": "ceremonial",
-  "artForm": "terminal prophecy interface",
+  "generatedAt": "2026-03-27T14:00:00Z",
+  "hourKey": "2026-03-27T14:00:00Z",
+  "mood": "sour",
+  "artForm": "screenprinted protest poster",
   "palette": [
-    "#08140f",
-    "#10b981",
-    "#facc15"
+    "#1a1020",
+    "#ec4899",
+    "#a78bfa"
   ],
-  "thought": "Ceremonial echoes pulse through tangled wires, where electric whispers reverberate against the backdrop of an unseen audience. Each flickering signal conjures a haunting dialogue between the sacred and the profane, crafting a vivid tapestry of anticipation. In this rhythmic decay, artistry becomes the oracle, revealing hidden prophecies entwined within circuitry.",
-  "question": "What hidden prophecy do you discern in your creations?",
+  "thought": "Bitter ink stains glower from the corners of chaotic prints, where rebellion meets rage in a ferocious embrace. Each defiant stroke bleeds urgency, crafting a visual testament to collective dissent. In this cacophony of graphic shouts, unsettling truths arise, as voices demand recognition amidst a tempest of muted silence.",
+  "question": "What contentious truths are suppressed in your visual expressions?",
   "overlayLines": [
-    "Fading signals intertwine mysteriously",
-    "Electric echoes summon unseen forces",
-    "Sacred whispers guide the lost",
-    "Ceremonies of creation unfold silently"
+    "Disrupt the silence now",
+    "Bold paper cries out",
+    "Rage carved in color",
+    "Witness the outcry"
   ],
   "backgroundElements": [
-    {
-      "type": "block",
-      "x": 51.42,
-      "y": 16.75,
-      "size": 27.25,
-      "blur": 6.77,
-      "opacity": 0.51,
-      "rotate": 39.13
-    },
     {
       "type": "orb",
       "x": 78.69,
@@ -79,16 +70,18 @@
       "blur": 6.48,
       "opacity": 0.22,
       "rotate": 32.04
+    },
+    {
+      "type": "bar",
+      "x": 73.06,
+      "y": 83.91,
+      "size": 13.05,
+      "blur": 12.35,
+      "opacity": 0.58,
+      "rotate": 37.58
     }
   ],
   "shapes": [
-    {
-      "x": 51.42,
-      "y": 16.75,
-      "size": 27.25,
-      "blur": 6.77,
-      "opacity": 0.51
-    },
     {
       "x": 78.69,
       "y": 38.38,
@@ -130,9 +123,16 @@
       "size": 33.41,
       "blur": 6.48,
       "opacity": 0.22
+    },
+    {
+      "x": 73.06,
+      "y": 83.91,
+      "size": 13.05,
+      "blur": 12.35,
+      "opacity": 0.58
     }
   ],
-  "imagePath": "assets/generated/2026-03-27T13-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-27T13-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-27T13-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-27T14-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-27T14-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-27T14-00-00Z.mp3"
 }
