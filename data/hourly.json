@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-27T17:00:00Z",
-  "hourKey": "2026-03-27T17:00:00Z",
-  "mood": "crooked",
-  "artForm": "rave flyer typography",
+  "generatedAt": "2026-03-27T18:00:00Z",
+  "hourKey": "2026-03-27T18:00:00Z",
+  "mood": "hungry",
+  "artForm": "diagrammatic sacred blueprint",
   "palette": [
-    "#0b1021",
-    "#2e6cf6",
-    "#f97316"
+    "#140f2d",
+    "#8b5cf6",
+    "#22d3ee"
   ],
-  "thought": "Twisted letters sprawls across surfaces, spinning tales in a riot of chaos. This ecstatic typography draws eyes into an anarchic dance of proportions, where each stroke flirts with purpose yet lingers in whimsy. Reality contorts mischievously, inviting encounters with uncanny expressions that defy categorization and reason, erupting in brilliant fragmentation.",
-  "question": "How do fractured forms reflect your emotional landscape?",
+  "thought": "Visceral blueprints pulse with hunger, unlocking visions drawn from the chasms of desire. Each curve whispers secrets spun from the fibers of yearning, a sacred resonance that beckons exploration. Underneath the surface lies a sanctuary where primal instincts clash with crafted order, revealing surreal connections in a banquet of potential beauty.",
+  "question": "What cravings linger within your artistic blueprints?",
   "overlayLines": [
-    "Whispers of kaleidoscopic chaos",
-    "Euphoria meets disarray",
-    "Fragments of night take flight",
-    "Patterns pulse, senses collide"
+    "Patterns of yearning emerge",
+    "Desires take abstract form",
+    "Hunger shapes creative whispers",
+    "Blueprints of the unfulfilled"
   ],
   "backgroundElements": [
-    {
-      "type": "ring",
-      "x": 3.61,
-      "y": 2.41,
-      "size": 17.98,
-      "blur": 2.69,
-      "opacity": 0.55,
-      "rotate": 25.93
-    },
     {
       "type": "block",
       "x": 5.9,
@@ -79,16 +70,18 @@
       "blur": 8.12,
       "opacity": 0.56,
       "rotate": 27.88
+    },
+    {
+      "type": "orb",
+      "x": 12.85,
+      "y": 48.6,
+      "size": 23.6,
+      "blur": 13.56,
+      "opacity": 0.47,
+      "rotate": -17.79
     }
   ],
   "shapes": [
-    {
-      "x": 3.61,
-      "y": 2.41,
-      "size": 17.98,
-      "blur": 2.69,
-      "opacity": 0.55
-    },
     {
       "x": 5.9,
       "y": 80.49,
@@ -130,9 +123,16 @@
       "size": 28.4,
       "blur": 8.12,
       "opacity": 0.56
+    },
+    {
+      "x": 12.85,
+      "y": 48.6,
+      "size": 23.6,
+      "blur": 13.56,
+      "opacity": 0.47
     }
   ],
-  "imagePath": "assets/generated/2026-03-27T17-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-27T17-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-27T17-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-27T18-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-27T18-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-27T18-00-00Z.mp3"
 }
