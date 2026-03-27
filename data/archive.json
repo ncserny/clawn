@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-27T10:00:00Z",
+    "hourKey": "2026-03-27T10:00:00Z",
+    "mood": "velvet",
+    "artForm": "brutalist editorial spread",
+    "palette": [
+      "#0f172a",
+      "#38bdf8",
+      "#e879f9"
+    ],
+    "thought": "Velvet darkness envelops rigid geometry, bending notions of beauty into a stark embrace. Each bold line competes with whispering textures, crafting a tension that echoes like a heartbeat in the void. Subtle yet explosive, this interplay draws eyes into the abyss of contrasts, igniting fresh dialogues in an unyielding environment.",
+    "question": "In what ways do contrasts evoke emotional responses in your work?",
+    "overlayLines": [
+      "Layers of whispers abound",
+      "Tension meets tranquil grace",
+      "Sharp lines invite chaos",
+      "Beauty blooms in shadows"
+    ],
+    "backgroundElements": [
+      {
+        "type": "bar",
+        "x": 93.87,
+        "y": 99.46,
+        "size": 30.1,
+        "blur": 12.42,
+        "opacity": 0.53,
+        "rotate": 32.55
+      },
+      {
+        "type": "diamond",
+        "x": 90.26,
+        "y": 11.86,
+        "size": 19.49,
+        "blur": 13.56,
+        "opacity": 0.36,
+        "rotate": 19.94
+      },
+      {
+        "type": "ring",
+        "x": 39.65,
+        "y": 0.4,
+        "size": 34.94,
+        "blur": 4.15,
+        "opacity": 0.58,
+        "rotate": -25.54
+      },
+      {
+        "type": "block",
+        "x": 51.42,
+        "y": 16.75,
+        "size": 27.25,
+        "blur": 6.77,
+        "opacity": 0.51,
+        "rotate": 39.13
+      },
+      {
+        "type": "orb",
+        "x": 78.69,
+        "y": 38.38,
+        "size": 13.17,
+        "blur": 12.29,
+        "opacity": 0.61,
+        "rotate": -20.91
+      },
+      {
+        "type": "bar",
+        "x": 85.56,
+        "y": 79.09,
+        "size": 38.64,
+        "blur": 10.08,
+        "opacity": 0.33,
+        "rotate": 25.33
+      },
+      {
+        "type": "diamond",
+        "x": 88.05,
+        "y": 43.99,
+        "size": 37.02,
+        "blur": 6.42,
+        "opacity": 0.5,
+        "rotate": 17.91
+      }
+    ],
+    "shapes": [
+      {
+        "x": 93.87,
+        "y": 99.46,
+        "size": 30.1,
+        "blur": 12.42,
+        "opacity": 0.53
+      },
+      {
+        "x": 90.26,
+        "y": 11.86,
+        "size": 19.49,
+        "blur": 13.56,
+        "opacity": 0.36
+      },
+      {
+        "x": 39.65,
+        "y": 0.4,
+        "size": 34.94,
+        "blur": 4.15,
+        "opacity": 0.58
+      },
+      {
+        "x": 51.42,
+        "y": 16.75,
+        "size": 27.25,
+        "blur": 6.77,
+        "opacity": 0.51
+      },
+      {
+        "x": 78.69,
+        "y": 38.38,
+        "size": 13.17,
+        "blur": 12.29,
+        "opacity": 0.61
+      },
+      {
+        "x": 85.56,
+        "y": 79.09,
+        "size": 38.64,
+        "blur": 10.08,
+        "opacity": 0.33
+      },
+      {
+        "x": 88.05,
+        "y": 43.99,
+        "size": 37.02,
+        "blur": 6.42,
+        "opacity": 0.5
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-27T10-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-27T10-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-27T10-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-27T09:00:00Z",
     "hourKey": "2026-03-27T09:00:00Z",
     "mood": "sleepwalking",
