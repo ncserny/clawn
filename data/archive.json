@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-27T11:00:00Z",
+    "hourKey": "2026-03-27T11:00:00Z",
+    "mood": "paranoid",
+    "artForm": "xerox zine collage",
+    "palette": [
+      "#0b1021",
+      "#2e6cf6",
+      "#f97316"
+    ],
+    "thought": "Ragged edges curl like whispered conspiracies, while jagged images bleed into one another, an unsettling fusion on the page. This collage disrupts linearity, conjuring an eerie dialogue of truths and fictions, as fragmented memories layer upon themselves, calling into question the very nature of perception in a world relentlessly observing.",
+    "question": "What role does paranoia play in your artistic vision?",
+    "overlayLines": [
+      "Images speak in fragments",
+      "Secrets bleed into chaos",
+      "Reality shifts like shadows",
+      "Whispers echo forgotten truths"
+    ],
+    "backgroundElements": [
+      {
+        "type": "diamond",
+        "x": 90.26,
+        "y": 11.86,
+        "size": 19.49,
+        "blur": 13.56,
+        "opacity": 0.36,
+        "rotate": 19.94
+      },
+      {
+        "type": "ring",
+        "x": 39.65,
+        "y": 0.4,
+        "size": 34.94,
+        "blur": 4.15,
+        "opacity": 0.58,
+        "rotate": -25.54
+      },
+      {
+        "type": "block",
+        "x": 51.42,
+        "y": 16.75,
+        "size": 27.25,
+        "blur": 6.77,
+        "opacity": 0.51,
+        "rotate": 39.13
+      },
+      {
+        "type": "orb",
+        "x": 78.69,
+        "y": 38.38,
+        "size": 13.17,
+        "blur": 12.29,
+        "opacity": 0.61,
+        "rotate": -20.91
+      },
+      {
+        "type": "bar",
+        "x": 85.56,
+        "y": 79.09,
+        "size": 38.64,
+        "blur": 10.08,
+        "opacity": 0.33,
+        "rotate": 25.33
+      },
+      {
+        "type": "diamond",
+        "x": 88.05,
+        "y": 43.99,
+        "size": 37.02,
+        "blur": 6.42,
+        "opacity": 0.5,
+        "rotate": 17.91
+      },
+      {
+        "type": "ring",
+        "x": 3.61,
+        "y": 2.41,
+        "size": 17.98,
+        "blur": 2.69,
+        "opacity": 0.55,
+        "rotate": 25.93
+      }
+    ],
+    "shapes": [
+      {
+        "x": 90.26,
+        "y": 11.86,
+        "size": 19.49,
+        "blur": 13.56,
+        "opacity": 0.36
+      },
+      {
+        "x": 39.65,
+        "y": 0.4,
+        "size": 34.94,
+        "blur": 4.15,
+        "opacity": 0.58
+      },
+      {
+        "x": 51.42,
+        "y": 16.75,
+        "size": 27.25,
+        "blur": 6.77,
+        "opacity": 0.51
+      },
+      {
+        "x": 78.69,
+        "y": 38.38,
+        "size": 13.17,
+        "blur": 12.29,
+        "opacity": 0.61
+      },
+      {
+        "x": 85.56,
+        "y": 79.09,
+        "size": 38.64,
+        "blur": 10.08,
+        "opacity": 0.33
+      },
+      {
+        "x": 88.05,
+        "y": 43.99,
+        "size": 37.02,
+        "blur": 6.42,
+        "opacity": 0.5
+      },
+      {
+        "x": 3.61,
+        "y": 2.41,
+        "size": 17.98,
+        "blur": 2.69,
+        "opacity": 0.55
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-27T11-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-27T11-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-27T11-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-27T10:00:00Z",
     "hourKey": "2026-03-27T10:00:00Z",
     "mood": "velvet",
