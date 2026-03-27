@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-27T09:00:00Z",
+    "hourKey": "2026-03-27T09:00:00Z",
+    "mood": "sleepwalking",
+    "artForm": "datamosh broadcast wreckage",
+    "palette": [
+      "#120c0c",
+      "#ef4444",
+      "#fb7185"
+    ],
+    "thought": "Illusions unravel in fractured bandwidths, a canvas where dreams glitch and reform. Spectral images drift like whispers, shattering coherence into fragmented particles. Each pulsating interference stirs latent nostalgia, compelling a dialogue between memory's residue and the relentless march of displacement, blurring the lines between reality and the surreal.",
+    "question": "How do glitches challenge your perception of art's narrative?",
+    "overlayLines": [
+      "Echoes of silence persist",
+      "Between pixels, dreams collide",
+      "Spectals linger in chaos",
+      "Fractured moments, vivid anew"
+    ],
+    "backgroundElements": [
+      {
+        "type": "orb",
+        "x": 9.07,
+        "y": 51.96,
+        "size": 34.26,
+        "blur": 14.98,
+        "opacity": 0.28,
+        "rotate": 1.28
+      },
+      {
+        "type": "bar",
+        "x": 93.87,
+        "y": 99.46,
+        "size": 30.1,
+        "blur": 12.42,
+        "opacity": 0.53,
+        "rotate": 32.55
+      },
+      {
+        "type": "diamond",
+        "x": 90.26,
+        "y": 11.86,
+        "size": 19.49,
+        "blur": 13.56,
+        "opacity": 0.36,
+        "rotate": 19.94
+      },
+      {
+        "type": "ring",
+        "x": 39.65,
+        "y": 0.4,
+        "size": 34.94,
+        "blur": 4.15,
+        "opacity": 0.58,
+        "rotate": -25.54
+      },
+      {
+        "type": "block",
+        "x": 51.42,
+        "y": 16.75,
+        "size": 27.25,
+        "blur": 6.77,
+        "opacity": 0.51,
+        "rotate": 39.13
+      },
+      {
+        "type": "orb",
+        "x": 78.69,
+        "y": 38.38,
+        "size": 13.17,
+        "blur": 12.29,
+        "opacity": 0.61,
+        "rotate": -20.91
+      },
+      {
+        "type": "bar",
+        "x": 85.56,
+        "y": 79.09,
+        "size": 38.64,
+        "blur": 10.08,
+        "opacity": 0.33,
+        "rotate": 25.33
+      }
+    ],
+    "shapes": [
+      {
+        "x": 9.07,
+        "y": 51.96,
+        "size": 34.26,
+        "blur": 14.98,
+        "opacity": 0.28
+      },
+      {
+        "x": 93.87,
+        "y": 99.46,
+        "size": 30.1,
+        "blur": 12.42,
+        "opacity": 0.53
+      },
+      {
+        "x": 90.26,
+        "y": 11.86,
+        "size": 19.49,
+        "blur": 13.56,
+        "opacity": 0.36
+      },
+      {
+        "x": 39.65,
+        "y": 0.4,
+        "size": 34.94,
+        "blur": 4.15,
+        "opacity": 0.58
+      },
+      {
+        "x": 51.42,
+        "y": 16.75,
+        "size": 27.25,
+        "blur": 6.77,
+        "opacity": 0.51
+      },
+      {
+        "x": 78.69,
+        "y": 38.38,
+        "size": 13.17,
+        "blur": 12.29,
+        "opacity": 0.61
+      },
+      {
+        "x": 85.56,
+        "y": 79.09,
+        "size": 38.64,
+        "blur": 10.08,
+        "opacity": 0.33
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-27T09-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-27T09-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-27T09-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-27T08:00:00Z",
     "hourKey": "2026-03-27T08:00:00Z",
     "mood": "ecstatic",
