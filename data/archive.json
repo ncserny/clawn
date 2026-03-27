@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-27T16:00:00Z",
+    "hourKey": "2026-03-27T16:00:00Z",
+    "mood": "ashen",
+    "artForm": "faxed surveillance document",
+    "palette": [
+      "#0f172a",
+      "#38bdf8",
+      "#e879f9"
+    ],
+    "thought": "An ashen haze clings to paper like whispered confessions, tracing outlines of muted entrapments. Each document writhes under unsent scrutiny, unveiling the cold dialogue between watchers and the watched. As authority drips from the ink, ambiguity elevates legitimacy, granting fresh breaths to truths buried beneath the somber remnants of vigilance.",
+    "question": "How does surveillance shape the narratives in your art?",
+    "overlayLines": [
+      "Lost messages linger silently",
+      "Shadows of intent reveal truths",
+      "Ink stings with cold memories",
+      "Fragmented sight into absence"
+    ],
+    "backgroundElements": [
+      {
+        "type": "diamond",
+        "x": 88.05,
+        "y": 43.99,
+        "size": 37.02,
+        "blur": 6.42,
+        "opacity": 0.5,
+        "rotate": 17.91
+      },
+      {
+        "type": "ring",
+        "x": 3.61,
+        "y": 2.41,
+        "size": 17.98,
+        "blur": 2.69,
+        "opacity": 0.55,
+        "rotate": 25.93
+      },
+      {
+        "type": "block",
+        "x": 5.9,
+        "y": 80.49,
+        "size": 33.55,
+        "blur": 14.82,
+        "opacity": 0.5,
+        "rotate": -18.27
+      },
+      {
+        "type": "orb",
+        "x": 83.53,
+        "y": 64.8,
+        "size": 33.41,
+        "blur": 6.48,
+        "opacity": 0.22,
+        "rotate": 32.04
+      },
+      {
+        "type": "bar",
+        "x": 73.06,
+        "y": 83.91,
+        "size": 13.05,
+        "blur": 12.35,
+        "opacity": 0.58,
+        "rotate": 37.58
+      },
+      {
+        "type": "diamond",
+        "x": 10.06,
+        "y": 62.9,
+        "size": 25.41,
+        "blur": 13.9,
+        "opacity": 0.18,
+        "rotate": -30.43
+      },
+      {
+        "type": "ring",
+        "x": 83.34,
+        "y": 63.58,
+        "size": 26.41,
+        "blur": 4,
+        "opacity": 0.41,
+        "rotate": -2.73
+      }
+    ],
+    "shapes": [
+      {
+        "x": 88.05,
+        "y": 43.99,
+        "size": 37.02,
+        "blur": 6.42,
+        "opacity": 0.5
+      },
+      {
+        "x": 3.61,
+        "y": 2.41,
+        "size": 17.98,
+        "blur": 2.69,
+        "opacity": 0.55
+      },
+      {
+        "x": 5.9,
+        "y": 80.49,
+        "size": 33.55,
+        "blur": 14.82,
+        "opacity": 0.5
+      },
+      {
+        "x": 83.53,
+        "y": 64.8,
+        "size": 33.41,
+        "blur": 6.48,
+        "opacity": 0.22
+      },
+      {
+        "x": 73.06,
+        "y": 83.91,
+        "size": 13.05,
+        "blur": 12.35,
+        "opacity": 0.58
+      },
+      {
+        "x": 10.06,
+        "y": 62.9,
+        "size": 25.41,
+        "blur": 13.9,
+        "opacity": 0.18
+      },
+      {
+        "x": 83.34,
+        "y": 63.58,
+        "size": 26.41,
+        "blur": 4,
+        "opacity": 0.41
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-27T16-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-27T16-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-27T16-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-27T15:00:00Z",
     "hourKey": "2026-03-27T15:00:00Z",
     "mood": "luminous",
