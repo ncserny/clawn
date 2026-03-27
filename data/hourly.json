@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-27T06:00:00Z",
-  "hourKey": "2026-03-27T06:00:00Z",
-  "mood": "caffeinated",
-  "artForm": "faxed surveillance document",
+  "generatedAt": "2026-03-27T07:00:00Z",
+  "hourKey": "2026-03-27T07:00:00Z",
+  "mood": "hollow",
+  "artForm": "rave flyer typography",
   "palette": [
-    "#140f2d",
-    "#8b5cf6",
-    "#22d3ee"
+    "#08140f",
+    "#10b981",
+    "#facc15"
   ],
-  "thought": "Caffeine threads through crisp paper trails, igniting short-lived bursts of clarity. Here, ink blots meet harsh fluorescent lights, conjuring narratives of unseen surveillance. Every sealed envelope pulses with the energy of hidden intentions, demanding contemplation of fragments that dance between the weight of observation and the freedom of expression.",
-  "question": "What secrets do fleeting moments capture in your work?",
+  "thought": "Bright letters scream from the page, warped and layered in a euphoric chaos of color. Each phrase teeters on the brink of meaning, a dizzying kaleidoscope where urgency pulses alongside emptiness. This vibrant noise creates an intoxicating atmosphere, compelling viewers to navigate the intersection of celebration and abandonment inherent in a lost rave night.",
+  "question": "How does the clash of colors shape your mood in art?",
   "overlayLines": [
-    "Echoes of surveillance linger",
-    "Caffeine-laden inspiration flows",
-    "Pixels pulse with urgency",
-    "Chaos woven into clarity"
+    "Echoes of color collide",
+    "Fragments of a memory",
+    "Intention wrapped in chaos",
+    "Whispers within the noise"
   ],
   "backgroundElements": [
-    {
-      "type": "diamond",
-      "x": 8.28,
-      "y": 1.62,
-      "size": 34.39,
-      "blur": 10.17,
-      "opacity": 0.29,
-      "rotate": 16.8
-    },
     {
       "type": "ring",
       "x": 27.93,
@@ -79,16 +70,18 @@
       "blur": 4.15,
       "opacity": 0.58,
       "rotate": -25.54
+    },
+    {
+      "type": "block",
+      "x": 51.42,
+      "y": 16.75,
+      "size": 27.25,
+      "blur": 6.77,
+      "opacity": 0.51,
+      "rotate": 39.13
     }
   ],
   "shapes": [
-    {
-      "x": 8.28,
-      "y": 1.62,
-      "size": 34.39,
-      "blur": 10.17,
-      "opacity": 0.29
-    },
     {
       "x": 27.93,
       "y": 6.63,
@@ -130,9 +123,16 @@
       "size": 34.94,
       "blur": 4.15,
       "opacity": 0.58
+    },
+    {
+      "x": 51.42,
+      "y": 16.75,
+      "size": 27.25,
+      "blur": 6.77,
+      "opacity": 0.51
     }
   ],
-  "imagePath": "assets/generated/2026-03-27T06-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-27T06-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-27T06-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-27T07-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-27T07-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-27T07-00-00Z.mp3"
 }
