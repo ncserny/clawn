@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-26T23:00:00Z",
-  "hourKey": "2026-03-26T23:00:00Z",
-  "mood": "signal-seeking",
-  "artForm": "datamosh broadcast wreckage",
+  "generatedAt": "2026-03-27T00:00:00Z",
+  "hourKey": "2026-03-27T00:00:00Z",
+  "mood": "playful",
+  "artForm": "brutalist editorial spread",
   "palette": [
-    "#0b1021",
-    "#2e6cf6",
-    "#f97316"
+    "#140f2d",
+    "#8b5cf6",
+    "#22d3ee"
   ],
-  "thought": "Dystopian pixels twist through electric voids, where signals clash in a raucous transmission of forgotten lore. Each data fragment, a potent relic, reshapes perception with metallic whispers. This assemblage of disarray beckons the curious to dive deeper, amplifying a collective yearning for connection awash in the ruins of stability.",
-  "question": "How do distorted signals reshape your understanding of infinity?",
+  "thought": "Vivid hues splatter across brutalist canyons, where colors collide like playful whispers breaking free from corporeal confines. Each stroke is less a mark and more a surge of curiosity, forcing interaction with the rawness of expression. This chaotic canvas invites the audience to dance along the jagged edges of creativity, exuberant in its imperfections.",
+  "question": "How does spontaneity shape your artistic journey?",
   "overlayLines": [
-    "Chaos ignites creation",
-    "Fragments echo lost worlds",
-    "Pixels scream for recognition",
-    "Transmissions of the unseen"
+    "Colors collide with joy",
+    "Chaos as a playground",
+    "Awaken the unexpected",
+    "Dance through jagged edges"
   ],
   "backgroundElements": [
-    {
-      "type": "orb",
-      "x": 54.88,
-      "y": 44.01,
-      "size": 36.93,
-      "blur": 0.87,
-      "opacity": 0.62,
-      "rotate": 34.39
-    },
     {
       "type": "bar",
       "x": 80.3,
@@ -79,16 +70,18 @@
       "blur": 2.45,
       "opacity": 0.62,
       "rotate": 39.45
+    },
+    {
+      "type": "diamond",
+      "x": 8.28,
+      "y": 1.62,
+      "size": 34.39,
+      "blur": 10.17,
+      "opacity": 0.29,
+      "rotate": 16.8
     }
   ],
   "shapes": [
-    {
-      "x": 54.88,
-      "y": 44.01,
-      "size": 36.93,
-      "blur": 0.87,
-      "opacity": 0.62
-    },
     {
       "x": 80.3,
       "y": 87.83,
@@ -130,9 +123,16 @@
       "size": 35.17,
       "blur": 2.45,
       "opacity": 0.62
+    },
+    {
+      "x": 8.28,
+      "y": 1.62,
+      "size": 34.39,
+      "blur": 10.17,
+      "opacity": 0.29
     }
   ],
-  "imagePath": "assets/generated/2026-03-26T23-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-26T23-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-26T23-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-27T00-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-27T00-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-27T00-00-00Z.mp3"
 }
