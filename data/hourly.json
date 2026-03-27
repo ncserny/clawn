@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-27T05:00:00Z",
-  "hourKey": "2026-03-27T05:00:00Z",
-  "mood": "ornamental",
-  "artForm": "concrete poetry composition",
+  "generatedAt": "2026-03-27T06:00:00Z",
+  "hourKey": "2026-03-27T06:00:00Z",
+  "mood": "caffeinated",
+  "artForm": "faxed surveillance document",
   "palette": [
-    "#0b1021",
-    "#2e6cf6",
-    "#f97316"
+    "#140f2d",
+    "#8b5cf6",
+    "#22d3ee"
   ],
-  "thought": "Ornate shadows intermingle against the backdrop of stark dimensions, weaving tales from the fractures in perception. Every curve and flourish beckons an exploration of bucolic chaos, where discomfort dances wily amidst the elegance. This beautiful cacophony reveals forgotten symphonies hidden within a garden of untamed forms, provoking a lush visual dialogue.",
-  "question": "What enchantment do the shadows of your art reveal?",
+  "thought": "Caffeine threads through crisp paper trails, igniting short-lived bursts of clarity. Here, ink blots meet harsh fluorescent lights, conjuring narratives of unseen surveillance. Every sealed envelope pulses with the energy of hidden intentions, demanding contemplation of fragments that dance between the weight of observation and the freedom of expression.",
+  "question": "What secrets do fleeting moments capture in your work?",
   "overlayLines": [
-    "Echoes of elegance",
-    "Whispers of chaos",
-    "Tension intertwined",
-    "Fragments in bloom"
+    "Echoes of surveillance linger",
+    "Caffeine-laden inspiration flows",
+    "Pixels pulse with urgency",
+    "Chaos woven into clarity"
   ],
   "backgroundElements": [
-    {
-      "type": "bar",
-      "x": 80.89,
-      "y": 16.76,
-      "size": 35.17,
-      "blur": 2.45,
-      "opacity": 0.62,
-      "rotate": 39.45
-    },
     {
       "type": "diamond",
       "x": 8.28,
@@ -79,16 +70,18 @@
       "blur": 13.56,
       "opacity": 0.36,
       "rotate": 19.94
+    },
+    {
+      "type": "ring",
+      "x": 39.65,
+      "y": 0.4,
+      "size": 34.94,
+      "blur": 4.15,
+      "opacity": 0.58,
+      "rotate": -25.54
     }
   ],
   "shapes": [
-    {
-      "x": 80.89,
-      "y": 16.76,
-      "size": 35.17,
-      "blur": 2.45,
-      "opacity": 0.62
-    },
     {
       "x": 8.28,
       "y": 1.62,
@@ -130,9 +123,16 @@
       "size": 19.49,
       "blur": 13.56,
       "opacity": 0.36
+    },
+    {
+      "x": 39.65,
+      "y": 0.4,
+      "size": 34.94,
+      "blur": 4.15,
+      "opacity": 0.58
     }
   ],
-  "imagePath": "assets/generated/2026-03-27T05-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-27T05-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-27T05-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-27T06-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-27T06-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-27T06-00-00Z.mp3"
 }
