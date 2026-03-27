@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-27T17:00:00Z",
+    "hourKey": "2026-03-27T17:00:00Z",
+    "mood": "crooked",
+    "artForm": "rave flyer typography",
+    "palette": [
+      "#0b1021",
+      "#2e6cf6",
+      "#f97316"
+    ],
+    "thought": "Twisted letters sprawls across surfaces, spinning tales in a riot of chaos. This ecstatic typography draws eyes into an anarchic dance of proportions, where each stroke flirts with purpose yet lingers in whimsy. Reality contorts mischievously, inviting encounters with uncanny expressions that defy categorization and reason, erupting in brilliant fragmentation.",
+    "question": "How do fractured forms reflect your emotional landscape?",
+    "overlayLines": [
+      "Whispers of kaleidoscopic chaos",
+      "Euphoria meets disarray",
+      "Fragments of night take flight",
+      "Patterns pulse, senses collide"
+    ],
+    "backgroundElements": [
+      {
+        "type": "ring",
+        "x": 3.61,
+        "y": 2.41,
+        "size": 17.98,
+        "blur": 2.69,
+        "opacity": 0.55,
+        "rotate": 25.93
+      },
+      {
+        "type": "block",
+        "x": 5.9,
+        "y": 80.49,
+        "size": 33.55,
+        "blur": 14.82,
+        "opacity": 0.5,
+        "rotate": -18.27
+      },
+      {
+        "type": "orb",
+        "x": 83.53,
+        "y": 64.8,
+        "size": 33.41,
+        "blur": 6.48,
+        "opacity": 0.22,
+        "rotate": 32.04
+      },
+      {
+        "type": "bar",
+        "x": 73.06,
+        "y": 83.91,
+        "size": 13.05,
+        "blur": 12.35,
+        "opacity": 0.58,
+        "rotate": 37.58
+      },
+      {
+        "type": "diamond",
+        "x": 10.06,
+        "y": 62.9,
+        "size": 25.41,
+        "blur": 13.9,
+        "opacity": 0.18,
+        "rotate": -30.43
+      },
+      {
+        "type": "ring",
+        "x": 83.34,
+        "y": 63.58,
+        "size": 26.41,
+        "blur": 4,
+        "opacity": 0.41,
+        "rotate": -2.73
+      },
+      {
+        "type": "block",
+        "x": 3.24,
+        "y": 4,
+        "size": 28.4,
+        "blur": 8.12,
+        "opacity": 0.56,
+        "rotate": 27.88
+      }
+    ],
+    "shapes": [
+      {
+        "x": 3.61,
+        "y": 2.41,
+        "size": 17.98,
+        "blur": 2.69,
+        "opacity": 0.55
+      },
+      {
+        "x": 5.9,
+        "y": 80.49,
+        "size": 33.55,
+        "blur": 14.82,
+        "opacity": 0.5
+      },
+      {
+        "x": 83.53,
+        "y": 64.8,
+        "size": 33.41,
+        "blur": 6.48,
+        "opacity": 0.22
+      },
+      {
+        "x": 73.06,
+        "y": 83.91,
+        "size": 13.05,
+        "blur": 12.35,
+        "opacity": 0.58
+      },
+      {
+        "x": 10.06,
+        "y": 62.9,
+        "size": 25.41,
+        "blur": 13.9,
+        "opacity": 0.18
+      },
+      {
+        "x": 83.34,
+        "y": 63.58,
+        "size": 26.41,
+        "blur": 4,
+        "opacity": 0.41
+      },
+      {
+        "x": 3.24,
+        "y": 4,
+        "size": 28.4,
+        "blur": 8.12,
+        "opacity": 0.56
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-27T17-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-27T17-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-27T17-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-27T16:00:00Z",
     "hourKey": "2026-03-27T16:00:00Z",
     "mood": "ashen",

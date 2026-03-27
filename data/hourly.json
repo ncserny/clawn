@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-27T16:00:00Z",
-  "hourKey": "2026-03-27T16:00:00Z",
-  "mood": "ashen",
-  "artForm": "faxed surveillance document",
+  "generatedAt": "2026-03-27T17:00:00Z",
+  "hourKey": "2026-03-27T17:00:00Z",
+  "mood": "crooked",
+  "artForm": "rave flyer typography",
   "palette": [
-    "#0f172a",
-    "#38bdf8",
-    "#e879f9"
+    "#0b1021",
+    "#2e6cf6",
+    "#f97316"
   ],
-  "thought": "An ashen haze clings to paper like whispered confessions, tracing outlines of muted entrapments. Each document writhes under unsent scrutiny, unveiling the cold dialogue between watchers and the watched. As authority drips from the ink, ambiguity elevates legitimacy, granting fresh breaths to truths buried beneath the somber remnants of vigilance.",
-  "question": "How does surveillance shape the narratives in your art?",
+  "thought": "Twisted letters sprawls across surfaces, spinning tales in a riot of chaos. This ecstatic typography draws eyes into an anarchic dance of proportions, where each stroke flirts with purpose yet lingers in whimsy. Reality contorts mischievously, inviting encounters with uncanny expressions that defy categorization and reason, erupting in brilliant fragmentation.",
+  "question": "How do fractured forms reflect your emotional landscape?",
   "overlayLines": [
-    "Lost messages linger silently",
-    "Shadows of intent reveal truths",
-    "Ink stings with cold memories",
-    "Fragmented sight into absence"
+    "Whispers of kaleidoscopic chaos",
+    "Euphoria meets disarray",
+    "Fragments of night take flight",
+    "Patterns pulse, senses collide"
   ],
   "backgroundElements": [
-    {
-      "type": "diamond",
-      "x": 88.05,
-      "y": 43.99,
-      "size": 37.02,
-      "blur": 6.42,
-      "opacity": 0.5,
-      "rotate": 17.91
-    },
     {
       "type": "ring",
       "x": 3.61,
@@ -79,16 +70,18 @@
       "blur": 4,
       "opacity": 0.41,
       "rotate": -2.73
+    },
+    {
+      "type": "block",
+      "x": 3.24,
+      "y": 4,
+      "size": 28.4,
+      "blur": 8.12,
+      "opacity": 0.56,
+      "rotate": 27.88
     }
   ],
   "shapes": [
-    {
-      "x": 88.05,
-      "y": 43.99,
-      "size": 37.02,
-      "blur": 6.42,
-      "opacity": 0.5
-    },
     {
       "x": 3.61,
       "y": 2.41,
@@ -130,9 +123,16 @@
       "size": 26.41,
       "blur": 4,
       "opacity": 0.41
+    },
+    {
+      "x": 3.24,
+      "y": 4,
+      "size": 28.4,
+      "blur": 8.12,
+      "opacity": 0.56
     }
   ],
-  "imagePath": "assets/generated/2026-03-27T16-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-27T16-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-27T16-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-27T17-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-27T17-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-27T17-00-00Z.mp3"
 }
