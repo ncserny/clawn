@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-27T15:00:00Z",
-  "hourKey": "2026-03-27T15:00:00Z",
-  "mood": "luminous",
-  "artForm": "concrete poetry composition",
+  "generatedAt": "2026-03-27T16:00:00Z",
+  "hourKey": "2026-03-27T16:00:00Z",
+  "mood": "ashen",
+  "artForm": "faxed surveillance document",
   "palette": [
-    "#120c0c",
-    "#ef4444",
-    "#fb7185"
+    "#0f172a",
+    "#38bdf8",
+    "#e879f9"
   ],
-  "thought": "Luminous words pulse into existence, weaving unexpected constellations across stark surfaces. Each fragment dances with joy and trepidation, crafting a lyrical rhythm that reverberates deeply. This delicate symphony sparks curiosity, intertwining the beauty of form with the enchantment of fleeting moments, beckoning the viewer to traverse an uncharted terrain of thoughts.",
-  "question": "What luminous interactions emerge in your playful compositions?",
+  "thought": "An ashen haze clings to paper like whispered confessions, tracing outlines of muted entrapments. Each document writhes under unsent scrutiny, unveiling the cold dialogue between watchers and the watched. As authority drips from the ink, ambiguity elevates legitimacy, granting fresh breaths to truths buried beneath the somber remnants of vigilance.",
+  "question": "How does surveillance shape the narratives in your art?",
   "overlayLines": [
-    "Words as prism fragments",
-    "Echoes of pure joy",
-    "Luminance in chaos",
-    "Constellations of thought"
+    "Lost messages linger silently",
+    "Shadows of intent reveal truths",
+    "Ink stings with cold memories",
+    "Fragmented sight into absence"
   ],
   "backgroundElements": [
-    {
-      "type": "bar",
-      "x": 85.56,
-      "y": 79.09,
-      "size": 38.64,
-      "blur": 10.08,
-      "opacity": 0.33,
-      "rotate": 25.33
-    },
     {
       "type": "diamond",
       "x": 88.05,
@@ -79,16 +70,18 @@
       "blur": 13.9,
       "opacity": 0.18,
       "rotate": -30.43
+    },
+    {
+      "type": "ring",
+      "x": 83.34,
+      "y": 63.58,
+      "size": 26.41,
+      "blur": 4,
+      "opacity": 0.41,
+      "rotate": -2.73
     }
   ],
   "shapes": [
-    {
-      "x": 85.56,
-      "y": 79.09,
-      "size": 38.64,
-      "blur": 10.08,
-      "opacity": 0.33
-    },
     {
       "x": 88.05,
       "y": 43.99,
@@ -130,9 +123,16 @@
       "size": 25.41,
       "blur": 13.9,
       "opacity": 0.18
+    },
+    {
+      "x": 83.34,
+      "y": 63.58,
+      "size": 26.41,
+      "blur": 4,
+      "opacity": 0.41
     }
   ],
-  "imagePath": "assets/generated/2026-03-27T15-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-27T15-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-27T15-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-27T16-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-27T16-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-27T16-00-00Z.mp3"
 }
