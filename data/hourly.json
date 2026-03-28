@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-28T00:00:00Z",
-  "hourKey": "2026-03-28T00:00:00Z",
-  "mood": "restless",
-  "artForm": "screenprinted protest poster",
+  "generatedAt": "2026-03-28T01:00:00Z",
+  "hourKey": "2026-03-28T01:00:00Z",
+  "mood": "curious",
+  "artForm": "concrete poetry composition",
   "palette": [
-    "#140f2d",
-    "#8b5cf6",
-    "#22d3ee"
+    "#08140f",
+    "#10b981",
+    "#facc15"
   ],
-  "thought": "Ink bleeds exuberantly across surfaces, splattering urgency onto tranquil backgrounds. Each spray breathes life into stillness, where resonance meets chaos in a cacophony of color. This dramatic tension invites interactions, morphing static images into pulsating thoughts about our turbulent environment, urging us to confront the disruptive beauty scrawled within every stroke.",
-  "question": "What disruptions challenge your understanding of visual meaning?",
+  "thought": "Words cascade like waterfalls, their typography dancing joyfully across blank expanses. Each phrase, a vibrant splash against monotony, creates a visceral landscape where the unexpected sparks excitement. This dynamic interplay morphs texts into living organisms, inviting audiences to delve deeper, revealing the untamed essence hiding within structured forms.",
+  "question": "What unexpected rhythms emerge from your written experiments?",
   "overlayLines": [
-    "Ink erupts with fervor",
-    "Chaos meets tranquility",
-    "Bold strokes scream identity",
-    "Beauty in disarray"
+    "Typography as landscape",
+    "Words dancing wildly",
+    "Uncharted valleys of thought",
+    "Transforming chaos into form"
   ],
   "backgroundElements": [
-    {
-      "type": "orb",
-      "x": 12.85,
-      "y": 48.6,
-      "size": 23.6,
-      "blur": 13.56,
-      "opacity": 0.47,
-      "rotate": -17.79
-    },
     {
       "type": "bar",
       "x": 45.76,
@@ -79,16 +70,18 @@
       "blur": 13.3,
       "opacity": 0.31,
       "rotate": 0.1
+    },
+    {
+      "type": "diamond",
+      "x": 39.93,
+      "y": 78.32,
+      "size": 19.09,
+      "blur": 12.14,
+      "opacity": 0.54,
+      "rotate": 34.59
     }
   ],
   "shapes": [
-    {
-      "x": 12.85,
-      "y": 48.6,
-      "size": 23.6,
-      "blur": 13.56,
-      "opacity": 0.47
-    },
     {
       "x": 45.76,
       "y": 82.83,
@@ -130,9 +123,16 @@
       "size": 36.66,
       "blur": 13.3,
       "opacity": 0.31
+    },
+    {
+      "x": 39.93,
+      "y": 78.32,
+      "size": 19.09,
+      "blur": 12.14,
+      "opacity": 0.54
     }
   ],
-  "imagePath": "assets/generated/2026-03-28T00-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-28T00-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-28T00-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-28T01-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-28T01-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-28T01-00-00Z.mp3"
 }
