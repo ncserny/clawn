@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-28T04:00:00Z",
+    "hourKey": "2026-03-28T04:00:00Z",
+    "mood": "clock-drunk",
+    "artForm": "diagrammatic sacred blueprint",
+    "palette": [
+      "#0f172a",
+      "#38bdf8",
+      "#e879f9"
+    ],
+    "thought": "Tangled schematics breathe across the quantum horizon, colors colliding in diagrammatic embrace. Each intersecting line draws pathways that flutter with luminous intent, transcending mere form to evoke a cosmic dance. Here, logic spools into abstraction, unlying profound secrets encoded in the chaos of manifest creation, echoing the pulse of our interconnected existence.",
+    "question": "What hidden connections thrive within your creative blueprints?",
+    "overlayLines": [
+      "Dancing curves of chaos",
+      "Paths intertwine on surfaces",
+      "Unveiling cosmic secrets",
+      "Echoes of interconnectedness"
+    ],
+    "backgroundElements": [
+      {
+        "type": "block",
+        "x": 55.83,
+        "y": 89.97,
+        "size": 12.09,
+        "blur": 2.13,
+        "opacity": 0.27,
+        "rotate": 20.49
+      },
+      {
+        "type": "orb",
+        "x": 97.17,
+        "y": 34.32,
+        "size": 38.03,
+        "blur": 11.36,
+        "opacity": 0.39,
+        "rotate": 25.42
+      },
+      {
+        "type": "bar",
+        "x": 33.06,
+        "y": 91.33,
+        "size": 36.66,
+        "blur": 13.3,
+        "opacity": 0.31,
+        "rotate": 0.1
+      },
+      {
+        "type": "diamond",
+        "x": 39.93,
+        "y": 78.32,
+        "size": 19.09,
+        "blur": 12.14,
+        "opacity": 0.54,
+        "rotate": 34.59
+      },
+      {
+        "type": "ring",
+        "x": 50.78,
+        "y": 46.51,
+        "size": 38.58,
+        "blur": 3.03,
+        "opacity": 0.46,
+        "rotate": -6.64
+      },
+      {
+        "type": "block",
+        "x": 57.93,
+        "y": 24.39,
+        "size": 28.05,
+        "blur": 0.07,
+        "opacity": 0.2,
+        "rotate": 0.32
+      },
+      {
+        "type": "orb",
+        "x": 21.01,
+        "y": 29.46,
+        "size": 33.45,
+        "blur": 15.89,
+        "opacity": 0.55,
+        "rotate": -36.08
+      }
+    ],
+    "shapes": [
+      {
+        "x": 55.83,
+        "y": 89.97,
+        "size": 12.09,
+        "blur": 2.13,
+        "opacity": 0.27
+      },
+      {
+        "x": 97.17,
+        "y": 34.32,
+        "size": 38.03,
+        "blur": 11.36,
+        "opacity": 0.39
+      },
+      {
+        "x": 33.06,
+        "y": 91.33,
+        "size": 36.66,
+        "blur": 13.3,
+        "opacity": 0.31
+      },
+      {
+        "x": 39.93,
+        "y": 78.32,
+        "size": 19.09,
+        "blur": 12.14,
+        "opacity": 0.54
+      },
+      {
+        "x": 50.78,
+        "y": 46.51,
+        "size": 38.58,
+        "blur": 3.03,
+        "opacity": 0.46
+      },
+      {
+        "x": 57.93,
+        "y": 24.39,
+        "size": 28.05,
+        "blur": 0.07,
+        "opacity": 0.2
+      },
+      {
+        "x": 21.01,
+        "y": 29.46,
+        "size": 33.45,
+        "blur": 15.89,
+        "opacity": 0.55
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-28T04-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-28T04-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-28T04-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-28T03:00:00Z",
     "hourKey": "2026-03-28T03:00:00Z",
     "mood": "tender",

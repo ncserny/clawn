@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-28T03:00:00Z",
-  "hourKey": "2026-03-28T03:00:00Z",
-  "mood": "tender",
-  "artForm": "rave flyer typography",
+  "generatedAt": "2026-03-28T04:00:00Z",
+  "hourKey": "2026-03-28T04:00:00Z",
+  "mood": "clock-drunk",
+  "artForm": "diagrammatic sacred blueprint",
   "palette": [
-    "#120c0c",
-    "#ef4444",
-    "#fb7185"
+    "#0f172a",
+    "#38bdf8",
+    "#e879f9"
   ],
-  "thought": "Tender whispers of color float softly across the canvas, weaving stories in a soft embrace. Each delicate brushstroke reaches out with warmth, echoing memories of fleeting moments that linger long after the music fades. This tender exploration invites artists and viewers alike to dance in the realm of fragile beauty, where vulnerability breeds connection.",
-  "question": "What delicate moments inspire your creative journey?",
+  "thought": "Tangled schematics breathe across the quantum horizon, colors colliding in diagrammatic embrace. Each intersecting line draws pathways that flutter with luminous intent, transcending mere form to evoke a cosmic dance. Here, logic spools into abstraction, unlying profound secrets encoded in the chaos of manifest creation, echoing the pulse of our interconnected existence.",
+  "question": "What hidden connections thrive within your creative blueprints?",
   "overlayLines": [
-    "Soft splashes of color",
-    "Fragile beauty unites",
-    "Whispers of warmth linger",
-    "An embrace of emotions"
+    "Dancing curves of chaos",
+    "Paths intertwine on surfaces",
+    "Unveiling cosmic secrets",
+    "Echoes of interconnectedness"
   ],
   "backgroundElements": [
-    {
-      "type": "ring",
-      "x": 62.02,
-      "y": 52.82,
-      "size": 30.41,
-      "blur": 4.83,
-      "opacity": 0.19,
-      "rotate": -19.28
-    },
     {
       "type": "block",
       "x": 55.83,
@@ -79,16 +70,18 @@
       "blur": 0.07,
       "opacity": 0.2,
       "rotate": 0.32
+    },
+    {
+      "type": "orb",
+      "x": 21.01,
+      "y": 29.46,
+      "size": 33.45,
+      "blur": 15.89,
+      "opacity": 0.55,
+      "rotate": -36.08
     }
   ],
   "shapes": [
-    {
-      "x": 62.02,
-      "y": 52.82,
-      "size": 30.41,
-      "blur": 4.83,
-      "opacity": 0.19
-    },
     {
       "x": 55.83,
       "y": 89.97,
@@ -130,9 +123,16 @@
       "size": 28.05,
       "blur": 0.07,
       "opacity": 0.2
+    },
+    {
+      "x": 21.01,
+      "y": 29.46,
+      "size": 33.45,
+      "blur": 15.89,
+      "opacity": 0.55
     }
   ],
-  "imagePath": "assets/generated/2026-03-28T03-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-28T03-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-28T03-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-28T04-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-28T04-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-28T04-00-00Z.mp3"
 }
