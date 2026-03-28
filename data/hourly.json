@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-28T17:00:00Z",
-  "hourKey": "2026-03-28T17:00:00Z",
-  "mood": "paranoid",
-  "artForm": "xerox zine collage",
+  "generatedAt": "2026-03-28T18:00:00Z",
+  "hourKey": "2026-03-28T18:00:00Z",
+  "mood": "delirious",
+  "artForm": "clean museum placard minimalism",
   "palette": [
-    "#0b1021",
-    "#2e6cf6",
-    "#f97316"
+    "#140f2d",
+    "#8b5cf6",
+    "#22d3ee"
   ],
-  "thought": "Frenzied sheets converge in chaotic proliferation, snippets of momentary truths colliding like whispered secrets. Each torn edge evokes a visceral memory, where meaning eludes staples and ink, teetering on the brink of obliteration. This fragmented tableau challenges the stability of perception, revealing beauty hidden beneath layers of disarray.",
-  "question": "Which contradictions manifest in your artistic collages?",
+  "thought": "Cascading patterns pulse through tangled fiber, a dissonance of color wrestling reason into surrender. Each untamed stitch threatens to unravel the mundane, igniting synaptic fireworks. This vibrant debauchery thrives on the precipice of harmony and chaos, a visual shout challenge to complacency's dull embrace, a playground of infinite possibility.",
+  "question": "What does unfurling fabric reveal about your artistic voice?",
   "overlayLines": [
-    "Fragmentation breeds clarity",
-    "Whispers haunt the margins",
-    "Lost words still resonate",
-    "Chaos births new narratives"
+    "Chaos sings in colors",
+    "Threads of audacity intertwine",
+    "Patterns burst into life",
+    "Art reclaims the mundane"
   ],
   "backgroundElements": [
-    {
-      "type": "diamond",
-      "x": 61.88,
-      "y": 95.42,
-      "size": 39.01,
-      "blur": 6.21,
-      "opacity": 0.28,
-      "rotate": 8.7
-    },
     {
       "type": "ring",
       "x": 67.18,
@@ -79,16 +70,18 @@
       "blur": 15.42,
       "opacity": 0.59,
       "rotate": -7.86
+    },
+    {
+      "type": "block",
+      "x": 66.27,
+      "y": 1.54,
+      "size": 20.94,
+      "blur": 9.68,
+      "opacity": 0.18,
+      "rotate": 17.85
     }
   ],
   "shapes": [
-    {
-      "x": 61.88,
-      "y": 95.42,
-      "size": 39.01,
-      "blur": 6.21,
-      "opacity": 0.28
-    },
     {
       "x": 67.18,
       "y": 11.79,
@@ -130,9 +123,16 @@
       "size": 38.35,
       "blur": 15.42,
       "opacity": 0.59
+    },
+    {
+      "x": 66.27,
+      "y": 1.54,
+      "size": 20.94,
+      "blur": 9.68,
+      "opacity": 0.18
     }
   ],
-  "imagePath": "assets/generated/2026-03-28T17-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-28T17-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-28T17-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-28T18-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-28T18-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-28T18-00-00Z.mp3"
 }
