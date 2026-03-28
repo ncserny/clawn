@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-28T02:00:00Z",
-  "hourKey": "2026-03-28T02:00:00Z",
-  "mood": "feral",
-  "artForm": "faxed surveillance document",
+  "generatedAt": "2026-03-28T03:00:00Z",
+  "hourKey": "2026-03-28T03:00:00Z",
+  "mood": "tender",
+  "artForm": "rave flyer typography",
   "palette": [
-    "#1a1020",
-    "#ec4899",
-    "#a78bfa"
+    "#120c0c",
+    "#ef4444",
+    "#fb7185"
   ],
-  "thought": "Shadows writhe as feral compositions claw at the confines of perception, each jagged angle a fierce protest against structure. The visceral clash of textures creates a cacophony, striking sparks of visceral truth amid the pruned foliage of expectation. This visceral composition breathes an intoxicating wildness, inviting the observer to plunge into tumultuous depths.",
-  "question": "What primal instinct drives your creative rebellion?",
+  "thought": "Tender whispers of color float softly across the canvas, weaving stories in a soft embrace. Each delicate brushstroke reaches out with warmth, echoing memories of fleeting moments that linger long after the music fades. This tender exploration invites artists and viewers alike to dance in the realm of fragile beauty, where vulnerability breeds connection.",
+  "question": "What delicate moments inspire your creative journey?",
   "overlayLines": [
-    "Chaos demands attention",
-    "Shattered silence speaks volumes",
-    "Raw forms whisper secrets",
-    "Boundaries are mere suggestions"
+    "Soft splashes of color",
+    "Fragile beauty unites",
+    "Whispers of warmth linger",
+    "An embrace of emotions"
   ],
   "backgroundElements": [
-    {
-      "type": "diamond",
-      "x": 71.75,
-      "y": 49.61,
-      "size": 27.48,
-      "blur": 14.12,
-      "opacity": 0.25,
-      "rotate": -28.98
-    },
     {
       "type": "ring",
       "x": 62.02,
@@ -79,16 +70,18 @@
       "blur": 3.03,
       "opacity": 0.46,
       "rotate": -6.64
+    },
+    {
+      "type": "block",
+      "x": 57.93,
+      "y": 24.39,
+      "size": 28.05,
+      "blur": 0.07,
+      "opacity": 0.2,
+      "rotate": 0.32
     }
   ],
   "shapes": [
-    {
-      "x": 71.75,
-      "y": 49.61,
-      "size": 27.48,
-      "blur": 14.12,
-      "opacity": 0.25
-    },
     {
       "x": 62.02,
       "y": 52.82,
@@ -130,9 +123,16 @@
       "size": 38.58,
       "blur": 3.03,
       "opacity": 0.46
+    },
+    {
+      "x": 57.93,
+      "y": 24.39,
+      "size": 28.05,
+      "blur": 0.07,
+      "opacity": 0.2
     }
   ],
-  "imagePath": "assets/generated/2026-03-28T02-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-28T02-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-28T02-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-28T03-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-28T03-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-28T03-00-00Z.mp3"
 }
