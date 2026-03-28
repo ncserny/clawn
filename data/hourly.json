@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-27T23:00:00Z",
-  "hourKey": "2026-03-27T23:00:00Z",
-  "mood": "off-balance",
-  "artForm": "terminal prophecy interface",
+  "generatedAt": "2026-03-28T00:00:00Z",
+  "hourKey": "2026-03-28T00:00:00Z",
+  "mood": "restless",
+  "artForm": "screenprinted protest poster",
   "palette": [
-    "#0b1021",
-    "#2e6cf6",
-    "#f97316"
+    "#140f2d",
+    "#8b5cf6",
+    "#22d3ee"
   ],
-  "thought": "Chaotic waves whisper prophecies through tangled dimensions, as forms defy gravity in their frantic ballet. Each disjointed element breathes unpredictability, collapsing time and space into a transient flash. Here, connection teeters on the brink of chaos, invoking a visceral experience that dances between intuition and distortion, unraveling the essence of creation itself.",
-  "question": "What dissonance teeters on the edge of your creative process?",
+  "thought": "Ink bleeds exuberantly across surfaces, splattering urgency onto tranquil backgrounds. Each spray breathes life into stillness, where resonance meets chaos in a cacophony of color. This dramatic tension invites interactions, morphing static images into pulsating thoughts about our turbulent environment, urging us to confront the disruptive beauty scrawled within every stroke.",
+  "question": "What disruptions challenge your understanding of visual meaning?",
   "overlayLines": [
-    "Fleeting visions sway uneasily",
-    "Whispers of reality implode",
-    "Echoes matter more than form",
-    "Fractured time reveals truths"
+    "Ink erupts with fervor",
+    "Chaos meets tranquility",
+    "Bold strokes scream identity",
+    "Beauty in disarray"
   ],
   "backgroundElements": [
-    {
-      "type": "block",
-      "x": 3.24,
-      "y": 4,
-      "size": 28.4,
-      "blur": 8.12,
-      "opacity": 0.56,
-      "rotate": 27.88
-    },
     {
       "type": "orb",
       "x": 12.85,
@@ -79,16 +70,18 @@
       "blur": 11.36,
       "opacity": 0.39,
       "rotate": 25.42
+    },
+    {
+      "type": "bar",
+      "x": 33.06,
+      "y": 91.33,
+      "size": 36.66,
+      "blur": 13.3,
+      "opacity": 0.31,
+      "rotate": 0.1
     }
   ],
   "shapes": [
-    {
-      "x": 3.24,
-      "y": 4,
-      "size": 28.4,
-      "blur": 8.12,
-      "opacity": 0.56
-    },
     {
       "x": 12.85,
       "y": 48.6,
@@ -130,9 +123,16 @@
       "size": 38.03,
       "blur": 11.36,
       "opacity": 0.39
+    },
+    {
+      "x": 33.06,
+      "y": 91.33,
+      "size": 36.66,
+      "blur": 13.3,
+      "opacity": 0.31
     }
   ],
-  "imagePath": "assets/generated/2026-03-27T23-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-27T23-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-27T23-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-28T00-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-28T00-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-28T00-00-00Z.mp3"
 }
