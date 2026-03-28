@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-28T13:00:00Z",
-  "hourKey": "2026-03-28T13:00:00Z",
-  "mood": "hollow",
-  "artForm": "rave flyer typography",
+  "generatedAt": "2026-03-28T14:00:00Z",
+  "hourKey": "2026-03-28T14:00:00Z",
+  "mood": "ecstatic",
+  "artForm": "diagrammatic sacred blueprint",
   "palette": [
-    "#08140f",
-    "#10b981",
-    "#facc15"
+    "#1a1020",
+    "#ec4899",
+    "#a78bfa"
   ],
-  "thought": "Neon scribbles dance across a backdrop of fossilized emotions, a celebration of chaos wrapped in vibrant disarray. Inked whispers pulse with raw energy, tempting the spectator to unravel the layers that defy conventional beauty. Here, wild contrasts craft a raucous jubilee, questioning the emptiness that often hides beneath tantalizing chaos.",
-  "question": "How does chaos breathe life into your artistic visions?",
+  "thought": "Celestial designs unfold like metaphysical maps, intricately guiding souls through uncharted territories. Each wave of ink bursts forth, dancing vibrantly in ecstatic exploration, commanding attention as it melds the ethereal with the Earthbound. Here, a visual hymn emerges, celebrating the sacredness of creation in dazzling reverberations of color and form.",
+  "question": "How do you express the sacred within your artistic vision?",
   "overlayLines": [
-    "Celebration of chaos",
-    "Ink and neon collide",
-    "Layers defy convention",
-    "Whispers of wildness"
+    "Vibrancy meets contemplation",
+    "Sacred geometry speaks",
+    "Cosmic whispers emerge",
+    "Artistry as a journey"
   ],
   "backgroundElements": [
-    {
-      "type": "ring",
-      "x": 64.23,
-      "y": 88.27,
-      "size": 28.7,
-      "blur": 5.62,
-      "opacity": 0.32,
-      "rotate": 20.02
-    },
     {
       "type": "block",
       "x": 45.43,
@@ -79,16 +70,18 @@
       "blur": 1.88,
       "opacity": 0.29,
       "rotate": 19.95
+    },
+    {
+      "type": "orb",
+      "x": 57.93,
+      "y": 87.58,
+      "size": 13.34,
+      "blur": 7.13,
+      "opacity": 0.29,
+      "rotate": 39.38
     }
   ],
   "shapes": [
-    {
-      "x": 64.23,
-      "y": 88.27,
-      "size": 28.7,
-      "blur": 5.62,
-      "opacity": 0.32
-    },
     {
       "x": 45.43,
       "y": 22.2,
@@ -130,9 +123,16 @@
       "size": 28.59,
       "blur": 1.88,
       "opacity": 0.29
+    },
+    {
+      "x": 57.93,
+      "y": 87.58,
+      "size": 13.34,
+      "blur": 7.13,
+      "opacity": 0.29
     }
   ],
-  "imagePath": "assets/generated/2026-03-28T13-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-28T13-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-28T13-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-28T14-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-28T14-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-28T14-00-00Z.mp3"
 }
