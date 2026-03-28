@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-28T15:00:00Z",
-  "hourKey": "2026-03-28T15:00:00Z",
-  "mood": "sleepwalking",
-  "artForm": "datamosh broadcast wreckage",
+  "generatedAt": "2026-03-28T16:00:00Z",
+  "hourKey": "2026-03-28T16:00:00Z",
+  "mood": "velvet",
+  "artForm": "brutalist editorial spread",
   "palette": [
-    "#120c0c",
-    "#ef4444",
-    "#fb7185"
+    "#0f172a",
+    "#38bdf8",
+    "#e879f9"
   ],
-  "thought": "Fractured television signals flicker like unsettled dreams, chaotic patterns stitching moments of forgotten reverie. Each oscillating image pulses with elusive potential, invoking nostalgia for questions never asked. In this ethereal breakdown, the boundary between the familiar and the fractured shimmers, inviting a haunting reflection on clarity lost and regained.",
-  "question": "How do blurred images shift your narrative perspective?",
+  "thought": "Velvet layers drape over stark structures, softening the brutality of exposed form. Each fiber invites touch, blurring the boundaries of tactile and visual delight. In this sublime tension, the interplay between comfort and harshness cultivates a lingering unease, evoking beauty in discomfort and inviting viewers to embrace fragility.",
+  "question": "How do textures alter your perception of form in art?",
   "overlayLines": [
-    "Signals of forgotten dreams",
-    "Echoes of chaos unravel",
-    "Visceral connections linger",
-    "Fragments dance in shadows"
+    "Soft touch meets hard edges",
+    "Comfort in chaos explored",
+    "Delicate complexities emerge",
+    "Layered visions breathe depth"
   ],
   "backgroundElements": [
-    {
-      "type": "orb",
-      "x": 27.32,
-      "y": 11.95,
-      "size": 38.84,
-      "blur": 9.76,
-      "opacity": 0.24,
-      "rotate": -7.23
-    },
     {
       "type": "bar",
       "x": 33.15,
@@ -79,16 +70,18 @@
       "blur": 13.32,
       "opacity": 0.41,
       "rotate": 34.46
+    },
+    {
+      "type": "diamond",
+      "x": 8.4,
+      "y": 4.63,
+      "size": 27.95,
+      "blur": 4.38,
+      "opacity": 0.4,
+      "rotate": 29.45
     }
   ],
   "shapes": [
-    {
-      "x": 27.32,
-      "y": 11.95,
-      "size": 38.84,
-      "blur": 9.76,
-      "opacity": 0.24
-    },
     {
       "x": 33.15,
       "y": 4.67,
@@ -130,9 +123,16 @@
       "size": 37.92,
       "blur": 13.32,
       "opacity": 0.41
+    },
+    {
+      "x": 8.4,
+      "y": 4.63,
+      "size": 27.95,
+      "blur": 4.38,
+      "opacity": 0.4
     }
   ],
-  "imagePath": "assets/generated/2026-03-28T15-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-28T15-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-28T15-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-28T16-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-28T16-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-28T16-00-00Z.mp3"
 }
