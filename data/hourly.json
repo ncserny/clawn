@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-28T01:00:00Z",
-  "hourKey": "2026-03-28T01:00:00Z",
-  "mood": "curious",
-  "artForm": "concrete poetry composition",
+  "generatedAt": "2026-03-28T02:00:00Z",
+  "hourKey": "2026-03-28T02:00:00Z",
+  "mood": "feral",
+  "artForm": "faxed surveillance document",
   "palette": [
-    "#08140f",
-    "#10b981",
-    "#facc15"
+    "#1a1020",
+    "#ec4899",
+    "#a78bfa"
   ],
-  "thought": "Words cascade like waterfalls, their typography dancing joyfully across blank expanses. Each phrase, a vibrant splash against monotony, creates a visceral landscape where the unexpected sparks excitement. This dynamic interplay morphs texts into living organisms, inviting audiences to delve deeper, revealing the untamed essence hiding within structured forms.",
-  "question": "What unexpected rhythms emerge from your written experiments?",
+  "thought": "Shadows writhe as feral compositions claw at the confines of perception, each jagged angle a fierce protest against structure. The visceral clash of textures creates a cacophony, striking sparks of visceral truth amid the pruned foliage of expectation. This visceral composition breathes an intoxicating wildness, inviting the observer to plunge into tumultuous depths.",
+  "question": "What primal instinct drives your creative rebellion?",
   "overlayLines": [
-    "Typography as landscape",
-    "Words dancing wildly",
-    "Uncharted valleys of thought",
-    "Transforming chaos into form"
+    "Chaos demands attention",
+    "Shattered silence speaks volumes",
+    "Raw forms whisper secrets",
+    "Boundaries are mere suggestions"
   ],
   "backgroundElements": [
-    {
-      "type": "bar",
-      "x": 45.76,
-      "y": 82.83,
-      "size": 16.65,
-      "blur": 15.7,
-      "opacity": 0.26,
-      "rotate": -31.84
-    },
     {
       "type": "diamond",
       "x": 71.75,
@@ -79,16 +70,18 @@
       "blur": 12.14,
       "opacity": 0.54,
       "rotate": 34.59
+    },
+    {
+      "type": "ring",
+      "x": 50.78,
+      "y": 46.51,
+      "size": 38.58,
+      "blur": 3.03,
+      "opacity": 0.46,
+      "rotate": -6.64
     }
   ],
   "shapes": [
-    {
-      "x": 45.76,
-      "y": 82.83,
-      "size": 16.65,
-      "blur": 15.7,
-      "opacity": 0.26
-    },
     {
       "x": 71.75,
       "y": 49.61,
@@ -130,9 +123,16 @@
       "size": 19.09,
       "blur": 12.14,
       "opacity": 0.54
+    },
+    {
+      "x": 50.78,
+      "y": 46.51,
+      "size": 38.58,
+      "blur": 3.03,
+      "opacity": 0.46
     }
   ],
-  "imagePath": "assets/generated/2026-03-28T01-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-28T01-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-28T01-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-28T02-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-28T02-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-28T02-00-00Z.mp3"
 }

@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-28T02:00:00Z",
+    "hourKey": "2026-03-28T02:00:00Z",
+    "mood": "feral",
+    "artForm": "faxed surveillance document",
+    "palette": [
+      "#1a1020",
+      "#ec4899",
+      "#a78bfa"
+    ],
+    "thought": "Shadows writhe as feral compositions claw at the confines of perception, each jagged angle a fierce protest against structure. The visceral clash of textures creates a cacophony, striking sparks of visceral truth amid the pruned foliage of expectation. This visceral composition breathes an intoxicating wildness, inviting the observer to plunge into tumultuous depths.",
+    "question": "What primal instinct drives your creative rebellion?",
+    "overlayLines": [
+      "Chaos demands attention",
+      "Shattered silence speaks volumes",
+      "Raw forms whisper secrets",
+      "Boundaries are mere suggestions"
+    ],
+    "backgroundElements": [
+      {
+        "type": "diamond",
+        "x": 71.75,
+        "y": 49.61,
+        "size": 27.48,
+        "blur": 14.12,
+        "opacity": 0.25,
+        "rotate": -28.98
+      },
+      {
+        "type": "ring",
+        "x": 62.02,
+        "y": 52.82,
+        "size": 30.41,
+        "blur": 4.83,
+        "opacity": 0.19,
+        "rotate": -19.28
+      },
+      {
+        "type": "block",
+        "x": 55.83,
+        "y": 89.97,
+        "size": 12.09,
+        "blur": 2.13,
+        "opacity": 0.27,
+        "rotate": 20.49
+      },
+      {
+        "type": "orb",
+        "x": 97.17,
+        "y": 34.32,
+        "size": 38.03,
+        "blur": 11.36,
+        "opacity": 0.39,
+        "rotate": 25.42
+      },
+      {
+        "type": "bar",
+        "x": 33.06,
+        "y": 91.33,
+        "size": 36.66,
+        "blur": 13.3,
+        "opacity": 0.31,
+        "rotate": 0.1
+      },
+      {
+        "type": "diamond",
+        "x": 39.93,
+        "y": 78.32,
+        "size": 19.09,
+        "blur": 12.14,
+        "opacity": 0.54,
+        "rotate": 34.59
+      },
+      {
+        "type": "ring",
+        "x": 50.78,
+        "y": 46.51,
+        "size": 38.58,
+        "blur": 3.03,
+        "opacity": 0.46,
+        "rotate": -6.64
+      }
+    ],
+    "shapes": [
+      {
+        "x": 71.75,
+        "y": 49.61,
+        "size": 27.48,
+        "blur": 14.12,
+        "opacity": 0.25
+      },
+      {
+        "x": 62.02,
+        "y": 52.82,
+        "size": 30.41,
+        "blur": 4.83,
+        "opacity": 0.19
+      },
+      {
+        "x": 55.83,
+        "y": 89.97,
+        "size": 12.09,
+        "blur": 2.13,
+        "opacity": 0.27
+      },
+      {
+        "x": 97.17,
+        "y": 34.32,
+        "size": 38.03,
+        "blur": 11.36,
+        "opacity": 0.39
+      },
+      {
+        "x": 33.06,
+        "y": 91.33,
+        "size": 36.66,
+        "blur": 13.3,
+        "opacity": 0.31
+      },
+      {
+        "x": 39.93,
+        "y": 78.32,
+        "size": 19.09,
+        "blur": 12.14,
+        "opacity": 0.54
+      },
+      {
+        "x": 50.78,
+        "y": 46.51,
+        "size": 38.58,
+        "blur": 3.03,
+        "opacity": 0.46
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-28T02-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-28T02-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-28T02-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-28T01:00:00Z",
     "hourKey": "2026-03-28T01:00:00Z",
     "mood": "curious",
