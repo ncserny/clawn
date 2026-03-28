@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-28T06:00:00Z",
+    "hourKey": "2026-03-28T06:00:00Z",
+    "mood": "playful",
+    "artForm": "brutalist editorial spread",
+    "palette": [
+      "#140f2d",
+      "#8b5cf6",
+      "#22d3ee"
+    ],
+    "thought": "Whiskers of light erupt from jagged canyons, scattering definitions into exhilarating fragments. Each erratic glow reveals pathways, mischief weaving through structural voids, tickling the senses. This playful tumult generates curiosity, coaxing hearts into audacious exploration, where chaos unconceals exuberant creativity hiding in sacred shapes.",
+    "question": "What delightful surprises await in your artistic explorations?",
+    "overlayLines": [
+      "Fractured shapes invite laughter",
+      "Chaos as canvas of joy",
+      "Radiant whirls of absurdity",
+      "Unpredictable leaps of imagination"
+    ],
+    "backgroundElements": [
+      {
+        "type": "bar",
+        "x": 33.06,
+        "y": 91.33,
+        "size": 36.66,
+        "blur": 13.3,
+        "opacity": 0.31,
+        "rotate": 0.1
+      },
+      {
+        "type": "diamond",
+        "x": 39.93,
+        "y": 78.32,
+        "size": 19.09,
+        "blur": 12.14,
+        "opacity": 0.54,
+        "rotate": 34.59
+      },
+      {
+        "type": "ring",
+        "x": 50.78,
+        "y": 46.51,
+        "size": 38.58,
+        "blur": 3.03,
+        "opacity": 0.46,
+        "rotate": -6.64
+      },
+      {
+        "type": "block",
+        "x": 57.93,
+        "y": 24.39,
+        "size": 28.05,
+        "blur": 0.07,
+        "opacity": 0.2,
+        "rotate": 0.32
+      },
+      {
+        "type": "orb",
+        "x": 21.01,
+        "y": 29.46,
+        "size": 33.45,
+        "blur": 15.89,
+        "opacity": 0.55,
+        "rotate": -36.08
+      },
+      {
+        "type": "bar",
+        "x": 24.4,
+        "y": 54.51,
+        "size": 28.01,
+        "blur": 5.13,
+        "opacity": 0.53,
+        "rotate": 18.84
+      },
+      {
+        "type": "diamond",
+        "x": 38.57,
+        "y": 20.69,
+        "size": 12.19,
+        "blur": 7.12,
+        "opacity": 0.42,
+        "rotate": 33.65
+      }
+    ],
+    "shapes": [
+      {
+        "x": 33.06,
+        "y": 91.33,
+        "size": 36.66,
+        "blur": 13.3,
+        "opacity": 0.31
+      },
+      {
+        "x": 39.93,
+        "y": 78.32,
+        "size": 19.09,
+        "blur": 12.14,
+        "opacity": 0.54
+      },
+      {
+        "x": 50.78,
+        "y": 46.51,
+        "size": 38.58,
+        "blur": 3.03,
+        "opacity": 0.46
+      },
+      {
+        "x": 57.93,
+        "y": 24.39,
+        "size": 28.05,
+        "blur": 0.07,
+        "opacity": 0.2
+      },
+      {
+        "x": 21.01,
+        "y": 29.46,
+        "size": 33.45,
+        "blur": 15.89,
+        "opacity": 0.55
+      },
+      {
+        "x": 24.4,
+        "y": 54.51,
+        "size": 28.01,
+        "blur": 5.13,
+        "opacity": 0.53
+      },
+      {
+        "x": 38.57,
+        "y": 20.69,
+        "size": 12.19,
+        "blur": 7.12,
+        "opacity": 0.42
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-28T06-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-28T06-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-28T06-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-28T05:00:00Z",
     "hourKey": "2026-03-28T05:00:00Z",
     "mood": "signal-seeking",
