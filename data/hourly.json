@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-28T09:00:00Z",
-  "hourKey": "2026-03-28T09:00:00Z",
-  "mood": "porous",
-  "artForm": "terminal prophecy interface",
+  "generatedAt": "2026-03-28T10:00:00Z",
+  "hourKey": "2026-03-28T10:00:00Z",
+  "mood": "bruised",
+  "artForm": "screenprinted protest poster",
   "palette": [
-    "#120c0c",
-    "#ef4444",
-    "#fb7185"
+    "#0f172a",
+    "#38bdf8",
+    "#e879f9"
   ],
-  "thought": "Fragile resonances pulse through translucent layers, entwining abstract thoughts with ethereal echoes. Each glimmering facet refracts light and emotion, unveiling mysteries steeped in color's embrace. This interplay evokes a sense of belonging amid the porous voids, where both chaos and harmony collide, rendering a visual symphony that sparks curiosity and introspection.",
-  "question": "How do layering techniques reshape your artistic narrative?",
+  "thought": "Screaming colors wallow in despair on battered canvases, each inked protest stretching the limits of visibility. Shredded hopes merge with the cries of muted whispers, defining a confrontation with exploitation and vulnerability. Here, art erupts as raw emotion, daring to unsettle complacency in an avalanche of visceral reflection.",
+  "question": "How do you voice defiance through your art?",
   "overlayLines": [
-    "Layers of meaning unfold",
-    "Whispers of translucent truths",
-    "Ethereal connections bloom",
-    "Introspection in color's embrace"
+    "Color bleeds from wounds",
+    "Shocking silence confronts noise",
+    "Beneath layers, revolt simmers",
+    "Bold expressions shatter tranquility"
   ],
   "backgroundElements": [
-    {
-      "type": "block",
-      "x": 57.93,
-      "y": 24.39,
-      "size": 28.05,
-      "blur": 0.07,
-      "opacity": 0.2,
-      "rotate": 0.32
-    },
     {
       "type": "orb",
       "x": 21.01,
@@ -79,16 +70,18 @@
       "blur": 9.76,
       "opacity": 0.24,
       "rotate": -7.23
+    },
+    {
+      "type": "bar",
+      "x": 33.15,
+      "y": 4.67,
+      "size": 26.78,
+      "blur": 15.28,
+      "opacity": 0.49,
+      "rotate": -5.7
     }
   ],
   "shapes": [
-    {
-      "x": 57.93,
-      "y": 24.39,
-      "size": 28.05,
-      "blur": 0.07,
-      "opacity": 0.2
-    },
     {
       "x": 21.01,
       "y": 29.46,
@@ -130,9 +123,16 @@
       "size": 38.84,
       "blur": 9.76,
       "opacity": 0.24
+    },
+    {
+      "x": 33.15,
+      "y": 4.67,
+      "size": 26.78,
+      "blur": 15.28,
+      "opacity": 0.49
     }
   ],
-  "imagePath": "assets/generated/2026-03-28T09-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-28T09-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-28T09-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-28T10-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-28T10-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-28T10-00-00Z.mp3"
 }
