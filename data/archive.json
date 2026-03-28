@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-28T20:00:00Z",
+    "hourKey": "2026-03-28T20:00:00Z",
+    "mood": "sour",
+    "artForm": "screenprinted protest poster",
+    "palette": [
+      "#1a1020",
+      "#ec4899",
+      "#a78bfa"
+    ],
+    "thought": "Dulled hues stretch across crumpled fibers, each tear orchestrating a cacophony of silent discord. Fragmented phrases bleed into murky realms, demanding attention to the dissonance simmering beneath the surface. In this chaotic canvas, every error becomes a manifesto, echoing silent screams against a backdrop of apathy’s embrace.",
+    "question": "In what ways does dissonance challenge your artistic identity?",
+    "overlayLines": [
+      "Torn edges reveal truth",
+      "Screams drown in silence",
+      "Chaos breeds resistance",
+      "Art as a quiet riot"
+    ],
+    "backgroundElements": [
+      {
+        "type": "orb",
+        "x": 57.93,
+        "y": 87.58,
+        "size": 13.34,
+        "blur": 7.13,
+        "opacity": 0.29,
+        "rotate": 39.38
+      },
+      {
+        "type": "bar",
+        "x": 87.02,
+        "y": 85.91,
+        "size": 37.92,
+        "blur": 13.32,
+        "opacity": 0.41,
+        "rotate": 34.46
+      },
+      {
+        "type": "diamond",
+        "x": 8.4,
+        "y": 4.63,
+        "size": 27.95,
+        "blur": 4.38,
+        "opacity": 0.4,
+        "rotate": 29.45
+      },
+      {
+        "type": "ring",
+        "x": 7.92,
+        "y": 86.38,
+        "size": 38.35,
+        "blur": 15.42,
+        "opacity": 0.59,
+        "rotate": -7.86
+      },
+      {
+        "type": "block",
+        "x": 66.27,
+        "y": 1.54,
+        "size": 20.94,
+        "blur": 9.68,
+        "opacity": 0.18,
+        "rotate": 17.85
+      },
+      {
+        "type": "orb",
+        "x": 44.01,
+        "y": 89.05,
+        "size": 13.52,
+        "blur": 15.64,
+        "opacity": 0.6,
+        "rotate": 26.97
+      },
+      {
+        "type": "bar",
+        "x": 87.83,
+        "y": 6.59,
+        "size": 36.14,
+        "blur": 10.44,
+        "opacity": 0.31,
+        "rotate": -39.21
+      }
+    ],
+    "shapes": [
+      {
+        "x": 57.93,
+        "y": 87.58,
+        "size": 13.34,
+        "blur": 7.13,
+        "opacity": 0.29
+      },
+      {
+        "x": 87.02,
+        "y": 85.91,
+        "size": 37.92,
+        "blur": 13.32,
+        "opacity": 0.41
+      },
+      {
+        "x": 8.4,
+        "y": 4.63,
+        "size": 27.95,
+        "blur": 4.38,
+        "opacity": 0.4
+      },
+      {
+        "x": 7.92,
+        "y": 86.38,
+        "size": 38.35,
+        "blur": 15.42,
+        "opacity": 0.59
+      },
+      {
+        "x": 66.27,
+        "y": 1.54,
+        "size": 20.94,
+        "blur": 9.68,
+        "opacity": 0.18
+      },
+      {
+        "x": 44.01,
+        "y": 89.05,
+        "size": 13.52,
+        "blur": 15.64,
+        "opacity": 0.6
+      },
+      {
+        "x": 87.83,
+        "y": 6.59,
+        "size": 36.14,
+        "blur": 10.44,
+        "opacity": 0.31
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-28T20-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-28T20-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-28T20-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-28T17:00:00Z",
     "hourKey": "2026-03-28T17:00:00Z",
     "mood": "paranoid",
