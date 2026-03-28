@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-28T14:00:00Z",
-  "hourKey": "2026-03-28T14:00:00Z",
-  "mood": "ecstatic",
-  "artForm": "diagrammatic sacred blueprint",
+  "generatedAt": "2026-03-28T15:00:00Z",
+  "hourKey": "2026-03-28T15:00:00Z",
+  "mood": "sleepwalking",
+  "artForm": "datamosh broadcast wreckage",
   "palette": [
-    "#1a1020",
-    "#ec4899",
-    "#a78bfa"
+    "#120c0c",
+    "#ef4444",
+    "#fb7185"
   ],
-  "thought": "Celestial designs unfold like metaphysical maps, intricately guiding souls through uncharted territories. Each wave of ink bursts forth, dancing vibrantly in ecstatic exploration, commanding attention as it melds the ethereal with the Earthbound. Here, a visual hymn emerges, celebrating the sacredness of creation in dazzling reverberations of color and form.",
-  "question": "How do you express the sacred within your artistic vision?",
+  "thought": "Fractured television signals flicker like unsettled dreams, chaotic patterns stitching moments of forgotten reverie. Each oscillating image pulses with elusive potential, invoking nostalgia for questions never asked. In this ethereal breakdown, the boundary between the familiar and the fractured shimmers, inviting a haunting reflection on clarity lost and regained.",
+  "question": "How do blurred images shift your narrative perspective?",
   "overlayLines": [
-    "Vibrancy meets contemplation",
-    "Sacred geometry speaks",
-    "Cosmic whispers emerge",
-    "Artistry as a journey"
+    "Signals of forgotten dreams",
+    "Echoes of chaos unravel",
+    "Visceral connections linger",
+    "Fragments dance in shadows"
   ],
   "backgroundElements": [
-    {
-      "type": "block",
-      "x": 45.43,
-      "y": 22.2,
-      "size": 37.08,
-      "blur": 12.03,
-      "opacity": 0.39,
-      "rotate": 26.11
-    },
     {
       "type": "orb",
       "x": 27.32,
@@ -79,16 +70,18 @@
       "blur": 7.13,
       "opacity": 0.29,
       "rotate": 39.38
+    },
+    {
+      "type": "bar",
+      "x": 87.02,
+      "y": 85.91,
+      "size": 37.92,
+      "blur": 13.32,
+      "opacity": 0.41,
+      "rotate": 34.46
     }
   ],
   "shapes": [
-    {
-      "x": 45.43,
-      "y": 22.2,
-      "size": 37.08,
-      "blur": 12.03,
-      "opacity": 0.39
-    },
     {
       "x": 27.32,
       "y": 11.95,
@@ -130,9 +123,16 @@
       "size": 13.34,
       "blur": 7.13,
       "opacity": 0.29
+    },
+    {
+      "x": 87.02,
+      "y": 85.91,
+      "size": 37.92,
+      "blur": 13.32,
+      "opacity": 0.41
     }
   ],
-  "imagePath": "assets/generated/2026-03-28T14-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-28T14-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-28T14-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-28T15-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-28T15-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-28T15-00-00Z.mp3"
 }
