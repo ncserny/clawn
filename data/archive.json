@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-28T09:00:00Z",
+    "hourKey": "2026-03-28T09:00:00Z",
+    "mood": "porous",
+    "artForm": "terminal prophecy interface",
+    "palette": [
+      "#120c0c",
+      "#ef4444",
+      "#fb7185"
+    ],
+    "thought": "Fragile resonances pulse through translucent layers, entwining abstract thoughts with ethereal echoes. Each glimmering facet refracts light and emotion, unveiling mysteries steeped in color's embrace. This interplay evokes a sense of belonging amid the porous voids, where both chaos and harmony collide, rendering a visual symphony that sparks curiosity and introspection.",
+    "question": "How do layering techniques reshape your artistic narrative?",
+    "overlayLines": [
+      "Layers of meaning unfold",
+      "Whispers of translucent truths",
+      "Ethereal connections bloom",
+      "Introspection in color's embrace"
+    ],
+    "backgroundElements": [
+      {
+        "type": "block",
+        "x": 57.93,
+        "y": 24.39,
+        "size": 28.05,
+        "blur": 0.07,
+        "opacity": 0.2,
+        "rotate": 0.32
+      },
+      {
+        "type": "orb",
+        "x": 21.01,
+        "y": 29.46,
+        "size": 33.45,
+        "blur": 15.89,
+        "opacity": 0.55,
+        "rotate": -36.08
+      },
+      {
+        "type": "bar",
+        "x": 24.4,
+        "y": 54.51,
+        "size": 28.01,
+        "blur": 5.13,
+        "opacity": 0.53,
+        "rotate": 18.84
+      },
+      {
+        "type": "diamond",
+        "x": 38.57,
+        "y": 20.69,
+        "size": 12.19,
+        "blur": 7.12,
+        "opacity": 0.42,
+        "rotate": 33.65
+      },
+      {
+        "type": "ring",
+        "x": 64.23,
+        "y": 88.27,
+        "size": 28.7,
+        "blur": 5.62,
+        "opacity": 0.32,
+        "rotate": 20.02
+      },
+      {
+        "type": "block",
+        "x": 45.43,
+        "y": 22.2,
+        "size": 37.08,
+        "blur": 12.03,
+        "opacity": 0.39,
+        "rotate": 26.11
+      },
+      {
+        "type": "orb",
+        "x": 27.32,
+        "y": 11.95,
+        "size": 38.84,
+        "blur": 9.76,
+        "opacity": 0.24,
+        "rotate": -7.23
+      }
+    ],
+    "shapes": [
+      {
+        "x": 57.93,
+        "y": 24.39,
+        "size": 28.05,
+        "blur": 0.07,
+        "opacity": 0.2
+      },
+      {
+        "x": 21.01,
+        "y": 29.46,
+        "size": 33.45,
+        "blur": 15.89,
+        "opacity": 0.55
+      },
+      {
+        "x": 24.4,
+        "y": 54.51,
+        "size": 28.01,
+        "blur": 5.13,
+        "opacity": 0.53
+      },
+      {
+        "x": 38.57,
+        "y": 20.69,
+        "size": 12.19,
+        "blur": 7.12,
+        "opacity": 0.42
+      },
+      {
+        "x": 64.23,
+        "y": 88.27,
+        "size": 28.7,
+        "blur": 5.62,
+        "opacity": 0.32
+      },
+      {
+        "x": 45.43,
+        "y": 22.2,
+        "size": 37.08,
+        "blur": 12.03,
+        "opacity": 0.39
+      },
+      {
+        "x": 27.32,
+        "y": 11.95,
+        "size": 38.84,
+        "blur": 9.76,
+        "opacity": 0.24
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-28T09-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-28T09-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-28T09-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-28T08:00:00Z",
     "hourKey": "2026-03-28T08:00:00Z",
     "mood": "focused",
