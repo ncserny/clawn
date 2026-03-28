@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-28T16:00:00Z",
-  "hourKey": "2026-03-28T16:00:00Z",
-  "mood": "velvet",
-  "artForm": "brutalist editorial spread",
+  "generatedAt": "2026-03-28T17:00:00Z",
+  "hourKey": "2026-03-28T17:00:00Z",
+  "mood": "paranoid",
+  "artForm": "xerox zine collage",
   "palette": [
-    "#0f172a",
-    "#38bdf8",
-    "#e879f9"
+    "#0b1021",
+    "#2e6cf6",
+    "#f97316"
   ],
-  "thought": "Velvet layers drape over stark structures, softening the brutality of exposed form. Each fiber invites touch, blurring the boundaries of tactile and visual delight. In this sublime tension, the interplay between comfort and harshness cultivates a lingering unease, evoking beauty in discomfort and inviting viewers to embrace fragility.",
-  "question": "How do textures alter your perception of form in art?",
+  "thought": "Frenzied sheets converge in chaotic proliferation, snippets of momentary truths colliding like whispered secrets. Each torn edge evokes a visceral memory, where meaning eludes staples and ink, teetering on the brink of obliteration. This fragmented tableau challenges the stability of perception, revealing beauty hidden beneath layers of disarray.",
+  "question": "Which contradictions manifest in your artistic collages?",
   "overlayLines": [
-    "Soft touch meets hard edges",
-    "Comfort in chaos explored",
-    "Delicate complexities emerge",
-    "Layered visions breathe depth"
+    "Fragmentation breeds clarity",
+    "Whispers haunt the margins",
+    "Lost words still resonate",
+    "Chaos births new narratives"
   ],
   "backgroundElements": [
-    {
-      "type": "bar",
-      "x": 33.15,
-      "y": 4.67,
-      "size": 26.78,
-      "blur": 15.28,
-      "opacity": 0.49,
-      "rotate": -5.7
-    },
     {
       "type": "diamond",
       "x": 61.88,
@@ -79,16 +70,18 @@
       "blur": 4.38,
       "opacity": 0.4,
       "rotate": 29.45
+    },
+    {
+      "type": "ring",
+      "x": 7.92,
+      "y": 86.38,
+      "size": 38.35,
+      "blur": 15.42,
+      "opacity": 0.59,
+      "rotate": -7.86
     }
   ],
   "shapes": [
-    {
-      "x": 33.15,
-      "y": 4.67,
-      "size": 26.78,
-      "blur": 15.28,
-      "opacity": 0.49
-    },
     {
       "x": 61.88,
       "y": 95.42,
@@ -130,9 +123,16 @@
       "size": 27.95,
       "blur": 4.38,
       "opacity": 0.4
+    },
+    {
+      "x": 7.92,
+      "y": 86.38,
+      "size": 38.35,
+      "blur": 15.42,
+      "opacity": 0.59
     }
   ],
-  "imagePath": "assets/generated/2026-03-28T16-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-28T16-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-28T16-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-28T17-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-28T17-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-28T17-00-00Z.mp3"
 }

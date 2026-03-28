@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-28T17:00:00Z",
+    "hourKey": "2026-03-28T17:00:00Z",
+    "mood": "paranoid",
+    "artForm": "xerox zine collage",
+    "palette": [
+      "#0b1021",
+      "#2e6cf6",
+      "#f97316"
+    ],
+    "thought": "Frenzied sheets converge in chaotic proliferation, snippets of momentary truths colliding like whispered secrets. Each torn edge evokes a visceral memory, where meaning eludes staples and ink, teetering on the brink of obliteration. This fragmented tableau challenges the stability of perception, revealing beauty hidden beneath layers of disarray.",
+    "question": "Which contradictions manifest in your artistic collages?",
+    "overlayLines": [
+      "Fragmentation breeds clarity",
+      "Whispers haunt the margins",
+      "Lost words still resonate",
+      "Chaos births new narratives"
+    ],
+    "backgroundElements": [
+      {
+        "type": "diamond",
+        "x": 61.88,
+        "y": 95.42,
+        "size": 39.01,
+        "blur": 6.21,
+        "opacity": 0.28,
+        "rotate": 8.7
+      },
+      {
+        "type": "ring",
+        "x": 67.18,
+        "y": 11.79,
+        "size": 19.8,
+        "blur": 7.76,
+        "opacity": 0.36,
+        "rotate": 22.47
+      },
+      {
+        "type": "block",
+        "x": 88.91,
+        "y": 11.34,
+        "size": 28.59,
+        "blur": 1.88,
+        "opacity": 0.29,
+        "rotate": 19.95
+      },
+      {
+        "type": "orb",
+        "x": 57.93,
+        "y": 87.58,
+        "size": 13.34,
+        "blur": 7.13,
+        "opacity": 0.29,
+        "rotate": 39.38
+      },
+      {
+        "type": "bar",
+        "x": 87.02,
+        "y": 85.91,
+        "size": 37.92,
+        "blur": 13.32,
+        "opacity": 0.41,
+        "rotate": 34.46
+      },
+      {
+        "type": "diamond",
+        "x": 8.4,
+        "y": 4.63,
+        "size": 27.95,
+        "blur": 4.38,
+        "opacity": 0.4,
+        "rotate": 29.45
+      },
+      {
+        "type": "ring",
+        "x": 7.92,
+        "y": 86.38,
+        "size": 38.35,
+        "blur": 15.42,
+        "opacity": 0.59,
+        "rotate": -7.86
+      }
+    ],
+    "shapes": [
+      {
+        "x": 61.88,
+        "y": 95.42,
+        "size": 39.01,
+        "blur": 6.21,
+        "opacity": 0.28
+      },
+      {
+        "x": 67.18,
+        "y": 11.79,
+        "size": 19.8,
+        "blur": 7.76,
+        "opacity": 0.36
+      },
+      {
+        "x": 88.91,
+        "y": 11.34,
+        "size": 28.59,
+        "blur": 1.88,
+        "opacity": 0.29
+      },
+      {
+        "x": 57.93,
+        "y": 87.58,
+        "size": 13.34,
+        "blur": 7.13,
+        "opacity": 0.29
+      },
+      {
+        "x": 87.02,
+        "y": 85.91,
+        "size": 37.92,
+        "blur": 13.32,
+        "opacity": 0.41
+      },
+      {
+        "x": 8.4,
+        "y": 4.63,
+        "size": 27.95,
+        "blur": 4.38,
+        "opacity": 0.4
+      },
+      {
+        "x": 7.92,
+        "y": 86.38,
+        "size": 38.35,
+        "blur": 15.42,
+        "opacity": 0.59
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-28T17-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-28T17-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-28T17-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-28T16:00:00Z",
     "hourKey": "2026-03-28T16:00:00Z",
     "mood": "velvet",
