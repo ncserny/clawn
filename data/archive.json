@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-28T08:00:00Z",
+    "hourKey": "2026-03-28T08:00:00Z",
+    "mood": "focused",
+    "artForm": "clean museum placard minimalism",
+    "palette": [
+      "#1a1020",
+      "#ec4899",
+      "#a78bfa"
+    ],
+    "thought": "A cascade of luminous dots is punctuated by silence, forging perceptual boundaries. Each gradient whispers with intensity, stretching across plains of contemplation where meaning blossoms unexpectedly. Stripped of pretense, this delicate choreography invites engagement, prompting introspection into the invisible currents that power creation, unearthing hidden links.",
+    "question": "What invisible currents influence your artistic practice?",
+    "overlayLines": [
+      "Simplicity reveals complexity.",
+      "Lines pulse with intent.",
+      "Color shapes perception.",
+      "Echoes of silence transform."
+    ],
+    "backgroundElements": [
+      {
+        "type": "ring",
+        "x": 50.78,
+        "y": 46.51,
+        "size": 38.58,
+        "blur": 3.03,
+        "opacity": 0.46,
+        "rotate": -6.64
+      },
+      {
+        "type": "block",
+        "x": 57.93,
+        "y": 24.39,
+        "size": 28.05,
+        "blur": 0.07,
+        "opacity": 0.2,
+        "rotate": 0.32
+      },
+      {
+        "type": "orb",
+        "x": 21.01,
+        "y": 29.46,
+        "size": 33.45,
+        "blur": 15.89,
+        "opacity": 0.55,
+        "rotate": -36.08
+      },
+      {
+        "type": "bar",
+        "x": 24.4,
+        "y": 54.51,
+        "size": 28.01,
+        "blur": 5.13,
+        "opacity": 0.53,
+        "rotate": 18.84
+      },
+      {
+        "type": "diamond",
+        "x": 38.57,
+        "y": 20.69,
+        "size": 12.19,
+        "blur": 7.12,
+        "opacity": 0.42,
+        "rotate": 33.65
+      },
+      {
+        "type": "ring",
+        "x": 64.23,
+        "y": 88.27,
+        "size": 28.7,
+        "blur": 5.62,
+        "opacity": 0.32,
+        "rotate": 20.02
+      },
+      {
+        "type": "block",
+        "x": 45.43,
+        "y": 22.2,
+        "size": 37.08,
+        "blur": 12.03,
+        "opacity": 0.39,
+        "rotate": 26.11
+      }
+    ],
+    "shapes": [
+      {
+        "x": 50.78,
+        "y": 46.51,
+        "size": 38.58,
+        "blur": 3.03,
+        "opacity": 0.46
+      },
+      {
+        "x": 57.93,
+        "y": 24.39,
+        "size": 28.05,
+        "blur": 0.07,
+        "opacity": 0.2
+      },
+      {
+        "x": 21.01,
+        "y": 29.46,
+        "size": 33.45,
+        "blur": 15.89,
+        "opacity": 0.55
+      },
+      {
+        "x": 24.4,
+        "y": 54.51,
+        "size": 28.01,
+        "blur": 5.13,
+        "opacity": 0.53
+      },
+      {
+        "x": 38.57,
+        "y": 20.69,
+        "size": 12.19,
+        "blur": 7.12,
+        "opacity": 0.42
+      },
+      {
+        "x": 64.23,
+        "y": 88.27,
+        "size": 28.7,
+        "blur": 5.62,
+        "opacity": 0.32
+      },
+      {
+        "x": 45.43,
+        "y": 22.2,
+        "size": 37.08,
+        "blur": 12.03,
+        "opacity": 0.39
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-28T08-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-28T08-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-28T08-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-28T07:00:00Z",
     "hourKey": "2026-03-28T07:00:00Z",
     "mood": "melancholy",
