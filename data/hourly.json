@@ -1,49 +1,22 @@
 {
-  "generatedAt": "2026-03-28T17:00:00Z",
-  "hourKey": "2026-03-28T17:00:00Z",
-  "mood": "paranoid",
-  "artForm": "xerox zine collage",
+  "generatedAt": "2026-03-28T20:00:00Z",
+  "hourKey": "2026-03-28T20:00:00Z",
+  "mood": "sour",
+  "artForm": "screenprinted protest poster",
   "palette": [
-    "#0b1021",
-    "#2e6cf6",
-    "#f97316"
+    "#1a1020",
+    "#ec4899",
+    "#a78bfa"
   ],
-  "thought": "Frenzied sheets converge in chaotic proliferation, snippets of momentary truths colliding like whispered secrets. Each torn edge evokes a visceral memory, where meaning eludes staples and ink, teetering on the brink of obliteration. This fragmented tableau challenges the stability of perception, revealing beauty hidden beneath layers of disarray.",
-  "question": "Which contradictions manifest in your artistic collages?",
+  "thought": "Dulled hues stretch across crumpled fibers, each tear orchestrating a cacophony of silent discord. Fragmented phrases bleed into murky realms, demanding attention to the dissonance simmering beneath the surface. In this chaotic canvas, every error becomes a manifesto, echoing silent screams against a backdrop of apathy’s embrace.",
+  "question": "In what ways does dissonance challenge your artistic identity?",
   "overlayLines": [
-    "Fragmentation breeds clarity",
-    "Whispers haunt the margins",
-    "Lost words still resonate",
-    "Chaos births new narratives"
+    "Torn edges reveal truth",
+    "Screams drown in silence",
+    "Chaos breeds resistance",
+    "Art as a quiet riot"
   ],
   "backgroundElements": [
-    {
-      "type": "diamond",
-      "x": 61.88,
-      "y": 95.42,
-      "size": 39.01,
-      "blur": 6.21,
-      "opacity": 0.28,
-      "rotate": 8.7
-    },
-    {
-      "type": "ring",
-      "x": 67.18,
-      "y": 11.79,
-      "size": 19.8,
-      "blur": 7.76,
-      "opacity": 0.36,
-      "rotate": 22.47
-    },
-    {
-      "type": "block",
-      "x": 88.91,
-      "y": 11.34,
-      "size": 28.59,
-      "blur": 1.88,
-      "opacity": 0.29,
-      "rotate": 19.95
-    },
     {
       "type": "orb",
       "x": 57.93,
@@ -79,30 +52,36 @@
       "blur": 15.42,
       "opacity": 0.59,
       "rotate": -7.86
+    },
+    {
+      "type": "block",
+      "x": 66.27,
+      "y": 1.54,
+      "size": 20.94,
+      "blur": 9.68,
+      "opacity": 0.18,
+      "rotate": 17.85
+    },
+    {
+      "type": "orb",
+      "x": 44.01,
+      "y": 89.05,
+      "size": 13.52,
+      "blur": 15.64,
+      "opacity": 0.6,
+      "rotate": 26.97
+    },
+    {
+      "type": "bar",
+      "x": 87.83,
+      "y": 6.59,
+      "size": 36.14,
+      "blur": 10.44,
+      "opacity": 0.31,
+      "rotate": -39.21
     }
   ],
   "shapes": [
-    {
-      "x": 61.88,
-      "y": 95.42,
-      "size": 39.01,
-      "blur": 6.21,
-      "opacity": 0.28
-    },
-    {
-      "x": 67.18,
-      "y": 11.79,
-      "size": 19.8,
-      "blur": 7.76,
-      "opacity": 0.36
-    },
-    {
-      "x": 88.91,
-      "y": 11.34,
-      "size": 28.59,
-      "blur": 1.88,
-      "opacity": 0.29
-    },
     {
       "x": 57.93,
       "y": 87.58,
@@ -130,9 +109,30 @@
       "size": 38.35,
       "blur": 15.42,
       "opacity": 0.59
+    },
+    {
+      "x": 66.27,
+      "y": 1.54,
+      "size": 20.94,
+      "blur": 9.68,
+      "opacity": 0.18
+    },
+    {
+      "x": 44.01,
+      "y": 89.05,
+      "size": 13.52,
+      "blur": 15.64,
+      "opacity": 0.6
+    },
+    {
+      "x": 87.83,
+      "y": 6.59,
+      "size": 36.14,
+      "blur": 10.44,
+      "opacity": 0.31
     }
   ],
-  "imagePath": "assets/generated/2026-03-28T17-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-28T17-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-28T17-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-28T20-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-28T20-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-28T20-00-00Z.mp3"
 }
