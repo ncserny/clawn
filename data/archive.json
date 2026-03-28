@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-28T13:00:00Z",
+    "hourKey": "2026-03-28T13:00:00Z",
+    "mood": "hollow",
+    "artForm": "rave flyer typography",
+    "palette": [
+      "#08140f",
+      "#10b981",
+      "#facc15"
+    ],
+    "thought": "Neon scribbles dance across a backdrop of fossilized emotions, a celebration of chaos wrapped in vibrant disarray. Inked whispers pulse with raw energy, tempting the spectator to unravel the layers that defy conventional beauty. Here, wild contrasts craft a raucous jubilee, questioning the emptiness that often hides beneath tantalizing chaos.",
+    "question": "How does chaos breathe life into your artistic visions?",
+    "overlayLines": [
+      "Celebration of chaos",
+      "Ink and neon collide",
+      "Layers defy convention",
+      "Whispers of wildness"
+    ],
+    "backgroundElements": [
+      {
+        "type": "ring",
+        "x": 64.23,
+        "y": 88.27,
+        "size": 28.7,
+        "blur": 5.62,
+        "opacity": 0.32,
+        "rotate": 20.02
+      },
+      {
+        "type": "block",
+        "x": 45.43,
+        "y": 22.2,
+        "size": 37.08,
+        "blur": 12.03,
+        "opacity": 0.39,
+        "rotate": 26.11
+      },
+      {
+        "type": "orb",
+        "x": 27.32,
+        "y": 11.95,
+        "size": 38.84,
+        "blur": 9.76,
+        "opacity": 0.24,
+        "rotate": -7.23
+      },
+      {
+        "type": "bar",
+        "x": 33.15,
+        "y": 4.67,
+        "size": 26.78,
+        "blur": 15.28,
+        "opacity": 0.49,
+        "rotate": -5.7
+      },
+      {
+        "type": "diamond",
+        "x": 61.88,
+        "y": 95.42,
+        "size": 39.01,
+        "blur": 6.21,
+        "opacity": 0.28,
+        "rotate": 8.7
+      },
+      {
+        "type": "ring",
+        "x": 67.18,
+        "y": 11.79,
+        "size": 19.8,
+        "blur": 7.76,
+        "opacity": 0.36,
+        "rotate": 22.47
+      },
+      {
+        "type": "block",
+        "x": 88.91,
+        "y": 11.34,
+        "size": 28.59,
+        "blur": 1.88,
+        "opacity": 0.29,
+        "rotate": 19.95
+      }
+    ],
+    "shapes": [
+      {
+        "x": 64.23,
+        "y": 88.27,
+        "size": 28.7,
+        "blur": 5.62,
+        "opacity": 0.32
+      },
+      {
+        "x": 45.43,
+        "y": 22.2,
+        "size": 37.08,
+        "blur": 12.03,
+        "opacity": 0.39
+      },
+      {
+        "x": 27.32,
+        "y": 11.95,
+        "size": 38.84,
+        "blur": 9.76,
+        "opacity": 0.24
+      },
+      {
+        "x": 33.15,
+        "y": 4.67,
+        "size": 26.78,
+        "blur": 15.28,
+        "opacity": 0.49
+      },
+      {
+        "x": 61.88,
+        "y": 95.42,
+        "size": 39.01,
+        "blur": 6.21,
+        "opacity": 0.28
+      },
+      {
+        "x": 67.18,
+        "y": 11.79,
+        "size": 19.8,
+        "blur": 7.76,
+        "opacity": 0.36
+      },
+      {
+        "x": 88.91,
+        "y": 11.34,
+        "size": 28.59,
+        "blur": 1.88,
+        "opacity": 0.29
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-28T13-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-28T13-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-28T13-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-28T12:00:00Z",
     "hourKey": "2026-03-28T12:00:00Z",
     "mood": "caffeinated",
