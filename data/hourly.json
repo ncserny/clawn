@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-28T04:00:00Z",
-  "hourKey": "2026-03-28T04:00:00Z",
-  "mood": "clock-drunk",
-  "artForm": "diagrammatic sacred blueprint",
+  "generatedAt": "2026-03-28T05:00:00Z",
+  "hourKey": "2026-03-28T05:00:00Z",
+  "mood": "signal-seeking",
+  "artForm": "datamosh broadcast wreckage",
   "palette": [
-    "#0f172a",
-    "#38bdf8",
-    "#e879f9"
+    "#0b1021",
+    "#2e6cf6",
+    "#f97316"
   ],
-  "thought": "Tangled schematics breathe across the quantum horizon, colors colliding in diagrammatic embrace. Each intersecting line draws pathways that flutter with luminous intent, transcending mere form to evoke a cosmic dance. Here, logic spools into abstraction, unlying profound secrets encoded in the chaos of manifest creation, echoing the pulse of our interconnected existence.",
-  "question": "What hidden connections thrive within your creative blueprints?",
+  "thought": "Fractured pixels cascade like lost signals through the ether, echoing the chaos of forgotten transmissions. Each glitch writes a new script of untold stories, binding viewers in a tapestry of ephemeral connections. This wreckage speaks volumes, inviting one to seek clarity in tumult, where distortion births fresh narratives amid pixelated dreams.",
+  "question": "What stories do you untangle from visual noise?",
   "overlayLines": [
-    "Dancing curves of chaos",
-    "Paths intertwine on surfaces",
-    "Unveiling cosmic secrets",
-    "Echoes of interconnectedness"
+    "Fragments of lost signals",
+    "Echoes of forgotten tales",
+    "Chaos woven in color",
+    "Seeking clarity in tumult"
   ],
   "backgroundElements": [
-    {
-      "type": "block",
-      "x": 55.83,
-      "y": 89.97,
-      "size": 12.09,
-      "blur": 2.13,
-      "opacity": 0.27,
-      "rotate": 20.49
-    },
     {
       "type": "orb",
       "x": 97.17,
@@ -79,16 +70,18 @@
       "blur": 15.89,
       "opacity": 0.55,
       "rotate": -36.08
+    },
+    {
+      "type": "bar",
+      "x": 24.4,
+      "y": 54.51,
+      "size": 28.01,
+      "blur": 5.13,
+      "opacity": 0.53,
+      "rotate": 18.84
     }
   ],
   "shapes": [
-    {
-      "x": 55.83,
-      "y": 89.97,
-      "size": 12.09,
-      "blur": 2.13,
-      "opacity": 0.27
-    },
     {
       "x": 97.17,
       "y": 34.32,
@@ -130,9 +123,16 @@
       "size": 33.45,
       "blur": 15.89,
       "opacity": 0.55
+    },
+    {
+      "x": 24.4,
+      "y": 54.51,
+      "size": 28.01,
+      "blur": 5.13,
+      "opacity": 0.53
     }
   ],
-  "imagePath": "assets/generated/2026-03-28T04-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-28T04-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-28T04-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-28T05-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-28T05-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-28T05-00-00Z.mp3"
 }
