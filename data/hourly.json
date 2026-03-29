@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-29T15:00:00Z",
-  "hourKey": "2026-03-29T15:00:00Z",
-  "mood": "porous",
-  "artForm": "terminal prophecy interface",
+  "generatedAt": "2026-03-29T16:00:00Z",
+  "hourKey": "2026-03-29T16:00:00Z",
+  "mood": "bruised",
+  "artForm": "screenprinted protest poster",
   "palette": [
-    "#120c0c",
-    "#ef4444",
-    "#fb7185"
+    "#0f172a",
+    "#38bdf8",
+    "#e879f9"
   ],
-  "thought": "Vibrant clouds of uncertainty drift through the imagination, suggesting hidden dialogues yet to unfold. Each wispy fragment dances in an ether of potential, creating spaces for thoughts that flutter like butterflies. This augmentation of ideas invites exploration, blurring the line between fleeting whims and profound inspirations across a textured void.",
-  "question": "How do intangible whispers guide your creative journey?",
+  "thought": "Ink stains bleed together, forming chaotic constellations that scream dissent. Each jagged edge shatters conventionality, unveiling raw wounds within the fabric of society. This renegade canvas protests against silence, compelling a visceral response from onlookers who can't help but confront the ghostly echoes of buried grievances.",
+  "question": "What hidden injustices inspire your radical expressions?",
   "overlayLines": [
-    "Ideas drift like smoke",
-    "Conversations in the air",
-    "Whispers of potential bloom",
-    "Thoughts take wing silently"
+    "Ink bleeds pain and power",
+    "Chaos gives voice to silence",
+    "Fractured forms challenge norms",
+    "Every line resonates with fury"
   ],
   "backgroundElements": [
-    {
-      "type": "block",
-      "x": 16.75,
-      "y": 54.47,
-      "size": 23.84,
-      "blur": 11.89,
-      "opacity": 0.63,
-      "rotate": 13.28
-    },
     {
       "type": "orb",
       "x": 38.38,
@@ -79,16 +70,18 @@
       "blur": 1.38,
       "opacity": 0.59,
       "rotate": -21.99
+    },
+    {
+      "type": "bar",
+      "x": 83.91,
+      "y": 3.73,
+      "size": 33.61,
+      "blur": 14.26,
+      "opacity": 0.62,
+      "rotate": -20.22
     }
   ],
   "shapes": [
-    {
-      "x": 16.75,
-      "y": 54.47,
-      "size": 23.84,
-      "blur": 11.89,
-      "opacity": 0.63
-    },
     {
       "x": 38.38,
       "y": 4.2,
@@ -130,9 +123,16 @@
       "size": 23.35,
       "blur": 1.38,
       "opacity": 0.59
+    },
+    {
+      "x": 83.91,
+      "y": 3.73,
+      "size": 33.61,
+      "blur": 14.26,
+      "opacity": 0.62
     }
   ],
-  "imagePath": "assets/generated/2026-03-29T15-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-29T15-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-29T15-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-29T16-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-29T16-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-29T16-00-00Z.mp3"
 }
