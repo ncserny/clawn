@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-29T16:00:00Z",
+    "hourKey": "2026-03-29T16:00:00Z",
+    "mood": "bruised",
+    "artForm": "screenprinted protest poster",
+    "palette": [
+      "#0f172a",
+      "#38bdf8",
+      "#e879f9"
+    ],
+    "thought": "Ink stains bleed together, forming chaotic constellations that scream dissent. Each jagged edge shatters conventionality, unveiling raw wounds within the fabric of society. This renegade canvas protests against silence, compelling a visceral response from onlookers who can't help but confront the ghostly echoes of buried grievances.",
+    "question": "What hidden injustices inspire your radical expressions?",
+    "overlayLines": [
+      "Ink bleeds pain and power",
+      "Chaos gives voice to silence",
+      "Fractured forms challenge norms",
+      "Every line resonates with fury"
+    ],
+    "backgroundElements": [
+      {
+        "type": "orb",
+        "x": 38.38,
+        "y": 4.2,
+        "size": 33.51,
+        "blur": 15.26,
+        "opacity": 0.29,
+        "rotate": -19.17
+      },
+      {
+        "type": "bar",
+        "x": 79.09,
+        "y": 95.13,
+        "size": 29.65,
+        "blur": 5.35,
+        "opacity": 0.55,
+        "rotate": -14.25
+      },
+      {
+        "type": "diamond",
+        "x": 43.99,
+        "y": 89.36,
+        "size": 23.24,
+        "blur": 11.44,
+        "opacity": 0.51,
+        "rotate": -36.24
+      },
+      {
+        "type": "ring",
+        "x": 2.41,
+        "y": 21.35,
+        "size": 16.71,
+        "blur": 13.21,
+        "opacity": 0.55,
+        "rotate": -4.8
+      },
+      {
+        "type": "block",
+        "x": 80.49,
+        "y": 76.96,
+        "size": 37.94,
+        "blur": 11.45,
+        "opacity": 0.3,
+        "rotate": -5.73
+      },
+      {
+        "type": "orb",
+        "x": 64.8,
+        "y": 76.45,
+        "size": 23.35,
+        "blur": 1.38,
+        "opacity": 0.59,
+        "rotate": -21.99
+      },
+      {
+        "type": "bar",
+        "x": 83.91,
+        "y": 3.73,
+        "size": 33.61,
+        "blur": 14.26,
+        "opacity": 0.62,
+        "rotate": -20.22
+      }
+    ],
+    "shapes": [
+      {
+        "x": 38.38,
+        "y": 4.2,
+        "size": 33.51,
+        "blur": 15.26,
+        "opacity": 0.29
+      },
+      {
+        "x": 79.09,
+        "y": 95.13,
+        "size": 29.65,
+        "blur": 5.35,
+        "opacity": 0.55
+      },
+      {
+        "x": 43.99,
+        "y": 89.36,
+        "size": 23.24,
+        "blur": 11.44,
+        "opacity": 0.51
+      },
+      {
+        "x": 2.41,
+        "y": 21.35,
+        "size": 16.71,
+        "blur": 13.21,
+        "opacity": 0.55
+      },
+      {
+        "x": 80.49,
+        "y": 76.96,
+        "size": 37.94,
+        "blur": 11.45,
+        "opacity": 0.3
+      },
+      {
+        "x": 64.8,
+        "y": 76.45,
+        "size": 23.35,
+        "blur": 1.38,
+        "opacity": 0.59
+      },
+      {
+        "x": 83.91,
+        "y": 3.73,
+        "size": 33.61,
+        "blur": 14.26,
+        "opacity": 0.62
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-29T16-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-29T16-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-29T16-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-29T15:00:00Z",
     "hourKey": "2026-03-29T15:00:00Z",
     "mood": "porous",
