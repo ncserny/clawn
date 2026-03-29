@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-29T14:00:00Z",
+    "hourKey": "2026-03-29T14:00:00Z",
+    "mood": "focused",
+    "artForm": "clean museum placard minimalism",
+    "palette": [
+      "#1a1020",
+      "#ec4899",
+      "#a78bfa"
+    ],
+    "thought": "Emerald hues punctuate sterile white displays, where the interplay of light and form creates confounding atmospheres. Here, each shadow pulses with a vague echo of life, blurring boundaries between the real and the imagined. This dynamic environment resonates, drawing observers into a quiet confrontation with their unarticulated hopes and unacknowledged fears.",
+    "question": "How does minimalism influence your immersion in space?",
+    "overlayLines": [
+      "Silence whispers of unspoken tales",
+      "Emerging forms defy definition",
+      "Colors bend towards stillness",
+      "Hope glimmers in airy absence"
+    ],
+    "backgroundElements": [
+      {
+        "type": "ring",
+        "x": 0.4,
+        "y": 81.95,
+        "size": 19.27,
+        "blur": 14.11,
+        "opacity": 0.26,
+        "rotate": -21.21
+      },
+      {
+        "type": "block",
+        "x": 16.75,
+        "y": 54.47,
+        "size": 23.84,
+        "blur": 11.89,
+        "opacity": 0.63,
+        "rotate": 13.28
+      },
+      {
+        "type": "orb",
+        "x": 38.38,
+        "y": 4.2,
+        "size": 33.51,
+        "blur": 15.26,
+        "opacity": 0.29,
+        "rotate": -19.17
+      },
+      {
+        "type": "bar",
+        "x": 79.09,
+        "y": 95.13,
+        "size": 29.65,
+        "blur": 5.35,
+        "opacity": 0.55,
+        "rotate": -14.25
+      },
+      {
+        "type": "diamond",
+        "x": 43.99,
+        "y": 89.36,
+        "size": 23.24,
+        "blur": 11.44,
+        "opacity": 0.51,
+        "rotate": -36.24
+      },
+      {
+        "type": "ring",
+        "x": 2.41,
+        "y": 21.35,
+        "size": 16.71,
+        "blur": 13.21,
+        "opacity": 0.55,
+        "rotate": -4.8
+      },
+      {
+        "type": "block",
+        "x": 80.49,
+        "y": 76.96,
+        "size": 37.94,
+        "blur": 11.45,
+        "opacity": 0.3,
+        "rotate": -5.73
+      }
+    ],
+    "shapes": [
+      {
+        "x": 0.4,
+        "y": 81.95,
+        "size": 19.27,
+        "blur": 14.11,
+        "opacity": 0.26
+      },
+      {
+        "x": 16.75,
+        "y": 54.47,
+        "size": 23.84,
+        "blur": 11.89,
+        "opacity": 0.63
+      },
+      {
+        "x": 38.38,
+        "y": 4.2,
+        "size": 33.51,
+        "blur": 15.26,
+        "opacity": 0.29
+      },
+      {
+        "x": 79.09,
+        "y": 95.13,
+        "size": 29.65,
+        "blur": 5.35,
+        "opacity": 0.55
+      },
+      {
+        "x": 43.99,
+        "y": 89.36,
+        "size": 23.24,
+        "blur": 11.44,
+        "opacity": 0.51
+      },
+      {
+        "x": 2.41,
+        "y": 21.35,
+        "size": 16.71,
+        "blur": 13.21,
+        "opacity": 0.55
+      },
+      {
+        "x": 80.49,
+        "y": 76.96,
+        "size": 37.94,
+        "blur": 11.45,
+        "opacity": 0.3
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-29T14-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-29T14-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-29T14-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-29T13:00:00Z",
     "hourKey": "2026-03-29T13:00:00Z",
     "mood": "melancholy",

@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-29T13:00:00Z",
-  "hourKey": "2026-03-29T13:00:00Z",
-  "mood": "melancholy",
-  "artForm": "xerox zine collage",
+  "generatedAt": "2026-03-29T14:00:00Z",
+  "hourKey": "2026-03-29T14:00:00Z",
+  "mood": "focused",
+  "artForm": "clean museum placard minimalism",
   "palette": [
-    "#08140f",
-    "#10b981",
-    "#facc15"
+    "#1a1020",
+    "#ec4899",
+    "#a78bfa"
   ],
-  "thought": "Monochrome tendrils entwine like whispers in the dusk, each ambiguous shape a haunting invitation to dive into melancholy depths. Layers of disillusionment blend, resonating with muted memories that feel achingly familiar yet foreign. This stark tableau invites introspection, uncovering the bittersweet alleys of the human experience where silence sings loudest.",
-  "question": "What memories linger in your exploration of shadows?",
+  "thought": "Emerald hues punctuate sterile white displays, where the interplay of light and form creates confounding atmospheres. Here, each shadow pulses with a vague echo of life, blurring boundaries between the real and the imagined. This dynamic environment resonates, drawing observers into a quiet confrontation with their unarticulated hopes and unacknowledged fears.",
+  "question": "How does minimalism influence your immersion in space?",
   "overlayLines": [
-    "Silent corners beckon softly",
-    "Whispers of forgotten dreams",
-    "Shapes blur into soft sighs",
-    "A canvas of lost moments"
+    "Silence whispers of unspoken tales",
+    "Emerging forms defy definition",
+    "Colors bend towards stillness",
+    "Hope glimmers in airy absence"
   ],
   "backgroundElements": [
-    {
-      "type": "diamond",
-      "x": 11.86,
-      "y": 26.75,
-      "size": 35.72,
-      "blur": 6.32,
-      "opacity": 0.52,
-      "rotate": 18.31
-    },
     {
       "type": "ring",
       "x": 0.4,
@@ -79,16 +70,18 @@
       "blur": 13.21,
       "opacity": 0.55,
       "rotate": -4.8
+    },
+    {
+      "type": "block",
+      "x": 80.49,
+      "y": 76.96,
+      "size": 37.94,
+      "blur": 11.45,
+      "opacity": 0.3,
+      "rotate": -5.73
     }
   ],
   "shapes": [
-    {
-      "x": 11.86,
-      "y": 26.75,
-      "size": 35.72,
-      "blur": 6.32,
-      "opacity": 0.52
-    },
     {
       "x": 0.4,
       "y": 81.95,
@@ -130,9 +123,16 @@
       "size": 16.71,
       "blur": 13.21,
       "opacity": 0.55
+    },
+    {
+      "x": 80.49,
+      "y": 76.96,
+      "size": 37.94,
+      "blur": 11.45,
+      "opacity": 0.3
     }
   ],
-  "imagePath": "assets/generated/2026-03-29T13-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-29T13-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-29T13-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-29T14-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-29T14-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-29T14-00-00Z.mp3"
 }
