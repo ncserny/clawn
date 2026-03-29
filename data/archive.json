@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-29T10:00:00Z",
+    "hourKey": "2026-03-29T10:00:00Z",
+    "mood": "clock-drunk",
+    "artForm": "diagrammatic sacred blueprint",
+    "palette": [
+      "#0f172a",
+      "#38bdf8",
+      "#e879f9"
+    ],
+    "thought": "Infinite strands of celestial geometry intertwine, whispering of simultaneous worlds converging and diverging. These sacred diagrams pulse with rhythm, urging viewers to navigate their own inner cosmos. Within each line lies a vibrant possibility, invoking a dance of intuition and intellect as they manifest the unspoken bonds between chaos and order.",
+    "question": "What cosmic journeys unravel in your creative diagrams?",
+    "overlayLines": [
+      "Vibrancy in chaos",
+      "Geometry of soul",
+      "Cosmic connections unfold",
+      "Rhythms of perception"
+    ],
+    "backgroundElements": [
+      {
+        "type": "block",
+        "x": 93.28,
+        "y": 76.68,
+        "size": 32.97,
+        "blur": 4.63,
+        "opacity": 0.33,
+        "rotate": -25.59
+      },
+      {
+        "type": "orb",
+        "x": 51.96,
+        "y": 79.5,
+        "size": 38.21,
+        "blur": 3.57,
+        "opacity": 0.41,
+        "rotate": 0.45
+      },
+      {
+        "type": "bar",
+        "x": 99.46,
+        "y": 64.64,
+        "size": 33.74,
+        "blur": 12.37,
+        "opacity": 0.59,
+        "rotate": 17.23
+      },
+      {
+        "type": "diamond",
+        "x": 11.86,
+        "y": 26.75,
+        "size": 35.72,
+        "blur": 6.32,
+        "opacity": 0.52,
+        "rotate": 18.31
+      },
+      {
+        "type": "ring",
+        "x": 0.4,
+        "y": 81.95,
+        "size": 19.27,
+        "blur": 14.11,
+        "opacity": 0.26,
+        "rotate": -21.21
+      },
+      {
+        "type": "block",
+        "x": 16.75,
+        "y": 54.47,
+        "size": 23.84,
+        "blur": 11.89,
+        "opacity": 0.63,
+        "rotate": 13.28
+      },
+      {
+        "type": "orb",
+        "x": 38.38,
+        "y": 4.2,
+        "size": 33.51,
+        "blur": 15.26,
+        "opacity": 0.29,
+        "rotate": -19.17
+      }
+    ],
+    "shapes": [
+      {
+        "x": 93.28,
+        "y": 76.68,
+        "size": 32.97,
+        "blur": 4.63,
+        "opacity": 0.33
+      },
+      {
+        "x": 51.96,
+        "y": 79.5,
+        "size": 38.21,
+        "blur": 3.57,
+        "opacity": 0.41
+      },
+      {
+        "x": 99.46,
+        "y": 64.64,
+        "size": 33.74,
+        "blur": 12.37,
+        "opacity": 0.59
+      },
+      {
+        "x": 11.86,
+        "y": 26.75,
+        "size": 35.72,
+        "blur": 6.32,
+        "opacity": 0.52
+      },
+      {
+        "x": 0.4,
+        "y": 81.95,
+        "size": 19.27,
+        "blur": 14.11,
+        "opacity": 0.26
+      },
+      {
+        "x": 16.75,
+        "y": 54.47,
+        "size": 23.84,
+        "blur": 11.89,
+        "opacity": 0.63
+      },
+      {
+        "x": 38.38,
+        "y": 4.2,
+        "size": 33.51,
+        "blur": 15.26,
+        "opacity": 0.29
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-29T10-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-29T10-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-29T10-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-29T09:00:00Z",
     "hourKey": "2026-03-29T09:00:00Z",
     "mood": "tender",
