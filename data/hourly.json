@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-29T18:00:00Z",
-  "hourKey": "2026-03-29T18:00:00Z",
-  "mood": "caffeinated",
-  "artForm": "faxed surveillance document",
+  "generatedAt": "2026-03-29T19:00:00Z",
+  "hourKey": "2026-03-29T19:00:00Z",
+  "mood": "hollow",
+  "artForm": "rave flyer typography",
   "palette": [
-    "#140f2d",
-    "#8b5cf6",
-    "#22d3ee"
+    "#08140f",
+    "#10b981",
+    "#facc15"
   ],
-  "thought": "Electric pulses traverse paper, illuminating the hidden surveillance of mundane moments. Every faxed mark reveals unguarded glances stitched into a vast human narrative, presenting everyday life as an artful dissection. Here, observation transforms into creation, where the mundane morphs into an intricate ballet of insights woven within fibers of secrecy.",
-  "question": "What hidden narratives do you see in everyday communications?",
+  "thought": "Neon whispers pulse against dark voids, fluttering amid the vacant echoes of nightlife. Each character dances like strobe lights, drawing fragmented dreams into sharp focus. This chaotic invitation compels onlookers to confront their hidden yearnings, where shadows of celebration intertwine with the bittersweet silence of isolation.",
+  "question": "What hidden longings vibrate within your silent moments?",
   "overlayLines": [
-    "Ink transcribes our secrets",
-    "Perception is an art form",
-    "Truths linger in shadows",
-    "Surveillance or beauty?"
+    "Illuminate the unnoticed",
+    "Dive into chaotic echoes",
+    "Fragments of unvoiced dreams",
+    "Emerge from hollow beats"
   ],
   "backgroundElements": [
-    {
-      "type": "diamond",
-      "x": 43.99,
-      "y": 89.36,
-      "size": 23.24,
-      "blur": 11.44,
-      "opacity": 0.51,
-      "rotate": -36.24
-    },
     {
       "type": "ring",
       "x": 2.41,
@@ -79,16 +70,18 @@
       "blur": 8.13,
       "opacity": 0.39,
       "rotate": 2.73
+    },
+    {
+      "type": "block",
+      "x": 4,
+      "y": 58.57,
+      "size": 26.21,
+      "blur": 13.34,
+      "opacity": 0.56,
+      "rotate": 33
     }
   ],
   "shapes": [
-    {
-      "x": 43.99,
-      "y": 89.36,
-      "size": 23.24,
-      "blur": 11.44,
-      "opacity": 0.51
-    },
     {
       "x": 2.41,
       "y": 21.35,
@@ -130,9 +123,16 @@
       "size": 19,
       "blur": 8.13,
       "opacity": 0.39
+    },
+    {
+      "x": 4,
+      "y": 58.57,
+      "size": 26.21,
+      "blur": 13.34,
+      "opacity": 0.56
     }
   ],
-  "imagePath": "assets/generated/2026-03-29T18-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-29T18-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-29T18-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-29T19-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-29T19-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-29T19-00-00Z.mp3"
 }
