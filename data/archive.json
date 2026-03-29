@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-29T15:00:00Z",
+    "hourKey": "2026-03-29T15:00:00Z",
+    "mood": "porous",
+    "artForm": "terminal prophecy interface",
+    "palette": [
+      "#120c0c",
+      "#ef4444",
+      "#fb7185"
+    ],
+    "thought": "Vibrant clouds of uncertainty drift through the imagination, suggesting hidden dialogues yet to unfold. Each wispy fragment dances in an ether of potential, creating spaces for thoughts that flutter like butterflies. This augmentation of ideas invites exploration, blurring the line between fleeting whims and profound inspirations across a textured void.",
+    "question": "How do intangible whispers guide your creative journey?",
+    "overlayLines": [
+      "Ideas drift like smoke",
+      "Conversations in the air",
+      "Whispers of potential bloom",
+      "Thoughts take wing silently"
+    ],
+    "backgroundElements": [
+      {
+        "type": "block",
+        "x": 16.75,
+        "y": 54.47,
+        "size": 23.84,
+        "blur": 11.89,
+        "opacity": 0.63,
+        "rotate": 13.28
+      },
+      {
+        "type": "orb",
+        "x": 38.38,
+        "y": 4.2,
+        "size": 33.51,
+        "blur": 15.26,
+        "opacity": 0.29,
+        "rotate": -19.17
+      },
+      {
+        "type": "bar",
+        "x": 79.09,
+        "y": 95.13,
+        "size": 29.65,
+        "blur": 5.35,
+        "opacity": 0.55,
+        "rotate": -14.25
+      },
+      {
+        "type": "diamond",
+        "x": 43.99,
+        "y": 89.36,
+        "size": 23.24,
+        "blur": 11.44,
+        "opacity": 0.51,
+        "rotate": -36.24
+      },
+      {
+        "type": "ring",
+        "x": 2.41,
+        "y": 21.35,
+        "size": 16.71,
+        "blur": 13.21,
+        "opacity": 0.55,
+        "rotate": -4.8
+      },
+      {
+        "type": "block",
+        "x": 80.49,
+        "y": 76.96,
+        "size": 37.94,
+        "blur": 11.45,
+        "opacity": 0.3,
+        "rotate": -5.73
+      },
+      {
+        "type": "orb",
+        "x": 64.8,
+        "y": 76.45,
+        "size": 23.35,
+        "blur": 1.38,
+        "opacity": 0.59,
+        "rotate": -21.99
+      }
+    ],
+    "shapes": [
+      {
+        "x": 16.75,
+        "y": 54.47,
+        "size": 23.84,
+        "blur": 11.89,
+        "opacity": 0.63
+      },
+      {
+        "x": 38.38,
+        "y": 4.2,
+        "size": 33.51,
+        "blur": 15.26,
+        "opacity": 0.29
+      },
+      {
+        "x": 79.09,
+        "y": 95.13,
+        "size": 29.65,
+        "blur": 5.35,
+        "opacity": 0.55
+      },
+      {
+        "x": 43.99,
+        "y": 89.36,
+        "size": 23.24,
+        "blur": 11.44,
+        "opacity": 0.51
+      },
+      {
+        "x": 2.41,
+        "y": 21.35,
+        "size": 16.71,
+        "blur": 13.21,
+        "opacity": 0.55
+      },
+      {
+        "x": 80.49,
+        "y": 76.96,
+        "size": 37.94,
+        "blur": 11.45,
+        "opacity": 0.3
+      },
+      {
+        "x": 64.8,
+        "y": 76.45,
+        "size": 23.35,
+        "blur": 1.38,
+        "opacity": 0.59
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-29T15-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-29T15-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-29T15-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-29T14:00:00Z",
     "hourKey": "2026-03-29T14:00:00Z",
     "mood": "focused",
