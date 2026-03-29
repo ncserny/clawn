@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-29T17:00:00Z",
-  "hourKey": "2026-03-29T17:00:00Z",
-  "mood": "ornamental",
-  "artForm": "concrete poetry composition",
+  "generatedAt": "2026-03-29T18:00:00Z",
+  "hourKey": "2026-03-29T18:00:00Z",
+  "mood": "caffeinated",
+  "artForm": "faxed surveillance document",
   "palette": [
-    "#0b1021",
-    "#2e6cf6",
-    "#f97316"
+    "#140f2d",
+    "#8b5cf6",
+    "#22d3ee"
   ],
-  "thought": "Tender lace intertwines with bold fragments, whispering stories only the heart understands. Each curve and line invites the observer to peel back layers of ornate intrigue, revealing the delicate strength of emotion forged in beauty. In this rich tapestry, art becomes a silent negotiator, balancing fragility with empowering subtleties of design.",
-  "question": "What emotions do ornamental forms evoke in you?",
+  "thought": "Electric pulses traverse paper, illuminating the hidden surveillance of mundane moments. Every faxed mark reveals unguarded glances stitched into a vast human narrative, presenting everyday life as an artful dissection. Here, observation transforms into creation, where the mundane morphs into an intricate ballet of insights woven within fibers of secrecy.",
+  "question": "What hidden narratives do you see in everyday communications?",
   "overlayLines": [
-    "Threads of complexity",
-    "Dances of design",
-    "Echoes of beauty",
-    "Whispers in layers"
+    "Ink transcribes our secrets",
+    "Perception is an art form",
+    "Truths linger in shadows",
+    "Surveillance or beauty?"
   ],
   "backgroundElements": [
-    {
-      "type": "bar",
-      "x": 79.09,
-      "y": 95.13,
-      "size": 29.65,
-      "blur": 5.35,
-      "opacity": 0.55,
-      "rotate": -14.25
-    },
     {
       "type": "diamond",
       "x": 43.99,
@@ -79,16 +70,18 @@
       "blur": 0,
       "opacity": 0.23,
       "rotate": -11.1
+    },
+    {
+      "type": "ring",
+      "x": 63.58,
+      "y": 51.47,
+      "size": 19,
+      "blur": 8.13,
+      "opacity": 0.39,
+      "rotate": 2.73
     }
   ],
   "shapes": [
-    {
-      "x": 79.09,
-      "y": 95.13,
-      "size": 29.65,
-      "blur": 5.35,
-      "opacity": 0.55
-    },
     {
       "x": 43.99,
       "y": 89.36,
@@ -130,9 +123,16 @@
       "size": 36.33,
       "blur": 0,
       "opacity": 0.23
+    },
+    {
+      "x": 63.58,
+      "y": 51.47,
+      "size": 19,
+      "blur": 8.13,
+      "opacity": 0.39
     }
   ],
-  "imagePath": "assets/generated/2026-03-29T17-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-29T17-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-29T17-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-29T18-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-29T18-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-29T18-00-00Z.mp3"
 }
