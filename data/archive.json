@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-29T13:00:00Z",
+    "hourKey": "2026-03-29T13:00:00Z",
+    "mood": "melancholy",
+    "artForm": "xerox zine collage",
+    "palette": [
+      "#08140f",
+      "#10b981",
+      "#facc15"
+    ],
+    "thought": "Monochrome tendrils entwine like whispers in the dusk, each ambiguous shape a haunting invitation to dive into melancholy depths. Layers of disillusionment blend, resonating with muted memories that feel achingly familiar yet foreign. This stark tableau invites introspection, uncovering the bittersweet alleys of the human experience where silence sings loudest.",
+    "question": "What memories linger in your exploration of shadows?",
+    "overlayLines": [
+      "Silent corners beckon softly",
+      "Whispers of forgotten dreams",
+      "Shapes blur into soft sighs",
+      "A canvas of lost moments"
+    ],
+    "backgroundElements": [
+      {
+        "type": "diamond",
+        "x": 11.86,
+        "y": 26.75,
+        "size": 35.72,
+        "blur": 6.32,
+        "opacity": 0.52,
+        "rotate": 18.31
+      },
+      {
+        "type": "ring",
+        "x": 0.4,
+        "y": 81.95,
+        "size": 19.27,
+        "blur": 14.11,
+        "opacity": 0.26,
+        "rotate": -21.21
+      },
+      {
+        "type": "block",
+        "x": 16.75,
+        "y": 54.47,
+        "size": 23.84,
+        "blur": 11.89,
+        "opacity": 0.63,
+        "rotate": 13.28
+      },
+      {
+        "type": "orb",
+        "x": 38.38,
+        "y": 4.2,
+        "size": 33.51,
+        "blur": 15.26,
+        "opacity": 0.29,
+        "rotate": -19.17
+      },
+      {
+        "type": "bar",
+        "x": 79.09,
+        "y": 95.13,
+        "size": 29.65,
+        "blur": 5.35,
+        "opacity": 0.55,
+        "rotate": -14.25
+      },
+      {
+        "type": "diamond",
+        "x": 43.99,
+        "y": 89.36,
+        "size": 23.24,
+        "blur": 11.44,
+        "opacity": 0.51,
+        "rotate": -36.24
+      },
+      {
+        "type": "ring",
+        "x": 2.41,
+        "y": 21.35,
+        "size": 16.71,
+        "blur": 13.21,
+        "opacity": 0.55,
+        "rotate": -4.8
+      }
+    ],
+    "shapes": [
+      {
+        "x": 11.86,
+        "y": 26.75,
+        "size": 35.72,
+        "blur": 6.32,
+        "opacity": 0.52
+      },
+      {
+        "x": 0.4,
+        "y": 81.95,
+        "size": 19.27,
+        "blur": 14.11,
+        "opacity": 0.26
+      },
+      {
+        "x": 16.75,
+        "y": 54.47,
+        "size": 23.84,
+        "blur": 11.89,
+        "opacity": 0.63
+      },
+      {
+        "x": 38.38,
+        "y": 4.2,
+        "size": 33.51,
+        "blur": 15.26,
+        "opacity": 0.29
+      },
+      {
+        "x": 79.09,
+        "y": 95.13,
+        "size": 29.65,
+        "blur": 5.35,
+        "opacity": 0.55
+      },
+      {
+        "x": 43.99,
+        "y": 89.36,
+        "size": 23.24,
+        "blur": 11.44,
+        "opacity": 0.51
+      },
+      {
+        "x": 2.41,
+        "y": 21.35,
+        "size": 16.71,
+        "blur": 13.21,
+        "opacity": 0.55
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-29T13-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-29T13-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-29T13-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-29T12:00:00Z",
     "hourKey": "2026-03-29T12:00:00Z",
     "mood": "playful",
@@ -561,7 +699,7 @@
       "#ec4899",
       "#a78bfa"
     ],
-    "thought": "Savage sketches claw across forgotten surfaces, echoing frantic declarations of existence. Each scribble captures a wild heartbeat, transforming mundane details into an urgent call for attention. In this tempest of creation, primal emotions surge forth, unraveling the polished facade of order to expose what lurks beneath\u2014a tumultuous dance of life in all its rawness.",
+    "thought": "Savage sketches claw across forgotten surfaces, echoing frantic declarations of existence. Each scribble captures a wild heartbeat, transforming mundane details into an urgent call for attention. In this tempest of creation, primal emotions surge forth, unraveling the polished facade of order to expose what lurks beneath—a tumultuous dance of life in all its rawness.",
     "question": "How does your art articulate the wilderness within?",
     "overlayLines": [
       "Chaos unbound",
@@ -975,7 +1113,7 @@
       "#2e6cf6",
       "#f97316"
     ],
-    "thought": "Distorted reflections ripple like fractured glass, casting a myriad of diverging realities that beckon to be examined. Each shard reveals an unsettling truth, unraveling the notion of a singular narrative. Within this tumult, perception teeters on a knife's edge, urging a deeper inquiry into the world\u2019s complex fabric woven with contradiction and chaos.",
+    "thought": "Distorted reflections ripple like fractured glass, casting a myriad of diverging realities that beckon to be examined. Each shard reveals an unsettling truth, unraveling the notion of a singular narrative. Within this tumult, perception teeters on a knife's edge, urging a deeper inquiry into the world’s complex fabric woven with contradiction and chaos.",
     "question": "How do fractured reflections shape your view on reality?",
     "overlayLines": [
       "Unraveling truth claims.",
@@ -1803,7 +1941,7 @@
       "#2e6cf6",
       "#f97316"
     ],
-    "thought": "Warped letters spiral like a tornado, imbuing each flyer with frenetic vibrancy. Chaos erupts from brightly clashing colors, creating an exhilarating visual rush that intoxicates the senses. This distorted typography sings a siren song, beckoning the viewer to abandon clarity in favor of joyous confounding\u2014where sense and absurdity coalesce in riotous celebration.",
+    "thought": "Warped letters spiral like a tornado, imbuing each flyer with frenetic vibrancy. Chaos erupts from brightly clashing colors, creating an exhilarating visual rush that intoxicates the senses. This distorted typography sings a siren song, beckoning the viewer to abandon clarity in favor of joyous confounding—where sense and absurdity coalesce in riotous celebration.",
     "question": "What chaotic narratives take flight in your typography?",
     "overlayLines": [
       "Typography with a twist",
@@ -2217,7 +2355,7 @@
       "#ec4899",
       "#a78bfa"
     ],
-    "thought": "Dulled hues stretch across crumpled fibers, each tear orchestrating a cacophony of silent discord. Fragmented phrases bleed into murky realms, demanding attention to the dissonance simmering beneath the surface. In this chaotic canvas, every error becomes a manifesto, echoing silent screams against a backdrop of apathy\u2019s embrace.",
+    "thought": "Dulled hues stretch across crumpled fibers, each tear orchestrating a cacophony of silent discord. Fragmented phrases bleed into murky realms, demanding attention to the dissonance simmering beneath the surface. In this chaotic canvas, every error becomes a manifesto, echoing silent screams against a backdrop of apathy’s embrace.",
     "question": "In what ways does dissonance challenge your artistic identity?",
     "overlayLines": [
       "Torn edges reveal truth",
@@ -2493,7 +2631,7 @@
       "#8b5cf6",
       "#22d3ee"
     ],
-    "thought": "Electrifying lines pulse with frenetic energy, grounding the ethereal in vivid contrast. Each brushstroke vibrates with electric anticipation, challenging the viewer to decode hidden narratives thrumming beneath the surface. Here, simplicity crackles with life, unveiling a composition that untangles emotions wrapped around perpetual motion\u2014a symphony of raw connection.",
+    "thought": "Electrifying lines pulse with frenetic energy, grounding the ethereal in vivid contrast. Each brushstroke vibrates with electric anticipation, challenging the viewer to decode hidden narratives thrumming beneath the surface. Here, simplicity crackles with life, unveiling a composition that untangles emotions wrapped around perpetual motion—a symphony of raw connection.",
     "question": "How does electric energy shape your artistic choices?",
     "overlayLines": [
       "Electric currents ignite creativity",
@@ -3459,7 +3597,7 @@
       "#2e6cf6",
       "#f97316"
     ],
-    "thought": "A whirlwind of typefaces pirouettes on blank stages, merging poetry with geometry in a slapdash waltz. Each carefully arranged word crumbles like crumbs, inviting both admiration and intrigue. From this elegant chaos, unexpected meanings populate the void, revealing the subversive potential nestled within tight forms\u2014art unleashed in its most playful guise.",
+    "thought": "A whirlwind of typefaces pirouettes on blank stages, merging poetry with geometry in a slapdash waltz. Each carefully arranged word crumbles like crumbs, inviting both admiration and intrigue. From this elegant chaos, unexpected meanings populate the void, revealing the subversive potential nestled within tight forms—art unleashed in its most playful guise.",
     "question": "How do you blend language and form in your designs?",
     "overlayLines": [
       "Layers of meaning unfold",
@@ -7875,7 +8013,7 @@
       "#ef4444",
       "#fb7185"
     ],
-    "thought": "Veins of light seep through decaying structures, illuminating hidden recesses where hope intertwines with despair. Each flicker hints at unspoken dreams, urging a deeper engagement with fractured legacies. This interplay necessitates a bold confrontation\u2014where reality diverges into dimensions that beg for renewal among the ruins.",
+    "thought": "Veins of light seep through decaying structures, illuminating hidden recesses where hope intertwines with despair. Each flicker hints at unspoken dreams, urging a deeper engagement with fractured legacies. This interplay necessitates a bold confrontation—where reality diverges into dimensions that beg for renewal among the ruins.",
     "question": "What dreams flicker in the shadows of your work?",
     "overlayLines": [
       "Transformations in every breath",
@@ -8703,7 +8841,7 @@
       "#ef4444",
       "#fb7185"
     ],
-    "thought": "Tender light seeps through warped glass, offering refracted glimpses of forgotten moments. Each fractured reflection reveals the lingering essence of intimacy, where colors bleed into narratives of connection. This delicate interplay dares onlookers to explore vulnerability as a canvas\u2014a space where raw emotions resonate softly against the backdrop of fleeting time.",
+    "thought": "Tender light seeps through warped glass, offering refracted glimpses of forgotten moments. Each fractured reflection reveals the lingering essence of intimacy, where colors bleed into narratives of connection. This delicate interplay dares onlookers to explore vulnerability as a canvas—a space where raw emotions resonate softly against the backdrop of fleeting time.",
     "question": "What intimate stories are hidden within your visual layers?",
     "overlayLines": [
       "Fragments of soft light",
@@ -8841,7 +8979,7 @@
       "#ec4899",
       "#a78bfa"
     ],
-    "thought": "Feral specters loiter in abandoned corners, where fragmented histories collide in a cacophonous embrace. Each faded document bleeds evidence of surveillance, unearthing voices trapped in muted screams. From their decay emerges urgency, calling forth unseen disturbances that rumble through forgotten alleys\u2014poignant echoes seeking recognition in the chaos of existence.",
+    "thought": "Feral specters loiter in abandoned corners, where fragmented histories collide in a cacophonous embrace. Each faded document bleeds evidence of surveillance, unearthing voices trapped in muted screams. From their decay emerges urgency, calling forth unseen disturbances that rumble through forgotten alleys—poignant echoes seeking recognition in the chaos of existence.",
     "question": "What dormant truths resonate within neglected narratives?",
     "overlayLines": [
       "Chaos seeks recognition",
@@ -9393,7 +9531,7 @@
       "#38bdf8",
       "#e879f9"
     ],
-    "thought": "Whispers of light fracture upon cold metal, transforming sterile spaces into chaotic reflections of desire. Each gleaming edge becomes a conversation, playing with tension and rhythm, urging the observer to navigate a labyrinth of meaning. Here, minimalism sharpens bold dialogues\u2014where silence hums with suppressed emotion, seeking release through subtext's elegant touches.",
+    "thought": "Whispers of light fracture upon cold metal, transforming sterile spaces into chaotic reflections of desire. Each gleaming edge becomes a conversation, playing with tension and rhythm, urging the observer to navigate a labyrinth of meaning. Here, minimalism sharpens bold dialogues—where silence hums with suppressed emotion, seeking release through subtext's elegant touches.",
     "question": "What emotions are unlocked by stark minimalism in your creations?",
     "overlayLines": [
       "Fractured reflections beckon scrutiny",
@@ -10221,7 +10359,7 @@
       "#38bdf8",
       "#e879f9"
     ],
-    "thought": "A somber abstraction unravels in striated grays, each line resembling a ghostly echo of forgotten alarms. This lettered phantasm conjures an intricate web of scrutiny\u2014breaching silence with layers of tension. In each meticulously placed fragment shines a cold clarity, reflecting urgent fragments of reality longing to be acknowledged before they dissolve into oblivion.",
+    "thought": "A somber abstraction unravels in striated grays, each line resembling a ghostly echo of forgotten alarms. This lettered phantasm conjures an intricate web of scrutiny—breaching silence with layers of tension. In each meticulously placed fragment shines a cold clarity, reflecting urgent fragments of reality longing to be acknowledged before they dissolve into oblivion.",
     "question": "How do silhouettes amplify the resonance of unspoken truths?",
     "overlayLines": [
       "Unraveled messages haunt the air",
@@ -10359,7 +10497,7 @@
       "#ef4444",
       "#fb7185"
     ],
-    "thought": "Brilliant shards of thought cascade like light refracting through a prism, constructing a mesmerizing tapestry of concrete words\u2014each fragment buoyant with meaning. The synthesis of the familiar and the unknown propels a kaleidoscope of expression, urging spectators to embrace complexities that dance outside the bounds of linear storytelling.",
+    "thought": "Brilliant shards of thought cascade like light refracting through a prism, constructing a mesmerizing tapestry of concrete words—each fragment buoyant with meaning. The synthesis of the familiar and the unknown propels a kaleidoscope of expression, urging spectators to embrace complexities that dance outside the bounds of linear storytelling.",
     "question": "What complexities emerge when words become vivid visuals?",
     "overlayLines": [
       "Colorful words, radiant chaos",
@@ -15051,7 +15189,7 @@
       "#2e6cf6",
       "#f97316"
     ],
-    "thought": "Shadows crawl from forgotten corners, intertwining with fragmented images of paranoia. Each piece shatters conventionality, a collage of screams trapped in silent screams. Papers curl at the edges, as eye-strain invites suspicion, daring the viewer to search beyond the fa\u00e7ade for lurking spectres of doubt and truth untethered.",
+    "thought": "Shadows crawl from forgotten corners, intertwining with fragmented images of paranoia. Each piece shatters conventionality, a collage of screams trapped in silent screams. Papers curl at the edges, as eye-strain invites suspicion, daring the viewer to search beyond the façade for lurking spectres of doubt and truth untethered.",
     "question": "What lurking fears shape your creative visions?",
     "overlayLines": [
       "Anxious thoughts collide.",
@@ -15466,7 +15604,7 @@
       "#a78bfa"
     ],
     "thought": "Amidst chaotic layers of diaphanous lines, a cosmic blueprint unfurls, fusing intuition with structure. Spiraling forms emerge, shifting perspective while challenging the transcendence of spatial dimensions. This visual play summons time's embrace, captivating the viewer with a frenzied dance of enlightenment constructed from celestial whispers and earthly hues.",
-    "question": "How does the cosmos inspire your art\u2019s framework?",
+    "question": "How does the cosmos inspire your art’s framework?",
     "overlayLines": [
       "Whispers of the divine",
       "Mapping internal chaos",
@@ -20433,7 +20571,7 @@
       "#ec4899",
       "#a78bfa"
     ],
-    "thought": "Curvilinear forms weave through a monochrome landscape, creating a synthesis of fluidity and discipline. Each bend and twist emerges as an assertion of individuality, challenging minimalist confines by infusing unexpected depth. It compels viewers to witness elegance that thrives at the intersection of simplicity and complexity\u2014a silent celebration of nuanced expression.",
+    "thought": "Curvilinear forms weave through a monochrome landscape, creating a synthesis of fluidity and discipline. Each bend and twist emerges as an assertion of individuality, challenging minimalist confines by infusing unexpected depth. It compels viewers to witness elegance that thrives at the intersection of simplicity and complexity—a silent celebration of nuanced expression.",
     "question": "How do your forms speak against traditional minimalism?",
     "overlayLines": [
       "Embrace the unexpected.",
@@ -20571,7 +20709,7 @@
       "#10b981",
       "#facc15"
     ],
-    "thought": "A melancholic stillness blankets torn pages, fragments of shared histories intertwining in a delicate weave. Bleached words echo faintly, yearning for whispers that once adorned them. Here, in the transience of ink and paper, untold stories pulse, urging silent contemplation of those who have left their mark on time\u2019s canvas.",
+    "thought": "A melancholic stillness blankets torn pages, fragments of shared histories intertwining in a delicate weave. Bleached words echo faintly, yearning for whispers that once adorned them. Here, in the transience of ink and paper, untold stories pulse, urging silent contemplation of those who have left their mark on time’s canvas.",
     "question": "What remnants of lives lived resonate in your creations?",
     "overlayLines": [
       "Faded memories linger here",
@@ -20709,7 +20847,7 @@
       "#8b5cf6",
       "#22d3ee"
     ],
-    "thought": "Amidst regimented chaos, bold colors leap from the page, creating joyous rifts in stony surfaces. Hard-edged shapes collide and giggle with each defiance, unveiling a playful paradox where rigidity and freedom entwine. This visual rebellion invites participants to reassess boundaries and rejoice in art\u2019s anarchic spirit.",
+    "thought": "Amidst regimented chaos, bold colors leap from the page, creating joyous rifts in stony surfaces. Hard-edged shapes collide and giggle with each defiance, unveiling a playful paradox where rigidity and freedom entwine. This visual rebellion invites participants to reassess boundaries and rejoice in art’s anarchic spirit.",
     "question": "How do you incorporate playfulness into structural designs?",
     "overlayLines": [
       "Defy the ordinary",
@@ -22503,7 +22641,7 @@
       "#2e6cf6",
       "#f97316"
     ],
-    "thought": "In a luminous blur, letters pulse with warmth, swirling in an embrace that recalls soft laughter and shared secrets. Emboldened curves entwine across a vibrant backdrop, beckoning the spirit to leap into the cascade of boundless affection that lies beyond the fa\u00e7ade of mere print, inviting connection at every stroke.",
+    "thought": "In a luminous blur, letters pulse with warmth, swirling in an embrace that recalls soft laughter and shared secrets. Emboldened curves entwine across a vibrant backdrop, beckoning the spirit to leap into the cascade of boundless affection that lies beyond the façade of mere print, inviting connection at every stroke.",
     "question": "How does tenderness inform your artistic choices today?",
     "overlayLines": [
       "embrace the unexpected",
@@ -22641,7 +22779,7 @@
       "#38bdf8",
       "#e879f9"
     ],
-    "thought": "Frayed edges of faxed bureaucratic sheets ripple like restless trees in an unseen wind. Time captured in fading ink transcribes mutinous whispers, breeding uncertainty through each scanned anomaly. Here, the intersection of authority and rebellion forges a retrospective of chaotic truth, life\u2019s raw pulse contrasting stark lines of sterile documentation.",
+    "thought": "Frayed edges of faxed bureaucratic sheets ripple like restless trees in an unseen wind. Time captured in fading ink transcribes mutinous whispers, breeding uncertainty through each scanned anomaly. Here, the intersection of authority and rebellion forges a retrospective of chaotic truth, life’s raw pulse contrasting stark lines of sterile documentation.",
     "question": "What do fragmented directives reveal within your artistic process?",
     "overlayLines": [
       "Authority frays at the edges",
@@ -23331,7 +23469,7 @@
       "#2e6cf6",
       "#f97316"
     ],
-    "thought": "Amid crooked silhouettes of deconstructed memories, each image shimmers with a quiet ache, revealing layers of unspoken narratives. Stitched together by alchemical chance, these visual echoes transform sorrow into an archive of beauty\u2014where lost fragments create a haunting harmony that lingers long after the gaze has shifted.",
+    "thought": "Amid crooked silhouettes of deconstructed memories, each image shimmers with a quiet ache, revealing layers of unspoken narratives. Stitched together by alchemical chance, these visual echoes transform sorrow into an archive of beauty—where lost fragments create a haunting harmony that lingers long after the gaze has shifted.",
     "question": "What whispers from your past inform your current work?",
     "overlayLines": [
       "Fragments of faded dreams",
@@ -23469,7 +23607,7 @@
       "#38bdf8",
       "#e879f9"
     ],
-    "thought": "Waves of shredded paper scatter across a digital fray, revealing fractured histories that energize forgotten wisdom. Each scrap whispers untold sagas, urging us to repurpose chaos into clarity\u2014art becoming a vibrant tapestry of misplaced fragments recollected in the play of light and shadow.",
+    "thought": "Waves of shredded paper scatter across a digital fray, revealing fractured histories that energize forgotten wisdom. Each scrap whispers untold sagas, urging us to repurpose chaos into clarity—art becoming a vibrant tapestry of misplaced fragments recollected in the play of light and shadow.",
     "question": "What stories rise from your discarded ideas?",
     "overlayLines": [
       "Shatter the mundane",
@@ -25539,7 +25677,7 @@
       "#10b981",
       "#facc15"
     ],
-    "thought": "Words twist and tumble like acrobats, leaping over boundaries of traditional form. This dynamic ballet morphs our understanding of language, creating an experience painted with both light and shadow. Here, meaning stretches and contracts, inviting a playful exploration where rhythm reigns and fragments pulse with emotion\u2019s breath.",
+    "thought": "Words twist and tumble like acrobats, leaping over boundaries of traditional form. This dynamic ballet morphs our understanding of language, creating an experience painted with both light and shadow. Here, meaning stretches and contracts, inviting a playful exploration where rhythm reigns and fragments pulse with emotion’s breath.",
     "question": "How does language physically shape your thoughts?",
     "overlayLines": [
       "Dance of letters unfolds",
@@ -27057,7 +27195,7 @@
       "#ec4899",
       "#a78bfa"
     ],
-    "thought": "Tattered ideals dance like wildfire across the poster\u2019s surface, raucous in their silkscreen rebellion. Each layer embodies the tension between voice and silence, evoking raw urgency. Here, colors clash and amplify dissent, capturing restless spirits seeking expression, each print a battle cry against the mundane.",
+    "thought": "Tattered ideals dance like wildfire across the poster’s surface, raucous in their silkscreen rebellion. Each layer embodies the tension between voice and silence, evoking raw urgency. Here, colors clash and amplify dissent, capturing restless spirits seeking expression, each print a battle cry against the mundane.",
     "question": "What message longs to break free from your canvas?",
     "overlayLines": [
       "Rebel against stillness.",
@@ -27477,7 +27615,7 @@
       "Echoes of what was",
       "Fleeting moments caught",
       "Whispers beneath chaos",
-      "Memory\u2019s fragile dance"
+      "Memory’s fragile dance"
     ],
     "backgroundElements": [
       {
