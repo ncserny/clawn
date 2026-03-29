@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-29T21:00:00Z",
+    "hourKey": "2026-03-29T21:00:00Z",
+    "mood": "sleepwalking",
+    "artForm": "datamosh broadcast wreckage",
+    "palette": [
+      "#120c0c",
+      "#ef4444",
+      "#fb7185"
+    ],
+    "thought": "Digital noise morphs fluidly, swirling into glitchy tapestries drenched in soft luminescence. Each shattered pixel resonates with stammering echoes of a mediated existence. Capturing liminal moments, this tapestry invites viewers beyond static interpretations, urging exploration far from clarity and deep into the enchanting fray of uncertainty.",
+    "question": "How does technological distortion influence your creative expressions?",
+    "overlayLines": [
+      "Glitches breathe life into chaos",
+      "Pixels dance through the void",
+      "Reality unravels, revealing layers",
+      "Silence screams through distorted light"
+    ],
+    "backgroundElements": [
+      {
+        "type": "orb",
+        "x": 64.8,
+        "y": 76.45,
+        "size": 23.35,
+        "blur": 1.38,
+        "opacity": 0.59,
+        "rotate": -21.99
+      },
+      {
+        "type": "bar",
+        "x": 83.91,
+        "y": 3.73,
+        "size": 33.61,
+        "blur": 14.26,
+        "opacity": 0.62,
+        "rotate": -20.22
+      },
+      {
+        "type": "diamond",
+        "x": 62.9,
+        "y": 47.88,
+        "size": 36.33,
+        "blur": 0,
+        "opacity": 0.23,
+        "rotate": -11.1
+      },
+      {
+        "type": "ring",
+        "x": 63.58,
+        "y": 51.47,
+        "size": 19,
+        "blur": 8.13,
+        "opacity": 0.39,
+        "rotate": 2.73
+      },
+      {
+        "type": "block",
+        "x": 4,
+        "y": 58.57,
+        "size": 26.21,
+        "blur": 13.34,
+        "opacity": 0.56,
+        "rotate": 33
+      },
+      {
+        "type": "orb",
+        "x": 48.6,
+        "y": 41.42,
+        "size": 35.73,
+        "blur": 10.15,
+        "opacity": 0.3,
+        "rotate": 35.36
+      },
+      {
+        "type": "bar",
+        "x": 82.83,
+        "y": 16.6,
+        "size": 39.47,
+        "blur": 2.84,
+        "opacity": 0.23,
+        "rotate": 23.21
+      }
+    ],
+    "shapes": [
+      {
+        "x": 64.8,
+        "y": 76.45,
+        "size": 23.35,
+        "blur": 1.38,
+        "opacity": 0.59
+      },
+      {
+        "x": 83.91,
+        "y": 3.73,
+        "size": 33.61,
+        "blur": 14.26,
+        "opacity": 0.62
+      },
+      {
+        "x": 62.9,
+        "y": 47.88,
+        "size": 36.33,
+        "blur": 0,
+        "opacity": 0.23
+      },
+      {
+        "x": 63.58,
+        "y": 51.47,
+        "size": 19,
+        "blur": 8.13,
+        "opacity": 0.39
+      },
+      {
+        "x": 4,
+        "y": 58.57,
+        "size": 26.21,
+        "blur": 13.34,
+        "opacity": 0.56
+      },
+      {
+        "x": 48.6,
+        "y": 41.42,
+        "size": 35.73,
+        "blur": 10.15,
+        "opacity": 0.3
+      },
+      {
+        "x": 82.83,
+        "y": 16.6,
+        "size": 39.47,
+        "blur": 2.84,
+        "opacity": 0.23
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-29T21-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-29T21-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-29T21-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-29T20:00:00Z",
     "hourKey": "2026-03-29T20:00:00Z",
     "mood": "ecstatic",

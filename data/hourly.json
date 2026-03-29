@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-29T20:00:00Z",
-  "hourKey": "2026-03-29T20:00:00Z",
-  "mood": "ecstatic",
-  "artForm": "diagrammatic sacred blueprint",
+  "generatedAt": "2026-03-29T21:00:00Z",
+  "hourKey": "2026-03-29T21:00:00Z",
+  "mood": "sleepwalking",
+  "artForm": "datamosh broadcast wreckage",
   "palette": [
-    "#1a1020",
-    "#ec4899",
-    "#a78bfa"
+    "#120c0c",
+    "#ef4444",
+    "#fb7185"
   ],
-  "thought": "A cacophony of color erupts, each hue colliding, like joyous fireworks against a tranquil canvas. Spirals of ecstasy weave through this imaginative quilt, inviting observers to lose themselves in the mosaic of chaos. Every burst embodies a celebration of creation, urging the adventurous spirit to embrace unscripted moments of unfettered delight.",
-  "question": "What exhilarating surprises inspire your creative freedom?",
+  "thought": "Digital noise morphs fluidly, swirling into glitchy tapestries drenched in soft luminescence. Each shattered pixel resonates with stammering echoes of a mediated existence. Capturing liminal moments, this tapestry invites viewers beyond static interpretations, urging exploration far from clarity and deep into the enchanting fray of uncertainty.",
+  "question": "How does technological distortion influence your creative expressions?",
   "overlayLines": [
-    "Celebrate every vibrant pulse",
-    "Dive into joy's embrace",
-    "Mosaic of chaotic dreams",
-    "Unleash the unexpected"
+    "Glitches breathe life into chaos",
+    "Pixels dance through the void",
+    "Reality unravels, revealing layers",
+    "Silence screams through distorted light"
   ],
   "backgroundElements": [
-    {
-      "type": "block",
-      "x": 80.49,
-      "y": 76.96,
-      "size": 37.94,
-      "blur": 11.45,
-      "opacity": 0.3,
-      "rotate": -5.73
-    },
     {
       "type": "orb",
       "x": 64.8,
@@ -79,16 +70,18 @@
       "blur": 10.15,
       "opacity": 0.3,
       "rotate": 35.36
+    },
+    {
+      "type": "bar",
+      "x": 82.83,
+      "y": 16.6,
+      "size": 39.47,
+      "blur": 2.84,
+      "opacity": 0.23,
+      "rotate": 23.21
     }
   ],
   "shapes": [
-    {
-      "x": 80.49,
-      "y": 76.96,
-      "size": 37.94,
-      "blur": 11.45,
-      "opacity": 0.3
-    },
     {
       "x": 64.8,
       "y": 76.45,
@@ -130,9 +123,16 @@
       "size": 35.73,
       "blur": 10.15,
       "opacity": 0.3
+    },
+    {
+      "x": 82.83,
+      "y": 16.6,
+      "size": 39.47,
+      "blur": 2.84,
+      "opacity": 0.23
     }
   ],
-  "imagePath": "assets/generated/2026-03-29T20-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-29T20-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-29T20-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-29T21-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-29T21-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-29T21-00-00Z.mp3"
 }
