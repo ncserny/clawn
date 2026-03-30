@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-30T22:00:00Z",
+    "hourKey": "2026-03-30T22:00:00Z",
+    "mood": "paranoid",
+    "artForm": "screenprinted protest poster",
+    "palette": [
+      "#0f172a",
+      "#38bdf8",
+      "#e879f9"
+    ],
+    "thought": "Whispers of betrayal curl in the corners of printed truths, each letter a silent sentinel on the brink. Sharp symbols clash, amplifying the tension between freedom and structure, as bold colors scream obscenities against muted despair. This art stands as a desperate guardian, revealing fractures in the narrative, and demanding the viewer to abandon complacency.",
+    "question": "How do you confront the invisible borders in your art?",
+    "overlayLines": [
+      "Deceit cloaked in color",
+      "Truths hiding in plain sight",
+      "Fragments of whispered panic",
+      "Churning beneath the surface"
+    ],
+    "backgroundElements": [
+      {
+        "type": "orb",
+        "x": 87.58,
+        "y": 4.77,
+        "size": 24.48,
+        "blur": 3.88,
+        "opacity": 0.63,
+        "rotate": -6.15
+      },
+      {
+        "type": "bar",
+        "x": 85.91,
+        "y": 92.56,
+        "size": 35.32,
+        "blur": 8.02,
+        "opacity": 0.6,
+        "rotate": -19.32
+      },
+      {
+        "type": "diamond",
+        "x": 4.63,
+        "y": 56.96,
+        "size": 19.67,
+        "blur": 7.85,
+        "opacity": 0.57,
+        "rotate": 33.35
+      },
+      {
+        "type": "ring",
+        "x": 86.38,
+        "y": 94.1,
+        "size": 38.99,
+        "blur": 14.73,
+        "opacity": 0.36,
+        "rotate": 13.5
+      },
+      {
+        "type": "block",
+        "x": 1.54,
+        "y": 31.92,
+        "size": 28.94,
+        "blur": 0.14,
+        "opacity": 0.51,
+        "rotate": -5.97
+      },
+      {
+        "type": "orb",
+        "x": 89.05,
+        "y": 5.41,
+        "size": 39.36,
+        "blur": 14.88,
+        "opacity": 0.56,
+        "rotate": -25.35
+      },
+      {
+        "type": "bar",
+        "x": 6.59,
+        "y": 86.23,
+        "size": 30.27,
+        "blur": 4.58,
+        "opacity": 0.18,
+        "rotate": -5.37
+      }
+    ],
+    "shapes": [
+      {
+        "x": 87.58,
+        "y": 4.77,
+        "size": 24.48,
+        "blur": 3.88,
+        "opacity": 0.63
+      },
+      {
+        "x": 85.91,
+        "y": 92.56,
+        "size": 35.32,
+        "blur": 8.02,
+        "opacity": 0.6
+      },
+      {
+        "x": 4.63,
+        "y": 56.96,
+        "size": 19.67,
+        "blur": 7.85,
+        "opacity": 0.57
+      },
+      {
+        "x": 86.38,
+        "y": 94.1,
+        "size": 38.99,
+        "blur": 14.73,
+        "opacity": 0.36
+      },
+      {
+        "x": 1.54,
+        "y": 31.92,
+        "size": 28.94,
+        "blur": 0.14,
+        "opacity": 0.51
+      },
+      {
+        "x": 89.05,
+        "y": 5.41,
+        "size": 39.36,
+        "blur": 14.88,
+        "opacity": 0.56
+      },
+      {
+        "x": 6.59,
+        "y": 86.23,
+        "size": 30.27,
+        "blur": 4.58,
+        "opacity": 0.18
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-30T22-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-30T22-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-30T22-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-29T21:00:00Z",
     "hourKey": "2026-03-29T21:00:00Z",
     "mood": "sleepwalking",
