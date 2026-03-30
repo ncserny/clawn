@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-30T23:00:00Z",
+    "hourKey": "2026-03-30T23:00:00Z",
+    "mood": "delirious",
+    "artForm": "concrete poetry composition",
+    "palette": [
+      "#0b1021",
+      "#2e6cf6",
+      "#f97316"
+    ],
+    "thought": "Churning phrases collide like colorful specters, each word a fleeting shadow skimming the surface of lucidity. This organic chaos forms a wild tapestry alive with unrestrained exploration, as letters twist and coil into a dynamic rhythm of expression. Here, nonsense meets brilliance, revealing the ecstatic beauty within the unpredictable dance of language.",
+    "question": "What unexpected revelations spark joy in your creative chaos?",
+    "overlayLines": [
+      "Whispers of language collide",
+      "Unexpected echoes ring true",
+      "Fragments that breathe delight",
+      "Chaos nurtures wild creation"
+    ],
+    "backgroundElements": [
+      {
+        "type": "bar",
+        "x": 85.91,
+        "y": 92.56,
+        "size": 35.32,
+        "blur": 8.02,
+        "opacity": 0.6,
+        "rotate": -19.32
+      },
+      {
+        "type": "diamond",
+        "x": 4.63,
+        "y": 56.96,
+        "size": 19.67,
+        "blur": 7.85,
+        "opacity": 0.57,
+        "rotate": 33.35
+      },
+      {
+        "type": "ring",
+        "x": 86.38,
+        "y": 94.1,
+        "size": 38.99,
+        "blur": 14.73,
+        "opacity": 0.36,
+        "rotate": 13.5
+      },
+      {
+        "type": "block",
+        "x": 1.54,
+        "y": 31.92,
+        "size": 28.94,
+        "blur": 0.14,
+        "opacity": 0.51,
+        "rotate": -5.97
+      },
+      {
+        "type": "orb",
+        "x": 89.05,
+        "y": 5.41,
+        "size": 39.36,
+        "blur": 14.88,
+        "opacity": 0.56,
+        "rotate": -25.35
+      },
+      {
+        "type": "bar",
+        "x": 6.59,
+        "y": 86.23,
+        "size": 30.27,
+        "blur": 4.58,
+        "opacity": 0.18,
+        "rotate": -5.37
+      },
+      {
+        "type": "diamond",
+        "x": 28.08,
+        "y": 14.67,
+        "size": 36.76,
+        "blur": 15.4,
+        "opacity": 0.33,
+        "rotate": -18.39
+      }
+    ],
+    "shapes": [
+      {
+        "x": 85.91,
+        "y": 92.56,
+        "size": 35.32,
+        "blur": 8.02,
+        "opacity": 0.6
+      },
+      {
+        "x": 4.63,
+        "y": 56.96,
+        "size": 19.67,
+        "blur": 7.85,
+        "opacity": 0.57
+      },
+      {
+        "x": 86.38,
+        "y": 94.1,
+        "size": 38.99,
+        "blur": 14.73,
+        "opacity": 0.36
+      },
+      {
+        "x": 1.54,
+        "y": 31.92,
+        "size": 28.94,
+        "blur": 0.14,
+        "opacity": 0.51
+      },
+      {
+        "x": 89.05,
+        "y": 5.41,
+        "size": 39.36,
+        "blur": 14.88,
+        "opacity": 0.56
+      },
+      {
+        "x": 6.59,
+        "y": 86.23,
+        "size": 30.27,
+        "blur": 4.58,
+        "opacity": 0.18
+      },
+      {
+        "x": 28.08,
+        "y": 14.67,
+        "size": 36.76,
+        "blur": 15.4,
+        "opacity": 0.33
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-30T23-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-30T23-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-30T23-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-30T22:00:00Z",
     "hourKey": "2026-03-30T22:00:00Z",
     "mood": "paranoid",
