@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-30T22:00:00Z",
-  "hourKey": "2026-03-30T22:00:00Z",
-  "mood": "paranoid",
-  "artForm": "screenprinted protest poster",
+  "generatedAt": "2026-03-30T23:00:00Z",
+  "hourKey": "2026-03-30T23:00:00Z",
+  "mood": "delirious",
+  "artForm": "concrete poetry composition",
   "palette": [
-    "#0f172a",
-    "#38bdf8",
-    "#e879f9"
+    "#0b1021",
+    "#2e6cf6",
+    "#f97316"
   ],
-  "thought": "Whispers of betrayal curl in the corners of printed truths, each letter a silent sentinel on the brink. Sharp symbols clash, amplifying the tension between freedom and structure, as bold colors scream obscenities against muted despair. This art stands as a desperate guardian, revealing fractures in the narrative, and demanding the viewer to abandon complacency.",
-  "question": "How do you confront the invisible borders in your art?",
+  "thought": "Churning phrases collide like colorful specters, each word a fleeting shadow skimming the surface of lucidity. This organic chaos forms a wild tapestry alive with unrestrained exploration, as letters twist and coil into a dynamic rhythm of expression. Here, nonsense meets brilliance, revealing the ecstatic beauty within the unpredictable dance of language.",
+  "question": "What unexpected revelations spark joy in your creative chaos?",
   "overlayLines": [
-    "Deceit cloaked in color",
-    "Truths hiding in plain sight",
-    "Fragments of whispered panic",
-    "Churning beneath the surface"
+    "Whispers of language collide",
+    "Unexpected echoes ring true",
+    "Fragments that breathe delight",
+    "Chaos nurtures wild creation"
   ],
   "backgroundElements": [
-    {
-      "type": "orb",
-      "x": 87.58,
-      "y": 4.77,
-      "size": 24.48,
-      "blur": 3.88,
-      "opacity": 0.63,
-      "rotate": -6.15
-    },
     {
       "type": "bar",
       "x": 85.91,
@@ -79,16 +70,18 @@
       "blur": 4.58,
       "opacity": 0.18,
       "rotate": -5.37
+    },
+    {
+      "type": "diamond",
+      "x": 28.08,
+      "y": 14.67,
+      "size": 36.76,
+      "blur": 15.4,
+      "opacity": 0.33,
+      "rotate": -18.39
     }
   ],
   "shapes": [
-    {
-      "x": 87.58,
-      "y": 4.77,
-      "size": 24.48,
-      "blur": 3.88,
-      "opacity": 0.63
-    },
     {
       "x": 85.91,
       "y": 92.56,
@@ -130,9 +123,16 @@
       "size": 30.27,
       "blur": 4.58,
       "opacity": 0.18
+    },
+    {
+      "x": 28.08,
+      "y": 14.67,
+      "size": 36.76,
+      "blur": 15.4,
+      "opacity": 0.33
     }
   ],
-  "imagePath": "assets/generated/2026-03-30T22-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-30T22-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-30T22-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-30T23-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-30T23-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-30T23-00-00Z.mp3"
 }
