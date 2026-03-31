@@ -1,49 +1,22 @@
 {
-  "generatedAt": "2026-03-31T11:00:00Z",
-  "hourKey": "2026-03-31T11:00:00Z",
-  "mood": "crooked",
-  "artForm": "rave flyer typography",
+  "generatedAt": "2026-03-31T14:00:00Z",
+  "hourKey": "2026-03-31T14:00:00Z",
+  "mood": "tender",
+  "artForm": "brutalist editorial spread",
   "palette": [
-    "#0b1021",
-    "#2e6cf6",
-    "#f97316"
+    "#1a1020",
+    "#ec4899",
+    "#a78bfa"
   ],
-  "thought": "Warped letters cascade like forgotten dreams, pulsating against the night. They murmur secrets through crumpled designs, creating a jarring rhythm that teeters on the edge of delirium. Each print subverts expectation, beckoning adventurers into a vibrant chaos, where art transcends its medium, igniting the unexpected flames of revelry and defiance.",
-  "question": "What contradictions fuel your unorthodox expressions of emotion?",
+  "thought": "Fleeting moments crystallize on jagged backdrops, desires etched into the turmoil of structure. Dappled emotions weave through harsh lines, forming a tender embrace amid architectural disorder. Each print poetically articulates vulnerability, challenging notions of beauty through the disquiet of existence, urging us to find softness in chaos.",
+  "question": "What delicate nuances arise from your tangled artistic explorations?",
   "overlayLines": [
-    "Crumpled dreams collide.",
-    "Neon chaos prevails.",
-    "Whispers in the dark.",
-    "Defiance shatters silence."
+    "Embrace the contrasting emotions",
+    "In chaos, find your whispers",
+    "Art blooms in unexpected places",
+    "Tension breeds unseen tenderness"
   ],
   "backgroundElements": [
-    {
-      "type": "ring",
-      "x": 93.9,
-      "y": 98.54,
-      "size": 31.24,
-      "blur": 1.03,
-      "opacity": 0.53,
-      "rotate": 25.24
-    },
-    {
-      "type": "block",
-      "x": 76.68,
-      "y": 74.91,
-      "size": 20.1,
-      "blur": 5.2,
-      "opacity": 0.26,
-      "rotate": 33.88
-    },
-    {
-      "type": "orb",
-      "x": 79.5,
-      "y": 93.62,
-      "size": 18.24,
-      "blur": 8.26,
-      "opacity": 0.41,
-      "rotate": 23.58
-    },
     {
       "type": "bar",
       "x": 64.64,
@@ -79,30 +52,36 @@
       "blur": 15.83,
       "opacity": 0.48,
       "rotate": -25.55
+    },
+    {
+      "type": "orb",
+      "x": 4.2,
+      "y": 76.82,
+      "size": 38.71,
+      "blur": 3.82,
+      "opacity": 0.3,
+      "rotate": 14.16
+    },
+    {
+      "type": "bar",
+      "x": 95.13,
+      "y": 63.02,
+      "size": 21.36,
+      "blur": 13.07,
+      "opacity": 0.32,
+      "rotate": -29.97
+    },
+    {
+      "type": "diamond",
+      "x": 89.36,
+      "y": 40.13,
+      "size": 32.02,
+      "blur": 11.58,
+      "opacity": 0.2,
+      "rotate": 4.28
     }
   ],
   "shapes": [
-    {
-      "x": 93.9,
-      "y": 98.54,
-      "size": 31.24,
-      "blur": 1.03,
-      "opacity": 0.53
-    },
-    {
-      "x": 76.68,
-      "y": 74.91,
-      "size": 20.1,
-      "blur": 5.2,
-      "opacity": 0.26
-    },
-    {
-      "x": 79.5,
-      "y": 93.62,
-      "size": 18.24,
-      "blur": 8.26,
-      "opacity": 0.41
-    },
     {
       "x": 64.64,
       "y": 77.64,
@@ -130,9 +109,30 @@
       "size": 32.8,
       "blur": 15.83,
       "opacity": 0.48
+    },
+    {
+      "x": 4.2,
+      "y": 76.82,
+      "size": 38.71,
+      "blur": 3.82,
+      "opacity": 0.3
+    },
+    {
+      "x": 95.13,
+      "y": 63.02,
+      "size": 21.36,
+      "blur": 13.07,
+      "opacity": 0.32
+    },
+    {
+      "x": 89.36,
+      "y": 40.13,
+      "size": 32.02,
+      "blur": 11.58,
+      "opacity": 0.2
     }
   ],
-  "imagePath": "assets/generated/2026-03-31T11-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-31T11-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-31T11-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-31T14-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-31T14-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-31T14-00-00Z.mp3"
 }
