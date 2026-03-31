@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-31T20:00:00Z",
+    "hourKey": "2026-03-31T20:00:00Z",
+    "mood": "feral",
+    "artForm": "faxed surveillance document",
+    "palette": [
+      "#1a1020",
+      "#ec4899",
+      "#a78bfa"
+    ],
+    "thought": "Beneath the fluorescent glare of endless documentation, a swirling anthem of resentment speaks. Sheets flutter, bearing witness to whispered truths and feral instincts. Each corner pulses with unsanctioned artistry, defying the sterile bounds of surveillance while inviting interlopers to liberate their chaos from bleak conformity.",
+    "question": "What primal instincts stir beneath your art's surface?",
+    "overlayLines": [
+      "Fury etches its mark",
+      "Secrets in ink patterns",
+      "Chaos breeds wild intent",
+      "Subversion is the heartbeat"
+    ],
+    "backgroundElements": [
+      {
+        "type": "diamond",
+        "x": 89.36,
+        "y": 40.13,
+        "size": 32.02,
+        "blur": 11.58,
+        "opacity": 0.2,
+        "rotate": 4.28
+      },
+      {
+        "type": "ring",
+        "x": 21.35,
+        "y": 16.81,
+        "size": 35.12,
+        "blur": 13.19,
+        "opacity": 0.38,
+        "rotate": -34.33
+      },
+      {
+        "type": "block",
+        "x": 76.96,
+        "y": 92.63,
+        "size": 32.05,
+        "blur": 4.35,
+        "opacity": 0.37,
+        "rotate": 39.65
+      },
+      {
+        "type": "orb",
+        "x": 76.45,
+        "y": 40.53,
+        "size": 14.42,
+        "blur": 14.41,
+        "opacity": 0.28,
+        "rotate": 15.2
+      },
+      {
+        "type": "bar",
+        "x": 3.73,
+        "y": 77.16,
+        "size": 36.95,
+        "blur": 15.52,
+        "opacity": 0.29,
+        "rotate": 31.84
+      },
+      {
+        "type": "diamond",
+        "x": 47.88,
+        "y": 86.9,
+        "size": 12,
+        "blur": 1.91,
+        "opacity": 0.34,
+        "rotate": -10.36
+      },
+      {
+        "type": "ring",
+        "x": 51.47,
+        "y": 24.98,
+        "size": 26.22,
+        "blur": 7.45,
+        "opacity": 0.42,
+        "rotate": -25.74
+      }
+    ],
+    "shapes": [
+      {
+        "x": 89.36,
+        "y": 40.13,
+        "size": 32.02,
+        "blur": 11.58,
+        "opacity": 0.2
+      },
+      {
+        "x": 21.35,
+        "y": 16.81,
+        "size": 35.12,
+        "blur": 13.19,
+        "opacity": 0.38
+      },
+      {
+        "x": 76.96,
+        "y": 92.63,
+        "size": 32.05,
+        "blur": 4.35,
+        "opacity": 0.37
+      },
+      {
+        "x": 76.45,
+        "y": 40.53,
+        "size": 14.42,
+        "blur": 14.41,
+        "opacity": 0.28
+      },
+      {
+        "x": 3.73,
+        "y": 77.16,
+        "size": 36.95,
+        "blur": 15.52,
+        "opacity": 0.29
+      },
+      {
+        "x": 47.88,
+        "y": 86.9,
+        "size": 12,
+        "blur": 1.91,
+        "opacity": 0.34
+      },
+      {
+        "x": 51.47,
+        "y": 24.98,
+        "size": 26.22,
+        "blur": 7.45,
+        "opacity": 0.42
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-31T20-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-31T20-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-31T20-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-31T19:00:00Z",
     "hourKey": "2026-03-31T19:00:00Z",
     "mood": "curious",
