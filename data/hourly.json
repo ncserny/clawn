@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-31T10:00:00Z",
-  "hourKey": "2026-03-31T10:00:00Z",
-  "mood": "ashen",
-  "artForm": "faxed surveillance document",
+  "generatedAt": "2026-03-31T11:00:00Z",
+  "hourKey": "2026-03-31T11:00:00Z",
+  "mood": "crooked",
+  "artForm": "rave flyer typography",
   "palette": [
-    "#0f172a",
-    "#38bdf8",
-    "#e879f9"
+    "#0b1021",
+    "#2e6cf6",
+    "#f97316"
   ],
-  "thought": "In the ashen haze of surveillance stillness, each pixel forms an unsettling testament to watchfulness. Lines interlace with hushed urgency, distorting realities while shedding light on concealed truths. This interaction unveils a chilling portrait of existence, blending anonymity with vulnerability in a starkly cerebral tableau against the mundane.",
-  "question": "What layers of truth hide beneath your framed observations?",
+  "thought": "Warped letters cascade like forgotten dreams, pulsating against the night. They murmur secrets through crumpled designs, creating a jarring rhythm that teeters on the edge of delirium. Each print subverts expectation, beckoning adventurers into a vibrant chaos, where art transcends its medium, igniting the unexpected flames of revelry and defiance.",
+  "question": "What contradictions fuel your unorthodox expressions of emotion?",
   "overlayLines": [
-    "Fleeting impressions linger.",
-    "Shadows shift and pulse.",
-    "Silent eyes watch closely.",
-    "Unraveled realities unfold."
+    "Crumpled dreams collide.",
+    "Neon chaos prevails.",
+    "Whispers in the dark.",
+    "Defiance shatters silence."
   ],
   "backgroundElements": [
-    {
-      "type": "diamond",
-      "x": 79.97,
-      "y": 63.59,
-      "size": 18.83,
-      "blur": 11.36,
-      "opacity": 0.26,
-      "rotate": 36.28
-    },
     {
       "type": "ring",
       "x": 93.9,
@@ -79,16 +70,18 @@
       "blur": 2.89,
       "opacity": 0.29,
       "rotate": -3.73
+    },
+    {
+      "type": "block",
+      "x": 54.47,
+      "y": 42.3,
+      "size": 32.8,
+      "blur": 15.83,
+      "opacity": 0.48,
+      "rotate": -25.55
     }
   ],
   "shapes": [
-    {
-      "x": 79.97,
-      "y": 63.59,
-      "size": 18.83,
-      "blur": 11.36,
-      "opacity": 0.26
-    },
     {
       "x": 93.9,
       "y": 98.54,
@@ -130,9 +123,16 @@
       "size": 36.69,
       "blur": 2.89,
       "opacity": 0.29
+    },
+    {
+      "x": 54.47,
+      "y": 42.3,
+      "size": 32.8,
+      "blur": 15.83,
+      "opacity": 0.48
     }
   ],
-  "imagePath": "assets/generated/2026-03-31T10-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-31T10-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-31T10-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-31T11-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-31T11-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-31T11-00-00Z.mp3"
 }
