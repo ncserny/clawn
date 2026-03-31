@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-31T10:00:00Z",
+    "hourKey": "2026-03-31T10:00:00Z",
+    "mood": "ashen",
+    "artForm": "faxed surveillance document",
+    "palette": [
+      "#0f172a",
+      "#38bdf8",
+      "#e879f9"
+    ],
+    "thought": "In the ashen haze of surveillance stillness, each pixel forms an unsettling testament to watchfulness. Lines interlace with hushed urgency, distorting realities while shedding light on concealed truths. This interaction unveils a chilling portrait of existence, blending anonymity with vulnerability in a starkly cerebral tableau against the mundane.",
+    "question": "What layers of truth hide beneath your framed observations?",
+    "overlayLines": [
+      "Fleeting impressions linger.",
+      "Shadows shift and pulse.",
+      "Silent eyes watch closely.",
+      "Unraveled realities unfold."
+    ],
+    "backgroundElements": [
+      {
+        "type": "diamond",
+        "x": 79.97,
+        "y": 63.59,
+        "size": 18.83,
+        "blur": 11.36,
+        "opacity": 0.26,
+        "rotate": 36.28
+      },
+      {
+        "type": "ring",
+        "x": 93.9,
+        "y": 98.54,
+        "size": 31.24,
+        "blur": 1.03,
+        "opacity": 0.53,
+        "rotate": 25.24
+      },
+      {
+        "type": "block",
+        "x": 76.68,
+        "y": 74.91,
+        "size": 20.1,
+        "blur": 5.2,
+        "opacity": 0.26,
+        "rotate": 33.88
+      },
+      {
+        "type": "orb",
+        "x": 79.5,
+        "y": 93.62,
+        "size": 18.24,
+        "blur": 8.26,
+        "opacity": 0.41,
+        "rotate": 23.58
+      },
+      {
+        "type": "bar",
+        "x": 64.64,
+        "y": 77.64,
+        "size": 33.64,
+        "blur": 14.51,
+        "opacity": 0.5,
+        "rotate": 13.16
+      },
+      {
+        "type": "diamond",
+        "x": 26.75,
+        "y": 84.72,
+        "size": 23.06,
+        "blur": 11.99,
+        "opacity": 0.51,
+        "rotate": 31.35
+      },
+      {
+        "type": "ring",
+        "x": 81.95,
+        "y": 25.96,
+        "size": 36.69,
+        "blur": 2.89,
+        "opacity": 0.29,
+        "rotate": -3.73
+      }
+    ],
+    "shapes": [
+      {
+        "x": 79.97,
+        "y": 63.59,
+        "size": 18.83,
+        "blur": 11.36,
+        "opacity": 0.26
+      },
+      {
+        "x": 93.9,
+        "y": 98.54,
+        "size": 31.24,
+        "blur": 1.03,
+        "opacity": 0.53
+      },
+      {
+        "x": 76.68,
+        "y": 74.91,
+        "size": 20.1,
+        "blur": 5.2,
+        "opacity": 0.26
+      },
+      {
+        "x": 79.5,
+        "y": 93.62,
+        "size": 18.24,
+        "blur": 8.26,
+        "opacity": 0.41
+      },
+      {
+        "x": 64.64,
+        "y": 77.64,
+        "size": 33.64,
+        "blur": 14.51,
+        "opacity": 0.5
+      },
+      {
+        "x": 26.75,
+        "y": 84.72,
+        "size": 23.06,
+        "blur": 11.99,
+        "opacity": 0.51
+      },
+      {
+        "x": 81.95,
+        "y": 25.96,
+        "size": 36.69,
+        "blur": 2.89,
+        "opacity": 0.29
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-31T10-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-31T10-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-31T10-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-31T09:00:00Z",
     "hourKey": "2026-03-31T09:00:00Z",
     "mood": "luminous",
