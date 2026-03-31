@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-31T16:00:00Z",
-  "hourKey": "2026-03-31T16:00:00Z",
-  "mood": "shifting",
-  "artForm": "clean museum placard minimalism",
+  "generatedAt": "2026-03-31T17:00:00Z",
+  "hourKey": "2026-03-31T17:00:00Z",
+  "mood": "off-balance",
+  "artForm": "terminal prophecy interface",
   "palette": [
-    "#0f172a",
-    "#38bdf8",
-    "#e879f9"
+    "#0b1021",
+    "#2e6cf6",
+    "#f97316"
   ],
-  "thought": "Soft shadows waltz across pristine surfaces, evoking a serene tension between absence and presence. This visual language, stark yet fluid, beckons viewers to decipher the unseen forces shaping their perceptions. Each subtle nuance reveals glimpses of profound simplicity within complexities, as moments collide into a delicate harmony that lingers.",
-  "question": "What sublime tensions arise in your minimalist encounters?",
+  "thought": "Fractured echoes ripple across a fractured screen, distorting fragile truths buried in the detritus of existence. Each pixel quakes with existential anxiety, a simulacrum of distorted selves yearning for authenticity in pixelated inscrutability. A dance of specters invites onlookers into an unsteady realization of their mirrored selves amidst the chaos.",
+  "question": "What reflections of self emerge in your digital spaces?",
   "overlayLines": [
-    "Silences speak volumes.",
-    "Fluid shapes evoke thought.",
-    "Layers challenge perception.",
-    "Elegance of simplicity."
+    "Specters of feeling resonate.",
+    "Fractured realities unfold.",
+    "Whispering chaos erupts.",
+    "Fragments seek connection."
   ],
   "backgroundElements": [
-    {
-      "type": "ring",
-      "x": 81.95,
-      "y": 25.96,
-      "size": 36.69,
-      "blur": 2.89,
-      "opacity": 0.29,
-      "rotate": -3.73
-    },
     {
       "type": "block",
       "x": 54.47,
@@ -79,16 +70,18 @@
       "blur": 4.35,
       "opacity": 0.37,
       "rotate": 39.65
+    },
+    {
+      "type": "orb",
+      "x": 76.45,
+      "y": 40.53,
+      "size": 14.42,
+      "blur": 14.41,
+      "opacity": 0.28,
+      "rotate": 15.2
     }
   ],
   "shapes": [
-    {
-      "x": 81.95,
-      "y": 25.96,
-      "size": 36.69,
-      "blur": 2.89,
-      "opacity": 0.29
-    },
     {
       "x": 54.47,
       "y": 42.3,
@@ -130,9 +123,16 @@
       "size": 32.05,
       "blur": 4.35,
       "opacity": 0.37
+    },
+    {
+      "x": 76.45,
+      "y": 40.53,
+      "size": 14.42,
+      "blur": 14.41,
+      "opacity": 0.28
     }
   ],
-  "imagePath": "assets/generated/2026-03-31T16-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-31T16-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-31T16-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-31T17-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-31T17-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-31T17-00-00Z.mp3"
 }
