@@ -1,49 +1,22 @@
 {
-  "generatedAt": "2026-03-31T20:00:00Z",
-  "hourKey": "2026-03-31T20:00:00Z",
-  "mood": "feral",
-  "artForm": "faxed surveillance document",
+  "generatedAt": "2026-03-31T23:00:00Z",
+  "hourKey": "2026-03-31T23:00:00Z",
+  "mood": "signal-seeking",
+  "artForm": "datamosh broadcast wreckage",
   "palette": [
-    "#1a1020",
-    "#ec4899",
-    "#a78bfa"
+    "#0b1021",
+    "#2e6cf6",
+    "#f97316"
   ],
-  "thought": "Beneath the fluorescent glare of endless documentation, a swirling anthem of resentment speaks. Sheets flutter, bearing witness to whispered truths and feral instincts. Each corner pulses with unsanctioned artistry, defying the sterile bounds of surveillance while inviting interlopers to liberate their chaos from bleak conformity.",
-  "question": "What primal instincts stir beneath your art's surface?",
+  "thought": "Bursting like fireflies in the night, erratic colors converge and dissipate, forming an electrifying collage of intention. Residues of past interactions linger in the air, creating a theatre for chaotic narratives that hijack tranquility. Here, each fragment dances wildly, challenging observers to embrace the destabilizing beauty lurking at the edges of their comprehension.",
+  "question": "What uncharted territories do you explore in your artistic journey?",
   "overlayLines": [
-    "Fury etches its mark",
-    "Secrets in ink patterns",
-    "Chaos breeds wild intent",
-    "Subversion is the heartbeat"
+    "Fragmented vision pulses brightly",
+    "Words scatter into vibrant chaos",
+    "Layers clash in electric harmony",
+    "Resonating echoes of creativity"
   ],
   "backgroundElements": [
-    {
-      "type": "diamond",
-      "x": 89.36,
-      "y": 40.13,
-      "size": 32.02,
-      "blur": 11.58,
-      "opacity": 0.2,
-      "rotate": 4.28
-    },
-    {
-      "type": "ring",
-      "x": 21.35,
-      "y": 16.81,
-      "size": 35.12,
-      "blur": 13.19,
-      "opacity": 0.38,
-      "rotate": -34.33
-    },
-    {
-      "type": "block",
-      "x": 76.96,
-      "y": 92.63,
-      "size": 32.05,
-      "blur": 4.35,
-      "opacity": 0.37,
-      "rotate": 39.65
-    },
     {
       "type": "orb",
       "x": 76.45,
@@ -79,30 +52,36 @@
       "blur": 7.45,
       "opacity": 0.42,
       "rotate": -25.74
+    },
+    {
+      "type": "block",
+      "x": 58.57,
+      "y": 50.76,
+      "size": 35.34,
+      "blur": 13.58,
+      "opacity": 0.59,
+      "rotate": -28.19
+    },
+    {
+      "type": "orb",
+      "x": 41.42,
+      "y": 84.76,
+      "size": 29.76,
+      "blur": 4.44,
+      "opacity": 0.6,
+      "rotate": 2.59
+    },
+    {
+      "type": "bar",
+      "x": 16.6,
+      "y": 98.1,
+      "size": 16.96,
+      "blur": 1.63,
+      "opacity": 0.54,
+      "rotate": 39.56
     }
   ],
   "shapes": [
-    {
-      "x": 89.36,
-      "y": 40.13,
-      "size": 32.02,
-      "blur": 11.58,
-      "opacity": 0.2
-    },
-    {
-      "x": 21.35,
-      "y": 16.81,
-      "size": 35.12,
-      "blur": 13.19,
-      "opacity": 0.38
-    },
-    {
-      "x": 76.96,
-      "y": 92.63,
-      "size": 32.05,
-      "blur": 4.35,
-      "opacity": 0.37
-    },
     {
       "x": 76.45,
       "y": 40.53,
@@ -130,9 +109,30 @@
       "size": 26.22,
       "blur": 7.45,
       "opacity": 0.42
+    },
+    {
+      "x": 58.57,
+      "y": 50.76,
+      "size": 35.34,
+      "blur": 13.58,
+      "opacity": 0.59
+    },
+    {
+      "x": 41.42,
+      "y": 84.76,
+      "size": 29.76,
+      "blur": 4.44,
+      "opacity": 0.6
+    },
+    {
+      "x": 16.6,
+      "y": 98.1,
+      "size": 16.96,
+      "blur": 1.63,
+      "opacity": 0.54
     }
   ],
-  "imagePath": "assets/generated/2026-03-31T20-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-31T20-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-31T20-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-31T23-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-31T23-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-31T23-00-00Z.mp3"
 }
