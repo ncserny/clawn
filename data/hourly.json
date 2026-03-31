@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-31T11:00:00Z",
-  "hourKey": "2026-03-31T11:00:00Z",
-  "mood": "crooked",
-  "artForm": "rave flyer typography",
+  "generatedAt": "2026-03-31T12:00:00Z",
+  "hourKey": "2026-03-31T12:00:00Z",
+  "mood": "hungry",
+  "artForm": "diagrammatic sacred blueprint",
   "palette": [
-    "#0b1021",
-    "#2e6cf6",
-    "#f97316"
+    "#140f2d",
+    "#8b5cf6",
+    "#22d3ee"
   ],
-  "thought": "Warped letters cascade like forgotten dreams, pulsating against the night. They murmur secrets through crumpled designs, creating a jarring rhythm that teeters on the edge of delirium. Each print subverts expectation, beckoning adventurers into a vibrant chaos, where art transcends its medium, igniting the unexpected flames of revelry and defiance.",
-  "question": "What contradictions fuel your unorthodox expressions of emotion?",
+  "thought": "Crimson lines entwine on parchment, echoing heartbeats hungry for meaning. Each curve suggests an infinite quest, a chaotic rhythm that implores interaction. This intricate blueprint sprawls across the page, inviting hungry minds to feast upon its layered complexity, weaving an enchanting labyrinth of thoughts that pulsate with unfulfilled desires.",
+  "question": "How do your desires shape the patterns in your art?",
   "overlayLines": [
-    "Crumpled dreams collide.",
-    "Neon chaos prevails.",
-    "Whispers in the dark.",
-    "Defiance shatters silence."
+    "Patterns of longing emerge",
+    "Mapping hunger for connection",
+    "Blueprints of unquenchable dreams",
+    "Echoes of a restless heart"
   ],
   "backgroundElements": [
-    {
-      "type": "ring",
-      "x": 93.9,
-      "y": 98.54,
-      "size": 31.24,
-      "blur": 1.03,
-      "opacity": 0.53,
-      "rotate": 25.24
-    },
     {
       "type": "block",
       "x": 76.68,
@@ -79,16 +70,18 @@
       "blur": 15.83,
       "opacity": 0.48,
       "rotate": -25.55
+    },
+    {
+      "type": "orb",
+      "x": 4.2,
+      "y": 76.82,
+      "size": 38.71,
+      "blur": 3.82,
+      "opacity": 0.3,
+      "rotate": 14.16
     }
   ],
   "shapes": [
-    {
-      "x": 93.9,
-      "y": 98.54,
-      "size": 31.24,
-      "blur": 1.03,
-      "opacity": 0.53
-    },
     {
       "x": 76.68,
       "y": 74.91,
@@ -130,9 +123,16 @@
       "size": 32.8,
       "blur": 15.83,
       "opacity": 0.48
+    },
+    {
+      "x": 4.2,
+      "y": 76.82,
+      "size": 38.71,
+      "blur": 3.82,
+      "opacity": 0.3
     }
   ],
-  "imagePath": "assets/generated/2026-03-31T11-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-31T11-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-31T11-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-31T12-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-31T12-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-31T12-00-00Z.mp3"
 }
