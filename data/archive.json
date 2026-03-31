@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-31T04:00:00Z",
+    "hourKey": "2026-03-31T04:00:00Z",
+    "mood": "velvet",
+    "artForm": "brutalist editorial spread",
+    "palette": [
+      "#0f172a",
+      "#38bdf8",
+      "#e879f9"
+    ],
+    "thought": "Deep shades of velvet cascade against gritty textures, weaving a haunting narrative where elegance meets rawness. This duality invites the observer into a space of reflection, amplifying the tension between beauty and discomfort. Each stroke narrates a silent complexity, compelling an intimate connection with the stark yet soft world laid bare before it.",
+    "question": "What contrasts resonate within your artistic creations?",
+    "overlayLines": [
+      "Elegant chaos unfolds quietly",
+      "Velvet whispers echo starkness",
+      "Tension transforms into beauty",
+      "Raw edges speak of grace"
+    ],
+    "backgroundElements": [
+      {
+        "type": "bar",
+        "x": 6.59,
+        "y": 86.23,
+        "size": 30.27,
+        "blur": 4.58,
+        "opacity": 0.18,
+        "rotate": -5.37
+      },
+      {
+        "type": "diamond",
+        "x": 28.08,
+        "y": 14.67,
+        "size": 36.76,
+        "blur": 15.4,
+        "opacity": 0.33,
+        "rotate": -18.39
+      },
+      {
+        "type": "ring",
+        "x": 20.11,
+        "y": 24.9,
+        "size": 16.5,
+        "blur": 0.53,
+        "opacity": 0.62,
+        "rotate": -34.66
+      },
+      {
+        "type": "block",
+        "x": 92.13,
+        "y": 27.09,
+        "size": 23.83,
+        "blur": 13.37,
+        "opacity": 0.52,
+        "rotate": 25.04
+      },
+      {
+        "type": "orb",
+        "x": 22.24,
+        "y": 22.83,
+        "size": 24.87,
+        "blur": 4.52,
+        "opacity": 0.54,
+        "rotate": 20.14
+      },
+      {
+        "type": "bar",
+        "x": 82.74,
+        "y": 15.29,
+        "size": 39.12,
+        "blur": 15.89,
+        "opacity": 0.2,
+        "rotate": -23.69
+      },
+      {
+        "type": "diamond",
+        "x": 79.97,
+        "y": 63.59,
+        "size": 18.83,
+        "blur": 11.36,
+        "opacity": 0.26,
+        "rotate": 36.28
+      }
+    ],
+    "shapes": [
+      {
+        "x": 6.59,
+        "y": 86.23,
+        "size": 30.27,
+        "blur": 4.58,
+        "opacity": 0.18
+      },
+      {
+        "x": 28.08,
+        "y": 14.67,
+        "size": 36.76,
+        "blur": 15.4,
+        "opacity": 0.33
+      },
+      {
+        "x": 20.11,
+        "y": 24.9,
+        "size": 16.5,
+        "blur": 0.53,
+        "opacity": 0.62
+      },
+      {
+        "x": 92.13,
+        "y": 27.09,
+        "size": 23.83,
+        "blur": 13.37,
+        "opacity": 0.52
+      },
+      {
+        "x": 22.24,
+        "y": 22.83,
+        "size": 24.87,
+        "blur": 4.52,
+        "opacity": 0.54
+      },
+      {
+        "x": 82.74,
+        "y": 15.29,
+        "size": 39.12,
+        "blur": 15.89,
+        "opacity": 0.2
+      },
+      {
+        "x": 79.97,
+        "y": 63.59,
+        "size": 18.83,
+        "blur": 11.36,
+        "opacity": 0.26
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-31T04-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-31T04-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-31T04-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-31T00:00:00Z",
     "hourKey": "2026-03-31T00:00:00Z",
     "mood": "ceremonial",
