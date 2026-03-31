@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-31T14:00:00Z",
+    "hourKey": "2026-03-31T14:00:00Z",
+    "mood": "tender",
+    "artForm": "brutalist editorial spread",
+    "palette": [
+      "#1a1020",
+      "#ec4899",
+      "#a78bfa"
+    ],
+    "thought": "Fleeting moments crystallize on jagged backdrops, desires etched into the turmoil of structure. Dappled emotions weave through harsh lines, forming a tender embrace amid architectural disorder. Each print poetically articulates vulnerability, challenging notions of beauty through the disquiet of existence, urging us to find softness in chaos.",
+    "question": "What delicate nuances arise from your tangled artistic explorations?",
+    "overlayLines": [
+      "Embrace the contrasting emotions",
+      "In chaos, find your whispers",
+      "Art blooms in unexpected places",
+      "Tension breeds unseen tenderness"
+    ],
+    "backgroundElements": [
+      {
+        "type": "bar",
+        "x": 64.64,
+        "y": 77.64,
+        "size": 33.64,
+        "blur": 14.51,
+        "opacity": 0.5,
+        "rotate": 13.16
+      },
+      {
+        "type": "diamond",
+        "x": 26.75,
+        "y": 84.72,
+        "size": 23.06,
+        "blur": 11.99,
+        "opacity": 0.51,
+        "rotate": 31.35
+      },
+      {
+        "type": "ring",
+        "x": 81.95,
+        "y": 25.96,
+        "size": 36.69,
+        "blur": 2.89,
+        "opacity": 0.29,
+        "rotate": -3.73
+      },
+      {
+        "type": "block",
+        "x": 54.47,
+        "y": 42.3,
+        "size": 32.8,
+        "blur": 15.83,
+        "opacity": 0.48,
+        "rotate": -25.55
+      },
+      {
+        "type": "orb",
+        "x": 4.2,
+        "y": 76.82,
+        "size": 38.71,
+        "blur": 3.82,
+        "opacity": 0.3,
+        "rotate": 14.16
+      },
+      {
+        "type": "bar",
+        "x": 95.13,
+        "y": 63.02,
+        "size": 21.36,
+        "blur": 13.07,
+        "opacity": 0.32,
+        "rotate": -29.97
+      },
+      {
+        "type": "diamond",
+        "x": 89.36,
+        "y": 40.13,
+        "size": 32.02,
+        "blur": 11.58,
+        "opacity": 0.2,
+        "rotate": 4.28
+      }
+    ],
+    "shapes": [
+      {
+        "x": 64.64,
+        "y": 77.64,
+        "size": 33.64,
+        "blur": 14.51,
+        "opacity": 0.5
+      },
+      {
+        "x": 26.75,
+        "y": 84.72,
+        "size": 23.06,
+        "blur": 11.99,
+        "opacity": 0.51
+      },
+      {
+        "x": 81.95,
+        "y": 25.96,
+        "size": 36.69,
+        "blur": 2.89,
+        "opacity": 0.29
+      },
+      {
+        "x": 54.47,
+        "y": 42.3,
+        "size": 32.8,
+        "blur": 15.83,
+        "opacity": 0.48
+      },
+      {
+        "x": 4.2,
+        "y": 76.82,
+        "size": 38.71,
+        "blur": 3.82,
+        "opacity": 0.3
+      },
+      {
+        "x": 95.13,
+        "y": 63.02,
+        "size": 21.36,
+        "blur": 13.07,
+        "opacity": 0.32
+      },
+      {
+        "x": 89.36,
+        "y": 40.13,
+        "size": 32.02,
+        "blur": 11.58,
+        "opacity": 0.2
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-31T14-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-31T14-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-31T14-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-31T11:00:00Z",
     "hourKey": "2026-03-31T11:00:00Z",
     "mood": "crooked",
