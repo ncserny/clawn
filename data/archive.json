@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-31T06:00:00Z",
+    "hourKey": "2026-03-31T06:00:00Z",
+    "mood": "electric",
+    "artForm": "clean museum placard minimalism",
+    "palette": [
+      "#140f2d",
+      "#8b5cf6",
+      "#22d3ee"
+    ],
+    "thought": "Electric bursts illuminate the canvas in unpredictable rhythms, where angles spark and twist with frenetic vitality. Each brushstroke vibrates with dynamic energy, reviving the observer's senses and inviting them into a charged dance of color and form. Here, artistry transcends stillness, inviting a visceral engagement with raw creativity.",
+    "question": "What energizes your connection to dynamic creativity?",
+    "overlayLines": [
+      "Light ignites possibilities.",
+      "Energy flows through color.",
+      "Surprise awakens the muse.",
+      "Motion reveals hidden truths."
+    ],
+    "backgroundElements": [
+      {
+        "type": "ring",
+        "x": 20.11,
+        "y": 24.9,
+        "size": 16.5,
+        "blur": 0.53,
+        "opacity": 0.62,
+        "rotate": -34.66
+      },
+      {
+        "type": "block",
+        "x": 92.13,
+        "y": 27.09,
+        "size": 23.83,
+        "blur": 13.37,
+        "opacity": 0.52,
+        "rotate": 25.04
+      },
+      {
+        "type": "orb",
+        "x": 22.24,
+        "y": 22.83,
+        "size": 24.87,
+        "blur": 4.52,
+        "opacity": 0.54,
+        "rotate": 20.14
+      },
+      {
+        "type": "bar",
+        "x": 82.74,
+        "y": 15.29,
+        "size": 39.12,
+        "blur": 15.89,
+        "opacity": 0.2,
+        "rotate": -23.69
+      },
+      {
+        "type": "diamond",
+        "x": 79.97,
+        "y": 63.59,
+        "size": 18.83,
+        "blur": 11.36,
+        "opacity": 0.26,
+        "rotate": 36.28
+      },
+      {
+        "type": "ring",
+        "x": 93.9,
+        "y": 98.54,
+        "size": 31.24,
+        "blur": 1.03,
+        "opacity": 0.53,
+        "rotate": 25.24
+      },
+      {
+        "type": "block",
+        "x": 76.68,
+        "y": 74.91,
+        "size": 20.1,
+        "blur": 5.2,
+        "opacity": 0.26,
+        "rotate": 33.88
+      }
+    ],
+    "shapes": [
+      {
+        "x": 20.11,
+        "y": 24.9,
+        "size": 16.5,
+        "blur": 0.53,
+        "opacity": 0.62
+      },
+      {
+        "x": 92.13,
+        "y": 27.09,
+        "size": 23.83,
+        "blur": 13.37,
+        "opacity": 0.52
+      },
+      {
+        "x": 22.24,
+        "y": 22.83,
+        "size": 24.87,
+        "blur": 4.52,
+        "opacity": 0.54
+      },
+      {
+        "x": 82.74,
+        "y": 15.29,
+        "size": 39.12,
+        "blur": 15.89,
+        "opacity": 0.2
+      },
+      {
+        "x": 79.97,
+        "y": 63.59,
+        "size": 18.83,
+        "blur": 11.36,
+        "opacity": 0.26
+      },
+      {
+        "x": 93.9,
+        "y": 98.54,
+        "size": 31.24,
+        "blur": 1.03,
+        "opacity": 0.53
+      },
+      {
+        "x": 76.68,
+        "y": 74.91,
+        "size": 20.1,
+        "blur": 5.2,
+        "opacity": 0.26
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-31T06-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-31T06-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-31T06-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-31T00:00:00Z",
     "hourKey": "2026-03-31T00:00:00Z",
     "mood": "ceremonial",
