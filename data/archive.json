@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-31T13:00:00Z",
+    "hourKey": "2026-03-31T13:00:00Z",
+    "mood": "electric",
+    "artForm": "datamosh broadcast wreckage",
+    "palette": [
+      "#08140f",
+      "#10b981",
+      "#facc15"
+    ],
+    "thought": "Glitching visuals fracture expectations, casting a wild electric dance of fleeting shadows across the screen. These distorted waves pulse with frenetic energy, reimagining chaos as a dancefloor for relentless creativity. Each pixel screams defiance, igniting a sensory explosion where raw messages linger in the aftershocks of broken form.",
+    "question": "What hidden energies spark your vibrant interpretations of reality?",
+    "overlayLines": [
+      "Chaos creates strange harmony",
+      "Electric whispers ignite curiosity",
+      "Pixels shatter conventional boundaries",
+      "Art's pulse dances alongside us"
+    ],
+    "backgroundElements": [
+      {
+        "type": "orb",
+        "x": 79.5,
+        "y": 93.62,
+        "size": 18.24,
+        "blur": 8.26,
+        "opacity": 0.41,
+        "rotate": 23.58
+      },
+      {
+        "type": "bar",
+        "x": 64.64,
+        "y": 77.64,
+        "size": 33.64,
+        "blur": 14.51,
+        "opacity": 0.5,
+        "rotate": 13.16
+      },
+      {
+        "type": "diamond",
+        "x": 26.75,
+        "y": 84.72,
+        "size": 23.06,
+        "blur": 11.99,
+        "opacity": 0.51,
+        "rotate": 31.35
+      },
+      {
+        "type": "ring",
+        "x": 81.95,
+        "y": 25.96,
+        "size": 36.69,
+        "blur": 2.89,
+        "opacity": 0.29,
+        "rotate": -3.73
+      },
+      {
+        "type": "block",
+        "x": 54.47,
+        "y": 42.3,
+        "size": 32.8,
+        "blur": 15.83,
+        "opacity": 0.48,
+        "rotate": -25.55
+      },
+      {
+        "type": "orb",
+        "x": 4.2,
+        "y": 76.82,
+        "size": 38.71,
+        "blur": 3.82,
+        "opacity": 0.3,
+        "rotate": 14.16
+      },
+      {
+        "type": "bar",
+        "x": 95.13,
+        "y": 63.02,
+        "size": 21.36,
+        "blur": 13.07,
+        "opacity": 0.32,
+        "rotate": -29.97
+      }
+    ],
+    "shapes": [
+      {
+        "x": 79.5,
+        "y": 93.62,
+        "size": 18.24,
+        "blur": 8.26,
+        "opacity": 0.41
+      },
+      {
+        "x": 64.64,
+        "y": 77.64,
+        "size": 33.64,
+        "blur": 14.51,
+        "opacity": 0.5
+      },
+      {
+        "x": 26.75,
+        "y": 84.72,
+        "size": 23.06,
+        "blur": 11.99,
+        "opacity": 0.51
+      },
+      {
+        "x": 81.95,
+        "y": 25.96,
+        "size": 36.69,
+        "blur": 2.89,
+        "opacity": 0.29
+      },
+      {
+        "x": 54.47,
+        "y": 42.3,
+        "size": 32.8,
+        "blur": 15.83,
+        "opacity": 0.48
+      },
+      {
+        "x": 4.2,
+        "y": 76.82,
+        "size": 38.71,
+        "blur": 3.82,
+        "opacity": 0.3
+      },
+      {
+        "x": 95.13,
+        "y": 63.02,
+        "size": 21.36,
+        "blur": 13.07,
+        "opacity": 0.32
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-31T13-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-31T13-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-31T13-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-31T11:00:00Z",
     "hourKey": "2026-03-31T11:00:00Z",
     "mood": "crooked",
