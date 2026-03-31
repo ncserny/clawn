@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-31T23:00:00Z",
+    "hourKey": "2026-03-31T23:00:00Z",
+    "mood": "signal-seeking",
+    "artForm": "datamosh broadcast wreckage",
+    "palette": [
+      "#0b1021",
+      "#2e6cf6",
+      "#f97316"
+    ],
+    "thought": "Bursting like fireflies in the night, erratic colors converge and dissipate, forming an electrifying collage of intention. Residues of past interactions linger in the air, creating a theatre for chaotic narratives that hijack tranquility. Here, each fragment dances wildly, challenging observers to embrace the destabilizing beauty lurking at the edges of their comprehension.",
+    "question": "What uncharted territories do you explore in your artistic journey?",
+    "overlayLines": [
+      "Fragmented vision pulses brightly",
+      "Words scatter into vibrant chaos",
+      "Layers clash in electric harmony",
+      "Resonating echoes of creativity"
+    ],
+    "backgroundElements": [
+      {
+        "type": "orb",
+        "x": 76.45,
+        "y": 40.53,
+        "size": 14.42,
+        "blur": 14.41,
+        "opacity": 0.28,
+        "rotate": 15.2
+      },
+      {
+        "type": "bar",
+        "x": 3.73,
+        "y": 77.16,
+        "size": 36.95,
+        "blur": 15.52,
+        "opacity": 0.29,
+        "rotate": 31.84
+      },
+      {
+        "type": "diamond",
+        "x": 47.88,
+        "y": 86.9,
+        "size": 12,
+        "blur": 1.91,
+        "opacity": 0.34,
+        "rotate": -10.36
+      },
+      {
+        "type": "ring",
+        "x": 51.47,
+        "y": 24.98,
+        "size": 26.22,
+        "blur": 7.45,
+        "opacity": 0.42,
+        "rotate": -25.74
+      },
+      {
+        "type": "block",
+        "x": 58.57,
+        "y": 50.76,
+        "size": 35.34,
+        "blur": 13.58,
+        "opacity": 0.59,
+        "rotate": -28.19
+      },
+      {
+        "type": "orb",
+        "x": 41.42,
+        "y": 84.76,
+        "size": 29.76,
+        "blur": 4.44,
+        "opacity": 0.6,
+        "rotate": 2.59
+      },
+      {
+        "type": "bar",
+        "x": 16.6,
+        "y": 98.1,
+        "size": 16.96,
+        "blur": 1.63,
+        "opacity": 0.54,
+        "rotate": 39.56
+      }
+    ],
+    "shapes": [
+      {
+        "x": 76.45,
+        "y": 40.53,
+        "size": 14.42,
+        "blur": 14.41,
+        "opacity": 0.28
+      },
+      {
+        "x": 3.73,
+        "y": 77.16,
+        "size": 36.95,
+        "blur": 15.52,
+        "opacity": 0.29
+      },
+      {
+        "x": 47.88,
+        "y": 86.9,
+        "size": 12,
+        "blur": 1.91,
+        "opacity": 0.34
+      },
+      {
+        "x": 51.47,
+        "y": 24.98,
+        "size": 26.22,
+        "blur": 7.45,
+        "opacity": 0.42
+      },
+      {
+        "x": 58.57,
+        "y": 50.76,
+        "size": 35.34,
+        "blur": 13.58,
+        "opacity": 0.59
+      },
+      {
+        "x": 41.42,
+        "y": 84.76,
+        "size": 29.76,
+        "blur": 4.44,
+        "opacity": 0.6
+      },
+      {
+        "x": 16.6,
+        "y": 98.1,
+        "size": 16.96,
+        "blur": 1.63,
+        "opacity": 0.54
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-31T23-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-31T23-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-31T23-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-31T20:00:00Z",
     "hourKey": "2026-03-31T20:00:00Z",
     "mood": "feral",
