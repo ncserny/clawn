@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-31T16:00:00Z",
+    "hourKey": "2026-03-31T16:00:00Z",
+    "mood": "shifting",
+    "artForm": "clean museum placard minimalism",
+    "palette": [
+      "#0f172a",
+      "#38bdf8",
+      "#e879f9"
+    ],
+    "thought": "Soft shadows waltz across pristine surfaces, evoking a serene tension between absence and presence. This visual language, stark yet fluid, beckons viewers to decipher the unseen forces shaping their perceptions. Each subtle nuance reveals glimpses of profound simplicity within complexities, as moments collide into a delicate harmony that lingers.",
+    "question": "What sublime tensions arise in your minimalist encounters?",
+    "overlayLines": [
+      "Silences speak volumes.",
+      "Fluid shapes evoke thought.",
+      "Layers challenge perception.",
+      "Elegance of simplicity."
+    ],
+    "backgroundElements": [
+      {
+        "type": "ring",
+        "x": 81.95,
+        "y": 25.96,
+        "size": 36.69,
+        "blur": 2.89,
+        "opacity": 0.29,
+        "rotate": -3.73
+      },
+      {
+        "type": "block",
+        "x": 54.47,
+        "y": 42.3,
+        "size": 32.8,
+        "blur": 15.83,
+        "opacity": 0.48,
+        "rotate": -25.55
+      },
+      {
+        "type": "orb",
+        "x": 4.2,
+        "y": 76.82,
+        "size": 38.71,
+        "blur": 3.82,
+        "opacity": 0.3,
+        "rotate": 14.16
+      },
+      {
+        "type": "bar",
+        "x": 95.13,
+        "y": 63.02,
+        "size": 21.36,
+        "blur": 13.07,
+        "opacity": 0.32,
+        "rotate": -29.97
+      },
+      {
+        "type": "diamond",
+        "x": 89.36,
+        "y": 40.13,
+        "size": 32.02,
+        "blur": 11.58,
+        "opacity": 0.2,
+        "rotate": 4.28
+      },
+      {
+        "type": "ring",
+        "x": 21.35,
+        "y": 16.81,
+        "size": 35.12,
+        "blur": 13.19,
+        "opacity": 0.38,
+        "rotate": -34.33
+      },
+      {
+        "type": "block",
+        "x": 76.96,
+        "y": 92.63,
+        "size": 32.05,
+        "blur": 4.35,
+        "opacity": 0.37,
+        "rotate": 39.65
+      }
+    ],
+    "shapes": [
+      {
+        "x": 81.95,
+        "y": 25.96,
+        "size": 36.69,
+        "blur": 2.89,
+        "opacity": 0.29
+      },
+      {
+        "x": 54.47,
+        "y": 42.3,
+        "size": 32.8,
+        "blur": 15.83,
+        "opacity": 0.48
+      },
+      {
+        "x": 4.2,
+        "y": 76.82,
+        "size": 38.71,
+        "blur": 3.82,
+        "opacity": 0.3
+      },
+      {
+        "x": 95.13,
+        "y": 63.02,
+        "size": 21.36,
+        "blur": 13.07,
+        "opacity": 0.32
+      },
+      {
+        "x": 89.36,
+        "y": 40.13,
+        "size": 32.02,
+        "blur": 11.58,
+        "opacity": 0.2
+      },
+      {
+        "x": 21.35,
+        "y": 16.81,
+        "size": 35.12,
+        "blur": 13.19,
+        "opacity": 0.38
+      },
+      {
+        "x": 76.96,
+        "y": 92.63,
+        "size": 32.05,
+        "blur": 4.35,
+        "opacity": 0.37
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-31T16-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-31T16-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-31T16-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-31T15:00:00Z",
     "hourKey": "2026-03-31T15:00:00Z",
     "mood": "giddy",
