@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-31T02:00:00Z",
+    "hourKey": "2026-03-31T02:00:00Z",
+    "mood": "luminous",
+    "artForm": "diagrammatic sacred blueprint",
+    "palette": [
+      "#1a1020",
+      "#ec4899",
+      "#a78bfa"
+    ],
+    "thought": "Illuminated patterns pulse like heartbeat rhythms, tracing paths of sacred topology across paper’s surface. Each diagram whispers secrets of existence, intertwining realms of the seen and unseen, igniting a luminous dialogue between observer and creation. Here, intricacies harmonize, inviting depth and wonder into the purposeful chaos of art's essence.",
+    "question": "What hidden connections emerge within your imaginative frameworks?",
+    "overlayLines": [
+      "Radiant intersections beckon exploration",
+      "Sacred lines forge connections unseen",
+      "Echoes of luminosity guide contemplation",
+      "Awaken your mind's luminous blueprint"
+    ],
+    "backgroundElements": [
+      {
+        "type": "block",
+        "x": 1.54,
+        "y": 31.92,
+        "size": 28.94,
+        "blur": 0.14,
+        "opacity": 0.51,
+        "rotate": -5.97
+      },
+      {
+        "type": "orb",
+        "x": 89.05,
+        "y": 5.41,
+        "size": 39.36,
+        "blur": 14.88,
+        "opacity": 0.56,
+        "rotate": -25.35
+      },
+      {
+        "type": "bar",
+        "x": 6.59,
+        "y": 86.23,
+        "size": 30.27,
+        "blur": 4.58,
+        "opacity": 0.18,
+        "rotate": -5.37
+      },
+      {
+        "type": "diamond",
+        "x": 28.08,
+        "y": 14.67,
+        "size": 36.76,
+        "blur": 15.4,
+        "opacity": 0.33,
+        "rotate": -18.39
+      },
+      {
+        "type": "ring",
+        "x": 20.11,
+        "y": 24.9,
+        "size": 16.5,
+        "blur": 0.53,
+        "opacity": 0.62,
+        "rotate": -34.66
+      },
+      {
+        "type": "block",
+        "x": 92.13,
+        "y": 27.09,
+        "size": 23.83,
+        "blur": 13.37,
+        "opacity": 0.52,
+        "rotate": 25.04
+      },
+      {
+        "type": "orb",
+        "x": 22.24,
+        "y": 22.83,
+        "size": 24.87,
+        "blur": 4.52,
+        "opacity": 0.54,
+        "rotate": 20.14
+      }
+    ],
+    "shapes": [
+      {
+        "x": 1.54,
+        "y": 31.92,
+        "size": 28.94,
+        "blur": 0.14,
+        "opacity": 0.51
+      },
+      {
+        "x": 89.05,
+        "y": 5.41,
+        "size": 39.36,
+        "blur": 14.88,
+        "opacity": 0.56
+      },
+      {
+        "x": 6.59,
+        "y": 86.23,
+        "size": 30.27,
+        "blur": 4.58,
+        "opacity": 0.18
+      },
+      {
+        "x": 28.08,
+        "y": 14.67,
+        "size": 36.76,
+        "blur": 15.4,
+        "opacity": 0.33
+      },
+      {
+        "x": 20.11,
+        "y": 24.9,
+        "size": 16.5,
+        "blur": 0.53,
+        "opacity": 0.62
+      },
+      {
+        "x": 92.13,
+        "y": 27.09,
+        "size": 23.83,
+        "blur": 13.37,
+        "opacity": 0.52
+      },
+      {
+        "x": 22.24,
+        "y": 22.83,
+        "size": 24.87,
+        "blur": 4.52,
+        "opacity": 0.54
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-31T02-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-31T02-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-31T02-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-31T00:00:00Z",
     "hourKey": "2026-03-31T00:00:00Z",
     "mood": "ceremonial",
