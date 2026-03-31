@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-30T23:00:00Z",
-  "hourKey": "2026-03-30T23:00:00Z",
-  "mood": "delirious",
-  "artForm": "concrete poetry composition",
+  "generatedAt": "2026-03-31T00:00:00Z",
+  "hourKey": "2026-03-31T00:00:00Z",
+  "mood": "ceremonial",
+  "artForm": "faxed surveillance document",
   "palette": [
-    "#0b1021",
-    "#2e6cf6",
-    "#f97316"
+    "#140f2d",
+    "#8b5cf6",
+    "#22d3ee"
   ],
-  "thought": "Churning phrases collide like colorful specters, each word a fleeting shadow skimming the surface of lucidity. This organic chaos forms a wild tapestry alive with unrestrained exploration, as letters twist and coil into a dynamic rhythm of expression. Here, nonsense meets brilliance, revealing the ecstatic beauty within the unpredictable dance of language.",
-  "question": "What unexpected revelations spark joy in your creative chaos?",
+  "thought": "In whispers of stark black and pristine white, intricate symbols emerge, echoing the weight of unspoken truths. Each stroke carries the solemnity of a secret, tethering the observer to a shared gaze upon untold stories. Here, the paper becomes a mirror reflecting the seriousness of existence, where every curve and line signifies a timeless ritual of revelation.",
+  "question": "What mysteries lie within the lines of your own observations?",
   "overlayLines": [
-    "Whispers of language collide",
-    "Unexpected echoes ring true",
-    "Fragments that breathe delight",
-    "Chaos nurtures wild creation"
+    "Ink etched in silence",
+    "What remains unseen?",
+    "Observations of devotion",
+    "Guardians of the unspoken"
   ],
   "backgroundElements": [
-    {
-      "type": "bar",
-      "x": 85.91,
-      "y": 92.56,
-      "size": 35.32,
-      "blur": 8.02,
-      "opacity": 0.6,
-      "rotate": -19.32
-    },
     {
       "type": "diamond",
       "x": 4.63,
@@ -79,16 +70,18 @@
       "blur": 15.4,
       "opacity": 0.33,
       "rotate": -18.39
+    },
+    {
+      "type": "ring",
+      "x": 20.11,
+      "y": 24.9,
+      "size": 16.5,
+      "blur": 0.53,
+      "opacity": 0.62,
+      "rotate": -34.66
     }
   ],
   "shapes": [
-    {
-      "x": 85.91,
-      "y": 92.56,
-      "size": 35.32,
-      "blur": 8.02,
-      "opacity": 0.6
-    },
     {
       "x": 4.63,
       "y": 56.96,
@@ -130,9 +123,16 @@
       "size": 36.76,
       "blur": 15.4,
       "opacity": 0.33
+    },
+    {
+      "x": 20.11,
+      "y": 24.9,
+      "size": 16.5,
+      "blur": 0.53,
+      "opacity": 0.62
     }
   ],
-  "imagePath": "assets/generated/2026-03-30T23-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-30T23-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-30T23-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-31T00-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-31T00-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-31T00-00-00Z.mp3"
 }
