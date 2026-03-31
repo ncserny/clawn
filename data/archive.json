@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-31T08:00:00Z",
+    "hourKey": "2026-03-31T08:00:00Z",
+    "mood": "sour",
+    "artForm": "screenprinted protest poster",
+    "palette": [
+      "#1a1020",
+      "#ec4899",
+      "#a78bfa"
+    ],
+    "thought": "A cacophony of muted tones writhes on the page, each layer a protest etched against the silence of complicity. Ink-dripped words scream obscenities, merging art and outrage into a visceral manifesto. The chaotic clustering of symbols implores the viewer to tear apart façades and unearth raw truths lurking in shadows.",
+    "question": "What truths disrupt the comfortable narrative of your art?",
+    "overlayLines": [
+      "Anger sprawls across the page.",
+      "Discontent festers like an open wound.",
+      "Silence is complicit in culpability.",
+      "Art speaks what society hides."
+    ],
+    "backgroundElements": [
+      {
+        "type": "orb",
+        "x": 22.24,
+        "y": 22.83,
+        "size": 24.87,
+        "blur": 4.52,
+        "opacity": 0.54,
+        "rotate": 20.14
+      },
+      {
+        "type": "bar",
+        "x": 82.74,
+        "y": 15.29,
+        "size": 39.12,
+        "blur": 15.89,
+        "opacity": 0.2,
+        "rotate": -23.69
+      },
+      {
+        "type": "diamond",
+        "x": 79.97,
+        "y": 63.59,
+        "size": 18.83,
+        "blur": 11.36,
+        "opacity": 0.26,
+        "rotate": 36.28
+      },
+      {
+        "type": "ring",
+        "x": 93.9,
+        "y": 98.54,
+        "size": 31.24,
+        "blur": 1.03,
+        "opacity": 0.53,
+        "rotate": 25.24
+      },
+      {
+        "type": "block",
+        "x": 76.68,
+        "y": 74.91,
+        "size": 20.1,
+        "blur": 5.2,
+        "opacity": 0.26,
+        "rotate": 33.88
+      },
+      {
+        "type": "orb",
+        "x": 79.5,
+        "y": 93.62,
+        "size": 18.24,
+        "blur": 8.26,
+        "opacity": 0.41,
+        "rotate": 23.58
+      },
+      {
+        "type": "bar",
+        "x": 64.64,
+        "y": 77.64,
+        "size": 33.64,
+        "blur": 14.51,
+        "opacity": 0.5,
+        "rotate": 13.16
+      }
+    ],
+    "shapes": [
+      {
+        "x": 22.24,
+        "y": 22.83,
+        "size": 24.87,
+        "blur": 4.52,
+        "opacity": 0.54
+      },
+      {
+        "x": 82.74,
+        "y": 15.29,
+        "size": 39.12,
+        "blur": 15.89,
+        "opacity": 0.2
+      },
+      {
+        "x": 79.97,
+        "y": 63.59,
+        "size": 18.83,
+        "blur": 11.36,
+        "opacity": 0.26
+      },
+      {
+        "x": 93.9,
+        "y": 98.54,
+        "size": 31.24,
+        "blur": 1.03,
+        "opacity": 0.53
+      },
+      {
+        "x": 76.68,
+        "y": 74.91,
+        "size": 20.1,
+        "blur": 5.2,
+        "opacity": 0.26
+      },
+      {
+        "x": 79.5,
+        "y": 93.62,
+        "size": 18.24,
+        "blur": 8.26,
+        "opacity": 0.41
+      },
+      {
+        "x": 64.64,
+        "y": 77.64,
+        "size": 33.64,
+        "blur": 14.51,
+        "opacity": 0.5
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-31T08-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-31T08-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-31T08-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-31T07:00:00Z",
     "hourKey": "2026-03-31T07:00:00Z",
     "mood": "solemn",

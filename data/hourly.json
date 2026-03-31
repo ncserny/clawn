@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-31T07:00:00Z",
-  "hourKey": "2026-03-31T07:00:00Z",
-  "mood": "solemn",
-  "artForm": "terminal prophecy interface",
+  "generatedAt": "2026-03-31T08:00:00Z",
+  "hourKey": "2026-03-31T08:00:00Z",
+  "mood": "sour",
+  "artForm": "screenprinted protest poster",
   "palette": [
-    "#08140f",
-    "#10b981",
-    "#facc15"
+    "#1a1020",
+    "#ec4899",
+    "#a78bfa"
   ],
-  "thought": "Dark silhouettes unfurl against a twilight backdrop, each shape a vessel of unspoken dreams. This stark interplay draws the viewer into a realm where hopes collide with despair, crafting an eerie narrative steeped in longing. Every contour whispers, beckoning souls to consider what lies dormant beneath layers of silence and shadow.",
-  "question": "Which unspoken dreams haunt your creative thoughts?",
+  "thought": "A cacophony of muted tones writhes on the page, each layer a protest etched against the silence of complicity. Ink-dripped words scream obscenities, merging art and outrage into a visceral manifesto. The chaotic clustering of symbols implores the viewer to tear apart façades and unearth raw truths lurking in shadows.",
+  "question": "What truths disrupt the comfortable narrative of your art?",
   "overlayLines": [
-    "Silhouettes whisper secrets.",
-    "Longing brews in shadows.",
-    "Dreams collide in silence.",
-    "Hope shrouded in darkness."
+    "Anger sprawls across the page.",
+    "Discontent festers like an open wound.",
+    "Silence is complicit in culpability.",
+    "Art speaks what society hides."
   ],
   "backgroundElements": [
-    {
-      "type": "block",
-      "x": 92.13,
-      "y": 27.09,
-      "size": 23.83,
-      "blur": 13.37,
-      "opacity": 0.52,
-      "rotate": 25.04
-    },
     {
       "type": "orb",
       "x": 22.24,
@@ -79,16 +70,18 @@
       "blur": 8.26,
       "opacity": 0.41,
       "rotate": 23.58
+    },
+    {
+      "type": "bar",
+      "x": 64.64,
+      "y": 77.64,
+      "size": 33.64,
+      "blur": 14.51,
+      "opacity": 0.5,
+      "rotate": 13.16
     }
   ],
   "shapes": [
-    {
-      "x": 92.13,
-      "y": 27.09,
-      "size": 23.83,
-      "blur": 13.37,
-      "opacity": 0.52
-    },
     {
       "x": 22.24,
       "y": 22.83,
@@ -130,9 +123,16 @@
       "size": 18.24,
       "blur": 8.26,
       "opacity": 0.41
+    },
+    {
+      "x": 64.64,
+      "y": 77.64,
+      "size": 33.64,
+      "blur": 14.51,
+      "opacity": 0.5
     }
   ],
-  "imagePath": "assets/generated/2026-03-31T07-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-31T07-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-31T07-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-31T08-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-31T08-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-31T08-00-00Z.mp3"
 }
