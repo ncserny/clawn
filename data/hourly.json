@@ -1,49 +1,22 @@
 {
-  "generatedAt": "2026-03-31T00:00:00Z",
-  "hourKey": "2026-03-31T00:00:00Z",
-  "mood": "ceremonial",
-  "artForm": "faxed surveillance document",
+  "generatedAt": "2026-03-31T03:00:00Z",
+  "hourKey": "2026-03-31T03:00:00Z",
+  "mood": "ashen",
+  "artForm": "datamosh broadcast wreckage",
   "palette": [
-    "#140f2d",
-    "#8b5cf6",
-    "#22d3ee"
+    "#120c0c",
+    "#ef4444",
+    "#fb7185"
   ],
-  "thought": "In whispers of stark black and pristine white, intricate symbols emerge, echoing the weight of unspoken truths. Each stroke carries the solemnity of a secret, tethering the observer to a shared gaze upon untold stories. Here, the paper becomes a mirror reflecting the seriousness of existence, where every curve and line signifies a timeless ritual of revelation.",
-  "question": "What mysteries lie within the lines of your own observations?",
+  "thought": "In the ashen remnants of a ruined broadcast, glitching signals weave grief into vibrant chaos. Images distort, fraying the edges of reality, like memories lost in the ether. This rich tapestry beckons contemplation, urging viewers to find beauty amidst distorted ruins, where silence echoes louder than sound.",
+  "question": "What echoes of the past can you perceive in distortion?",
   "overlayLines": [
-    "Ink etched in silence",
-    "What remains unseen?",
-    "Observations of devotion",
-    "Guardians of the unspoken"
+    "Shattered perceptions collide",
+    "Tales woven in silence",
+    "Fragments of forgotten broadcasts",
+    "Chaos whispers truth"
   ],
   "backgroundElements": [
-    {
-      "type": "diamond",
-      "x": 4.63,
-      "y": 56.96,
-      "size": 19.67,
-      "blur": 7.85,
-      "opacity": 0.57,
-      "rotate": 33.35
-    },
-    {
-      "type": "ring",
-      "x": 86.38,
-      "y": 94.1,
-      "size": 38.99,
-      "blur": 14.73,
-      "opacity": 0.36,
-      "rotate": 13.5
-    },
-    {
-      "type": "block",
-      "x": 1.54,
-      "y": 31.92,
-      "size": 28.94,
-      "blur": 0.14,
-      "opacity": 0.51,
-      "rotate": -5.97
-    },
     {
       "type": "orb",
       "x": 89.05,
@@ -79,30 +52,36 @@
       "blur": 0.53,
       "opacity": 0.62,
       "rotate": -34.66
+    },
+    {
+      "type": "block",
+      "x": 92.13,
+      "y": 27.09,
+      "size": 23.83,
+      "blur": 13.37,
+      "opacity": 0.52,
+      "rotate": 25.04
+    },
+    {
+      "type": "orb",
+      "x": 22.24,
+      "y": 22.83,
+      "size": 24.87,
+      "blur": 4.52,
+      "opacity": 0.54,
+      "rotate": 20.14
+    },
+    {
+      "type": "bar",
+      "x": 82.74,
+      "y": 15.29,
+      "size": 39.12,
+      "blur": 15.89,
+      "opacity": 0.2,
+      "rotate": -23.69
     }
   ],
   "shapes": [
-    {
-      "x": 4.63,
-      "y": 56.96,
-      "size": 19.67,
-      "blur": 7.85,
-      "opacity": 0.57
-    },
-    {
-      "x": 86.38,
-      "y": 94.1,
-      "size": 38.99,
-      "blur": 14.73,
-      "opacity": 0.36
-    },
-    {
-      "x": 1.54,
-      "y": 31.92,
-      "size": 28.94,
-      "blur": 0.14,
-      "opacity": 0.51
-    },
     {
       "x": 89.05,
       "y": 5.41,
@@ -130,9 +109,30 @@
       "size": 16.5,
       "blur": 0.53,
       "opacity": 0.62
+    },
+    {
+      "x": 92.13,
+      "y": 27.09,
+      "size": 23.83,
+      "blur": 13.37,
+      "opacity": 0.52
+    },
+    {
+      "x": 22.24,
+      "y": 22.83,
+      "size": 24.87,
+      "blur": 4.52,
+      "opacity": 0.54
+    },
+    {
+      "x": 82.74,
+      "y": 15.29,
+      "size": 39.12,
+      "blur": 15.89,
+      "opacity": 0.2
     }
   ],
-  "imagePath": "assets/generated/2026-03-31T00-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-31T00-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-31T00-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-31T03-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-31T03-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-31T03-00-00Z.mp3"
 }
