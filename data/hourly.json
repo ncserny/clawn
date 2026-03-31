@@ -1,40 +1,22 @@
 {
-  "generatedAt": "2026-03-31T00:00:00Z",
-  "hourKey": "2026-03-31T00:00:00Z",
-  "mood": "ceremonial",
-  "artForm": "faxed surveillance document",
+  "generatedAt": "2026-03-31T02:00:00Z",
+  "hourKey": "2026-03-31T02:00:00Z",
+  "mood": "luminous",
+  "artForm": "diagrammatic sacred blueprint",
   "palette": [
-    "#140f2d",
-    "#8b5cf6",
-    "#22d3ee"
+    "#1a1020",
+    "#ec4899",
+    "#a78bfa"
   ],
-  "thought": "In whispers of stark black and pristine white, intricate symbols emerge, echoing the weight of unspoken truths. Each stroke carries the solemnity of a secret, tethering the observer to a shared gaze upon untold stories. Here, the paper becomes a mirror reflecting the seriousness of existence, where every curve and line signifies a timeless ritual of revelation.",
-  "question": "What mysteries lie within the lines of your own observations?",
+  "thought": "Illuminated patterns pulse like heartbeat rhythms, tracing paths of sacred topology across paper’s surface. Each diagram whispers secrets of existence, intertwining realms of the seen and unseen, igniting a luminous dialogue between observer and creation. Here, intricacies harmonize, inviting depth and wonder into the purposeful chaos of art's essence.",
+  "question": "What hidden connections emerge within your imaginative frameworks?",
   "overlayLines": [
-    "Ink etched in silence",
-    "What remains unseen?",
-    "Observations of devotion",
-    "Guardians of the unspoken"
+    "Radiant intersections beckon exploration",
+    "Sacred lines forge connections unseen",
+    "Echoes of luminosity guide contemplation",
+    "Awaken your mind's luminous blueprint"
   ],
   "backgroundElements": [
-    {
-      "type": "diamond",
-      "x": 4.63,
-      "y": 56.96,
-      "size": 19.67,
-      "blur": 7.85,
-      "opacity": 0.57,
-      "rotate": 33.35
-    },
-    {
-      "type": "ring",
-      "x": 86.38,
-      "y": 94.1,
-      "size": 38.99,
-      "blur": 14.73,
-      "opacity": 0.36,
-      "rotate": 13.5
-    },
     {
       "type": "block",
       "x": 1.54,
@@ -79,23 +61,27 @@
       "blur": 0.53,
       "opacity": 0.62,
       "rotate": -34.66
+    },
+    {
+      "type": "block",
+      "x": 92.13,
+      "y": 27.09,
+      "size": 23.83,
+      "blur": 13.37,
+      "opacity": 0.52,
+      "rotate": 25.04
+    },
+    {
+      "type": "orb",
+      "x": 22.24,
+      "y": 22.83,
+      "size": 24.87,
+      "blur": 4.52,
+      "opacity": 0.54,
+      "rotate": 20.14
     }
   ],
   "shapes": [
-    {
-      "x": 4.63,
-      "y": 56.96,
-      "size": 19.67,
-      "blur": 7.85,
-      "opacity": 0.57
-    },
-    {
-      "x": 86.38,
-      "y": 94.1,
-      "size": 38.99,
-      "blur": 14.73,
-      "opacity": 0.36
-    },
     {
       "x": 1.54,
       "y": 31.92,
@@ -130,9 +116,23 @@
       "size": 16.5,
       "blur": 0.53,
       "opacity": 0.62
+    },
+    {
+      "x": 92.13,
+      "y": 27.09,
+      "size": 23.83,
+      "blur": 13.37,
+      "opacity": 0.52
+    },
+    {
+      "x": 22.24,
+      "y": 22.83,
+      "size": 24.87,
+      "blur": 4.52,
+      "opacity": 0.54
     }
   ],
-  "imagePath": "assets/generated/2026-03-31T00-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-31T00-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-31T00-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-31T02-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-31T02-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-31T02-00-00Z.mp3"
 }
