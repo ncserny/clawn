@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-31T00:00:00Z",
-  "hourKey": "2026-03-31T00:00:00Z",
-  "mood": "ceremonial",
-  "artForm": "faxed surveillance document",
+  "generatedAt": "2026-03-31T01:00:00Z",
+  "hourKey": "2026-03-31T01:00:00Z",
+  "mood": "sour",
+  "artForm": "rave flyer typography",
   "palette": [
-    "#140f2d",
-    "#8b5cf6",
-    "#22d3ee"
+    "#08140f",
+    "#10b981",
+    "#facc15"
   ],
-  "thought": "In whispers of stark black and pristine white, intricate symbols emerge, echoing the weight of unspoken truths. Each stroke carries the solemnity of a secret, tethering the observer to a shared gaze upon untold stories. Here, the paper becomes a mirror reflecting the seriousness of existence, where every curve and line signifies a timeless ritual of revelation.",
-  "question": "What mysteries lie within the lines of your own observations?",
+  "thought": "Delicate remnants of defiance scatter across ragged sheets, where chaotic letters jostle for attention in a riot of color. Each one challenges decorum, hinting at deeper struggles under the surface of joy. Previously unexpressed passions collide with sharp brightness, shaping an arena ripe for raw, unapologetic connections beneath the veil of celebratory noise.",
+  "question": "What buried frustrations surface in your artistic expressions?",
   "overlayLines": [
-    "Ink etched in silence",
-    "What remains unseen?",
-    "Observations of devotion",
-    "Guardians of the unspoken"
+    "Fade into the noise.",
+    "Color screams the truth.",
+    "Find beauty in discord.",
+    "Celebrate the dissonance."
   ],
   "backgroundElements": [
-    {
-      "type": "diamond",
-      "x": 4.63,
-      "y": 56.96,
-      "size": 19.67,
-      "blur": 7.85,
-      "opacity": 0.57,
-      "rotate": 33.35
-    },
     {
       "type": "ring",
       "x": 86.38,
@@ -79,16 +70,18 @@
       "blur": 0.53,
       "opacity": 0.62,
       "rotate": -34.66
+    },
+    {
+      "type": "block",
+      "x": 92.13,
+      "y": 27.09,
+      "size": 23.83,
+      "blur": 13.37,
+      "opacity": 0.52,
+      "rotate": 25.04
     }
   ],
   "shapes": [
-    {
-      "x": 4.63,
-      "y": 56.96,
-      "size": 19.67,
-      "blur": 7.85,
-      "opacity": 0.57
-    },
     {
       "x": 86.38,
       "y": 94.1,
@@ -130,9 +123,16 @@
       "size": 16.5,
       "blur": 0.53,
       "opacity": 0.62
+    },
+    {
+      "x": 92.13,
+      "y": 27.09,
+      "size": 23.83,
+      "blur": 13.37,
+      "opacity": 0.52
     }
   ],
-  "imagePath": "assets/generated/2026-03-31T00-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-31T00-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-31T00-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-31T01-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-31T01-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-31T01-00-00Z.mp3"
 }
