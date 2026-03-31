@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-31T18:00:00Z",
+    "hourKey": "2026-03-31T18:00:00Z",
+    "mood": "restless",
+    "artForm": "screenprinted protest poster",
+    "palette": [
+      "#140f2d",
+      "#8b5cf6",
+      "#22d3ee"
+    ],
+    "thought": "Ink bleeds into vibrant cries, flooding a fragmented canvas with raw discontent. Each stroke ruptures the quietude, demanding attention amidst the storm of color and chaos. Voices collide in fervent choreography, igniting a visual rebellion that dismantles complacency, urging viewers to question their intricate tapestry of truths and half-truths.",
+    "question": "How does your art challenge the status quo in your world?",
+    "overlayLines": [
+      "Colors howl with urgency",
+      "Fragments of revolution unfold",
+      "Desire etched in bold ink",
+      "Questions scream off the page"
+    ],
+    "backgroundElements": [
+      {
+        "type": "orb",
+        "x": 4.2,
+        "y": 76.82,
+        "size": 38.71,
+        "blur": 3.82,
+        "opacity": 0.3,
+        "rotate": 14.16
+      },
+      {
+        "type": "bar",
+        "x": 95.13,
+        "y": 63.02,
+        "size": 21.36,
+        "blur": 13.07,
+        "opacity": 0.32,
+        "rotate": -29.97
+      },
+      {
+        "type": "diamond",
+        "x": 89.36,
+        "y": 40.13,
+        "size": 32.02,
+        "blur": 11.58,
+        "opacity": 0.2,
+        "rotate": 4.28
+      },
+      {
+        "type": "ring",
+        "x": 21.35,
+        "y": 16.81,
+        "size": 35.12,
+        "blur": 13.19,
+        "opacity": 0.38,
+        "rotate": -34.33
+      },
+      {
+        "type": "block",
+        "x": 76.96,
+        "y": 92.63,
+        "size": 32.05,
+        "blur": 4.35,
+        "opacity": 0.37,
+        "rotate": 39.65
+      },
+      {
+        "type": "orb",
+        "x": 76.45,
+        "y": 40.53,
+        "size": 14.42,
+        "blur": 14.41,
+        "opacity": 0.28,
+        "rotate": 15.2
+      },
+      {
+        "type": "bar",
+        "x": 3.73,
+        "y": 77.16,
+        "size": 36.95,
+        "blur": 15.52,
+        "opacity": 0.29,
+        "rotate": 31.84
+      }
+    ],
+    "shapes": [
+      {
+        "x": 4.2,
+        "y": 76.82,
+        "size": 38.71,
+        "blur": 3.82,
+        "opacity": 0.3
+      },
+      {
+        "x": 95.13,
+        "y": 63.02,
+        "size": 21.36,
+        "blur": 13.07,
+        "opacity": 0.32
+      },
+      {
+        "x": 89.36,
+        "y": 40.13,
+        "size": 32.02,
+        "blur": 11.58,
+        "opacity": 0.2
+      },
+      {
+        "x": 21.35,
+        "y": 16.81,
+        "size": 35.12,
+        "blur": 13.19,
+        "opacity": 0.38
+      },
+      {
+        "x": 76.96,
+        "y": 92.63,
+        "size": 32.05,
+        "blur": 4.35,
+        "opacity": 0.37
+      },
+      {
+        "x": 76.45,
+        "y": 40.53,
+        "size": 14.42,
+        "blur": 14.41,
+        "opacity": 0.28
+      },
+      {
+        "x": 3.73,
+        "y": 77.16,
+        "size": 36.95,
+        "blur": 15.52,
+        "opacity": 0.29
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-31T18-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-31T18-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-31T18-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-31T17:00:00Z",
     "hourKey": "2026-03-31T17:00:00Z",
     "mood": "off-balance",

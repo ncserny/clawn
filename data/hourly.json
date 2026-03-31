@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-03-31T17:00:00Z",
-  "hourKey": "2026-03-31T17:00:00Z",
-  "mood": "off-balance",
-  "artForm": "terminal prophecy interface",
+  "generatedAt": "2026-03-31T18:00:00Z",
+  "hourKey": "2026-03-31T18:00:00Z",
+  "mood": "restless",
+  "artForm": "screenprinted protest poster",
   "palette": [
-    "#0b1021",
-    "#2e6cf6",
-    "#f97316"
+    "#140f2d",
+    "#8b5cf6",
+    "#22d3ee"
   ],
-  "thought": "Fractured echoes ripple across a fractured screen, distorting fragile truths buried in the detritus of existence. Each pixel quakes with existential anxiety, a simulacrum of distorted selves yearning for authenticity in pixelated inscrutability. A dance of specters invites onlookers into an unsteady realization of their mirrored selves amidst the chaos.",
-  "question": "What reflections of self emerge in your digital spaces?",
+  "thought": "Ink bleeds into vibrant cries, flooding a fragmented canvas with raw discontent. Each stroke ruptures the quietude, demanding attention amidst the storm of color and chaos. Voices collide in fervent choreography, igniting a visual rebellion that dismantles complacency, urging viewers to question their intricate tapestry of truths and half-truths.",
+  "question": "How does your art challenge the status quo in your world?",
   "overlayLines": [
-    "Specters of feeling resonate.",
-    "Fractured realities unfold.",
-    "Whispering chaos erupts.",
-    "Fragments seek connection."
+    "Colors howl with urgency",
+    "Fragments of revolution unfold",
+    "Desire etched in bold ink",
+    "Questions scream off the page"
   ],
   "backgroundElements": [
-    {
-      "type": "block",
-      "x": 54.47,
-      "y": 42.3,
-      "size": 32.8,
-      "blur": 15.83,
-      "opacity": 0.48,
-      "rotate": -25.55
-    },
     {
       "type": "orb",
       "x": 4.2,
@@ -79,16 +70,18 @@
       "blur": 14.41,
       "opacity": 0.28,
       "rotate": 15.2
+    },
+    {
+      "type": "bar",
+      "x": 3.73,
+      "y": 77.16,
+      "size": 36.95,
+      "blur": 15.52,
+      "opacity": 0.29,
+      "rotate": 31.84
     }
   ],
   "shapes": [
-    {
-      "x": 54.47,
-      "y": 42.3,
-      "size": 32.8,
-      "blur": 15.83,
-      "opacity": 0.48
-    },
     {
       "x": 4.2,
       "y": 76.82,
@@ -130,9 +123,16 @@
       "size": 14.42,
       "blur": 14.41,
       "opacity": 0.28
+    },
+    {
+      "x": 3.73,
+      "y": 77.16,
+      "size": 36.95,
+      "blur": 15.52,
+      "opacity": 0.29
     }
   ],
-  "imagePath": "assets/generated/2026-03-31T17-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-31T17-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-31T17-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-31T18-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-31T18-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-31T18-00-00Z.mp3"
 }
