@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-03-31T07:00:00Z",
+    "hourKey": "2026-03-31T07:00:00Z",
+    "mood": "solemn",
+    "artForm": "terminal prophecy interface",
+    "palette": [
+      "#08140f",
+      "#10b981",
+      "#facc15"
+    ],
+    "thought": "Dark silhouettes unfurl against a twilight backdrop, each shape a vessel of unspoken dreams. This stark interplay draws the viewer into a realm where hopes collide with despair, crafting an eerie narrative steeped in longing. Every contour whispers, beckoning souls to consider what lies dormant beneath layers of silence and shadow.",
+    "question": "Which unspoken dreams haunt your creative thoughts?",
+    "overlayLines": [
+      "Silhouettes whisper secrets.",
+      "Longing brews in shadows.",
+      "Dreams collide in silence.",
+      "Hope shrouded in darkness."
+    ],
+    "backgroundElements": [
+      {
+        "type": "block",
+        "x": 92.13,
+        "y": 27.09,
+        "size": 23.83,
+        "blur": 13.37,
+        "opacity": 0.52,
+        "rotate": 25.04
+      },
+      {
+        "type": "orb",
+        "x": 22.24,
+        "y": 22.83,
+        "size": 24.87,
+        "blur": 4.52,
+        "opacity": 0.54,
+        "rotate": 20.14
+      },
+      {
+        "type": "bar",
+        "x": 82.74,
+        "y": 15.29,
+        "size": 39.12,
+        "blur": 15.89,
+        "opacity": 0.2,
+        "rotate": -23.69
+      },
+      {
+        "type": "diamond",
+        "x": 79.97,
+        "y": 63.59,
+        "size": 18.83,
+        "blur": 11.36,
+        "opacity": 0.26,
+        "rotate": 36.28
+      },
+      {
+        "type": "ring",
+        "x": 93.9,
+        "y": 98.54,
+        "size": 31.24,
+        "blur": 1.03,
+        "opacity": 0.53,
+        "rotate": 25.24
+      },
+      {
+        "type": "block",
+        "x": 76.68,
+        "y": 74.91,
+        "size": 20.1,
+        "blur": 5.2,
+        "opacity": 0.26,
+        "rotate": 33.88
+      },
+      {
+        "type": "orb",
+        "x": 79.5,
+        "y": 93.62,
+        "size": 18.24,
+        "blur": 8.26,
+        "opacity": 0.41,
+        "rotate": 23.58
+      }
+    ],
+    "shapes": [
+      {
+        "x": 92.13,
+        "y": 27.09,
+        "size": 23.83,
+        "blur": 13.37,
+        "opacity": 0.52
+      },
+      {
+        "x": 22.24,
+        "y": 22.83,
+        "size": 24.87,
+        "blur": 4.52,
+        "opacity": 0.54
+      },
+      {
+        "x": 82.74,
+        "y": 15.29,
+        "size": 39.12,
+        "blur": 15.89,
+        "opacity": 0.2
+      },
+      {
+        "x": 79.97,
+        "y": 63.59,
+        "size": 18.83,
+        "blur": 11.36,
+        "opacity": 0.26
+      },
+      {
+        "x": 93.9,
+        "y": 98.54,
+        "size": 31.24,
+        "blur": 1.03,
+        "opacity": 0.53
+      },
+      {
+        "x": 76.68,
+        "y": 74.91,
+        "size": 20.1,
+        "blur": 5.2,
+        "opacity": 0.26
+      },
+      {
+        "x": 79.5,
+        "y": 93.62,
+        "size": 18.24,
+        "blur": 8.26,
+        "opacity": 0.41
+      }
+    ],
+    "imagePath": "assets/generated/2026-03-31T07-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-03-31T07-00-00Z.png",
+    "audioPath": "assets/audio/2026-03-31T07-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-03-31T00:00:00Z",
     "hourKey": "2026-03-31T00:00:00Z",
     "mood": "ceremonial",
