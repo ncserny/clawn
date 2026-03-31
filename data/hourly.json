@@ -1,67 +1,22 @@
 {
-  "generatedAt": "2026-03-31T00:00:00Z",
-  "hourKey": "2026-03-31T00:00:00Z",
-  "mood": "ceremonial",
-  "artForm": "faxed surveillance document",
+  "generatedAt": "2026-03-31T05:00:00Z",
+  "hourKey": "2026-03-31T05:00:00Z",
+  "mood": "hungry",
+  "artForm": "xerox zine collage",
   "palette": [
-    "#140f2d",
-    "#8b5cf6",
-    "#22d3ee"
+    "#0b1021",
+    "#2e6cf6",
+    "#f97316"
   ],
-  "thought": "In whispers of stark black and pristine white, intricate symbols emerge, echoing the weight of unspoken truths. Each stroke carries the solemnity of a secret, tethering the observer to a shared gaze upon untold stories. Here, the paper becomes a mirror reflecting the seriousness of existence, where every curve and line signifies a timeless ritual of revelation.",
-  "question": "What mysteries lie within the lines of your own observations?",
+  "thought": "Fragments of ordinary life collide in a riotous kaleidoscope, where bland moments are refracted into ecstatic visuals of color and chaos. Each torn page breathes a narrative, stitching together forgotten desires and raw emotional states. This zine collage pulsates with the hunger for deeper connections, igniting a visceral interplay among disparate ideals and aspirations.",
+  "question": "What ordinary moments feed your artistic hunger today?",
   "overlayLines": [
-    "Ink etched in silence",
-    "What remains unseen?",
-    "Observations of devotion",
-    "Guardians of the unspoken"
+    "Taste the essence of chaos",
+    "Feed the yearning for expression",
+    "Nourish your creative soul",
+    "Savor moments between worlds"
   ],
   "backgroundElements": [
-    {
-      "type": "diamond",
-      "x": 4.63,
-      "y": 56.96,
-      "size": 19.67,
-      "blur": 7.85,
-      "opacity": 0.57,
-      "rotate": 33.35
-    },
-    {
-      "type": "ring",
-      "x": 86.38,
-      "y": 94.1,
-      "size": 38.99,
-      "blur": 14.73,
-      "opacity": 0.36,
-      "rotate": 13.5
-    },
-    {
-      "type": "block",
-      "x": 1.54,
-      "y": 31.92,
-      "size": 28.94,
-      "blur": 0.14,
-      "opacity": 0.51,
-      "rotate": -5.97
-    },
-    {
-      "type": "orb",
-      "x": 89.05,
-      "y": 5.41,
-      "size": 39.36,
-      "blur": 14.88,
-      "opacity": 0.56,
-      "rotate": -25.35
-    },
-    {
-      "type": "bar",
-      "x": 6.59,
-      "y": 86.23,
-      "size": 30.27,
-      "blur": 4.58,
-      "opacity": 0.18,
-      "rotate": -5.37
-    },
     {
       "type": "diamond",
       "x": 28.08,
@@ -79,44 +34,54 @@
       "blur": 0.53,
       "opacity": 0.62,
       "rotate": -34.66
+    },
+    {
+      "type": "block",
+      "x": 92.13,
+      "y": 27.09,
+      "size": 23.83,
+      "blur": 13.37,
+      "opacity": 0.52,
+      "rotate": 25.04
+    },
+    {
+      "type": "orb",
+      "x": 22.24,
+      "y": 22.83,
+      "size": 24.87,
+      "blur": 4.52,
+      "opacity": 0.54,
+      "rotate": 20.14
+    },
+    {
+      "type": "bar",
+      "x": 82.74,
+      "y": 15.29,
+      "size": 39.12,
+      "blur": 15.89,
+      "opacity": 0.2,
+      "rotate": -23.69
+    },
+    {
+      "type": "diamond",
+      "x": 79.97,
+      "y": 63.59,
+      "size": 18.83,
+      "blur": 11.36,
+      "opacity": 0.26,
+      "rotate": 36.28
+    },
+    {
+      "type": "ring",
+      "x": 93.9,
+      "y": 98.54,
+      "size": 31.24,
+      "blur": 1.03,
+      "opacity": 0.53,
+      "rotate": 25.24
     }
   ],
   "shapes": [
-    {
-      "x": 4.63,
-      "y": 56.96,
-      "size": 19.67,
-      "blur": 7.85,
-      "opacity": 0.57
-    },
-    {
-      "x": 86.38,
-      "y": 94.1,
-      "size": 38.99,
-      "blur": 14.73,
-      "opacity": 0.36
-    },
-    {
-      "x": 1.54,
-      "y": 31.92,
-      "size": 28.94,
-      "blur": 0.14,
-      "opacity": 0.51
-    },
-    {
-      "x": 89.05,
-      "y": 5.41,
-      "size": 39.36,
-      "blur": 14.88,
-      "opacity": 0.56
-    },
-    {
-      "x": 6.59,
-      "y": 86.23,
-      "size": 30.27,
-      "blur": 4.58,
-      "opacity": 0.18
-    },
     {
       "x": 28.08,
       "y": 14.67,
@@ -130,9 +95,44 @@
       "size": 16.5,
       "blur": 0.53,
       "opacity": 0.62
+    },
+    {
+      "x": 92.13,
+      "y": 27.09,
+      "size": 23.83,
+      "blur": 13.37,
+      "opacity": 0.52
+    },
+    {
+      "x": 22.24,
+      "y": 22.83,
+      "size": 24.87,
+      "blur": 4.52,
+      "opacity": 0.54
+    },
+    {
+      "x": 82.74,
+      "y": 15.29,
+      "size": 39.12,
+      "blur": 15.89,
+      "opacity": 0.2
+    },
+    {
+      "x": 79.97,
+      "y": 63.59,
+      "size": 18.83,
+      "blur": 11.36,
+      "opacity": 0.26
+    },
+    {
+      "x": 93.9,
+      "y": 98.54,
+      "size": 31.24,
+      "blur": 1.03,
+      "opacity": 0.53
     }
   ],
-  "imagePath": "assets/generated/2026-03-31T00-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-03-31T00-00-00Z.png",
-  "audioPath": "assets/audio/2026-03-31T00-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-03-31T05-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-03-31T05-00-00Z.png",
+  "audioPath": "assets/audio/2026-03-31T05-00-00Z.mp3"
 }
