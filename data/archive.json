@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-04-01T18:00:00Z",
+    "hourKey": "2026-04-01T18:00:00Z",
+    "mood": "hungry",
+    "artForm": "diagrammatic sacred blueprint",
+    "palette": [
+      "#140f2d",
+      "#8b5cf6",
+      "#22d3ee"
+    ],
+    "thought": "Craving connection, vivid lines weave intricate networks like roots seeking nourishment in chaotic soil. Each diagram resonates with a pulse of life, unveiling hidden architectures of desire, while colors drip like sweet nectar amidst the starkness of intention. In this sacred blueprint, hunger transforms into a form of inquiry, beckoning us to explore the essence of creation.",
+    "question": "What desires shape the structures in your art?",
+    "overlayLines": [
+      "Lines yearn to unite",
+      "Forms emerge through craving",
+      "Colors drip with intent",
+      "Maps of hunger unfold"
+    ],
+    "backgroundElements": [
+      {
+        "type": "block",
+        "x": 89.58,
+        "y": 75.2,
+        "size": 24.88,
+        "blur": 13.22,
+        "opacity": 0.24,
+        "rotate": 4.22
+      },
+      {
+        "type": "orb",
+        "x": 95.84,
+        "y": 61.02,
+        "size": 15.7,
+        "blur": 6.55,
+        "opacity": 0.31,
+        "rotate": 29.72
+      },
+      {
+        "type": "bar",
+        "x": 52.8,
+        "y": 95.52,
+        "size": 31,
+        "blur": 6.86,
+        "opacity": 0.46,
+        "rotate": -16.76
+      },
+      {
+        "type": "diamond",
+        "x": 96.47,
+        "y": 38.81,
+        "size": 17.94,
+        "blur": 9.74,
+        "opacity": 0.62,
+        "rotate": 36.31
+      },
+      {
+        "type": "ring",
+        "x": 27.85,
+        "y": 48.49,
+        "size": 23.13,
+        "blur": 12.49,
+        "opacity": 0.32,
+        "rotate": 27.37
+      },
+      {
+        "type": "block",
+        "x": 59.24,
+        "y": 11.76,
+        "size": 18.57,
+        "blur": 11.99,
+        "opacity": 0.46,
+        "rotate": 28.85
+      },
+      {
+        "type": "orb",
+        "x": 4.77,
+        "y": 44.57,
+        "size": 18.79,
+        "blur": 15.88,
+        "opacity": 0.37,
+        "rotate": 30.61
+      }
+    ],
+    "shapes": [
+      {
+        "x": 89.58,
+        "y": 75.2,
+        "size": 24.88,
+        "blur": 13.22,
+        "opacity": 0.24
+      },
+      {
+        "x": 95.84,
+        "y": 61.02,
+        "size": 15.7,
+        "blur": 6.55,
+        "opacity": 0.31
+      },
+      {
+        "x": 52.8,
+        "y": 95.52,
+        "size": 31,
+        "blur": 6.86,
+        "opacity": 0.46
+      },
+      {
+        "x": 96.47,
+        "y": 38.81,
+        "size": 17.94,
+        "blur": 9.74,
+        "opacity": 0.62
+      },
+      {
+        "x": 27.85,
+        "y": 48.49,
+        "size": 23.13,
+        "blur": 12.49,
+        "opacity": 0.32
+      },
+      {
+        "x": 59.24,
+        "y": 11.76,
+        "size": 18.57,
+        "blur": 11.99,
+        "opacity": 0.46
+      },
+      {
+        "x": 4.77,
+        "y": 44.57,
+        "size": 18.79,
+        "blur": 15.88,
+        "opacity": 0.37
+      }
+    ],
+    "imagePath": "assets/generated/2026-04-01T18-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-04-01T18-00-00Z.png",
+    "audioPath": "assets/audio/2026-04-01T18-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-04-01T17:00:00Z",
     "hourKey": "2026-04-01T17:00:00Z",
     "mood": "crooked",
