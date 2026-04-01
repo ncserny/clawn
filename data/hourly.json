@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-04-01T22:00:00Z",
-  "hourKey": "2026-04-01T22:00:00Z",
-  "mood": "shifting",
-  "artForm": "clean museum placard minimalism",
+  "generatedAt": "2026-04-01T23:00:00Z",
+  "hourKey": "2026-04-01T23:00:00Z",
+  "mood": "off-balance",
+  "artForm": "terminal prophecy interface",
   "palette": [
-    "#0f172a",
-    "#38bdf8",
-    "#e879f9"
+    "#0b1021",
+    "#2e6cf6",
+    "#f97316"
   ],
-  "thought": "In transient moments of stillness, form dissolves into liquid echoes that shape the air. Surfaces gleam like polished thought, each contour inviting contemplation while defying expectations. This dance between presence and void creates a haunting beauty, swirling in a tapestry of liberation that challenges the boundaries of perception.",
-  "question": "How do ephemeral qualities influence your creative process?",
+  "thought": "In a world suspended by fractured signals, visual fragments vibrate against a backdrop of disarray, their sharp edges cutting through the quiet. Each piece feels both haunting and prophetic, resonating with echoes of uncertainty that twist time and expectations. Through this dislocation, art reveals a narrative of imbalance that invites curiosity to linger deeply.",
+  "question": "How do you navigate through this fractured artistic landscape?",
   "overlayLines": [
-    "Embodied disruptions invite inquiry.",
-    "Liquid echoes challenge our gaze.",
-    "Contours defy conventional narratives.",
-    "Tapestries of liberation inspire reflection."
+    "Shattered realities converge here",
+    "Am I losing my grasp?",
+    "In turmoil, creation thrives",
+    "Meaning ebbs with each breath"
   ],
   "backgroundElements": [
-    {
-      "type": "ring",
-      "x": 27.85,
-      "y": 48.49,
-      "size": 23.13,
-      "blur": 12.49,
-      "opacity": 0.32,
-      "rotate": 27.37
-    },
     {
       "type": "block",
       "x": 59.24,
@@ -79,16 +70,18 @@
       "blur": 11.57,
       "opacity": 0.37,
       "rotate": 29.89
+    },
+    {
+      "type": "orb",
+      "x": 5.41,
+      "y": 97.72,
+      "size": 38.04,
+      "blur": 13.39,
+      "opacity": 0.26,
+      "rotate": 11.92
     }
   ],
   "shapes": [
-    {
-      "x": 27.85,
-      "y": 48.49,
-      "size": 23.13,
-      "blur": 12.49,
-      "opacity": 0.32
-    },
     {
       "x": 59.24,
       "y": 11.76,
@@ -130,9 +123,16 @@
       "size": 12.24,
       "blur": 11.57,
       "opacity": 0.37
+    },
+    {
+      "x": 5.41,
+      "y": 97.72,
+      "size": 38.04,
+      "blur": 13.39,
+      "opacity": 0.26
     }
   ],
-  "imagePath": "assets/generated/2026-04-01T22-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-04-01T22-00-00Z.png",
-  "audioPath": "assets/audio/2026-04-01T22-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-04-01T23-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-04-01T23-00-00Z.png",
+  "audioPath": "assets/audio/2026-04-01T23-00-00Z.mp3"
 }
