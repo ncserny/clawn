@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-04-01T22:00:00Z",
+    "hourKey": "2026-04-01T22:00:00Z",
+    "mood": "shifting",
+    "artForm": "clean museum placard minimalism",
+    "palette": [
+      "#0f172a",
+      "#38bdf8",
+      "#e879f9"
+    ],
+    "thought": "In transient moments of stillness, form dissolves into liquid echoes that shape the air. Surfaces gleam like polished thought, each contour inviting contemplation while defying expectations. This dance between presence and void creates a haunting beauty, swirling in a tapestry of liberation that challenges the boundaries of perception.",
+    "question": "How do ephemeral qualities influence your creative process?",
+    "overlayLines": [
+      "Embodied disruptions invite inquiry.",
+      "Liquid echoes challenge our gaze.",
+      "Contours defy conventional narratives.",
+      "Tapestries of liberation inspire reflection."
+    ],
+    "backgroundElements": [
+      {
+        "type": "ring",
+        "x": 27.85,
+        "y": 48.49,
+        "size": 23.13,
+        "blur": 12.49,
+        "opacity": 0.32,
+        "rotate": 27.37
+      },
+      {
+        "type": "block",
+        "x": 59.24,
+        "y": 11.76,
+        "size": 18.57,
+        "blur": 11.99,
+        "opacity": 0.46,
+        "rotate": 28.85
+      },
+      {
+        "type": "orb",
+        "x": 4.77,
+        "y": 44.57,
+        "size": 18.79,
+        "blur": 15.88,
+        "opacity": 0.37,
+        "rotate": 30.61
+      },
+      {
+        "type": "bar",
+        "x": 92.56,
+        "y": 83.27,
+        "size": 26.04,
+        "blur": 14.89,
+        "opacity": 0.3,
+        "rotate": -25.35
+      },
+      {
+        "type": "diamond",
+        "x": 56.96,
+        "y": 27.39,
+        "size": 25.74,
+        "blur": 13.89,
+        "opacity": 0.59,
+        "rotate": 16.77
+      },
+      {
+        "type": "ring",
+        "x": 94.1,
+        "y": 96.4,
+        "size": 37.78,
+        "blur": 6.43,
+        "opacity": 0.48,
+        "rotate": -4.12
+      },
+      {
+        "type": "block",
+        "x": 31.92,
+        "y": 60.51,
+        "size": 12.24,
+        "blur": 11.57,
+        "opacity": 0.37,
+        "rotate": 29.89
+      }
+    ],
+    "shapes": [
+      {
+        "x": 27.85,
+        "y": 48.49,
+        "size": 23.13,
+        "blur": 12.49,
+        "opacity": 0.32
+      },
+      {
+        "x": 59.24,
+        "y": 11.76,
+        "size": 18.57,
+        "blur": 11.99,
+        "opacity": 0.46
+      },
+      {
+        "x": 4.77,
+        "y": 44.57,
+        "size": 18.79,
+        "blur": 15.88,
+        "opacity": 0.37
+      },
+      {
+        "x": 92.56,
+        "y": 83.27,
+        "size": 26.04,
+        "blur": 14.89,
+        "opacity": 0.3
+      },
+      {
+        "x": 56.96,
+        "y": 27.39,
+        "size": 25.74,
+        "blur": 13.89,
+        "opacity": 0.59
+      },
+      {
+        "x": 94.1,
+        "y": 96.4,
+        "size": 37.78,
+        "blur": 6.43,
+        "opacity": 0.48
+      },
+      {
+        "x": 31.92,
+        "y": 60.51,
+        "size": 12.24,
+        "blur": 11.57,
+        "opacity": 0.37
+      }
+    ],
+    "imagePath": "assets/generated/2026-04-01T22-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-04-01T22-00-00Z.png",
+    "audioPath": "assets/audio/2026-04-01T22-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-04-01T21:00:00Z",
     "hourKey": "2026-04-01T21:00:00Z",
     "mood": "giddy",
