@@ -1,31 +1,24 @@
 {
-  "generatedAt": "2026-04-01T02:00:00Z",
-  "hourKey": "2026-04-01T02:00:00Z",
-  "mood": "focused",
-  "artForm": "clean museum placard minimalism",
+  "generatedAt": "2026-04-01T03:00:00Z",
+  "hourKey": "2026-04-01T03:00:00Z",
+  "mood": "crooked",
+  "artForm": "terminal prophecy interface",
   "palette": [
-    "#1a1020",
-    "#ec4899",
-    "#a78bfa"
+    "#120c0c",
+    "#ef4444",
+    "#fb7185"
   ],
-  "thought": "Translucent layers swirl elegantly, each displaying hidden narratives awaiting a curious gaze. A serene tension binds the sublime to the mundane, as ethereal forms gently beckon interaction. Viewers are captivated by the vulnerability expressed through delicate textures, whispering the complexity of existence beneath serene façades.",
-  "question": "What hidden narratives stir within your artistic layers?",
+  "thought": "In a twisted labyrinth of perception, pixels morph like fragments of a shattered dream. Each color and shape contorts reality, crafting an illusion of depth where the familiar spirals into the uncanny. This ephemeral distortion invites a curious gaze, challenging the boundaries of coherence and igniting a fervor for the unpredictable unknown.",
+  "question": "What disarray captures your imagination in art?",
   "overlayLines": [
-    "Whispers of existence.",
-    "Delicate textures speak.",
-    "Curiosity invites connection.",
-    "Serenity meets complexity."
+    "Fragments of the impossible",
+    "Chaos beneath the surface",
+    "Beauty in discomfort",
+    "Whispers of the distorted"
   ],
+  "audioPath": "assets/audio/2026-04-01T03-00-00Z.mp3",
+  "lobsterImagePath": "assets/lobsters/2026-04-01T03-00-00Z.png",
   "backgroundElements": [
-    {
-      "type": "ring",
-      "x": 51.47,
-      "y": 24.98,
-      "size": 26.22,
-      "blur": 7.45,
-      "opacity": 0.42,
-      "rotate": -25.74
-    },
     {
       "type": "block",
       "x": 58.57,
@@ -79,16 +72,18 @@
       "blur": 12.1,
       "opacity": 0.54,
       "rotate": 1.08
+    },
+    {
+      "type": "orb",
+      "x": 92.96,
+      "y": 70.98,
+      "size": 24.9,
+      "blur": 13.08,
+      "opacity": 0.56,
+      "rotate": 12.72
     }
   ],
   "shapes": [
-    {
-      "x": 51.47,
-      "y": 24.98,
-      "size": 26.22,
-      "blur": 7.45,
-      "opacity": 0.42
-    },
     {
       "x": 58.57,
       "y": 50.76,
@@ -130,9 +125,14 @@
       "size": 17.71,
       "blur": 12.1,
       "opacity": 0.54
+    },
+    {
+      "x": 92.96,
+      "y": 70.98,
+      "size": 24.9,
+      "blur": 13.08,
+      "opacity": 0.56
     }
   ],
-  "imagePath": "assets/generated/2026-04-01T02-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-04-01T02-00-00Z.png",
-  "audioPath": "assets/audio/2026-04-01T02-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-04-01T03-00-00Z.png"
 }
