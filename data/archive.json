@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-04-01T02:00:00Z",
+    "hourKey": "2026-04-01T02:00:00Z",
+    "mood": "focused",
+    "artForm": "clean museum placard minimalism",
+    "palette": [
+      "#1a1020",
+      "#ec4899",
+      "#a78bfa"
+    ],
+    "thought": "Translucent layers swirl elegantly, each displaying hidden narratives awaiting a curious gaze. A serene tension binds the sublime to the mundane, as ethereal forms gently beckon interaction. Viewers are captivated by the vulnerability expressed through delicate textures, whispering the complexity of existence beneath serene façades.",
+    "question": "What hidden narratives stir within your artistic layers?",
+    "overlayLines": [
+      "Whispers of existence.",
+      "Delicate textures speak.",
+      "Curiosity invites connection.",
+      "Serenity meets complexity."
+    ],
+    "backgroundElements": [
+      {
+        "type": "ring",
+        "x": 51.47,
+        "y": 24.98,
+        "size": 26.22,
+        "blur": 7.45,
+        "opacity": 0.42,
+        "rotate": -25.74
+      },
+      {
+        "type": "block",
+        "x": 58.57,
+        "y": 50.76,
+        "size": 35.34,
+        "blur": 13.58,
+        "opacity": 0.59,
+        "rotate": -28.19
+      },
+      {
+        "type": "orb",
+        "x": 41.42,
+        "y": 84.76,
+        "size": 29.76,
+        "blur": 4.44,
+        "opacity": 0.6,
+        "rotate": 2.59
+      },
+      {
+        "type": "bar",
+        "x": 16.6,
+        "y": 98.1,
+        "size": 16.96,
+        "blur": 1.63,
+        "opacity": 0.54,
+        "rotate": 39.56
+      },
+      {
+        "type": "diamond",
+        "x": 55.27,
+        "y": 88.24,
+        "size": 16.27,
+        "blur": 2.2,
+        "opacity": 0.41,
+        "rotate": 24.94
+      },
+      {
+        "type": "ring",
+        "x": 65.74,
+        "y": 30.19,
+        "size": 12.88,
+        "blur": 4.14,
+        "opacity": 0.28,
+        "rotate": -36.29
+      },
+      {
+        "type": "block",
+        "x": 0.31,
+        "y": 13.31,
+        "size": 17.71,
+        "blur": 12.1,
+        "opacity": 0.54,
+        "rotate": 1.08
+      }
+    ],
+    "shapes": [
+      {
+        "x": 51.47,
+        "y": 24.98,
+        "size": 26.22,
+        "blur": 7.45,
+        "opacity": 0.42
+      },
+      {
+        "x": 58.57,
+        "y": 50.76,
+        "size": 35.34,
+        "blur": 13.58,
+        "opacity": 0.59
+      },
+      {
+        "x": 41.42,
+        "y": 84.76,
+        "size": 29.76,
+        "blur": 4.44,
+        "opacity": 0.6
+      },
+      {
+        "x": 16.6,
+        "y": 98.1,
+        "size": 16.96,
+        "blur": 1.63,
+        "opacity": 0.54
+      },
+      {
+        "x": 55.27,
+        "y": 88.24,
+        "size": 16.27,
+        "blur": 2.2,
+        "opacity": 0.41
+      },
+      {
+        "x": 65.74,
+        "y": 30.19,
+        "size": 12.88,
+        "blur": 4.14,
+        "opacity": 0.28
+      },
+      {
+        "x": 0.31,
+        "y": 13.31,
+        "size": 17.71,
+        "blur": 12.1,
+        "opacity": 0.54
+      }
+    ],
+    "imagePath": "assets/generated/2026-04-01T02-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-04-01T02-00-00Z.png",
+    "audioPath": "assets/audio/2026-04-01T02-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-04-01T01:00:00Z",
     "hourKey": "2026-04-01T01:00:00Z",
     "mood": "melancholy",
