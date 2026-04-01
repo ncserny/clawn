@@ -1,58 +1,22 @@
 {
-  "generatedAt": "2026-04-01T06:00:00Z",
-  "hourKey": "2026-04-01T06:00:00Z",
-  "mood": "caffeinated",
-  "artForm": "faxed surveillance document",
+  "generatedAt": "2026-04-01T10:00:00Z",
+  "hourKey": "2026-04-01T10:00:00Z",
+  "mood": "velvet",
+  "artForm": "brutalist editorial spread",
   "palette": [
-    "#140f2d",
-    "#8b5cf6",
-    "#22d3ee"
+    "#0f172a",
+    "#38bdf8",
+    "#e879f9"
   ],
-  "thought": "Rows of typed letters bleed into the margins of existence, a matrix capturing the pulse of anonymity. Each character oscillates with urgency, dissolving boundaries of reality as they morph into visual echoes of clandestine transactions. Here, frantic communication unveils sharpened truths that ripple through the ether, igniting a fever for observation and revelation.",
-  "question": "What does anonymity reveal in your artistic expression?",
+  "thought": "In shadows cast by their own severity, velvet structures emerge, both inviting and forbidding. Each angle carves out a distinct narrative, raw and unyielding, while softness lingers in the air, asking the viewer to embrace the contradictions woven through the design. This art tugs at your soul's edges, igniting inquiries and responses.",
+  "question": "What contradictions resonate within your artistic experience?",
   "overlayLines": [
-    "Dispatching truth at dawn",
-    "Ciphered whispers remain pregnant",
-    "Silent chaos takes flight",
-    "Echoes of forgotten urgency"
+    "Softness amid rigidity",
+    "Chaos cloaked in elegance",
+    "Whispers of the unyielding",
+    "Raw beauty revealed"
   ],
   "backgroundElements": [
-    {
-      "type": "diamond",
-      "x": 55.27,
-      "y": 88.24,
-      "size": 16.27,
-      "blur": 2.2,
-      "opacity": 0.41,
-      "rotate": 24.94
-    },
-    {
-      "type": "ring",
-      "x": 65.74,
-      "y": 30.19,
-      "size": 12.88,
-      "blur": 4.14,
-      "opacity": 0.28,
-      "rotate": -36.29
-    },
-    {
-      "type": "block",
-      "x": 0.31,
-      "y": 13.31,
-      "size": 17.71,
-      "blur": 12.1,
-      "opacity": 0.54,
-      "rotate": 1.08
-    },
-    {
-      "type": "orb",
-      "x": 92.96,
-      "y": 70.98,
-      "size": 24.9,
-      "blur": 13.08,
-      "opacity": 0.56,
-      "rotate": 12.72
-    },
     {
       "type": "bar",
       "x": 88.08,
@@ -79,37 +43,45 @@
       "blur": 6.67,
       "opacity": 0.5,
       "rotate": -6.01
+    },
+    {
+      "type": "block",
+      "x": 57.31,
+      "y": 0.41,
+      "size": 13.5,
+      "blur": 8.06,
+      "opacity": 0.21,
+      "rotate": 32.25
+    },
+    {
+      "type": "orb",
+      "x": 76.59,
+      "y": 99.32,
+      "size": 34.84,
+      "blur": 0.78,
+      "opacity": 0.24,
+      "rotate": 12.57
+    },
+    {
+      "type": "bar",
+      "x": 57.17,
+      "y": 32.04,
+      "size": 33.85,
+      "blur": 11.77,
+      "opacity": 0.61,
+      "rotate": -14.57
+    },
+    {
+      "type": "diamond",
+      "x": 0.67,
+      "y": 44.49,
+      "size": 26.98,
+      "blur": 14.73,
+      "opacity": 0.36,
+      "rotate": 16.33
     }
   ],
   "shapes": [
-    {
-      "x": 55.27,
-      "y": 88.24,
-      "size": 16.27,
-      "blur": 2.2,
-      "opacity": 0.41
-    },
-    {
-      "x": 65.74,
-      "y": 30.19,
-      "size": 12.88,
-      "blur": 4.14,
-      "opacity": 0.28
-    },
-    {
-      "x": 0.31,
-      "y": 13.31,
-      "size": 17.71,
-      "blur": 12.1,
-      "opacity": 0.54
-    },
-    {
-      "x": 92.96,
-      "y": 70.98,
-      "size": 24.9,
-      "blur": 13.08,
-      "opacity": 0.56
-    },
     {
       "x": 88.08,
       "y": 83.14,
@@ -130,9 +102,37 @@
       "size": 29.5,
       "blur": 6.67,
       "opacity": 0.5
+    },
+    {
+      "x": 57.31,
+      "y": 0.41,
+      "size": 13.5,
+      "blur": 8.06,
+      "opacity": 0.21
+    },
+    {
+      "x": 76.59,
+      "y": 99.32,
+      "size": 34.84,
+      "blur": 0.78,
+      "opacity": 0.24
+    },
+    {
+      "x": 57.17,
+      "y": 32.04,
+      "size": 33.85,
+      "blur": 11.77,
+      "opacity": 0.61
+    },
+    {
+      "x": 0.67,
+      "y": 44.49,
+      "size": 26.98,
+      "blur": 14.73,
+      "opacity": 0.36
     }
   ],
-  "imagePath": "assets/generated/2026-04-01T06-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-04-01T06-00-00Z.png",
-  "audioPath": "assets/audio/2026-04-01T06-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-04-01T10-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-04-01T10-00-00Z.png",
+  "audioPath": "assets/audio/2026-04-01T10-00-00Z.mp3"
 }
