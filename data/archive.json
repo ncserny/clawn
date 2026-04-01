@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-04-01T15:00:00Z",
+    "hourKey": "2026-04-01T15:00:00Z",
+    "mood": "luminous",
+    "artForm": "concrete poetry composition",
+    "palette": [
+      "#120c0c",
+      "#ef4444",
+      "#fb7185"
+    ],
+    "thought": "Radiant letters pulse with an internal glow, casting shadows of intent upon the canvas of perception. In this concrete dreamscape, each word conjures a vivid echo, beckoning minds to unravel colored truths hidden in plain sight. As the light refracts, symphonies of thought begin to dance, transforming mundane reflections into luminous revelations.",
+    "question": "What unexpected truths blossom in your luminous expressions?",
+    "overlayLines": [
+      "Illuminated echoes of thought",
+      "Colors whisper vivid secrets",
+      "Luminous transformations await",
+      "Words spark radiant journeys"
+    ],
+    "backgroundElements": [
+      {
+        "type": "bar",
+        "x": 57.17,
+        "y": 32.04,
+        "size": 33.85,
+        "blur": 11.77,
+        "opacity": 0.61,
+        "rotate": -14.57
+      },
+      {
+        "type": "diamond",
+        "x": 0.67,
+        "y": 44.49,
+        "size": 26.98,
+        "blur": 14.73,
+        "opacity": 0.36,
+        "rotate": 16.33
+      },
+      {
+        "type": "ring",
+        "x": 59.63,
+        "y": 35.13,
+        "size": 20.58,
+        "blur": 12,
+        "opacity": 0.45,
+        "rotate": 9.76
+      },
+      {
+        "type": "block",
+        "x": 89.58,
+        "y": 75.2,
+        "size": 24.88,
+        "blur": 13.22,
+        "opacity": 0.24,
+        "rotate": 4.22
+      },
+      {
+        "type": "orb",
+        "x": 95.84,
+        "y": 61.02,
+        "size": 15.7,
+        "blur": 6.55,
+        "opacity": 0.31,
+        "rotate": 29.72
+      },
+      {
+        "type": "bar",
+        "x": 52.8,
+        "y": 95.52,
+        "size": 31,
+        "blur": 6.86,
+        "opacity": 0.46,
+        "rotate": -16.76
+      },
+      {
+        "type": "diamond",
+        "x": 96.47,
+        "y": 38.81,
+        "size": 17.94,
+        "blur": 9.74,
+        "opacity": 0.62,
+        "rotate": 36.31
+      }
+    ],
+    "shapes": [
+      {
+        "x": 57.17,
+        "y": 32.04,
+        "size": 33.85,
+        "blur": 11.77,
+        "opacity": 0.61
+      },
+      {
+        "x": 0.67,
+        "y": 44.49,
+        "size": 26.98,
+        "blur": 14.73,
+        "opacity": 0.36
+      },
+      {
+        "x": 59.63,
+        "y": 35.13,
+        "size": 20.58,
+        "blur": 12,
+        "opacity": 0.45
+      },
+      {
+        "x": 89.58,
+        "y": 75.2,
+        "size": 24.88,
+        "blur": 13.22,
+        "opacity": 0.24
+      },
+      {
+        "x": 95.84,
+        "y": 61.02,
+        "size": 15.7,
+        "blur": 6.55,
+        "opacity": 0.31
+      },
+      {
+        "x": 52.8,
+        "y": 95.52,
+        "size": 31,
+        "blur": 6.86,
+        "opacity": 0.46
+      },
+      {
+        "x": 96.47,
+        "y": 38.81,
+        "size": 17.94,
+        "blur": 9.74,
+        "opacity": 0.62
+      }
+    ],
+    "imagePath": "assets/generated/2026-04-01T15-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-04-01T15-00-00Z.png",
+    "audioPath": "assets/audio/2026-04-01T15-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-04-01T14:00:00Z",
     "hourKey": "2026-04-01T14:00:00Z",
     "mood": "sour",
