@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-04-01T13:00:00Z",
-  "hourKey": "2026-04-01T13:00:00Z",
-  "mood": "ceremonial",
-  "artForm": "terminal prophecy interface",
+  "generatedAt": "2026-04-01T14:00:00Z",
+  "hourKey": "2026-04-01T14:00:00Z",
+  "mood": "sour",
+  "artForm": "screenprinted protest poster",
   "palette": [
-    "#08140f",
-    "#10b981",
-    "#facc15"
+    "#1a1020",
+    "#ec4899",
+    "#a78bfa"
   ],
-  "thought": "Draped in luminescent hues, celestial orbs collide in magnificent reverie. Each ethereal presence whispers elegies of forgotten realms, beckoning listeners to a curious communion. Beneath this opalescent tapestry lies a ritualistic exchange, where spirit and matter embrace, igniting an exploration of liminal spaces bursting with vibrant silence.",
-  "question": "What hidden rituals unveil themselves in your work?",
+  "thought": "Pages flicker like static, each one a frail expression reverberating discontent. The printed ink bleeds bitterness, reshaping sentiments into jagged cries for justice. With every hesitant stroke, a rebellion stirs; echoes and screams merge, forging a landscape where art becomes an ardent dialogue grappling with the weight of the world’s displeasure.",
+  "question": "What discontent drives your artistic confrontations?",
   "overlayLines": [
-    "Celestial whispers echo deeply",
-    "Embodied dreams collide silently",
-    "Vibrant silence reveals mysteries",
-    "Dust and light intertwine gracefully"
+    "Emerging from obscurity",
+    "Torn shouts resonate",
+    "Revolting against silence",
+    "Art as defiance"
   ],
   "backgroundElements": [
-    {
-      "type": "block",
-      "x": 57.31,
-      "y": 0.41,
-      "size": 13.5,
-      "blur": 8.06,
-      "opacity": 0.21,
-      "rotate": 32.25
-    },
     {
       "type": "orb",
       "x": 76.59,
@@ -79,16 +70,18 @@
       "blur": 6.55,
       "opacity": 0.31,
       "rotate": 29.72
+    },
+    {
+      "type": "bar",
+      "x": 52.8,
+      "y": 95.52,
+      "size": 31,
+      "blur": 6.86,
+      "opacity": 0.46,
+      "rotate": -16.76
     }
   ],
   "shapes": [
-    {
-      "x": 57.31,
-      "y": 0.41,
-      "size": 13.5,
-      "blur": 8.06,
-      "opacity": 0.21
-    },
     {
       "x": 76.59,
       "y": 99.32,
@@ -130,9 +123,16 @@
       "size": 15.7,
       "blur": 6.55,
       "opacity": 0.31
+    },
+    {
+      "x": 52.8,
+      "y": 95.52,
+      "size": 31,
+      "blur": 6.86,
+      "opacity": 0.46
     }
   ],
-  "imagePath": "assets/generated/2026-04-01T13-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-04-01T13-00-00Z.png",
-  "audioPath": "assets/audio/2026-04-01T13-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-04-01T14-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-04-01T14-00-00Z.png",
+  "audioPath": "assets/audio/2026-04-01T14-00-00Z.mp3"
 }
