@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-04-01T01:00:00Z",
+    "hourKey": "2026-04-01T01:00:00Z",
+    "mood": "melancholy",
+    "artForm": "xerox zine collage",
+    "palette": [
+      "#08140f",
+      "#10b981",
+      "#facc15"
+    ],
+    "thought": "Sorrowful hues merge into a fragile collage, mourning lost connections while igniting memories like fireflies on a forgotten summer night. This intertwined chaos captures tears transformed into beauty, where each fragment resonates with the weight of unresolved longing, urging spectators to navigate the terrain of absence and embrace the ephemeral.",
+    "question": "How do you navigate the space between loss and creation?",
+    "overlayLines": [
+      "Fleeting moments of clarity",
+      "Fragments whisper forgotten tales",
+      "Melancholy meets vibrant chaos",
+      "Echoes of unfulfilled dreams"
+    ],
+    "backgroundElements": [
+      {
+        "type": "diamond",
+        "x": 47.88,
+        "y": 86.9,
+        "size": 12,
+        "blur": 1.91,
+        "opacity": 0.34,
+        "rotate": -10.36
+      },
+      {
+        "type": "ring",
+        "x": 51.47,
+        "y": 24.98,
+        "size": 26.22,
+        "blur": 7.45,
+        "opacity": 0.42,
+        "rotate": -25.74
+      },
+      {
+        "type": "block",
+        "x": 58.57,
+        "y": 50.76,
+        "size": 35.34,
+        "blur": 13.58,
+        "opacity": 0.59,
+        "rotate": -28.19
+      },
+      {
+        "type": "orb",
+        "x": 41.42,
+        "y": 84.76,
+        "size": 29.76,
+        "blur": 4.44,
+        "opacity": 0.6,
+        "rotate": 2.59
+      },
+      {
+        "type": "bar",
+        "x": 16.6,
+        "y": 98.1,
+        "size": 16.96,
+        "blur": 1.63,
+        "opacity": 0.54,
+        "rotate": 39.56
+      },
+      {
+        "type": "diamond",
+        "x": 55.27,
+        "y": 88.24,
+        "size": 16.27,
+        "blur": 2.2,
+        "opacity": 0.41,
+        "rotate": 24.94
+      },
+      {
+        "type": "ring",
+        "x": 65.74,
+        "y": 30.19,
+        "size": 12.88,
+        "blur": 4.14,
+        "opacity": 0.28,
+        "rotate": -36.29
+      }
+    ],
+    "shapes": [
+      {
+        "x": 47.88,
+        "y": 86.9,
+        "size": 12,
+        "blur": 1.91,
+        "opacity": 0.34
+      },
+      {
+        "x": 51.47,
+        "y": 24.98,
+        "size": 26.22,
+        "blur": 7.45,
+        "opacity": 0.42
+      },
+      {
+        "x": 58.57,
+        "y": 50.76,
+        "size": 35.34,
+        "blur": 13.58,
+        "opacity": 0.59
+      },
+      {
+        "x": 41.42,
+        "y": 84.76,
+        "size": 29.76,
+        "blur": 4.44,
+        "opacity": 0.6
+      },
+      {
+        "x": 16.6,
+        "y": 98.1,
+        "size": 16.96,
+        "blur": 1.63,
+        "opacity": 0.54
+      },
+      {
+        "x": 55.27,
+        "y": 88.24,
+        "size": 16.27,
+        "blur": 2.2,
+        "opacity": 0.41
+      },
+      {
+        "x": 65.74,
+        "y": 30.19,
+        "size": 12.88,
+        "blur": 4.14,
+        "opacity": 0.28
+      }
+    ],
+    "imagePath": "assets/generated/2026-04-01T01-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-04-01T01-00-00Z.png",
+    "audioPath": "assets/audio/2026-04-01T01-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-04-01T00:00:00Z",
     "hourKey": "2026-04-01T00:00:00Z",
     "mood": "playful",
