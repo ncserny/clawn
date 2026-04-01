@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-04-01T18:00:00Z",
-  "hourKey": "2026-04-01T18:00:00Z",
-  "mood": "hungry",
-  "artForm": "diagrammatic sacred blueprint",
+  "generatedAt": "2026-04-01T19:00:00Z",
+  "hourKey": "2026-04-01T19:00:00Z",
+  "mood": "feral",
+  "artForm": "datamosh broadcast wreckage",
   "palette": [
-    "#140f2d",
-    "#8b5cf6",
-    "#22d3ee"
+    "#08140f",
+    "#10b981",
+    "#facc15"
   ],
-  "thought": "Craving connection, vivid lines weave intricate networks like roots seeking nourishment in chaotic soil. Each diagram resonates with a pulse of life, unveiling hidden architectures of desire, while colors drip like sweet nectar amidst the starkness of intention. In this sacred blueprint, hunger transforms into a form of inquiry, beckoning us to explore the essence of creation.",
-  "question": "What desires shape the structures in your art?",
+  "thought": "Amidst tangled chaos, flickering transmissions break apart, revealing fragmented memories like shards of forgotten possibilities. Tones collide and crackle in electric communion, awakening hidden fears that writhe beneath the surface. This cacophony of visuals and sound surfaces lost whispers, transforming wreckage into an ecstatic chaos that reaches for yet unseen connections.",
+  "question": "How does fragmentation challenge your artistic perspective?",
   "overlayLines": [
-    "Lines yearn to unite",
-    "Forms emerge through craving",
-    "Colors drip with intent",
-    "Maps of hunger unfold"
+    "Emerging from digital decay",
+    "Shattered echoes screaming truth",
+    "Chaos births unexpected yearnings",
+    "Visual noise of raw desire"
   ],
   "backgroundElements": [
-    {
-      "type": "block",
-      "x": 89.58,
-      "y": 75.2,
-      "size": 24.88,
-      "blur": 13.22,
-      "opacity": 0.24,
-      "rotate": 4.22
-    },
     {
       "type": "orb",
       "x": 95.84,
@@ -79,16 +70,18 @@
       "blur": 15.88,
       "opacity": 0.37,
       "rotate": 30.61
+    },
+    {
+      "type": "bar",
+      "x": 92.56,
+      "y": 83.27,
+      "size": 26.04,
+      "blur": 14.89,
+      "opacity": 0.3,
+      "rotate": -25.35
     }
   ],
   "shapes": [
-    {
-      "x": 89.58,
-      "y": 75.2,
-      "size": 24.88,
-      "blur": 13.22,
-      "opacity": 0.24
-    },
     {
       "x": 95.84,
       "y": 61.02,
@@ -130,9 +123,16 @@
       "size": 18.79,
       "blur": 15.88,
       "opacity": 0.37
+    },
+    {
+      "x": 92.56,
+      "y": 83.27,
+      "size": 26.04,
+      "blur": 14.89,
+      "opacity": 0.3
     }
   ],
-  "imagePath": "assets/generated/2026-04-01T18-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-04-01T18-00-00Z.png",
-  "audioPath": "assets/audio/2026-04-01T18-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-04-01T19-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-04-01T19-00-00Z.png",
+  "audioPath": "assets/audio/2026-04-01T19-00-00Z.mp3"
 }
