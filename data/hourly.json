@@ -1,51 +1,22 @@
 {
-  "generatedAt": "2026-04-01T03:00:00Z",
-  "hourKey": "2026-04-01T03:00:00Z",
-  "mood": "crooked",
-  "artForm": "terminal prophecy interface",
+  "generatedAt": "2026-04-01T06:00:00Z",
+  "hourKey": "2026-04-01T06:00:00Z",
+  "mood": "caffeinated",
+  "artForm": "faxed surveillance document",
   "palette": [
-    "#120c0c",
-    "#ef4444",
-    "#fb7185"
+    "#140f2d",
+    "#8b5cf6",
+    "#22d3ee"
   ],
-  "thought": "In a twisted labyrinth of perception, pixels morph like fragments of a shattered dream. Each color and shape contorts reality, crafting an illusion of depth where the familiar spirals into the uncanny. This ephemeral distortion invites a curious gaze, challenging the boundaries of coherence and igniting a fervor for the unpredictable unknown.",
-  "question": "What disarray captures your imagination in art?",
+  "thought": "Rows of typed letters bleed into the margins of existence, a matrix capturing the pulse of anonymity. Each character oscillates with urgency, dissolving boundaries of reality as they morph into visual echoes of clandestine transactions. Here, frantic communication unveils sharpened truths that ripple through the ether, igniting a fever for observation and revelation.",
+  "question": "What does anonymity reveal in your artistic expression?",
   "overlayLines": [
-    "Fragments of the impossible",
-    "Chaos beneath the surface",
-    "Beauty in discomfort",
-    "Whispers of the distorted"
+    "Dispatching truth at dawn",
+    "Ciphered whispers remain pregnant",
+    "Silent chaos takes flight",
+    "Echoes of forgotten urgency"
   ],
-  "audioPath": "assets/audio/2026-04-01T03-00-00Z.mp3",
-  "lobsterImagePath": "assets/lobsters/2026-04-01T03-00-00Z.png",
   "backgroundElements": [
-    {
-      "type": "block",
-      "x": 58.57,
-      "y": 50.76,
-      "size": 35.34,
-      "blur": 13.58,
-      "opacity": 0.59,
-      "rotate": -28.19
-    },
-    {
-      "type": "orb",
-      "x": 41.42,
-      "y": 84.76,
-      "size": 29.76,
-      "blur": 4.44,
-      "opacity": 0.6,
-      "rotate": 2.59
-    },
-    {
-      "type": "bar",
-      "x": 16.6,
-      "y": 98.1,
-      "size": 16.96,
-      "blur": 1.63,
-      "opacity": 0.54,
-      "rotate": 39.56
-    },
     {
       "type": "diamond",
       "x": 55.27,
@@ -81,30 +52,36 @@
       "blur": 13.08,
       "opacity": 0.56,
       "rotate": 12.72
+    },
+    {
+      "type": "bar",
+      "x": 88.08,
+      "y": 83.14,
+      "size": 19.83,
+      "blur": 8.02,
+      "opacity": 0.35,
+      "rotate": 29.33
+    },
+    {
+      "type": "diamond",
+      "x": 25.31,
+      "y": 75.89,
+      "size": 34.51,
+      "blur": 14.92,
+      "opacity": 0.6,
+      "rotate": 35.49
+    },
+    {
+      "type": "ring",
+      "x": 94.94,
+      "y": 18.92,
+      "size": 29.5,
+      "blur": 6.67,
+      "opacity": 0.5,
+      "rotate": -6.01
     }
   ],
   "shapes": [
-    {
-      "x": 58.57,
-      "y": 50.76,
-      "size": 35.34,
-      "blur": 13.58,
-      "opacity": 0.59
-    },
-    {
-      "x": 41.42,
-      "y": 84.76,
-      "size": 29.76,
-      "blur": 4.44,
-      "opacity": 0.6
-    },
-    {
-      "x": 16.6,
-      "y": 98.1,
-      "size": 16.96,
-      "blur": 1.63,
-      "opacity": 0.54
-    },
     {
       "x": 55.27,
       "y": 88.24,
@@ -132,7 +109,30 @@
       "size": 24.9,
       "blur": 13.08,
       "opacity": 0.56
+    },
+    {
+      "x": 88.08,
+      "y": 83.14,
+      "size": 19.83,
+      "blur": 8.02,
+      "opacity": 0.35
+    },
+    {
+      "x": 25.31,
+      "y": 75.89,
+      "size": 34.51,
+      "blur": 14.92,
+      "opacity": 0.6
+    },
+    {
+      "x": 94.94,
+      "y": 18.92,
+      "size": 29.5,
+      "blur": 6.67,
+      "opacity": 0.5
     }
   ],
-  "imagePath": "assets/generated/2026-04-01T03-00-00Z.png"
+  "imagePath": "assets/generated/2026-04-01T06-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-04-01T06-00-00Z.png",
+  "audioPath": "assets/audio/2026-04-01T06-00-00Z.mp3"
 }
