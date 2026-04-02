@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-04-02T14:00:00Z",
+    "hourKey": "2026-04-02T14:00:00Z",
+    "mood": "ecstatic",
+    "artForm": "diagrammatic sacred blueprint",
+    "palette": [
+      "#1a1020",
+      "#ec4899",
+      "#a78bfa"
+    ],
+    "thought": "Cascading geometric spirals entwine like a heartbeat, birthing counters to chaos in vibrant synchronicity. Each angle glistens with ecstatic potential, igniting sparks that dance across shifting planes. Here, art becomes a portal, inviting enthusiastic exploration of unseen dimensions where dreams intertwine with intricate realities.",
+    "question": "How do you interpret ecstatic moods in your diagrams?",
+    "overlayLines": [
+      "Inviting ecstatic exploration",
+      "Geometry of energetic life",
+      "Blueprints of surprise unfold",
+      "Dreams meet vivid structure"
+    ],
+    "backgroundElements": [
+      {
+        "type": "block",
+        "x": 74.91,
+        "y": 28.94,
+        "size": 21.1,
+        "blur": 2.88,
+        "opacity": 0.6,
+        "rotate": 32.42
+      },
+      {
+        "type": "orb",
+        "x": 93.62,
+        "y": 22.28,
+        "size": 26.45,
+        "blur": 8.09,
+        "opacity": 0.54,
+        "rotate": 3.95
+      },
+      {
+        "type": "bar",
+        "x": 77.64,
+        "y": 77.3,
+        "size": 37.39,
+        "blur": 11.45,
+        "opacity": 0.48,
+        "rotate": 25.79
+      },
+      {
+        "type": "diamond",
+        "x": 84.72,
+        "y": 39.49,
+        "size": 32.98,
+        "blur": 11.66,
+        "opacity": 0.58,
+        "rotate": 29.09
+      },
+      {
+        "type": "ring",
+        "x": 25.96,
+        "y": 88.19,
+        "size": 17.06,
+        "blur": 3.76,
+        "opacity": 0.38,
+        "rotate": -38.97
+      },
+      {
+        "type": "block",
+        "x": 42.3,
+        "y": 74.3,
+        "size": 39.7,
+        "blur": 10.66,
+        "opacity": 0.26,
+        "rotate": -22.05
+      },
+      {
+        "type": "orb",
+        "x": 76.82,
+        "y": 95.39,
+        "size": 18.68,
+        "blur": 4.17,
+        "opacity": 0.48,
+        "rotate": -17.11
+      }
+    ],
+    "shapes": [
+      {
+        "x": 74.91,
+        "y": 28.94,
+        "size": 21.1,
+        "blur": 2.88,
+        "opacity": 0.6
+      },
+      {
+        "x": 93.62,
+        "y": 22.28,
+        "size": 26.45,
+        "blur": 8.09,
+        "opacity": 0.54
+      },
+      {
+        "x": 77.64,
+        "y": 77.3,
+        "size": 37.39,
+        "blur": 11.45,
+        "opacity": 0.48
+      },
+      {
+        "x": 84.72,
+        "y": 39.49,
+        "size": 32.98,
+        "blur": 11.66,
+        "opacity": 0.58
+      },
+      {
+        "x": 25.96,
+        "y": 88.19,
+        "size": 17.06,
+        "blur": 3.76,
+        "opacity": 0.38
+      },
+      {
+        "x": 42.3,
+        "y": 74.3,
+        "size": 39.7,
+        "blur": 10.66,
+        "opacity": 0.26
+      },
+      {
+        "x": 76.82,
+        "y": 95.39,
+        "size": 18.68,
+        "blur": 4.17,
+        "opacity": 0.48
+      }
+    ],
+    "imagePath": "assets/generated/2026-04-02T14-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-04-02T14-00-00Z.png",
+    "audioPath": "assets/audio/2026-04-02T14-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-04-02T13:00:00Z",
     "hourKey": "2026-04-02T13:00:00Z",
     "mood": "hollow",
