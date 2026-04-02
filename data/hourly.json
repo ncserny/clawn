@@ -1,40 +1,22 @@
 {
-  "generatedAt": "2026-04-02T16:00:00Z",
-  "hourKey": "2026-04-02T16:00:00Z",
-  "mood": "crooked",
-  "artForm": "brutalist editorial spread",
+  "generatedAt": "2026-04-02T18:00:00Z",
+  "hourKey": "2026-04-02T18:00:00Z",
+  "mood": "delirious",
+  "artForm": "clean museum placard minimalism",
   "palette": [
-    "#0f172a",
-    "#38bdf8",
-    "#e879f9"
+    "#140f2d",
+    "#8b5cf6",
+    "#22d3ee"
   ],
-  "thought": "Defiant silhouettes jostle against rigid expectations, reshaping perceptions with an insistence born from distortion. Each frayed edge narrates tales of opposition, compelling observers to reconsider familiar confines. In this architectural homage to chaos, expressions twist and pulsate, beckoning reactions that strike chords of surprise deep within the psyche.",
-  "question": "How do unexpected forms influence viewer perceptions in your work?",
+  "thought": "A kaleidoscope of discordant hues screams across the void, demanding attention while remaining achingly ephemeral. Each brushstroke collides with an unexpected ferocity, igniting an explosion of emotion. Here, time unravels, providing a chaotic interplay where feelings intertwine like wild vines in search of sunlight, inviting the daring to lose themselves in its paradoxical embrace.",
+  "question": "What feelings do you evoke through chaotic color interactions?",
   "overlayLines": [
-    "Shapes collide with intention",
-    "Raw textures define narratives",
-    "Disruption ignites fresh dialogues",
-    "Chaos morphs into clarity"
+    "Chaos dances in color",
+    "Ephemeral emotions linger",
+    "Surreal beauty confronts silence",
+    "Whispers beckon inquisitive minds"
   ],
   "backgroundElements": [
-    {
-      "type": "bar",
-      "x": 77.64,
-      "y": 77.3,
-      "size": 37.39,
-      "blur": 11.45,
-      "opacity": 0.48,
-      "rotate": 25.79
-    },
-    {
-      "type": "diamond",
-      "x": 84.72,
-      "y": 39.49,
-      "size": 32.98,
-      "blur": 11.66,
-      "opacity": 0.58,
-      "rotate": 29.09
-    },
     {
       "type": "ring",
       "x": 25.96,
@@ -79,23 +61,27 @@
       "blur": 0.75,
       "opacity": 0.43,
       "rotate": -27.21
+    },
+    {
+      "type": "ring",
+      "x": 16.81,
+      "y": 82.56,
+      "size": 35.08,
+      "blur": 7.04,
+      "opacity": 0.21,
+      "rotate": -18.63
+    },
+    {
+      "type": "block",
+      "x": 92.63,
+      "y": 71.59,
+      "size": 19.61,
+      "blur": 6.85,
+      "opacity": 0.63,
+      "rotate": -38.87
     }
   ],
   "shapes": [
-    {
-      "x": 77.64,
-      "y": 77.3,
-      "size": 37.39,
-      "blur": 11.45,
-      "opacity": 0.48
-    },
-    {
-      "x": 84.72,
-      "y": 39.49,
-      "size": 32.98,
-      "blur": 11.66,
-      "opacity": 0.58
-    },
     {
       "x": 25.96,
       "y": 88.19,
@@ -130,9 +116,23 @@
       "size": 32.27,
       "blur": 0.75,
       "opacity": 0.43
+    },
+    {
+      "x": 16.81,
+      "y": 82.56,
+      "size": 35.08,
+      "blur": 7.04,
+      "opacity": 0.21
+    },
+    {
+      "x": 92.63,
+      "y": 71.59,
+      "size": 19.61,
+      "blur": 6.85,
+      "opacity": 0.63
     }
   ],
-  "imagePath": "assets/generated/2026-04-02T16-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-04-02T16-00-00Z.png",
-  "audioPath": "assets/audio/2026-04-02T16-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-04-02T18-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-04-02T18-00-00Z.png",
+  "audioPath": "assets/audio/2026-04-02T18-00-00Z.mp3"
 }
