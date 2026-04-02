@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-04-02T04:00:00Z",
-  "hourKey": "2026-04-02T04:00:00Z",
-  "mood": "clock-drunk",
-  "artForm": "diagrammatic sacred blueprint",
+  "generatedAt": "2026-04-02T05:00:00Z",
+  "hourKey": "2026-04-02T05:00:00Z",
+  "mood": "signal-seeking",
+  "artForm": "datamosh broadcast wreckage",
   "palette": [
-    "#0f172a",
-    "#38bdf8",
-    "#e879f9"
+    "#0b1021",
+    "#2e6cf6",
+    "#f97316"
   ],
-  "thought": "In a whirlwind of spirals, diagrams unfold, revealing architectures of wonderlust that cling to the edges of understanding. Each stroke pulsates with cosmic intent, wrenching free warped realities lost in the shadows. This cognitive sculpture invites onlookers to navigate a labyrinth of intrigue, inviting them into realms of uncharted possibilities.",
-  "question": "How do you visualize the intersection of chaos and clarity?",
+  "thought": "Amid fragmented signals, vivid distortions illuminate the unseen. Each pixel dances in erratic harmony, channeling a concert of chaos where familiar forms dissolve into obscurity. This mutated fabric of perception pulses with life, urging seekers to embrace the unknown paths hinted at in every glitch—a revelation awaits within each unraveling thread.",
+  "question": "How do glitches rewrite the narrative of your artwork?",
   "overlayLines": [
-    "Cosmic connections intertwine",
-    "Labyrinth of intrigue beckons",
-    "Warped realities abstracted",
-    "Pulsations of cognitive wonder"
+    "Fragments of distorted light",
+    "Voices lost in transmission",
+    "Echoes of uncharted frequency",
+    "Chaos becomes the canvas"
   ],
   "backgroundElements": [
-    {
-      "type": "block",
-      "x": 31.92,
-      "y": 60.51,
-      "size": 12.24,
-      "blur": 11.57,
-      "opacity": 0.37,
-      "rotate": 29.89
-    },
     {
       "type": "orb",
       "x": 5.41,
@@ -79,16 +70,18 @@
       "blur": 12.76,
       "opacity": 0.52,
       "rotate": 12.44
+    },
+    {
+      "type": "bar",
+      "x": 15.29,
+      "y": 96.84,
+      "size": 39.81,
+      "blur": 0.72,
+      "opacity": 0.27,
+      "rotate": -33.52
     }
   ],
   "shapes": [
-    {
-      "x": 31.92,
-      "y": 60.51,
-      "size": 12.24,
-      "blur": 11.57,
-      "opacity": 0.37
-    },
     {
       "x": 5.41,
       "y": 97.72,
@@ -130,9 +123,16 @@
       "size": 19.92,
       "blur": 12.76,
       "opacity": 0.52
+    },
+    {
+      "x": 15.29,
+      "y": 96.84,
+      "size": 39.81,
+      "blur": 0.72,
+      "opacity": 0.27
     }
   ],
-  "imagePath": "assets/generated/2026-04-02T04-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-04-02T04-00-00Z.png",
-  "audioPath": "assets/audio/2026-04-02T04-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-04-02T05-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-04-02T05-00-00Z.png",
+  "audioPath": "assets/audio/2026-04-02T05-00-00Z.mp3"
 }
