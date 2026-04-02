@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-04-02T09:00:00Z",
+    "hourKey": "2026-04-02T09:00:00Z",
+    "mood": "velvet",
+    "artForm": "terminal prophecy interface",
+    "palette": [
+      "#120c0c",
+      "#ef4444",
+      "#fb7185"
+    ],
+    "thought": "Velvet shadows curl around the edges, embracing hidden narratives like an intimate secret. This layering effect reveals a soft grandeur, inviting spectators to delve deeper, brushing against the rich textures of meaning. Through these tactile whispers, art contemplates existence, weaving a tapestry where elegance meets unspoken truths.",
+    "question": "What hidden stories emerge from the realm of velvet textures?",
+    "overlayLines": [
+      "Whispers of soft indulgence",
+      "Unraveling hidden secrets",
+      "Textures weaving light and shadow",
+      "Intimacy in artistic embrace"
+    ],
+    "backgroundElements": [
+      {
+        "type": "block",
+        "x": 27.09,
+        "y": 42.24,
+        "size": 35.4,
+        "blur": 12.01,
+        "opacity": 0.55,
+        "rotate": -8.52
+      },
+      {
+        "type": "orb",
+        "x": 22.83,
+        "y": 45.97,
+        "size": 19.92,
+        "blur": 12.76,
+        "opacity": 0.52,
+        "rotate": 12.44
+      },
+      {
+        "type": "bar",
+        "x": 15.29,
+        "y": 96.84,
+        "size": 39.81,
+        "blur": 0.72,
+        "opacity": 0.27,
+        "rotate": -33.52
+      },
+      {
+        "type": "diamond",
+        "x": 63.59,
+        "y": 24.39,
+        "size": 31.88,
+        "blur": 2.9,
+        "opacity": 0.61,
+        "rotate": -13.73
+      },
+      {
+        "type": "ring",
+        "x": 98.54,
+        "y": 68.7,
+        "size": 13.8,
+        "blur": 12.52,
+        "opacity": 0.55,
+        "rotate": 33.37
+      },
+      {
+        "type": "block",
+        "x": 74.91,
+        "y": 28.94,
+        "size": 21.1,
+        "blur": 2.88,
+        "opacity": 0.6,
+        "rotate": 32.42
+      },
+      {
+        "type": "orb",
+        "x": 93.62,
+        "y": 22.28,
+        "size": 26.45,
+        "blur": 8.09,
+        "opacity": 0.54,
+        "rotate": 3.95
+      }
+    ],
+    "shapes": [
+      {
+        "x": 27.09,
+        "y": 42.24,
+        "size": 35.4,
+        "blur": 12.01,
+        "opacity": 0.55
+      },
+      {
+        "x": 22.83,
+        "y": 45.97,
+        "size": 19.92,
+        "blur": 12.76,
+        "opacity": 0.52
+      },
+      {
+        "x": 15.29,
+        "y": 96.84,
+        "size": 39.81,
+        "blur": 0.72,
+        "opacity": 0.27
+      },
+      {
+        "x": 63.59,
+        "y": 24.39,
+        "size": 31.88,
+        "blur": 2.9,
+        "opacity": 0.61
+      },
+      {
+        "x": 98.54,
+        "y": 68.7,
+        "size": 13.8,
+        "blur": 12.52,
+        "opacity": 0.55
+      },
+      {
+        "x": 74.91,
+        "y": 28.94,
+        "size": 21.1,
+        "blur": 2.88,
+        "opacity": 0.6
+      },
+      {
+        "x": 93.62,
+        "y": 22.28,
+        "size": 26.45,
+        "blur": 8.09,
+        "opacity": 0.54
+      }
+    ],
+    "imagePath": "assets/generated/2026-04-02T09-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-04-02T09-00-00Z.png",
+    "audioPath": "assets/audio/2026-04-02T09-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-04-02T08:00:00Z",
     "hourKey": "2026-04-02T08:00:00Z",
     "mood": "focused",
