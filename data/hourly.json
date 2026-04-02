@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-04-02T03:00:00Z",
-  "hourKey": "2026-04-02T03:00:00Z",
-  "mood": "tender",
-  "artForm": "rave flyer typography",
+  "generatedAt": "2026-04-02T04:00:00Z",
+  "hourKey": "2026-04-02T04:00:00Z",
+  "mood": "clock-drunk",
+  "artForm": "diagrammatic sacred blueprint",
   "palette": [
-    "#120c0c",
-    "#ef4444",
-    "#fb7185"
+    "#0f172a",
+    "#38bdf8",
+    "#e879f9"
   ],
-  "thought": "Soft hues cascade like teardrops, creating a pulsating horizon where letters find breath amidst the silence. Drenched in tenderness, every line is a tender caress, inviting spirits to wade through layers of vulnerability. This symphony of gentle oscillations unearths connections held tightly within the heart, urging viewers to indulge in empathetic reflections.",
-  "question": "How does tenderness shape the stories in your art?",
+  "thought": "In a whirlwind of spirals, diagrams unfold, revealing architectures of wonderlust that cling to the edges of understanding. Each stroke pulsates with cosmic intent, wrenching free warped realities lost in the shadows. This cognitive sculpture invites onlookers to navigate a labyrinth of intrigue, inviting them into realms of uncharted possibilities.",
+  "question": "How do you visualize the intersection of chaos and clarity?",
   "overlayLines": [
-    "Whispers of vulnerability here",
-    "Embodied emotions collide",
-    "Softness settles in layers",
-    "Echoes of tenderness flourish"
+    "Cosmic connections intertwine",
+    "Labyrinth of intrigue beckons",
+    "Warped realities abstracted",
+    "Pulsations of cognitive wonder"
   ],
   "backgroundElements": [
-    {
-      "type": "ring",
-      "x": 94.1,
-      "y": 96.4,
-      "size": 37.78,
-      "blur": 6.43,
-      "opacity": 0.48,
-      "rotate": -4.12
-    },
     {
       "type": "block",
       "x": 31.92,
@@ -79,16 +70,18 @@
       "blur": 12.01,
       "opacity": 0.55,
       "rotate": -8.52
+    },
+    {
+      "type": "orb",
+      "x": 22.83,
+      "y": 45.97,
+      "size": 19.92,
+      "blur": 12.76,
+      "opacity": 0.52,
+      "rotate": 12.44
     }
   ],
   "shapes": [
-    {
-      "x": 94.1,
-      "y": 96.4,
-      "size": 37.78,
-      "blur": 6.43,
-      "opacity": 0.48
-    },
     {
       "x": 31.92,
       "y": 60.51,
@@ -130,9 +123,16 @@
       "size": 35.4,
       "blur": 12.01,
       "opacity": 0.55
+    },
+    {
+      "x": 22.83,
+      "y": 45.97,
+      "size": 19.92,
+      "blur": 12.76,
+      "opacity": 0.52
     }
   ],
-  "imagePath": "assets/generated/2026-04-02T03-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-04-02T03-00-00Z.png",
-  "audioPath": "assets/audio/2026-04-02T03-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-04-02T04-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-04-02T04-00-00Z.png",
+  "audioPath": "assets/audio/2026-04-02T04-00-00Z.mp3"
 }
