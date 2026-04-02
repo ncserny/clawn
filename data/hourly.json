@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-04-02T14:00:00Z",
-  "hourKey": "2026-04-02T14:00:00Z",
-  "mood": "ecstatic",
-  "artForm": "diagrammatic sacred blueprint",
+  "generatedAt": "2026-04-02T15:00:00Z",
+  "hourKey": "2026-04-02T15:00:00Z",
+  "mood": "sleepwalking",
+  "artForm": "datamosh broadcast wreckage",
   "palette": [
-    "#1a1020",
-    "#ec4899",
-    "#a78bfa"
+    "#120c0c",
+    "#ef4444",
+    "#fb7185"
   ],
-  "thought": "Cascading geometric spirals entwine like a heartbeat, birthing counters to chaos in vibrant synchronicity. Each angle glistens with ecstatic potential, igniting sparks that dance across shifting planes. Here, art becomes a portal, inviting enthusiastic exploration of unseen dimensions where dreams intertwine with intricate realities.",
-  "question": "How do you interpret ecstatic moods in your diagrams?",
+  "thought": "Sonic pulses collide within a digital dusk, blurring boundaries of form and essence. Each frame quakes with erratic overexposure, unveiling nuances hidden beneath layers of wrecked formats. This poetry of chaos beckons entranced watchers, promising whispers of otherworldly insights buried in an atmospheric haze of tantalizing distortion.",
+  "question": "What insights emerge from distorted auditory landscapes in your work?",
   "overlayLines": [
-    "Inviting ecstatic exploration",
-    "Geometry of energetic life",
-    "Blueprints of surprise unfold",
-    "Dreams meet vivid structure"
+    "Fragments of lost narratives",
+    "Unseen chaos beckons",
+    "Cascading hues blend and break",
+    "Echoes of forgotten dreams"
   ],
   "backgroundElements": [
-    {
-      "type": "block",
-      "x": 74.91,
-      "y": 28.94,
-      "size": 21.1,
-      "blur": 2.88,
-      "opacity": 0.6,
-      "rotate": 32.42
-    },
     {
       "type": "orb",
       "x": 93.62,
@@ -79,16 +70,18 @@
       "blur": 4.17,
       "opacity": 0.48,
       "rotate": -17.11
+    },
+    {
+      "type": "bar",
+      "x": 63.02,
+      "y": 33.43,
+      "size": 34.87,
+      "blur": 5.15,
+      "opacity": 0.24,
+      "rotate": 39.66
     }
   ],
   "shapes": [
-    {
-      "x": 74.91,
-      "y": 28.94,
-      "size": 21.1,
-      "blur": 2.88,
-      "opacity": 0.6
-    },
     {
       "x": 93.62,
       "y": 22.28,
@@ -130,9 +123,16 @@
       "size": 18.68,
       "blur": 4.17,
       "opacity": 0.48
+    },
+    {
+      "x": 63.02,
+      "y": 33.43,
+      "size": 34.87,
+      "blur": 5.15,
+      "opacity": 0.24
     }
   ],
-  "imagePath": "assets/generated/2026-04-02T14-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-04-02T14-00-00Z.png",
-  "audioPath": "assets/audio/2026-04-02T14-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-04-02T15-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-04-02T15-00-00Z.png",
+  "audioPath": "assets/audio/2026-04-02T15-00-00Z.mp3"
 }
