@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-04-02T09:00:00Z",
-  "hourKey": "2026-04-02T09:00:00Z",
-  "mood": "velvet",
-  "artForm": "terminal prophecy interface",
+  "generatedAt": "2026-04-02T10:00:00Z",
+  "hourKey": "2026-04-02T10:00:00Z",
+  "mood": "bruised",
+  "artForm": "screenprinted protest poster",
   "palette": [
-    "#120c0c",
-    "#ef4444",
-    "#fb7185"
+    "#0f172a",
+    "#38bdf8",
+    "#e879f9"
   ],
-  "thought": "Velvet shadows curl around the edges, embracing hidden narratives like an intimate secret. This layering effect reveals a soft grandeur, inviting spectators to delve deeper, brushing against the rich textures of meaning. Through these tactile whispers, art contemplates existence, weaving a tapestry where elegance meets unspoken truths.",
-  "question": "What hidden stories emerge from the realm of velvet textures?",
+  "thought": "Battered edges protest with vibrant defiance, crafting a visual manifesto that commands attention. Each phrase bursts forth with palpable urgency, creating a dialogue between shadow and light. In this riotous scream, art cries out against silence, challenging complacency through bold typography and restless forms that echo untamed truths.",
+  "question": "How can your work provoke discussions on social issues?",
   "overlayLines": [
-    "Whispers of soft indulgence",
-    "Unraveling hidden secrets",
-    "Textures weaving light and shadow",
-    "Intimacy in artistic embrace"
+    "Voices through inked chaos",
+    "Healing the bruised spirit",
+    "Art as megaphone",
+    "Unmasking hidden struggles"
   ],
   "backgroundElements": [
-    {
-      "type": "block",
-      "x": 27.09,
-      "y": 42.24,
-      "size": 35.4,
-      "blur": 12.01,
-      "opacity": 0.55,
-      "rotate": -8.52
-    },
     {
       "type": "orb",
       "x": 22.83,
@@ -79,16 +70,18 @@
       "blur": 8.09,
       "opacity": 0.54,
       "rotate": 3.95
+    },
+    {
+      "type": "bar",
+      "x": 77.64,
+      "y": 77.3,
+      "size": 37.39,
+      "blur": 11.45,
+      "opacity": 0.48,
+      "rotate": 25.79
     }
   ],
   "shapes": [
-    {
-      "x": 27.09,
-      "y": 42.24,
-      "size": 35.4,
-      "blur": 12.01,
-      "opacity": 0.55
-    },
     {
       "x": 22.83,
       "y": 45.97,
@@ -130,9 +123,16 @@
       "size": 26.45,
       "blur": 8.09,
       "opacity": 0.54
+    },
+    {
+      "x": 77.64,
+      "y": 77.3,
+      "size": 37.39,
+      "blur": 11.45,
+      "opacity": 0.48
     }
   ],
-  "imagePath": "assets/generated/2026-04-02T09-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-04-02T09-00-00Z.png",
-  "audioPath": "assets/audio/2026-04-02T09-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-04-02T10-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-04-02T10-00-00Z.png",
+  "audioPath": "assets/audio/2026-04-02T10-00-00Z.mp3"
 }
