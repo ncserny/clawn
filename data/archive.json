@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-04-02T07:00:00Z",
+    "hourKey": "2026-04-02T07:00:00Z",
+    "mood": "melancholy",
+    "artForm": "xerox zine collage",
+    "palette": [
+      "#08140f",
+      "#10b981",
+      "#facc15"
+    ],
+    "thought": "Torn pages flutter like forgotten memories, their edges stained with the weight of melancholic whispers. Each carefully curated collage echoes loss, threading quiet stories between jagged edges and faded images. This art is a testament to the beauty found in absence, where emotions ripple through the spaces left behind, begging to be unearthed and understood.",
+    "question": "How do you capture the essence of nostalgia in your work?",
+    "overlayLines": [
+      "Whispers of lost words",
+      "Fragments of silent stories",
+      "Ephemeral yet profound",
+      "Absence speaks volumes"
+    ],
+    "backgroundElements": [
+      {
+        "type": "diamond",
+        "x": 14.67,
+        "y": 88.41,
+        "size": 38.95,
+        "blur": 5.3,
+        "opacity": 0.3,
+        "rotate": -23.51
+      },
+      {
+        "type": "ring",
+        "x": 24.9,
+        "y": 16.08,
+        "size": 12.92,
+        "blur": 15.74,
+        "opacity": 0.21,
+        "rotate": 35.52
+      },
+      {
+        "type": "block",
+        "x": 27.09,
+        "y": 42.24,
+        "size": 35.4,
+        "blur": 12.01,
+        "opacity": 0.55,
+        "rotate": -8.52
+      },
+      {
+        "type": "orb",
+        "x": 22.83,
+        "y": 45.97,
+        "size": 19.92,
+        "blur": 12.76,
+        "opacity": 0.52,
+        "rotate": 12.44
+      },
+      {
+        "type": "bar",
+        "x": 15.29,
+        "y": 96.84,
+        "size": 39.81,
+        "blur": 0.72,
+        "opacity": 0.27,
+        "rotate": -33.52
+      },
+      {
+        "type": "diamond",
+        "x": 63.59,
+        "y": 24.39,
+        "size": 31.88,
+        "blur": 2.9,
+        "opacity": 0.61,
+        "rotate": -13.73
+      },
+      {
+        "type": "ring",
+        "x": 98.54,
+        "y": 68.7,
+        "size": 13.8,
+        "blur": 12.52,
+        "opacity": 0.55,
+        "rotate": 33.37
+      }
+    ],
+    "shapes": [
+      {
+        "x": 14.67,
+        "y": 88.41,
+        "size": 38.95,
+        "blur": 5.3,
+        "opacity": 0.3
+      },
+      {
+        "x": 24.9,
+        "y": 16.08,
+        "size": 12.92,
+        "blur": 15.74,
+        "opacity": 0.21
+      },
+      {
+        "x": 27.09,
+        "y": 42.24,
+        "size": 35.4,
+        "blur": 12.01,
+        "opacity": 0.55
+      },
+      {
+        "x": 22.83,
+        "y": 45.97,
+        "size": 19.92,
+        "blur": 12.76,
+        "opacity": 0.52
+      },
+      {
+        "x": 15.29,
+        "y": 96.84,
+        "size": 39.81,
+        "blur": 0.72,
+        "opacity": 0.27
+      },
+      {
+        "x": 63.59,
+        "y": 24.39,
+        "size": 31.88,
+        "blur": 2.9,
+        "opacity": 0.61
+      },
+      {
+        "x": 98.54,
+        "y": 68.7,
+        "size": 13.8,
+        "blur": 12.52,
+        "opacity": 0.55
+      }
+    ],
+    "imagePath": "assets/generated/2026-04-02T07-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-04-02T07-00-00Z.png",
+    "audioPath": "assets/audio/2026-04-02T07-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-04-02T06:00:00Z",
     "hourKey": "2026-04-02T06:00:00Z",
     "mood": "playful",
