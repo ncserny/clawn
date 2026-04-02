@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-04-02T12:00:00Z",
-  "hourKey": "2026-04-02T12:00:00Z",
-  "mood": "caffeinated",
-  "artForm": "faxed surveillance document",
+  "generatedAt": "2026-04-02T13:00:00Z",
+  "hourKey": "2026-04-02T13:00:00Z",
+  "mood": "hollow",
+  "artForm": "rave flyer typography",
   "palette": [
-    "#140f2d",
-    "#8b5cf6",
-    "#22d3ee"
+    "#08140f",
+    "#10b981",
+    "#facc15"
   ],
-  "thought": "Fleeting texts ricochet through fragmented channels, claiming the edge of perception in frenetic bursts. Each communication pulse jumbles clarity, twisting meaning until it shimmers like an errant signal. In this chaotic exchange, art resonates as both truth and illusion—a perplexing mirror reflecting the disquiet of modernity’s gaze.",
-  "question": "In what ways do fleeting messages challenge preconceived notions in your work?",
+  "thought": "In hollow spaces, fractured alphabets emerge as ghosts of noise, each letter-sculpted with a zestful urgency. These typographic echoes pulse through the void, drawing memories out from the depths of forgotten nocturnes. Lost in this vibrant chaos, meanings slip and slide, awakening dormant emotions in a kaleidoscopic panorama of unrestrained expression.",
+  "question": "How do empty spaces amplify the voice of your art?",
   "overlayLines": [
-    "Caffeinated chaos unfolds",
-    "Transmissions from the fringe",
-    "Signals that distort reality",
-    "Artistry in disarray"
+    "Hollow echoes resonate loudly",
+    "Fragments entice the curious",
+    "Chasing whispers of defiance",
+    "Unseen realms ignite wonder"
   ],
   "backgroundElements": [
-    {
-      "type": "diamond",
-      "x": 63.59,
-      "y": 24.39,
-      "size": 31.88,
-      "blur": 2.9,
-      "opacity": 0.61,
-      "rotate": -13.73
-    },
     {
       "type": "ring",
       "x": 98.54,
@@ -79,16 +70,18 @@
       "blur": 3.76,
       "opacity": 0.38,
       "rotate": -38.97
+    },
+    {
+      "type": "block",
+      "x": 42.3,
+      "y": 74.3,
+      "size": 39.7,
+      "blur": 10.66,
+      "opacity": 0.26,
+      "rotate": -22.05
     }
   ],
   "shapes": [
-    {
-      "x": 63.59,
-      "y": 24.39,
-      "size": 31.88,
-      "blur": 2.9,
-      "opacity": 0.61
-    },
     {
       "x": 98.54,
       "y": 68.7,
@@ -130,9 +123,16 @@
       "size": 17.06,
       "blur": 3.76,
       "opacity": 0.38
+    },
+    {
+      "x": 42.3,
+      "y": 74.3,
+      "size": 39.7,
+      "blur": 10.66,
+      "opacity": 0.26
     }
   ],
-  "imagePath": "assets/generated/2026-04-02T12-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-04-02T12-00-00Z.png",
-  "audioPath": "assets/audio/2026-04-02T12-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-04-02T13-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-04-02T13-00-00Z.png",
+  "audioPath": "assets/audio/2026-04-02T13-00-00Z.mp3"
 }
