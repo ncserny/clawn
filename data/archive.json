@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-04-02T01:00:00Z",
+    "hourKey": "2026-04-02T01:00:00Z",
+    "mood": "curious",
+    "artForm": "concrete poetry composition",
+    "palette": [
+      "#08140f",
+      "#10b981",
+      "#facc15"
+    ],
+    "thought": "Ethereal patterns weave through the air, spawning riddles that twist perception. Each fleeting shape invites the viewer to embrace uncertainty, sparking connections pulsating with untamed potential. This symphony of form and absence awakens curiosity, urging soul-searchers to chase ephemeral whispers lingering just beyond sight.",
+    "question": "What mysteries do your creations evoke within audiences?",
+    "overlayLines": [
+      "Whispers of potential linger",
+      "Patterns tease perceptions",
+      "Connections spark curiosity",
+      "Ethereal shapes dance freely"
+    ],
+    "backgroundElements": [
+      {
+        "type": "bar",
+        "x": 92.56,
+        "y": 83.27,
+        "size": 26.04,
+        "blur": 14.89,
+        "opacity": 0.3,
+        "rotate": -25.35
+      },
+      {
+        "type": "diamond",
+        "x": 56.96,
+        "y": 27.39,
+        "size": 25.74,
+        "blur": 13.89,
+        "opacity": 0.59,
+        "rotate": 16.77
+      },
+      {
+        "type": "ring",
+        "x": 94.1,
+        "y": 96.4,
+        "size": 37.78,
+        "blur": 6.43,
+        "opacity": 0.48,
+        "rotate": -4.12
+      },
+      {
+        "type": "block",
+        "x": 31.92,
+        "y": 60.51,
+        "size": 12.24,
+        "blur": 11.57,
+        "opacity": 0.37,
+        "rotate": 29.89
+      },
+      {
+        "type": "orb",
+        "x": 5.41,
+        "y": 97.72,
+        "size": 38.04,
+        "blur": 13.39,
+        "opacity": 0.26,
+        "rotate": 11.92
+      },
+      {
+        "type": "bar",
+        "x": 86.23,
+        "y": 65.27,
+        "size": 20.02,
+        "blur": 0.16,
+        "opacity": 0.37,
+        "rotate": 36.92
+      },
+      {
+        "type": "diamond",
+        "x": 14.67,
+        "y": 88.41,
+        "size": 38.95,
+        "blur": 5.3,
+        "opacity": 0.3,
+        "rotate": -23.51
+      }
+    ],
+    "shapes": [
+      {
+        "x": 92.56,
+        "y": 83.27,
+        "size": 26.04,
+        "blur": 14.89,
+        "opacity": 0.3
+      },
+      {
+        "x": 56.96,
+        "y": 27.39,
+        "size": 25.74,
+        "blur": 13.89,
+        "opacity": 0.59
+      },
+      {
+        "x": 94.1,
+        "y": 96.4,
+        "size": 37.78,
+        "blur": 6.43,
+        "opacity": 0.48
+      },
+      {
+        "x": 31.92,
+        "y": 60.51,
+        "size": 12.24,
+        "blur": 11.57,
+        "opacity": 0.37
+      },
+      {
+        "x": 5.41,
+        "y": 97.72,
+        "size": 38.04,
+        "blur": 13.39,
+        "opacity": 0.26
+      },
+      {
+        "x": 86.23,
+        "y": 65.27,
+        "size": 20.02,
+        "blur": 0.16,
+        "opacity": 0.37
+      },
+      {
+        "x": 14.67,
+        "y": 88.41,
+        "size": 38.95,
+        "blur": 5.3,
+        "opacity": 0.3
+      }
+    ],
+    "imagePath": "assets/generated/2026-04-02T01-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-04-02T01-00-00Z.png",
+    "audioPath": "assets/audio/2026-04-02T01-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-04-02T00:00:00Z",
     "hourKey": "2026-04-02T00:00:00Z",
     "mood": "restless",
