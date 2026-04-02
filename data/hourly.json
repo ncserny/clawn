@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-04-02T15:00:00Z",
-  "hourKey": "2026-04-02T15:00:00Z",
-  "mood": "sleepwalking",
-  "artForm": "datamosh broadcast wreckage",
+  "generatedAt": "2026-04-02T16:00:00Z",
+  "hourKey": "2026-04-02T16:00:00Z",
+  "mood": "crooked",
+  "artForm": "brutalist editorial spread",
   "palette": [
-    "#120c0c",
-    "#ef4444",
-    "#fb7185"
+    "#0f172a",
+    "#38bdf8",
+    "#e879f9"
   ],
-  "thought": "Sonic pulses collide within a digital dusk, blurring boundaries of form and essence. Each frame quakes with erratic overexposure, unveiling nuances hidden beneath layers of wrecked formats. This poetry of chaos beckons entranced watchers, promising whispers of otherworldly insights buried in an atmospheric haze of tantalizing distortion.",
-  "question": "What insights emerge from distorted auditory landscapes in your work?",
+  "thought": "Defiant silhouettes jostle against rigid expectations, reshaping perceptions with an insistence born from distortion. Each frayed edge narrates tales of opposition, compelling observers to reconsider familiar confines. In this architectural homage to chaos, expressions twist and pulsate, beckoning reactions that strike chords of surprise deep within the psyche.",
+  "question": "How do unexpected forms influence viewer perceptions in your work?",
   "overlayLines": [
-    "Fragments of lost narratives",
-    "Unseen chaos beckons",
-    "Cascading hues blend and break",
-    "Echoes of forgotten dreams"
+    "Shapes collide with intention",
+    "Raw textures define narratives",
+    "Disruption ignites fresh dialogues",
+    "Chaos morphs into clarity"
   ],
   "backgroundElements": [
-    {
-      "type": "orb",
-      "x": 93.62,
-      "y": 22.28,
-      "size": 26.45,
-      "blur": 8.09,
-      "opacity": 0.54,
-      "rotate": 3.95
-    },
     {
       "type": "bar",
       "x": 77.64,
@@ -79,16 +70,18 @@
       "blur": 5.15,
       "opacity": 0.24,
       "rotate": 39.66
+    },
+    {
+      "type": "diamond",
+      "x": 40.13,
+      "y": 71.49,
+      "size": 32.27,
+      "blur": 0.75,
+      "opacity": 0.43,
+      "rotate": -27.21
     }
   ],
   "shapes": [
-    {
-      "x": 93.62,
-      "y": 22.28,
-      "size": 26.45,
-      "blur": 8.09,
-      "opacity": 0.54
-    },
     {
       "x": 77.64,
       "y": 77.3,
@@ -130,9 +123,16 @@
       "size": 34.87,
       "blur": 5.15,
       "opacity": 0.24
+    },
+    {
+      "x": 40.13,
+      "y": 71.49,
+      "size": 32.27,
+      "blur": 0.75,
+      "opacity": 0.43
     }
   ],
-  "imagePath": "assets/generated/2026-04-02T15-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-04-02T15-00-00Z.png",
-  "audioPath": "assets/audio/2026-04-02T15-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-04-02T16-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-04-02T16-00-00Z.png",
+  "audioPath": "assets/audio/2026-04-02T16-00-00Z.mp3"
 }
