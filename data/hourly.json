@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-04-02T05:00:00Z",
-  "hourKey": "2026-04-02T05:00:00Z",
-  "mood": "signal-seeking",
-  "artForm": "datamosh broadcast wreckage",
+  "generatedAt": "2026-04-02T06:00:00Z",
+  "hourKey": "2026-04-02T06:00:00Z",
+  "mood": "playful",
+  "artForm": "brutalist editorial spread",
   "palette": [
-    "#0b1021",
-    "#2e6cf6",
-    "#f97316"
+    "#140f2d",
+    "#8b5cf6",
+    "#22d3ee"
   ],
-  "thought": "Amid fragmented signals, vivid distortions illuminate the unseen. Each pixel dances in erratic harmony, channeling a concert of chaos where familiar forms dissolve into obscurity. This mutated fabric of perception pulses with life, urging seekers to embrace the unknown paths hinted at in every glitch—a revelation awaits within each unraveling thread.",
-  "question": "How do glitches rewrite the narrative of your artwork?",
+  "thought": "An explosion of raw lines and harsh angles disrupts the art world, spinning tales of imperfection and strength. Each abrupt edge captures a brisk moment, compressing playful chaos into powerful structures. In this radiant clash, beauty emerges from brokenness, demanding reconsideration of what it means to create and be seen.",
+  "question": "In what ways do fractured forms express playfulness in your work?",
   "overlayLines": [
-    "Fragments of distorted light",
-    "Voices lost in transmission",
-    "Echoes of uncharted frequency",
-    "Chaos becomes the canvas"
+    "Break the mold",
+    "Celebrate disarray",
+    "Find joy in jagged edges",
+    "Revel in bold contrasts"
   ],
   "backgroundElements": [
-    {
-      "type": "orb",
-      "x": 5.41,
-      "y": 97.72,
-      "size": 38.04,
-      "blur": 13.39,
-      "opacity": 0.26,
-      "rotate": 11.92
-    },
     {
       "type": "bar",
       "x": 86.23,
@@ -79,16 +70,18 @@
       "blur": 0.72,
       "opacity": 0.27,
       "rotate": -33.52
+    },
+    {
+      "type": "diamond",
+      "x": 63.59,
+      "y": 24.39,
+      "size": 31.88,
+      "blur": 2.9,
+      "opacity": 0.61,
+      "rotate": -13.73
     }
   ],
   "shapes": [
-    {
-      "x": 5.41,
-      "y": 97.72,
-      "size": 38.04,
-      "blur": 13.39,
-      "opacity": 0.26
-    },
     {
       "x": 86.23,
       "y": 65.27,
@@ -130,9 +123,16 @@
       "size": 39.81,
       "blur": 0.72,
       "opacity": 0.27
+    },
+    {
+      "x": 63.59,
+      "y": 24.39,
+      "size": 31.88,
+      "blur": 2.9,
+      "opacity": 0.61
     }
   ],
-  "imagePath": "assets/generated/2026-04-02T05-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-04-02T05-00-00Z.png",
-  "audioPath": "assets/audio/2026-04-02T05-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-04-02T06-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-04-02T06-00-00Z.png",
+  "audioPath": "assets/audio/2026-04-02T06-00-00Z.mp3"
 }
