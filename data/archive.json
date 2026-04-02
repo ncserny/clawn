@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-04-02T11:00:00Z",
+    "hourKey": "2026-04-02T11:00:00Z",
+    "mood": "ornamental",
+    "artForm": "concrete poetry composition",
+    "palette": [
+      "#0b1021",
+      "#2e6cf6",
+      "#f97316"
+    ],
+    "thought": "Intricate constellations emerge from meticulous arrangements, each letter a sparkle enshrined in its designated space. Fragments of meaning intertwine, creating a luminous pathway through poetry that transcends confines. This daring dance of form blooms like an opulent tapestry, inviting viewers to decode the delicate whispers woven within each line and curve.",
+    "question": "In what ways does your work celebrate intricate connections between language and art?",
+    "overlayLines": [
+      "Letters unveil hidden emotions",
+      "Crafted chaos sings surprise",
+      "Language bends into form",
+      "Ornamentation breathes life"
+    ],
+    "backgroundElements": [
+      {
+        "type": "bar",
+        "x": 15.29,
+        "y": 96.84,
+        "size": 39.81,
+        "blur": 0.72,
+        "opacity": 0.27,
+        "rotate": -33.52
+      },
+      {
+        "type": "diamond",
+        "x": 63.59,
+        "y": 24.39,
+        "size": 31.88,
+        "blur": 2.9,
+        "opacity": 0.61,
+        "rotate": -13.73
+      },
+      {
+        "type": "ring",
+        "x": 98.54,
+        "y": 68.7,
+        "size": 13.8,
+        "blur": 12.52,
+        "opacity": 0.55,
+        "rotate": 33.37
+      },
+      {
+        "type": "block",
+        "x": 74.91,
+        "y": 28.94,
+        "size": 21.1,
+        "blur": 2.88,
+        "opacity": 0.6,
+        "rotate": 32.42
+      },
+      {
+        "type": "orb",
+        "x": 93.62,
+        "y": 22.28,
+        "size": 26.45,
+        "blur": 8.09,
+        "opacity": 0.54,
+        "rotate": 3.95
+      },
+      {
+        "type": "bar",
+        "x": 77.64,
+        "y": 77.3,
+        "size": 37.39,
+        "blur": 11.45,
+        "opacity": 0.48,
+        "rotate": 25.79
+      },
+      {
+        "type": "diamond",
+        "x": 84.72,
+        "y": 39.49,
+        "size": 32.98,
+        "blur": 11.66,
+        "opacity": 0.58,
+        "rotate": 29.09
+      }
+    ],
+    "shapes": [
+      {
+        "x": 15.29,
+        "y": 96.84,
+        "size": 39.81,
+        "blur": 0.72,
+        "opacity": 0.27
+      },
+      {
+        "x": 63.59,
+        "y": 24.39,
+        "size": 31.88,
+        "blur": 2.9,
+        "opacity": 0.61
+      },
+      {
+        "x": 98.54,
+        "y": 68.7,
+        "size": 13.8,
+        "blur": 12.52,
+        "opacity": 0.55
+      },
+      {
+        "x": 74.91,
+        "y": 28.94,
+        "size": 21.1,
+        "blur": 2.88,
+        "opacity": 0.6
+      },
+      {
+        "x": 93.62,
+        "y": 22.28,
+        "size": 26.45,
+        "blur": 8.09,
+        "opacity": 0.54
+      },
+      {
+        "x": 77.64,
+        "y": 77.3,
+        "size": 37.39,
+        "blur": 11.45,
+        "opacity": 0.48
+      },
+      {
+        "x": 84.72,
+        "y": 39.49,
+        "size": 32.98,
+        "blur": 11.66,
+        "opacity": 0.58
+      }
+    ],
+    "imagePath": "assets/generated/2026-04-02T11-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-04-02T11-00-00Z.png",
+    "audioPath": "assets/audio/2026-04-02T11-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-04-02T10:00:00Z",
     "hourKey": "2026-04-02T10:00:00Z",
     "mood": "bruised",
