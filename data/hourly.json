@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-04-02T21:00:00Z",
-  "hourKey": "2026-04-02T21:00:00Z",
-  "mood": "luminous",
-  "artForm": "concrete poetry composition",
+  "generatedAt": "2026-04-02T22:00:00Z",
+  "hourKey": "2026-04-02T22:00:00Z",
+  "mood": "ashen",
+  "artForm": "faxed surveillance document",
   "palette": [
-    "#120c0c",
-    "#ef4444",
-    "#fb7185"
+    "#0f172a",
+    "#38bdf8",
+    "#e879f9"
   ],
-  "thought": "Illuminated fragments shimmer voluptuously, spilling forth meanings cloaked in paradox. Each phrase bursts with vivid intensity, refracting light like prisms in a dawn chorus. Here, poetry becomes a phenomenon, a tangible breath of beauty that ignites curiosity while teasing the boundaries between creation and reception in luminous, playful gestures.",
-  "question": "What paradoxical meanings do you discover in illuminated words?",
+  "thought": "In ashen tones, the remnants of messages flicker like dying embers, each word a trace of surveillance entangled in ethereal fog. The tension of raw intent mingles with layers of obscurity, whispering to those vigilant enough to perceive the delicate balance of scrutiny and anonymity in both art and existence.",
+  "question": "What secrets hide beneath the surface of your observations?",
   "overlayLines": [
-    "Light refracts through fragments",
-    "Curiosity ignites creation",
-    "Words dance in paradox",
-    "Beauty spills into shadows"
+    "Whispers behind closed doors",
+    "Fragmented truth revealed",
+    "Eyes stare from shadows",
+    "Echoes of yesterday's surveillance"
   ],
   "backgroundElements": [
-    {
-      "type": "bar",
-      "x": 63.02,
-      "y": 33.43,
-      "size": 34.87,
-      "blur": 5.15,
-      "opacity": 0.24,
-      "rotate": 39.66
-    },
     {
       "type": "diamond",
       "x": 40.13,
@@ -79,16 +70,18 @@
       "blur": 5.78,
       "opacity": 0.35,
       "rotate": -13.18
+    },
+    {
+      "type": "ring",
+      "x": 24.98,
+      "y": 50.8,
+      "size": 25.04,
+      "blur": 8.55,
+      "opacity": 0.26,
+      "rotate": -30.23
     }
   ],
   "shapes": [
-    {
-      "x": 63.02,
-      "y": 33.43,
-      "size": 34.87,
-      "blur": 5.15,
-      "opacity": 0.24
-    },
     {
       "x": 40.13,
       "y": 71.49,
@@ -130,9 +123,16 @@
       "size": 15.35,
       "blur": 5.78,
       "opacity": 0.35
+    },
+    {
+      "x": 24.98,
+      "y": 50.8,
+      "size": 25.04,
+      "blur": 8.55,
+      "opacity": 0.26
     }
   ],
-  "imagePath": "assets/generated/2026-04-02T21-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-04-02T21-00-00Z.png",
-  "audioPath": "assets/audio/2026-04-02T21-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-04-02T22-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-04-02T22-00-00Z.png",
+  "audioPath": "assets/audio/2026-04-02T22-00-00Z.mp3"
 }
