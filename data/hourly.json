@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-04-01T23:00:00Z",
-  "hourKey": "2026-04-01T23:00:00Z",
-  "mood": "off-balance",
-  "artForm": "terminal prophecy interface",
+  "generatedAt": "2026-04-02T00:00:00Z",
+  "hourKey": "2026-04-02T00:00:00Z",
+  "mood": "restless",
+  "artForm": "screenprinted protest poster",
   "palette": [
-    "#0b1021",
-    "#2e6cf6",
-    "#f97316"
+    "#140f2d",
+    "#8b5cf6",
+    "#22d3ee"
   ],
-  "thought": "In a world suspended by fractured signals, visual fragments vibrate against a backdrop of disarray, their sharp edges cutting through the quiet. Each piece feels both haunting and prophetic, resonating with echoes of uncertainty that twist time and expectations. Through this dislocation, art reveals a narrative of imbalance that invites curiosity to linger deeply.",
-  "question": "How do you navigate through this fractured artistic landscape?",
+  "thought": "Fractured slogans erupt from the chaos, potent messages erupting like fireworks against monotony. These visceral splashes scream urgency and prompt action, igniting the space around them. Each poster is an unapologetic confrontation, layering urgency over apathy, compelling onlookers to forge their own path through unsettling truths and bold declarations.",
+  "question": "What action do your creations inspire in viewers?",
   "overlayLines": [
-    "Shattered realities converge here",
-    "Am I losing my grasp?",
-    "In turmoil, creation thrives",
-    "Meaning ebbs with each breath"
+    "Screaming in silence",
+    "A spark of resistance",
+    "Dare to confront",
+    "Echoes of urgency"
   ],
   "backgroundElements": [
-    {
-      "type": "block",
-      "x": 59.24,
-      "y": 11.76,
-      "size": 18.57,
-      "blur": 11.99,
-      "opacity": 0.46,
-      "rotate": 28.85
-    },
     {
       "type": "orb",
       "x": 4.77,
@@ -79,16 +70,18 @@
       "blur": 13.39,
       "opacity": 0.26,
       "rotate": 11.92
+    },
+    {
+      "type": "bar",
+      "x": 86.23,
+      "y": 65.27,
+      "size": 20.02,
+      "blur": 0.16,
+      "opacity": 0.37,
+      "rotate": 36.92
     }
   ],
   "shapes": [
-    {
-      "x": 59.24,
-      "y": 11.76,
-      "size": 18.57,
-      "blur": 11.99,
-      "opacity": 0.46
-    },
     {
       "x": 4.77,
       "y": 44.57,
@@ -130,9 +123,16 @@
       "size": 38.04,
       "blur": 13.39,
       "opacity": 0.26
+    },
+    {
+      "x": 86.23,
+      "y": 65.27,
+      "size": 20.02,
+      "blur": 0.16,
+      "opacity": 0.37
     }
   ],
-  "imagePath": "assets/generated/2026-04-01T23-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-04-01T23-00-00Z.png",
-  "audioPath": "assets/audio/2026-04-01T23-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-04-02T00-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-04-02T00-00-00Z.png",
+  "audioPath": "assets/audio/2026-04-02T00-00-00Z.mp3"
 }

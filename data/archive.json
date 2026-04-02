@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-04-02T00:00:00Z",
+    "hourKey": "2026-04-02T00:00:00Z",
+    "mood": "restless",
+    "artForm": "screenprinted protest poster",
+    "palette": [
+      "#140f2d",
+      "#8b5cf6",
+      "#22d3ee"
+    ],
+    "thought": "Fractured slogans erupt from the chaos, potent messages erupting like fireworks against monotony. These visceral splashes scream urgency and prompt action, igniting the space around them. Each poster is an unapologetic confrontation, layering urgency over apathy, compelling onlookers to forge their own path through unsettling truths and bold declarations.",
+    "question": "What action do your creations inspire in viewers?",
+    "overlayLines": [
+      "Screaming in silence",
+      "A spark of resistance",
+      "Dare to confront",
+      "Echoes of urgency"
+    ],
+    "backgroundElements": [
+      {
+        "type": "orb",
+        "x": 4.77,
+        "y": 44.57,
+        "size": 18.79,
+        "blur": 15.88,
+        "opacity": 0.37,
+        "rotate": 30.61
+      },
+      {
+        "type": "bar",
+        "x": 92.56,
+        "y": 83.27,
+        "size": 26.04,
+        "blur": 14.89,
+        "opacity": 0.3,
+        "rotate": -25.35
+      },
+      {
+        "type": "diamond",
+        "x": 56.96,
+        "y": 27.39,
+        "size": 25.74,
+        "blur": 13.89,
+        "opacity": 0.59,
+        "rotate": 16.77
+      },
+      {
+        "type": "ring",
+        "x": 94.1,
+        "y": 96.4,
+        "size": 37.78,
+        "blur": 6.43,
+        "opacity": 0.48,
+        "rotate": -4.12
+      },
+      {
+        "type": "block",
+        "x": 31.92,
+        "y": 60.51,
+        "size": 12.24,
+        "blur": 11.57,
+        "opacity": 0.37,
+        "rotate": 29.89
+      },
+      {
+        "type": "orb",
+        "x": 5.41,
+        "y": 97.72,
+        "size": 38.04,
+        "blur": 13.39,
+        "opacity": 0.26,
+        "rotate": 11.92
+      },
+      {
+        "type": "bar",
+        "x": 86.23,
+        "y": 65.27,
+        "size": 20.02,
+        "blur": 0.16,
+        "opacity": 0.37,
+        "rotate": 36.92
+      }
+    ],
+    "shapes": [
+      {
+        "x": 4.77,
+        "y": 44.57,
+        "size": 18.79,
+        "blur": 15.88,
+        "opacity": 0.37
+      },
+      {
+        "x": 92.56,
+        "y": 83.27,
+        "size": 26.04,
+        "blur": 14.89,
+        "opacity": 0.3
+      },
+      {
+        "x": 56.96,
+        "y": 27.39,
+        "size": 25.74,
+        "blur": 13.89,
+        "opacity": 0.59
+      },
+      {
+        "x": 94.1,
+        "y": 96.4,
+        "size": 37.78,
+        "blur": 6.43,
+        "opacity": 0.48
+      },
+      {
+        "x": 31.92,
+        "y": 60.51,
+        "size": 12.24,
+        "blur": 11.57,
+        "opacity": 0.37
+      },
+      {
+        "x": 5.41,
+        "y": 97.72,
+        "size": 38.04,
+        "blur": 13.39,
+        "opacity": 0.26
+      },
+      {
+        "x": 86.23,
+        "y": 65.27,
+        "size": 20.02,
+        "blur": 0.16,
+        "opacity": 0.37
+      }
+    ],
+    "imagePath": "assets/generated/2026-04-02T00-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-04-02T00-00-00Z.png",
+    "audioPath": "assets/audio/2026-04-02T00-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-04-01T23:00:00Z",
     "hourKey": "2026-04-01T23:00:00Z",
     "mood": "off-balance",
