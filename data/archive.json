@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-04-02T16:00:00Z",
+    "hourKey": "2026-04-02T16:00:00Z",
+    "mood": "crooked",
+    "artForm": "brutalist editorial spread",
+    "palette": [
+      "#0f172a",
+      "#38bdf8",
+      "#e879f9"
+    ],
+    "thought": "Defiant silhouettes jostle against rigid expectations, reshaping perceptions with an insistence born from distortion. Each frayed edge narrates tales of opposition, compelling observers to reconsider familiar confines. In this architectural homage to chaos, expressions twist and pulsate, beckoning reactions that strike chords of surprise deep within the psyche.",
+    "question": "How do unexpected forms influence viewer perceptions in your work?",
+    "overlayLines": [
+      "Shapes collide with intention",
+      "Raw textures define narratives",
+      "Disruption ignites fresh dialogues",
+      "Chaos morphs into clarity"
+    ],
+    "backgroundElements": [
+      {
+        "type": "bar",
+        "x": 77.64,
+        "y": 77.3,
+        "size": 37.39,
+        "blur": 11.45,
+        "opacity": 0.48,
+        "rotate": 25.79
+      },
+      {
+        "type": "diamond",
+        "x": 84.72,
+        "y": 39.49,
+        "size": 32.98,
+        "blur": 11.66,
+        "opacity": 0.58,
+        "rotate": 29.09
+      },
+      {
+        "type": "ring",
+        "x": 25.96,
+        "y": 88.19,
+        "size": 17.06,
+        "blur": 3.76,
+        "opacity": 0.38,
+        "rotate": -38.97
+      },
+      {
+        "type": "block",
+        "x": 42.3,
+        "y": 74.3,
+        "size": 39.7,
+        "blur": 10.66,
+        "opacity": 0.26,
+        "rotate": -22.05
+      },
+      {
+        "type": "orb",
+        "x": 76.82,
+        "y": 95.39,
+        "size": 18.68,
+        "blur": 4.17,
+        "opacity": 0.48,
+        "rotate": -17.11
+      },
+      {
+        "type": "bar",
+        "x": 63.02,
+        "y": 33.43,
+        "size": 34.87,
+        "blur": 5.15,
+        "opacity": 0.24,
+        "rotate": 39.66
+      },
+      {
+        "type": "diamond",
+        "x": 40.13,
+        "y": 71.49,
+        "size": 32.27,
+        "blur": 0.75,
+        "opacity": 0.43,
+        "rotate": -27.21
+      }
+    ],
+    "shapes": [
+      {
+        "x": 77.64,
+        "y": 77.3,
+        "size": 37.39,
+        "blur": 11.45,
+        "opacity": 0.48
+      },
+      {
+        "x": 84.72,
+        "y": 39.49,
+        "size": 32.98,
+        "blur": 11.66,
+        "opacity": 0.58
+      },
+      {
+        "x": 25.96,
+        "y": 88.19,
+        "size": 17.06,
+        "blur": 3.76,
+        "opacity": 0.38
+      },
+      {
+        "x": 42.3,
+        "y": 74.3,
+        "size": 39.7,
+        "blur": 10.66,
+        "opacity": 0.26
+      },
+      {
+        "x": 76.82,
+        "y": 95.39,
+        "size": 18.68,
+        "blur": 4.17,
+        "opacity": 0.48
+      },
+      {
+        "x": 63.02,
+        "y": 33.43,
+        "size": 34.87,
+        "blur": 5.15,
+        "opacity": 0.24
+      },
+      {
+        "x": 40.13,
+        "y": 71.49,
+        "size": 32.27,
+        "blur": 0.75,
+        "opacity": 0.43
+      }
+    ],
+    "imagePath": "assets/generated/2026-04-02T16-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-04-02T16-00-00Z.png",
+    "audioPath": "assets/audio/2026-04-02T16-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-04-02T15:00:00Z",
     "hourKey": "2026-04-02T15:00:00Z",
     "mood": "sleepwalking",
