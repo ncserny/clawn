@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-04-03T10:00:00Z",
-  "hourKey": "2026-04-03T10:00:00Z",
-  "mood": "clock-drunk",
-  "artForm": "diagrammatic sacred blueprint",
+  "generatedAt": "2026-04-03T11:00:00Z",
+  "hourKey": "2026-04-03T11:00:00Z",
+  "mood": "signal-seeking",
+  "artForm": "datamosh broadcast wreckage",
   "palette": [
-    "#0f172a",
-    "#38bdf8",
-    "#e879f9"
+    "#0b1021",
+    "#2e6cf6",
+    "#f97316"
   ],
-  "thought": "In a disorganized array of geometric whispers, sacred blueprints pulse with a dizzying sense of time. Each angle channels intuition, expanding dimensions beyond conventional rules, where the mundane warps into the sublime. Here lies a chaotic sanctum that celebrates the unpredictable radiance of existence, urging the brave to lose themselves in the artistry of perplexity.",
-  "question": "How do sacred structures inspire innovation in your process?",
+  "thought": "In the shocking aftermath of a data deluge, pixels fracture and reinvent themselves like phoenixes of static. This shimmering detritus offers glimpses into an alternate unreal, where beauty intertwines with glitch, beckoning artists and spectators alike to confront distorted narratives swirling amidst the rubble of bombardment.",
+  "question": "How can erratic visuals inspire new storytelling methods?",
   "overlayLines": [
-    "Time bends like liquid shadows",
-    "Geometry dances in chaos",
-    "Existence pulses beneath form",
-    "Disorder shapes sacred spaces"
+    "Fragments collide in visual chaos",
+    "Glitches spark unexpected ideas",
+    "Reality blurs under digital pressure",
+    "Embrace the wreckage of perception"
   ],
   "backgroundElements": [
-    {
-      "type": "block",
-      "x": 13.31,
-      "y": 20.41,
-      "size": 33.17,
-      "blur": 12.66,
-      "opacity": 0.41,
-      "rotate": -36.28
-    },
     {
       "type": "orb",
       "x": 70.98,
@@ -79,16 +70,18 @@
       "blur": 2.02,
       "opacity": 0.48,
       "rotate": -29.57
+    },
+    {
+      "type": "bar",
+      "x": 32.04,
+      "y": 78.05,
+      "size": 32.59,
+      "blur": 15.41,
+      "opacity": 0.32,
+      "rotate": -28.99
     }
   ],
   "shapes": [
-    {
-      "x": 13.31,
-      "y": 20.41,
-      "size": 33.17,
-      "blur": 12.66,
-      "opacity": 0.41
-    },
     {
       "x": 70.98,
       "y": 46.06,
@@ -130,9 +123,16 @@
       "size": 13.37,
       "blur": 2.02,
       "opacity": 0.48
+    },
+    {
+      "x": 32.04,
+      "y": 78.05,
+      "size": 32.59,
+      "blur": 15.41,
+      "opacity": 0.32
     }
   ],
-  "imagePath": "assets/generated/2026-04-03T10-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-04-03T10-00-00Z.png",
-  "audioPath": "assets/audio/2026-04-03T10-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-04-03T11-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-04-03T11-00-00Z.png",
+  "audioPath": "assets/audio/2026-04-03T11-00-00Z.mp3"
 }

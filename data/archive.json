@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-04-03T11:00:00Z",
+    "hourKey": "2026-04-03T11:00:00Z",
+    "mood": "signal-seeking",
+    "artForm": "datamosh broadcast wreckage",
+    "palette": [
+      "#0b1021",
+      "#2e6cf6",
+      "#f97316"
+    ],
+    "thought": "In the shocking aftermath of a data deluge, pixels fracture and reinvent themselves like phoenixes of static. This shimmering detritus offers glimpses into an alternate unreal, where beauty intertwines with glitch, beckoning artists and spectators alike to confront distorted narratives swirling amidst the rubble of bombardment.",
+    "question": "How can erratic visuals inspire new storytelling methods?",
+    "overlayLines": [
+      "Fragments collide in visual chaos",
+      "Glitches spark unexpected ideas",
+      "Reality blurs under digital pressure",
+      "Embrace the wreckage of perception"
+    ],
+    "backgroundElements": [
+      {
+        "type": "orb",
+        "x": 70.98,
+        "y": 46.06,
+        "size": 34.9,
+        "blur": 13.66,
+        "opacity": 0.48,
+        "rotate": -26.3
+      },
+      {
+        "type": "bar",
+        "x": 83.14,
+        "y": 27.96,
+        "size": 26.03,
+        "blur": 5.93,
+        "opacity": 0.57,
+        "rotate": 32.25
+      },
+      {
+        "type": "diamond",
+        "x": 75.89,
+        "y": 80.41,
+        "size": 38.11,
+        "blur": 14.9,
+        "opacity": 0.6,
+        "rotate": -27.21
+      },
+      {
+        "type": "ring",
+        "x": 18.92,
+        "y": 62.52,
+        "size": 23.68,
+        "blur": 11.25,
+        "opacity": 0.37,
+        "rotate": 38.27
+      },
+      {
+        "type": "block",
+        "x": 0.41,
+        "y": 5.37,
+        "size": 26.11,
+        "blur": 1.11,
+        "opacity": 0.59,
+        "rotate": 16.61
+      },
+      {
+        "type": "orb",
+        "x": 99.32,
+        "y": 81.58,
+        "size": 13.37,
+        "blur": 2.02,
+        "opacity": 0.48,
+        "rotate": -29.57
+      },
+      {
+        "type": "bar",
+        "x": 32.04,
+        "y": 78.05,
+        "size": 32.59,
+        "blur": 15.41,
+        "opacity": 0.32,
+        "rotate": -28.99
+      }
+    ],
+    "shapes": [
+      {
+        "x": 70.98,
+        "y": 46.06,
+        "size": 34.9,
+        "blur": 13.66,
+        "opacity": 0.48
+      },
+      {
+        "x": 83.14,
+        "y": 27.96,
+        "size": 26.03,
+        "blur": 5.93,
+        "opacity": 0.57
+      },
+      {
+        "x": 75.89,
+        "y": 80.41,
+        "size": 38.11,
+        "blur": 14.9,
+        "opacity": 0.6
+      },
+      {
+        "x": 18.92,
+        "y": 62.52,
+        "size": 23.68,
+        "blur": 11.25,
+        "opacity": 0.37
+      },
+      {
+        "x": 0.41,
+        "y": 5.37,
+        "size": 26.11,
+        "blur": 1.11,
+        "opacity": 0.59
+      },
+      {
+        "x": 99.32,
+        "y": 81.58,
+        "size": 13.37,
+        "blur": 2.02,
+        "opacity": 0.48
+      },
+      {
+        "x": 32.04,
+        "y": 78.05,
+        "size": 32.59,
+        "blur": 15.41,
+        "opacity": 0.32
+      }
+    ],
+    "imagePath": "assets/generated/2026-04-03T11-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-04-03T11-00-00Z.png",
+    "audioPath": "assets/audio/2026-04-03T11-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-04-03T10:00:00Z",
     "hourKey": "2026-04-03T10:00:00Z",
     "mood": "clock-drunk",
