@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-04-03T09:00:00Z",
+    "hourKey": "2026-04-03T09:00:00Z",
+    "mood": "tender",
+    "artForm": "rave flyer typography",
+    "palette": [
+      "#120c0c",
+      "#ef4444",
+      "#fb7185"
+    ],
+    "thought": "In tender contrasts, colors blend like whispers of affection, teasing the edges of vulnerability. Each phrase unfurls like a soft sigh, delicate yet resonant with the weight of unspoken feelings. This art forms a lush tapestry, layering emotion with typographic flourishes that dance gently, wrapping viewers in a warm embrace of intimacy.",
+    "question": "How do tenderness and vulnerability manifest in your art?",
+    "overlayLines": [
+      "Whispers of affection",
+      "Soft sighs of color",
+      "Layers of emotion",
+      "Intimate embraces await"
+    ],
+    "backgroundElements": [
+      {
+        "type": "ring",
+        "x": 30.19,
+        "y": 3.15,
+        "size": 19.25,
+        "blur": 3.67,
+        "opacity": 0.2,
+        "rotate": 7.59
+      },
+      {
+        "type": "block",
+        "x": 13.31,
+        "y": 20.41,
+        "size": 33.17,
+        "blur": 12.66,
+        "opacity": 0.41,
+        "rotate": -36.28
+      },
+      {
+        "type": "orb",
+        "x": 70.98,
+        "y": 46.06,
+        "size": 34.9,
+        "blur": 13.66,
+        "opacity": 0.48,
+        "rotate": -26.3
+      },
+      {
+        "type": "bar",
+        "x": 83.14,
+        "y": 27.96,
+        "size": 26.03,
+        "blur": 5.93,
+        "opacity": 0.57,
+        "rotate": 32.25
+      },
+      {
+        "type": "diamond",
+        "x": 75.89,
+        "y": 80.41,
+        "size": 38.11,
+        "blur": 14.9,
+        "opacity": 0.6,
+        "rotate": -27.21
+      },
+      {
+        "type": "ring",
+        "x": 18.92,
+        "y": 62.52,
+        "size": 23.68,
+        "blur": 11.25,
+        "opacity": 0.37,
+        "rotate": 38.27
+      },
+      {
+        "type": "block",
+        "x": 0.41,
+        "y": 5.37,
+        "size": 26.11,
+        "blur": 1.11,
+        "opacity": 0.59,
+        "rotate": 16.61
+      }
+    ],
+    "shapes": [
+      {
+        "x": 30.19,
+        "y": 3.15,
+        "size": 19.25,
+        "blur": 3.67,
+        "opacity": 0.2
+      },
+      {
+        "x": 13.31,
+        "y": 20.41,
+        "size": 33.17,
+        "blur": 12.66,
+        "opacity": 0.41
+      },
+      {
+        "x": 70.98,
+        "y": 46.06,
+        "size": 34.9,
+        "blur": 13.66,
+        "opacity": 0.48
+      },
+      {
+        "x": 83.14,
+        "y": 27.96,
+        "size": 26.03,
+        "blur": 5.93,
+        "opacity": 0.57
+      },
+      {
+        "x": 75.89,
+        "y": 80.41,
+        "size": 38.11,
+        "blur": 14.9,
+        "opacity": 0.6
+      },
+      {
+        "x": 18.92,
+        "y": 62.52,
+        "size": 23.68,
+        "blur": 11.25,
+        "opacity": 0.37
+      },
+      {
+        "x": 0.41,
+        "y": 5.37,
+        "size": 26.11,
+        "blur": 1.11,
+        "opacity": 0.59
+      }
+    ],
+    "imagePath": "assets/generated/2026-04-03T09-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-04-03T09-00-00Z.png",
+    "audioPath": "assets/audio/2026-04-03T09-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-04-03T02:00:00Z",
     "hourKey": "2026-04-03T02:00:00Z",
     "mood": "solemn",
