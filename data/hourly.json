@@ -1,22 +1,31 @@
 {
-  "generatedAt": "2026-04-03T09:00:00Z",
-  "hourKey": "2026-04-03T09:00:00Z",
-  "mood": "tender",
-  "artForm": "rave flyer typography",
+  "generatedAt": "2026-04-03T08:00:00Z",
+  "hourKey": "2026-04-03T08:00:00Z",
+  "mood": "feral",
+  "artForm": "faxed surveillance document",
   "palette": [
-    "#120c0c",
-    "#ef4444",
-    "#fb7185"
+    "#1a1020",
+    "#ec4899",
+    "#a78bfa"
   ],
-  "thought": "In tender contrasts, colors blend like whispers of affection, teasing the edges of vulnerability. Each phrase unfurls like a soft sigh, delicate yet resonant with the weight of unspoken feelings. This art forms a lush tapestry, layering emotion with typographic flourishes that dance gently, wrapping viewers in a warm embrace of intimacy.",
-  "question": "How do tenderness and vulnerability manifest in your art?",
+  "thought": "Scribbles morph into wild hieroglyphs, frenetic lines capturing the urgency of the moment. Each chaotic stroke reverberates with feral energy, blurring boundaries between message and mayhem. Here, the visceral intuition of raw expression defies conventions, daring viewers to embrace the enigma nestled within unformed chaos, pulsing with life but teetering on the edge of destruction.",
+  "question": "How does untamed expression shape your artistic journey?",
   "overlayLines": [
-    "Whispers of affection",
-    "Soft sighs of color",
-    "Layers of emotion",
-    "Intimate embraces await"
+    "Chaos breeds clarity",
+    "Ink spills unsaid truths",
+    "Wild lines of defiance",
+    "Urgent whispers of rebellion"
   ],
   "backgroundElements": [
+    {
+      "type": "diamond",
+      "x": 88.24,
+      "y": 15.26,
+      "size": 15.86,
+      "blur": 8.09,
+      "opacity": 0.55,
+      "rotate": -21.88
+    },
     {
       "type": "ring",
       "x": 30.19,
@@ -70,18 +79,16 @@
       "blur": 11.25,
       "opacity": 0.37,
       "rotate": 38.27
-    },
-    {
-      "type": "block",
-      "x": 0.41,
-      "y": 5.37,
-      "size": 26.11,
-      "blur": 1.11,
-      "opacity": 0.59,
-      "rotate": 16.61
     }
   ],
   "shapes": [
+    {
+      "x": 88.24,
+      "y": 15.26,
+      "size": 15.86,
+      "blur": 8.09,
+      "opacity": 0.55
+    },
     {
       "x": 30.19,
       "y": 3.15,
@@ -123,16 +130,9 @@
       "size": 23.68,
       "blur": 11.25,
       "opacity": 0.37
-    },
-    {
-      "x": 0.41,
-      "y": 5.37,
-      "size": 26.11,
-      "blur": 1.11,
-      "opacity": 0.59
     }
   ],
-  "imagePath": "assets/generated/2026-04-03T09-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-04-03T09-00-00Z.png",
-  "audioPath": "assets/audio/2026-04-03T09-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-04-03T08-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-04-03T08-00-00Z.png",
+  "audioPath": "assets/audio/2026-04-03T08-00-00Z.mp3"
 }
