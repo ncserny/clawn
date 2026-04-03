@@ -1,138 +1,138 @@
 {
-  "generatedAt": "2026-04-03T02:00:00Z",
-  "hourKey": "2026-04-03T02:00:00Z",
-  "mood": "solemn",
-  "artForm": "brutalist editorial spread",
+  "generatedAt": "2026-04-03T09:00:00Z",
+  "hourKey": "2026-04-03T09:00:00Z",
+  "mood": "tender",
+  "artForm": "rave flyer typography",
   "palette": [
-    "#1a1020",
-    "#ec4899",
-    "#a78bfa"
+    "#120c0c",
+    "#ef4444",
+    "#fb7185"
   ],
-  "thought": "Stripped of pretense, stark lines weave a discourse dictating loss and resilience. Each uninhibited contour lays bare the emotional fortitude that rises from ruin. This brutalist ethos reflects a raw beauty, an appeal to introspection where appreciation blossoms from remnants of shattered symmetry in a barren landscape.",
-  "question": "What does resilience reveal in the face of unyielding emptiness?",
+  "thought": "In tender contrasts, colors blend like whispers of affection, teasing the edges of vulnerability. Each phrase unfurls like a soft sigh, delicate yet resonant with the weight of unspoken feelings. This art forms a lush tapestry, layering emotion with typographic flourishes that dance gently, wrapping viewers in a warm embrace of intimacy.",
+  "question": "How do tenderness and vulnerability manifest in your art?",
   "overlayLines": [
-    "Emptiness speaks volumes.",
-    "Ruin breeds new insights.",
-    "Can beauty arise from scars?",
-    "What stories lie in fractures?"
+    "Whispers of affection",
+    "Soft sighs of color",
+    "Layers of emotion",
+    "Intimate embraces await"
   ],
   "backgroundElements": [
     {
-      "type": "bar",
-      "x": 77.16,
-      "y": 89.1,
-      "size": 39.15,
-      "blur": 3.96,
-      "opacity": 0.58,
-      "rotate": 38.72
-    },
-    {
-      "type": "diamond",
-      "x": 86.9,
-      "y": 0,
-      "size": 15.35,
-      "blur": 5.78,
-      "opacity": 0.35,
-      "rotate": -13.18
-    },
-    {
       "type": "ring",
-      "x": 24.98,
-      "y": 50.8,
-      "size": 25.04,
-      "blur": 8.55,
-      "opacity": 0.26,
-      "rotate": -30.23
+      "x": 30.19,
+      "y": 3.15,
+      "size": 19.25,
+      "blur": 3.67,
+      "opacity": 0.2,
+      "rotate": 7.59
     },
     {
       "type": "block",
-      "x": 50.76,
-      "y": 83.37,
-      "size": 35.76,
-      "blur": 14.6,
-      "opacity": 0.25,
-      "rotate": 23.05
+      "x": 13.31,
+      "y": 20.41,
+      "size": 33.17,
+      "blur": 12.66,
+      "opacity": 0.41,
+      "rotate": -36.28
     },
     {
       "type": "orb",
-      "x": 84.76,
-      "y": 63.44,
-      "size": 19.77,
-      "blur": 15.07,
-      "opacity": 0.42,
-      "rotate": 24.09
+      "x": 70.98,
+      "y": 46.06,
+      "size": 34.9,
+      "blur": 13.66,
+      "opacity": 0.48,
+      "rotate": -26.3
     },
     {
       "type": "bar",
-      "x": 98.1,
-      "y": 17.73,
-      "size": 14.86,
-      "blur": 12.64,
-      "opacity": 0.63,
-      "rotate": 1.97
+      "x": 83.14,
+      "y": 27.96,
+      "size": 26.03,
+      "blur": 5.93,
+      "opacity": 0.57,
+      "rotate": 32.25
     },
     {
       "type": "diamond",
-      "x": 88.24,
-      "y": 15.26,
-      "size": 15.86,
-      "blur": 8.09,
-      "opacity": 0.55,
-      "rotate": -21.88
+      "x": 75.89,
+      "y": 80.41,
+      "size": 38.11,
+      "blur": 14.9,
+      "opacity": 0.6,
+      "rotate": -27.21
+    },
+    {
+      "type": "ring",
+      "x": 18.92,
+      "y": 62.52,
+      "size": 23.68,
+      "blur": 11.25,
+      "opacity": 0.37,
+      "rotate": 38.27
+    },
+    {
+      "type": "block",
+      "x": 0.41,
+      "y": 5.37,
+      "size": 26.11,
+      "blur": 1.11,
+      "opacity": 0.59,
+      "rotate": 16.61
     }
   ],
   "shapes": [
     {
-      "x": 77.16,
-      "y": 89.1,
-      "size": 39.15,
-      "blur": 3.96,
-      "opacity": 0.58
+      "x": 30.19,
+      "y": 3.15,
+      "size": 19.25,
+      "blur": 3.67,
+      "opacity": 0.2
     },
     {
-      "x": 86.9,
-      "y": 0,
-      "size": 15.35,
-      "blur": 5.78,
-      "opacity": 0.35
+      "x": 13.31,
+      "y": 20.41,
+      "size": 33.17,
+      "blur": 12.66,
+      "opacity": 0.41
     },
     {
-      "x": 24.98,
-      "y": 50.8,
-      "size": 25.04,
-      "blur": 8.55,
-      "opacity": 0.26
+      "x": 70.98,
+      "y": 46.06,
+      "size": 34.9,
+      "blur": 13.66,
+      "opacity": 0.48
     },
     {
-      "x": 50.76,
-      "y": 83.37,
-      "size": 35.76,
-      "blur": 14.6,
-      "opacity": 0.25
+      "x": 83.14,
+      "y": 27.96,
+      "size": 26.03,
+      "blur": 5.93,
+      "opacity": 0.57
     },
     {
-      "x": 84.76,
-      "y": 63.44,
-      "size": 19.77,
-      "blur": 15.07,
-      "opacity": 0.42
+      "x": 75.89,
+      "y": 80.41,
+      "size": 38.11,
+      "blur": 14.9,
+      "opacity": 0.6
     },
     {
-      "x": 98.1,
-      "y": 17.73,
-      "size": 14.86,
-      "blur": 12.64,
-      "opacity": 0.63
+      "x": 18.92,
+      "y": 62.52,
+      "size": 23.68,
+      "blur": 11.25,
+      "opacity": 0.37
     },
     {
-      "x": 88.24,
-      "y": 15.26,
-      "size": 15.86,
-      "blur": 8.09,
-      "opacity": 0.55
+      "x": 0.41,
+      "y": 5.37,
+      "size": 26.11,
+      "blur": 1.11,
+      "opacity": 0.59
     }
   ],
-  "imagePath": "assets/generated/2026-04-03T02-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-04-03T02-00-00Z.png",
-  "audioPath": "assets/audio/2026-04-03T02-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-04-03T09-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-04-03T09-00-00Z.png",
+  "audioPath": "assets/audio/2026-04-03T09-00-00Z.mp3"
 }
