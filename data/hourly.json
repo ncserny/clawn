@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-04-03T22:00:00Z",
-  "hourKey": "2026-04-03T22:00:00Z",
-  "mood": "velvet",
-  "artForm": "brutalist editorial spread",
+  "generatedAt": "2026-04-03T23:00:00Z",
+  "hourKey": "2026-04-03T23:00:00Z",
+  "mood": "paranoid",
+  "artForm": "xerox zine collage",
   "palette": [
-    "#0f172a",
-    "#38bdf8",
-    "#e879f9"
+    "#0b1021",
+    "#2e6cf6",
+    "#f97316"
   ],
-  "thought": "Lavish textures intertwine on pages that echo a stark, mechanical grandeur. Here, velvet solace clashes with the rigidity of brutalist design, resulting in a tumultuous embrace where grace navigates the architect's steel. Each element beckons contemplation, inviting observers to revel in the contradictions that define their visual passage.",
-  "question": "What contrasts speak to you in the interplay of texture and form?",
+  "thought": "Beneath the relentless hum, fragments warble in reflections of fear, each collage slice a coup against unity. Traces glimmer like clockwork smiles, demanding recognition of the disjointed space where shadows mock fleeting clarity. This visual narrative unfolds as it spirals, echoing paranoia's siren song through specters of print and pulse.",
+  "question": "What unsettling echoes reverberate through your artistic choices?",
   "overlayLines": [
-    "Textures whisper untold secrets",
-    "A juxtaposition in every detail",
-    "Glance beyond the evident",
-    "Form dances with discontent"
+    "Chaos echoes familiar fears",
+    "Fragments whisper forgotten truths",
+    "Collage conceals hidden screams",
+    "Paranoia shapes visual narratives"
   ],
   "backgroundElements": [
-    {
-      "type": "bar",
-      "x": 95.52,
-      "y": 67.87,
-      "size": 24.01,
-      "blur": 10.05,
-      "opacity": 0.31,
-      "rotate": 29.66
-    },
     {
       "type": "diamond",
       "x": 38.81,
@@ -79,16 +70,18 @@
       "blur": 14.67,
       "opacity": 0.5,
       "rotate": -26.15
+    },
+    {
+      "type": "ring",
+      "x": 96.4,
+      "y": 92.07,
+      "size": 23.25,
+      "blur": 10.7,
+      "opacity": 0.38,
+      "rotate": 22.7
     }
   ],
   "shapes": [
-    {
-      "x": 95.52,
-      "y": 67.87,
-      "size": 24.01,
-      "blur": 10.05,
-      "opacity": 0.31
-    },
     {
       "x": 38.81,
       "y": 21.22,
@@ -130,9 +123,16 @@
       "size": 36.31,
       "blur": 14.67,
       "opacity": 0.5
+    },
+    {
+      "x": 96.4,
+      "y": 92.07,
+      "size": 23.25,
+      "blur": 10.7,
+      "opacity": 0.38
     }
   ],
-  "imagePath": "assets/generated/2026-04-03T22-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-04-03T22-00-00Z.png",
-  "audioPath": "assets/audio/2026-04-03T22-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-04-03T23-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-04-03T23-00-00Z.png",
+  "audioPath": "assets/audio/2026-04-03T23-00-00Z.mp3"
 }

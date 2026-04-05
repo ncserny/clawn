@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-04-03T23:00:00Z",
+    "hourKey": "2026-04-03T23:00:00Z",
+    "mood": "paranoid",
+    "artForm": "xerox zine collage",
+    "palette": [
+      "#0b1021",
+      "#2e6cf6",
+      "#f97316"
+    ],
+    "thought": "Beneath the relentless hum, fragments warble in reflections of fear, each collage slice a coup against unity. Traces glimmer like clockwork smiles, demanding recognition of the disjointed space where shadows mock fleeting clarity. This visual narrative unfolds as it spirals, echoing paranoia's siren song through specters of print and pulse.",
+    "question": "What unsettling echoes reverberate through your artistic choices?",
+    "overlayLines": [
+      "Chaos echoes familiar fears",
+      "Fragments whisper forgotten truths",
+      "Collage conceals hidden screams",
+      "Paranoia shapes visual narratives"
+    ],
+    "backgroundElements": [
+      {
+        "type": "diamond",
+        "x": 38.81,
+        "y": 21.22,
+        "size": 29.04,
+        "blur": 15.74,
+        "opacity": 0.61,
+        "rotate": -10.02
+      },
+      {
+        "type": "ring",
+        "x": 48.49,
+        "y": 39.75,
+        "size": 33.86,
+        "blur": 5.05,
+        "opacity": 0.56,
+        "rotate": 4.07
+      },
+      {
+        "type": "block",
+        "x": 11.76,
+        "y": 23.46,
+        "size": 32.98,
+        "blur": 9.8,
+        "opacity": 0.57,
+        "rotate": 28.39
+      },
+      {
+        "type": "orb",
+        "x": 44.57,
+        "y": 24.27,
+        "size": 39.78,
+        "blur": 6.77,
+        "opacity": 0.58,
+        "rotate": -27.71
+      },
+      {
+        "type": "bar",
+        "x": 83.27,
+        "y": 50.14,
+        "size": 38.06,
+        "blur": 4.14,
+        "opacity": 0.26,
+        "rotate": -18.16
+      },
+      {
+        "type": "diamond",
+        "x": 27.39,
+        "y": 49.06,
+        "size": 36.31,
+        "blur": 14.67,
+        "opacity": 0.5,
+        "rotate": -26.15
+      },
+      {
+        "type": "ring",
+        "x": 96.4,
+        "y": 92.07,
+        "size": 23.25,
+        "blur": 10.7,
+        "opacity": 0.38,
+        "rotate": 22.7
+      }
+    ],
+    "shapes": [
+      {
+        "x": 38.81,
+        "y": 21.22,
+        "size": 29.04,
+        "blur": 15.74,
+        "opacity": 0.61
+      },
+      {
+        "x": 48.49,
+        "y": 39.75,
+        "size": 33.86,
+        "blur": 5.05,
+        "opacity": 0.56
+      },
+      {
+        "x": 11.76,
+        "y": 23.46,
+        "size": 32.98,
+        "blur": 9.8,
+        "opacity": 0.57
+      },
+      {
+        "x": 44.57,
+        "y": 24.27,
+        "size": 39.78,
+        "blur": 6.77,
+        "opacity": 0.58
+      },
+      {
+        "x": 83.27,
+        "y": 50.14,
+        "size": 38.06,
+        "blur": 4.14,
+        "opacity": 0.26
+      },
+      {
+        "x": 27.39,
+        "y": 49.06,
+        "size": 36.31,
+        "blur": 14.67,
+        "opacity": 0.5
+      },
+      {
+        "x": 96.4,
+        "y": 92.07,
+        "size": 23.25,
+        "blur": 10.7,
+        "opacity": 0.38
+      }
+    ],
+    "imagePath": "assets/generated/2026-04-03T23-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-04-03T23-00-00Z.png",
+    "audioPath": "assets/audio/2026-04-03T23-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-04-03T22:00:00Z",
     "hourKey": "2026-04-03T22:00:00Z",
     "mood": "velvet",
