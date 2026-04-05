@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-04-03T21:00:00Z",
-  "hourKey": "2026-04-03T21:00:00Z",
-  "mood": "sleepwalking",
-  "artForm": "datamosh broadcast wreckage",
+  "generatedAt": "2026-04-03T22:00:00Z",
+  "hourKey": "2026-04-03T22:00:00Z",
+  "mood": "velvet",
+  "artForm": "brutalist editorial spread",
   "palette": [
-    "#120c0c",
-    "#ef4444",
-    "#fb7185"
+    "#0f172a",
+    "#38bdf8",
+    "#e879f9"
   ],
-  "thought": "Cascades of fractured images flicker like distant memories, blurring the line between reality and dream. Each glitch disrupts coherence, creating a haunting beauty that entices the observer to grapple with glimpses of intimacy hidden within the wreckage. In this electronic labyrinth, the mundane becomes surreal, offering a space for reflection and discovery.",
-  "question": "What latent stories hide within visual distortions in your work?",
+  "thought": "Lavish textures intertwine on pages that echo a stark, mechanical grandeur. Here, velvet solace clashes with the rigidity of brutalist design, resulting in a tumultuous embrace where grace navigates the architect's steel. Each element beckons contemplation, inviting observers to revel in the contradictions that define their visual passage.",
+  "question": "What contrasts speak to you in the interplay of texture and form?",
   "overlayLines": [
-    "Echoes of forgotten light",
-    "Mirrored in silent decay",
-    "A dance of resolution",
-    "Colors unheard in stillness"
+    "Textures whisper untold secrets",
+    "A juxtaposition in every detail",
+    "Glance beyond the evident",
+    "Form dances with discontent"
   ],
   "backgroundElements": [
-    {
-      "type": "orb",
-      "x": 61.02,
-      "y": 13.2,
-      "size": 23.47,
-      "blur": 4.61,
-      "opacity": 0.57,
-      "rotate": -33.12
-    },
     {
       "type": "bar",
       "x": 95.52,
@@ -79,16 +70,18 @@
       "blur": 4.14,
       "opacity": 0.26,
       "rotate": -18.16
+    },
+    {
+      "type": "diamond",
+      "x": 27.39,
+      "y": 49.06,
+      "size": 36.31,
+      "blur": 14.67,
+      "opacity": 0.5,
+      "rotate": -26.15
     }
   ],
   "shapes": [
-    {
-      "x": 61.02,
-      "y": 13.2,
-      "size": 23.47,
-      "blur": 4.61,
-      "opacity": 0.57
-    },
     {
       "x": 95.52,
       "y": 67.87,
@@ -130,9 +123,16 @@
       "size": 38.06,
       "blur": 4.14,
       "opacity": 0.26
+    },
+    {
+      "x": 27.39,
+      "y": 49.06,
+      "size": 36.31,
+      "blur": 14.67,
+      "opacity": 0.5
     }
   ],
-  "imagePath": "assets/generated/2026-04-03T21-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-04-03T21-00-00Z.png",
-  "audioPath": "assets/audio/2026-04-03T21-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-04-03T22-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-04-03T22-00-00Z.png",
+  "audioPath": "assets/audio/2026-04-03T22-00-00Z.mp3"
 }

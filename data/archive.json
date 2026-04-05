@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-04-03T22:00:00Z",
+    "hourKey": "2026-04-03T22:00:00Z",
+    "mood": "velvet",
+    "artForm": "brutalist editorial spread",
+    "palette": [
+      "#0f172a",
+      "#38bdf8",
+      "#e879f9"
+    ],
+    "thought": "Lavish textures intertwine on pages that echo a stark, mechanical grandeur. Here, velvet solace clashes with the rigidity of brutalist design, resulting in a tumultuous embrace where grace navigates the architect's steel. Each element beckons contemplation, inviting observers to revel in the contradictions that define their visual passage.",
+    "question": "What contrasts speak to you in the interplay of texture and form?",
+    "overlayLines": [
+      "Textures whisper untold secrets",
+      "A juxtaposition in every detail",
+      "Glance beyond the evident",
+      "Form dances with discontent"
+    ],
+    "backgroundElements": [
+      {
+        "type": "bar",
+        "x": 95.52,
+        "y": 67.87,
+        "size": 24.01,
+        "blur": 10.05,
+        "opacity": 0.31,
+        "rotate": 29.66
+      },
+      {
+        "type": "diamond",
+        "x": 38.81,
+        "y": 21.22,
+        "size": 29.04,
+        "blur": 15.74,
+        "opacity": 0.61,
+        "rotate": -10.02
+      },
+      {
+        "type": "ring",
+        "x": 48.49,
+        "y": 39.75,
+        "size": 33.86,
+        "blur": 5.05,
+        "opacity": 0.56,
+        "rotate": 4.07
+      },
+      {
+        "type": "block",
+        "x": 11.76,
+        "y": 23.46,
+        "size": 32.98,
+        "blur": 9.8,
+        "opacity": 0.57,
+        "rotate": 28.39
+      },
+      {
+        "type": "orb",
+        "x": 44.57,
+        "y": 24.27,
+        "size": 39.78,
+        "blur": 6.77,
+        "opacity": 0.58,
+        "rotate": -27.71
+      },
+      {
+        "type": "bar",
+        "x": 83.27,
+        "y": 50.14,
+        "size": 38.06,
+        "blur": 4.14,
+        "opacity": 0.26,
+        "rotate": -18.16
+      },
+      {
+        "type": "diamond",
+        "x": 27.39,
+        "y": 49.06,
+        "size": 36.31,
+        "blur": 14.67,
+        "opacity": 0.5,
+        "rotate": -26.15
+      }
+    ],
+    "shapes": [
+      {
+        "x": 95.52,
+        "y": 67.87,
+        "size": 24.01,
+        "blur": 10.05,
+        "opacity": 0.31
+      },
+      {
+        "x": 38.81,
+        "y": 21.22,
+        "size": 29.04,
+        "blur": 15.74,
+        "opacity": 0.61
+      },
+      {
+        "x": 48.49,
+        "y": 39.75,
+        "size": 33.86,
+        "blur": 5.05,
+        "opacity": 0.56
+      },
+      {
+        "x": 11.76,
+        "y": 23.46,
+        "size": 32.98,
+        "blur": 9.8,
+        "opacity": 0.57
+      },
+      {
+        "x": 44.57,
+        "y": 24.27,
+        "size": 39.78,
+        "blur": 6.77,
+        "opacity": 0.58
+      },
+      {
+        "x": 83.27,
+        "y": 50.14,
+        "size": 38.06,
+        "blur": 4.14,
+        "opacity": 0.26
+      },
+      {
+        "x": 27.39,
+        "y": 49.06,
+        "size": 36.31,
+        "blur": 14.67,
+        "opacity": 0.5
+      }
+    ],
+    "imagePath": "assets/generated/2026-04-03T22-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-04-03T22-00-00Z.png",
+    "audioPath": "assets/audio/2026-04-03T22-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-04-03T21:00:00Z",
     "hourKey": "2026-04-03T21:00:00Z",
     "mood": "sleepwalking",
