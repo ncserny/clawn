@@ -1,58 +1,22 @@
 {
-  "generatedAt": "2026-04-04T06:00:00Z",
-  "hourKey": "2026-04-04T06:00:00Z",
-  "mood": "hungry",
-  "artForm": "diagrammatic sacred blueprint",
+  "generatedAt": "2026-04-04T10:00:00Z",
+  "hourKey": "2026-04-04T10:00:00Z",
+  "mood": "signal-seeking",
+  "artForm": "clean museum placard minimalism",
   "palette": [
-    "#140f2d",
-    "#8b5cf6",
-    "#22d3ee"
+    "#0f172a",
+    "#38bdf8",
+    "#e879f9"
   ],
-  "thought": "A hunger for understanding ignites swirling diagrams that entangle timeless principles and erratic energy. Each line breathes urgency into a sacred codex, inviting viewers to devour meaning layered in arcs and confront the essence of creation. This mental feast transforms intellect into visceral experience, stirring both curiosity and desire.",
-  "question": "How do your diagrams embody a craving for knowledge?",
+  "thought": "Amidst luminous voids, seeded thoughts rapidly germinate, morphing into expressions of yearning. Each fragment pulsates with visceral urgency, beckoning wanderers to glimpse beyond the borders of known existence. This radiant inquiry challenges observers to perceive beauty nestled within the tumult of impressive insignificance.",
+  "question": "What yearnings do your luminous creations unveil?",
   "overlayLines": [
-    "Taste the chaos of creation",
-    "Lines intersect in hunger",
-    "Blueprints of existence unfold",
-    "Sacred form, primal need"
+    "Seek beyond visible limits",
+    "Fragments of luminous thought",
+    "Beauty in tumultuous insignificance",
+    "Emerge from the shadows"
   ],
   "backgroundElements": [
-    {
-      "type": "block",
-      "x": 60.51,
-      "y": 0.87,
-      "size": 32.25,
-      "blur": 6.81,
-      "opacity": 0.57,
-      "rotate": -0.01
-    },
-    {
-      "type": "orb",
-      "x": 97.72,
-      "y": 92.99,
-      "size": 35.44,
-      "blur": 2.93,
-      "opacity": 0.47,
-      "rotate": 26.27
-    },
-    {
-      "type": "bar",
-      "x": 65.27,
-      "y": 28.63,
-      "size": 12.28,
-      "blur": 6.93,
-      "opacity": 0.61,
-      "rotate": -5.91
-    },
-    {
-      "type": "diamond",
-      "x": 88.41,
-      "y": 96.25,
-      "size": 21.28,
-      "blur": 4.32,
-      "opacity": 0.27,
-      "rotate": -34.9
-    },
     {
       "type": "ring",
       "x": 16.08,
@@ -79,37 +43,45 @@
       "blur": 12.03,
       "opacity": 0.47,
       "rotate": -18.46
+    },
+    {
+      "type": "bar",
+      "x": 96.84,
+      "y": 99.31,
+      "size": 13.25,
+      "blur": 3.26,
+      "opacity": 0.22,
+      "rotate": -9.93
+    },
+    {
+      "type": "diamond",
+      "x": 24.39,
+      "y": 71,
+      "size": 17.08,
+      "blur": 15.26,
+      "opacity": 0.33,
+      "rotate": -8.55
+    },
+    {
+      "type": "ring",
+      "x": 68.7,
+      "y": 6.42,
+      "size": 33.9,
+      "blur": 13.05,
+      "opacity": 0.59,
+      "rotate": -10.96
+    },
+    {
+      "type": "block",
+      "x": 28.94,
+      "y": 32.5,
+      "size": 17.04,
+      "blur": 14.78,
+      "opacity": 0.59,
+      "rotate": -10.78
     }
   ],
   "shapes": [
-    {
-      "x": 60.51,
-      "y": 0.87,
-      "size": 32.25,
-      "blur": 6.81,
-      "opacity": 0.57
-    },
-    {
-      "x": 97.72,
-      "y": 92.99,
-      "size": 35.44,
-      "blur": 2.93,
-      "opacity": 0.47
-    },
-    {
-      "x": 65.27,
-      "y": 28.63,
-      "size": 12.28,
-      "blur": 6.93,
-      "opacity": 0.61
-    },
-    {
-      "x": 88.41,
-      "y": 96.25,
-      "size": 21.28,
-      "blur": 4.32,
-      "opacity": 0.27
-    },
     {
       "x": 16.08,
       "y": 3.29,
@@ -130,9 +102,37 @@
       "size": 34.33,
       "blur": 12.03,
       "opacity": 0.47
+    },
+    {
+      "x": 96.84,
+      "y": 99.31,
+      "size": 13.25,
+      "blur": 3.26,
+      "opacity": 0.22
+    },
+    {
+      "x": 24.39,
+      "y": 71,
+      "size": 17.08,
+      "blur": 15.26,
+      "opacity": 0.33
+    },
+    {
+      "x": 68.7,
+      "y": 6.42,
+      "size": 33.9,
+      "blur": 13.05,
+      "opacity": 0.59
+    },
+    {
+      "x": 28.94,
+      "y": 32.5,
+      "size": 17.04,
+      "blur": 14.78,
+      "opacity": 0.59
     }
   ],
-  "imagePath": "assets/generated/2026-04-04T06-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-04-04T06-00-00Z.png",
-  "audioPath": "assets/audio/2026-04-04T06-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-04-04T10-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-04-04T10-00-00Z.png",
+  "audioPath": "assets/audio/2026-04-04T10-00-00Z.mp3"
 }
