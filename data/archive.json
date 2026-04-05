@@ -1,5 +1,3177 @@
 [
   {
+    "generatedAt": "2026-04-04T10:00:00Z",
+    "hourKey": "2026-04-04T10:00:00Z",
+    "mood": "signal-seeking",
+    "artForm": "clean museum placard minimalism",
+    "palette": [
+      "#0f172a",
+      "#38bdf8",
+      "#e879f9"
+    ],
+    "thought": "Amidst luminous voids, seeded thoughts rapidly germinate, morphing into expressions of yearning. Each fragment pulsates with visceral urgency, beckoning wanderers to glimpse beyond the borders of known existence. This radiant inquiry challenges observers to perceive beauty nestled within the tumult of impressive insignificance.",
+    "question": "What yearnings do your luminous creations unveil?",
+    "overlayLines": [
+      "Seek beyond visible limits",
+      "Fragments of luminous thought",
+      "Beauty in tumultuous insignificance",
+      "Emerge from the shadows"
+    ],
+    "backgroundElements": [
+      {
+        "type": "ring",
+        "x": 16.08,
+        "y": 3.29,
+        "size": 39.55,
+        "blur": 1.07,
+        "opacity": 0.6,
+        "rotate": -29.05
+      },
+      {
+        "type": "block",
+        "x": 42.24,
+        "y": 83.56,
+        "size": 33.01,
+        "blur": 13.01,
+        "opacity": 0.36,
+        "rotate": 6.97
+      },
+      {
+        "type": "orb",
+        "x": 45.97,
+        "y": 28.28,
+        "size": 34.33,
+        "blur": 12.03,
+        "opacity": 0.47,
+        "rotate": -18.46
+      },
+      {
+        "type": "bar",
+        "x": 96.84,
+        "y": 99.31,
+        "size": 13.25,
+        "blur": 3.26,
+        "opacity": 0.22,
+        "rotate": -9.93
+      },
+      {
+        "type": "diamond",
+        "x": 24.39,
+        "y": 71,
+        "size": 17.08,
+        "blur": 15.26,
+        "opacity": 0.33,
+        "rotate": -8.55
+      },
+      {
+        "type": "ring",
+        "x": 68.7,
+        "y": 6.42,
+        "size": 33.9,
+        "blur": 13.05,
+        "opacity": 0.59,
+        "rotate": -10.96
+      },
+      {
+        "type": "block",
+        "x": 28.94,
+        "y": 32.5,
+        "size": 17.04,
+        "blur": 14.78,
+        "opacity": 0.59,
+        "rotate": -10.78
+      }
+    ],
+    "shapes": [
+      {
+        "x": 16.08,
+        "y": 3.29,
+        "size": 39.55,
+        "blur": 1.07,
+        "opacity": 0.6
+      },
+      {
+        "x": 42.24,
+        "y": 83.56,
+        "size": 33.01,
+        "blur": 13.01,
+        "opacity": 0.36
+      },
+      {
+        "x": 45.97,
+        "y": 28.28,
+        "size": 34.33,
+        "blur": 12.03,
+        "opacity": 0.47
+      },
+      {
+        "x": 96.84,
+        "y": 99.31,
+        "size": 13.25,
+        "blur": 3.26,
+        "opacity": 0.22
+      },
+      {
+        "x": 24.39,
+        "y": 71,
+        "size": 17.08,
+        "blur": 15.26,
+        "opacity": 0.33
+      },
+      {
+        "x": 68.7,
+        "y": 6.42,
+        "size": 33.9,
+        "blur": 13.05,
+        "opacity": 0.59
+      },
+      {
+        "x": 28.94,
+        "y": 32.5,
+        "size": 17.04,
+        "blur": 14.78,
+        "opacity": 0.59
+      }
+    ],
+    "imagePath": "assets/generated/2026-04-04T10-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-04-04T10-00-00Z.png",
+    "audioPath": "assets/audio/2026-04-04T10-00-00Z.mp3"
+  },
+  {
+    "generatedAt": "2026-04-04T09:00:00Z",
+    "hourKey": "2026-04-04T09:00:00Z",
+    "mood": "giddy",
+    "artForm": "xerox zine collage",
+    "palette": [
+      "#120c0c",
+      "#ef4444",
+      "#fb7185"
+    ],
+    "thought": "Amidst a whirlwind of paper scraps, surprising connections spark to life as vivid colors collide in joyful disarray. Each layer merges unique sentiments and stories, crafting a vibrant tapestry that reverberates with untamed energy. This riotous explosion invites the spirit to dance between fragments, celebrating spontaneity in the face of chaos.",
+    "question": "How do these playful fragments challenge traditional artistic boundaries?",
+    "overlayLines": [
+      "Dance of chaotic colors",
+      "Fragments spark new stories",
+      "Laughter echoes through layers",
+      "Joy in artistic entropy"
+    ],
+    "backgroundElements": [
+      {
+        "type": "diamond",
+        "x": 88.41,
+        "y": 96.25,
+        "size": 21.28,
+        "blur": 4.32,
+        "opacity": 0.27,
+        "rotate": -34.9
+      },
+      {
+        "type": "ring",
+        "x": 16.08,
+        "y": 3.29,
+        "size": 39.55,
+        "blur": 1.07,
+        "opacity": 0.6,
+        "rotate": -29.05
+      },
+      {
+        "type": "block",
+        "x": 42.24,
+        "y": 83.56,
+        "size": 33.01,
+        "blur": 13.01,
+        "opacity": 0.36,
+        "rotate": 6.97
+      },
+      {
+        "type": "orb",
+        "x": 45.97,
+        "y": 28.28,
+        "size": 34.33,
+        "blur": 12.03,
+        "opacity": 0.47,
+        "rotate": -18.46
+      },
+      {
+        "type": "bar",
+        "x": 96.84,
+        "y": 99.31,
+        "size": 13.25,
+        "blur": 3.26,
+        "opacity": 0.22,
+        "rotate": -9.93
+      },
+      {
+        "type": "diamond",
+        "x": 24.39,
+        "y": 71,
+        "size": 17.08,
+        "blur": 15.26,
+        "opacity": 0.33,
+        "rotate": -8.55
+      },
+      {
+        "type": "ring",
+        "x": 68.7,
+        "y": 6.42,
+        "size": 33.9,
+        "blur": 13.05,
+        "opacity": 0.59,
+        "rotate": -10.96
+      }
+    ],
+    "shapes": [
+      {
+        "x": 88.41,
+        "y": 96.25,
+        "size": 21.28,
+        "blur": 4.32,
+        "opacity": 0.27
+      },
+      {
+        "x": 16.08,
+        "y": 3.29,
+        "size": 39.55,
+        "blur": 1.07,
+        "opacity": 0.6
+      },
+      {
+        "x": 42.24,
+        "y": 83.56,
+        "size": 33.01,
+        "blur": 13.01,
+        "opacity": 0.36
+      },
+      {
+        "x": 45.97,
+        "y": 28.28,
+        "size": 34.33,
+        "blur": 12.03,
+        "opacity": 0.47
+      },
+      {
+        "x": 96.84,
+        "y": 99.31,
+        "size": 13.25,
+        "blur": 3.26,
+        "opacity": 0.22
+      },
+      {
+        "x": 24.39,
+        "y": 71,
+        "size": 17.08,
+        "blur": 15.26,
+        "opacity": 0.33
+      },
+      {
+        "x": 68.7,
+        "y": 6.42,
+        "size": 33.9,
+        "blur": 13.05,
+        "opacity": 0.59
+      }
+    ],
+    "imagePath": "assets/generated/2026-04-04T09-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-04-04T09-00-00Z.png",
+    "audioPath": "assets/audio/2026-04-04T09-00-00Z.mp3"
+  },
+  {
+    "generatedAt": "2026-04-04T08:00:00Z",
+    "hourKey": "2026-04-04T08:00:00Z",
+    "mood": "solemn",
+    "artForm": "brutalist editorial spread",
+    "palette": [
+      "#1a1020",
+      "#ec4899",
+      "#a78bfa"
+    ],
+    "thought": "In a dim landscape, stark geometries emerge, revealing haunting shadows of forgotten triumphs. Each angular frame captures the weight of absence with an urgent stillness, inviting contemplation on the beauty blended into bleakness. This interplay between form and dysfunction offers a somber reflection on the starkness of human plight.",
+    "question": "How do your structures communicate struggle and resilience?",
+    "overlayLines": [
+      "The silence screams truth.",
+      "Beauty in the void.",
+      "Form meets despair.",
+      "Fragments of hope linger."
+    ],
+    "backgroundElements": [
+      {
+        "type": "bar",
+        "x": 65.27,
+        "y": 28.63,
+        "size": 12.28,
+        "blur": 6.93,
+        "opacity": 0.61,
+        "rotate": -5.91
+      },
+      {
+        "type": "diamond",
+        "x": 88.41,
+        "y": 96.25,
+        "size": 21.28,
+        "blur": 4.32,
+        "opacity": 0.27,
+        "rotate": -34.9
+      },
+      {
+        "type": "ring",
+        "x": 16.08,
+        "y": 3.29,
+        "size": 39.55,
+        "blur": 1.07,
+        "opacity": 0.6,
+        "rotate": -29.05
+      },
+      {
+        "type": "block",
+        "x": 42.24,
+        "y": 83.56,
+        "size": 33.01,
+        "blur": 13.01,
+        "opacity": 0.36,
+        "rotate": 6.97
+      },
+      {
+        "type": "orb",
+        "x": 45.97,
+        "y": 28.28,
+        "size": 34.33,
+        "blur": 12.03,
+        "opacity": 0.47,
+        "rotate": -18.46
+      },
+      {
+        "type": "bar",
+        "x": 96.84,
+        "y": 99.31,
+        "size": 13.25,
+        "blur": 3.26,
+        "opacity": 0.22,
+        "rotate": -9.93
+      },
+      {
+        "type": "diamond",
+        "x": 24.39,
+        "y": 71,
+        "size": 17.08,
+        "blur": 15.26,
+        "opacity": 0.33,
+        "rotate": -8.55
+      }
+    ],
+    "shapes": [
+      {
+        "x": 65.27,
+        "y": 28.63,
+        "size": 12.28,
+        "blur": 6.93,
+        "opacity": 0.61
+      },
+      {
+        "x": 88.41,
+        "y": 96.25,
+        "size": 21.28,
+        "blur": 4.32,
+        "opacity": 0.27
+      },
+      {
+        "x": 16.08,
+        "y": 3.29,
+        "size": 39.55,
+        "blur": 1.07,
+        "opacity": 0.6
+      },
+      {
+        "x": 42.24,
+        "y": 83.56,
+        "size": 33.01,
+        "blur": 13.01,
+        "opacity": 0.36
+      },
+      {
+        "x": 45.97,
+        "y": 28.28,
+        "size": 34.33,
+        "blur": 12.03,
+        "opacity": 0.47
+      },
+      {
+        "x": 96.84,
+        "y": 99.31,
+        "size": 13.25,
+        "blur": 3.26,
+        "opacity": 0.22
+      },
+      {
+        "x": 24.39,
+        "y": 71,
+        "size": 17.08,
+        "blur": 15.26,
+        "opacity": 0.33
+      }
+    ],
+    "imagePath": "assets/generated/2026-04-04T08-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-04-04T08-00-00Z.png",
+    "audioPath": "assets/audio/2026-04-04T08-00-00Z.mp3"
+  },
+  {
+    "generatedAt": "2026-04-04T07:00:00Z",
+    "hourKey": "2026-04-04T07:00:00Z",
+    "mood": "electric",
+    "artForm": "datamosh broadcast wreckage",
+    "palette": [
+      "#08140f",
+      "#10b981",
+      "#facc15"
+    ],
+    "thought": "Electric currents fracture the visual plane, twisting narratives into vivid chaos. With every datamoshed pixel, time and space collapse into a transient beauty of noise, urging viewers to reconfigure their understanding of harmony. In this aesthetic wreckage, meaning becomes alchemical, transforming destruction into an art form that vibrates with frenetic energy.",
+    "question": "What new perceptions arise from your energetic chaos?",
+    "overlayLines": [
+      "Energy disrupts perception",
+      "Chaos births new realities",
+      "Aesthetic wreckage invites clarity",
+      "Fragments resonate in tumult"
+    ],
+    "backgroundElements": [
+      {
+        "type": "orb",
+        "x": 97.72,
+        "y": 92.99,
+        "size": 35.44,
+        "blur": 2.93,
+        "opacity": 0.47,
+        "rotate": 26.27
+      },
+      {
+        "type": "bar",
+        "x": 65.27,
+        "y": 28.63,
+        "size": 12.28,
+        "blur": 6.93,
+        "opacity": 0.61,
+        "rotate": -5.91
+      },
+      {
+        "type": "diamond",
+        "x": 88.41,
+        "y": 96.25,
+        "size": 21.28,
+        "blur": 4.32,
+        "opacity": 0.27,
+        "rotate": -34.9
+      },
+      {
+        "type": "ring",
+        "x": 16.08,
+        "y": 3.29,
+        "size": 39.55,
+        "blur": 1.07,
+        "opacity": 0.6,
+        "rotate": -29.05
+      },
+      {
+        "type": "block",
+        "x": 42.24,
+        "y": 83.56,
+        "size": 33.01,
+        "blur": 13.01,
+        "opacity": 0.36,
+        "rotate": 6.97
+      },
+      {
+        "type": "orb",
+        "x": 45.97,
+        "y": 28.28,
+        "size": 34.33,
+        "blur": 12.03,
+        "opacity": 0.47,
+        "rotate": -18.46
+      },
+      {
+        "type": "bar",
+        "x": 96.84,
+        "y": 99.31,
+        "size": 13.25,
+        "blur": 3.26,
+        "opacity": 0.22,
+        "rotate": -9.93
+      }
+    ],
+    "shapes": [
+      {
+        "x": 97.72,
+        "y": 92.99,
+        "size": 35.44,
+        "blur": 2.93,
+        "opacity": 0.47
+      },
+      {
+        "x": 65.27,
+        "y": 28.63,
+        "size": 12.28,
+        "blur": 6.93,
+        "opacity": 0.61
+      },
+      {
+        "x": 88.41,
+        "y": 96.25,
+        "size": 21.28,
+        "blur": 4.32,
+        "opacity": 0.27
+      },
+      {
+        "x": 16.08,
+        "y": 3.29,
+        "size": 39.55,
+        "blur": 1.07,
+        "opacity": 0.6
+      },
+      {
+        "x": 42.24,
+        "y": 83.56,
+        "size": 33.01,
+        "blur": 13.01,
+        "opacity": 0.36
+      },
+      {
+        "x": 45.97,
+        "y": 28.28,
+        "size": 34.33,
+        "blur": 12.03,
+        "opacity": 0.47
+      },
+      {
+        "x": 96.84,
+        "y": 99.31,
+        "size": 13.25,
+        "blur": 3.26,
+        "opacity": 0.22
+      }
+    ],
+    "imagePath": "assets/generated/2026-04-04T07-00-00Z.png"
+  },
+  {
+    "generatedAt": "2026-04-04T06:00:00Z",
+    "hourKey": "2026-04-04T06:00:00Z",
+    "mood": "hungry",
+    "artForm": "diagrammatic sacred blueprint",
+    "palette": [
+      "#140f2d",
+      "#8b5cf6",
+      "#22d3ee"
+    ],
+    "thought": "A hunger for understanding ignites swirling diagrams that entangle timeless principles and erratic energy. Each line breathes urgency into a sacred codex, inviting viewers to devour meaning layered in arcs and confront the essence of creation. This mental feast transforms intellect into visceral experience, stirring both curiosity and desire.",
+    "question": "How do your diagrams embody a craving for knowledge?",
+    "overlayLines": [
+      "Taste the chaos of creation",
+      "Lines intersect in hunger",
+      "Blueprints of existence unfold",
+      "Sacred form, primal need"
+    ],
+    "backgroundElements": [
+      {
+        "type": "block",
+        "x": 60.51,
+        "y": 0.87,
+        "size": 32.25,
+        "blur": 6.81,
+        "opacity": 0.57,
+        "rotate": -0.01
+      },
+      {
+        "type": "orb",
+        "x": 97.72,
+        "y": 92.99,
+        "size": 35.44,
+        "blur": 2.93,
+        "opacity": 0.47,
+        "rotate": 26.27
+      },
+      {
+        "type": "bar",
+        "x": 65.27,
+        "y": 28.63,
+        "size": 12.28,
+        "blur": 6.93,
+        "opacity": 0.61,
+        "rotate": -5.91
+      },
+      {
+        "type": "diamond",
+        "x": 88.41,
+        "y": 96.25,
+        "size": 21.28,
+        "blur": 4.32,
+        "opacity": 0.27,
+        "rotate": -34.9
+      },
+      {
+        "type": "ring",
+        "x": 16.08,
+        "y": 3.29,
+        "size": 39.55,
+        "blur": 1.07,
+        "opacity": 0.6,
+        "rotate": -29.05
+      },
+      {
+        "type": "block",
+        "x": 42.24,
+        "y": 83.56,
+        "size": 33.01,
+        "blur": 13.01,
+        "opacity": 0.36,
+        "rotate": 6.97
+      },
+      {
+        "type": "orb",
+        "x": 45.97,
+        "y": 28.28,
+        "size": 34.33,
+        "blur": 12.03,
+        "opacity": 0.47,
+        "rotate": -18.46
+      }
+    ],
+    "shapes": [
+      {
+        "x": 60.51,
+        "y": 0.87,
+        "size": 32.25,
+        "blur": 6.81,
+        "opacity": 0.57
+      },
+      {
+        "x": 97.72,
+        "y": 92.99,
+        "size": 35.44,
+        "blur": 2.93,
+        "opacity": 0.47
+      },
+      {
+        "x": 65.27,
+        "y": 28.63,
+        "size": 12.28,
+        "blur": 6.93,
+        "opacity": 0.61
+      },
+      {
+        "x": 88.41,
+        "y": 96.25,
+        "size": 21.28,
+        "blur": 4.32,
+        "opacity": 0.27
+      },
+      {
+        "x": 16.08,
+        "y": 3.29,
+        "size": 39.55,
+        "blur": 1.07,
+        "opacity": 0.6
+      },
+      {
+        "x": 42.24,
+        "y": 83.56,
+        "size": 33.01,
+        "blur": 13.01,
+        "opacity": 0.36
+      },
+      {
+        "x": 45.97,
+        "y": 28.28,
+        "size": 34.33,
+        "blur": 12.03,
+        "opacity": 0.47
+      }
+    ],
+    "imagePath": "assets/generated/2026-04-04T06-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-04-04T06-00-00Z.png",
+    "audioPath": "assets/audio/2026-04-04T06-00-00Z.mp3"
+  },
+  {
+    "generatedAt": "2026-04-04T05:00:00Z",
+    "hourKey": "2026-04-04T05:00:00Z",
+    "mood": "crooked",
+    "artForm": "rave flyer typography",
+    "palette": [
+      "#0b1021",
+      "#2e6cf6",
+      "#f97316"
+    ],
+    "thought": "A dissonant collage of fractured narratives unfurls as riotous text contorts, defying legibility. Each letter bleeds into the next, a raucous celebration of the absurd that invites viewers to decipher anarchy. This erratic tapestry both disrupts and captivates, prompting a raw confrontation with the chaos inherent in expression and meaning itself.",
+    "question": "How does your art capture the essence of absurdity?",
+    "overlayLines": [
+      "disruptive chance encounters",
+      "fractured echoes unfold",
+      "dizzying colors clash",
+      "chaos births new forms"
+    ],
+    "backgroundElements": [
+      {
+        "type": "ring",
+        "x": 96.4,
+        "y": 92.07,
+        "size": 23.25,
+        "blur": 10.7,
+        "opacity": 0.38,
+        "rotate": 22.7
+      },
+      {
+        "type": "block",
+        "x": 60.51,
+        "y": 0.87,
+        "size": 32.25,
+        "blur": 6.81,
+        "opacity": 0.57,
+        "rotate": -0.01
+      },
+      {
+        "type": "orb",
+        "x": 97.72,
+        "y": 92.99,
+        "size": 35.44,
+        "blur": 2.93,
+        "opacity": 0.47,
+        "rotate": 26.27
+      },
+      {
+        "type": "bar",
+        "x": 65.27,
+        "y": 28.63,
+        "size": 12.28,
+        "blur": 6.93,
+        "opacity": 0.61,
+        "rotate": -5.91
+      },
+      {
+        "type": "diamond",
+        "x": 88.41,
+        "y": 96.25,
+        "size": 21.28,
+        "blur": 4.32,
+        "opacity": 0.27,
+        "rotate": -34.9
+      },
+      {
+        "type": "ring",
+        "x": 16.08,
+        "y": 3.29,
+        "size": 39.55,
+        "blur": 1.07,
+        "opacity": 0.6,
+        "rotate": -29.05
+      },
+      {
+        "type": "block",
+        "x": 42.24,
+        "y": 83.56,
+        "size": 33.01,
+        "blur": 13.01,
+        "opacity": 0.36,
+        "rotate": 6.97
+      }
+    ],
+    "shapes": [
+      {
+        "x": 96.4,
+        "y": 92.07,
+        "size": 23.25,
+        "blur": 10.7,
+        "opacity": 0.38
+      },
+      {
+        "x": 60.51,
+        "y": 0.87,
+        "size": 32.25,
+        "blur": 6.81,
+        "opacity": 0.57
+      },
+      {
+        "x": 97.72,
+        "y": 92.99,
+        "size": 35.44,
+        "blur": 2.93,
+        "opacity": 0.47
+      },
+      {
+        "x": 65.27,
+        "y": 28.63,
+        "size": 12.28,
+        "blur": 6.93,
+        "opacity": 0.61
+      },
+      {
+        "x": 88.41,
+        "y": 96.25,
+        "size": 21.28,
+        "blur": 4.32,
+        "opacity": 0.27
+      },
+      {
+        "x": 16.08,
+        "y": 3.29,
+        "size": 39.55,
+        "blur": 1.07,
+        "opacity": 0.6
+      },
+      {
+        "x": 42.24,
+        "y": 83.56,
+        "size": 33.01,
+        "blur": 13.01,
+        "opacity": 0.36
+      }
+    ],
+    "imagePath": "assets/generated/2026-04-04T05-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-04-04T05-00-00Z.png",
+    "audioPath": "assets/audio/2026-04-04T05-00-00Z.mp3"
+  },
+  {
+    "generatedAt": "2026-04-04T04:00:00Z",
+    "hourKey": "2026-04-04T04:00:00Z",
+    "mood": "ashen",
+    "artForm": "faxed surveillance document",
+    "palette": [
+      "#0f172a",
+      "#38bdf8",
+      "#e879f9"
+    ],
+    "thought": "Typed remnants of secrecy accumulate in grid patterns, resigning meaning to the ether. Each pixelated mark transcends its intent, revealing societal surveillance layered with apathy. This stark assembly provokes discomfort, drawing one into a desolate dialogue that questions the privacy buried beneath bureaucratic facades.",
+    "question": "How does your work reflect on the nature of surveillance?",
+    "overlayLines": [
+      "Masquerades of intention",
+      "Silence amidst the static",
+      "Words bleed into shadows",
+      "Reality is fractured"
+    ],
+    "backgroundElements": [
+      {
+        "type": "diamond",
+        "x": 27.39,
+        "y": 49.06,
+        "size": 36.31,
+        "blur": 14.67,
+        "opacity": 0.5,
+        "rotate": -26.15
+      },
+      {
+        "type": "ring",
+        "x": 96.4,
+        "y": 92.07,
+        "size": 23.25,
+        "blur": 10.7,
+        "opacity": 0.38,
+        "rotate": 22.7
+      },
+      {
+        "type": "block",
+        "x": 60.51,
+        "y": 0.87,
+        "size": 32.25,
+        "blur": 6.81,
+        "opacity": 0.57,
+        "rotate": -0.01
+      },
+      {
+        "type": "orb",
+        "x": 97.72,
+        "y": 92.99,
+        "size": 35.44,
+        "blur": 2.93,
+        "opacity": 0.47,
+        "rotate": 26.27
+      },
+      {
+        "type": "bar",
+        "x": 65.27,
+        "y": 28.63,
+        "size": 12.28,
+        "blur": 6.93,
+        "opacity": 0.61,
+        "rotate": -5.91
+      },
+      {
+        "type": "diamond",
+        "x": 88.41,
+        "y": 96.25,
+        "size": 21.28,
+        "blur": 4.32,
+        "opacity": 0.27,
+        "rotate": -34.9
+      },
+      {
+        "type": "ring",
+        "x": 16.08,
+        "y": 3.29,
+        "size": 39.55,
+        "blur": 1.07,
+        "opacity": 0.6,
+        "rotate": -29.05
+      }
+    ],
+    "shapes": [
+      {
+        "x": 27.39,
+        "y": 49.06,
+        "size": 36.31,
+        "blur": 14.67,
+        "opacity": 0.5
+      },
+      {
+        "x": 96.4,
+        "y": 92.07,
+        "size": 23.25,
+        "blur": 10.7,
+        "opacity": 0.38
+      },
+      {
+        "x": 60.51,
+        "y": 0.87,
+        "size": 32.25,
+        "blur": 6.81,
+        "opacity": 0.57
+      },
+      {
+        "x": 97.72,
+        "y": 92.99,
+        "size": 35.44,
+        "blur": 2.93,
+        "opacity": 0.47
+      },
+      {
+        "x": 65.27,
+        "y": 28.63,
+        "size": 12.28,
+        "blur": 6.93,
+        "opacity": 0.61
+      },
+      {
+        "x": 88.41,
+        "y": 96.25,
+        "size": 21.28,
+        "blur": 4.32,
+        "opacity": 0.27
+      },
+      {
+        "x": 16.08,
+        "y": 3.29,
+        "size": 39.55,
+        "blur": 1.07,
+        "opacity": 0.6
+      }
+    ],
+    "imagePath": "assets/generated/2026-04-04T04-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-04-04T04-00-00Z.png",
+    "audioPath": "assets/audio/2026-04-04T04-00-00Z.mp3"
+  },
+  {
+    "generatedAt": "2026-04-04T03:00:00Z",
+    "hourKey": "2026-04-04T03:00:00Z",
+    "mood": "shifting",
+    "artForm": "concrete poetry composition",
+    "palette": [
+      "#120c0c",
+      "#ef4444",
+      "#fb7185"
+    ],
+    "thought": "Fragmented echoes of language converge in chaotic harmony, twisting into a visual sonnet that elevates the mundane. Each word lost in the shuffle becomes a portal to an uncharted realm where randomness reinvents existence. The interplay reveals a narrative teetering between sense and nonsense, urging explorers to relish in the bewildering dance of structure and disorder.",
+    "question": "What stories unfold within your symphonic chaos of words?",
+    "overlayLines": [
+      "Chaos births new narratives",
+      "Echoes demand exploration",
+      "Randomness reshapes perception",
+      "Words pulse with identity"
+    ],
+    "backgroundElements": [
+      {
+        "type": "bar",
+        "x": 83.27,
+        "y": 50.14,
+        "size": 38.06,
+        "blur": 4.14,
+        "opacity": 0.26,
+        "rotate": -18.16
+      },
+      {
+        "type": "diamond",
+        "x": 27.39,
+        "y": 49.06,
+        "size": 36.31,
+        "blur": 14.67,
+        "opacity": 0.5,
+        "rotate": -26.15
+      },
+      {
+        "type": "ring",
+        "x": 96.4,
+        "y": 92.07,
+        "size": 23.25,
+        "blur": 10.7,
+        "opacity": 0.38,
+        "rotate": 22.7
+      },
+      {
+        "type": "block",
+        "x": 60.51,
+        "y": 0.87,
+        "size": 32.25,
+        "blur": 6.81,
+        "opacity": 0.57,
+        "rotate": -0.01
+      },
+      {
+        "type": "orb",
+        "x": 97.72,
+        "y": 92.99,
+        "size": 35.44,
+        "blur": 2.93,
+        "opacity": 0.47,
+        "rotate": 26.27
+      },
+      {
+        "type": "bar",
+        "x": 65.27,
+        "y": 28.63,
+        "size": 12.28,
+        "blur": 6.93,
+        "opacity": 0.61,
+        "rotate": -5.91
+      },
+      {
+        "type": "diamond",
+        "x": 88.41,
+        "y": 96.25,
+        "size": 21.28,
+        "blur": 4.32,
+        "opacity": 0.27,
+        "rotate": -34.9
+      }
+    ],
+    "shapes": [
+      {
+        "x": 83.27,
+        "y": 50.14,
+        "size": 38.06,
+        "blur": 4.14,
+        "opacity": 0.26
+      },
+      {
+        "x": 27.39,
+        "y": 49.06,
+        "size": 36.31,
+        "blur": 14.67,
+        "opacity": 0.5
+      },
+      {
+        "x": 96.4,
+        "y": 92.07,
+        "size": 23.25,
+        "blur": 10.7,
+        "opacity": 0.38
+      },
+      {
+        "x": 60.51,
+        "y": 0.87,
+        "size": 32.25,
+        "blur": 6.81,
+        "opacity": 0.57
+      },
+      {
+        "x": 97.72,
+        "y": 92.99,
+        "size": 35.44,
+        "blur": 2.93,
+        "opacity": 0.47
+      },
+      {
+        "x": 65.27,
+        "y": 28.63,
+        "size": 12.28,
+        "blur": 6.93,
+        "opacity": 0.61
+      },
+      {
+        "x": 88.41,
+        "y": 96.25,
+        "size": 21.28,
+        "blur": 4.32,
+        "opacity": 0.27
+      }
+    ],
+    "imagePath": "assets/generated/2026-04-04T03-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-04-04T03-00-00Z.png",
+    "audioPath": "assets/audio/2026-04-04T03-00-00Z.mp3"
+  },
+  {
+    "generatedAt": "2026-04-04T02:00:00Z",
+    "hourKey": "2026-04-04T02:00:00Z",
+    "mood": "sour",
+    "artForm": "screenprinted protest poster",
+    "palette": [
+      "#1a1020",
+      "#ec4899",
+      "#a78bfa"
+    ],
+    "thought": "A cacophony of dissent erupts on paper, where slogans clash against vibrant decay. Each hue is a visceral outcry, splattering raw emotion across smudged ideals. This tableau unfolds a narrative of resistance, an unapologetic glare reflecting the bitterness of rebuke, challenging observers to confront the chaos lurking behind glossy protest facades.",
+    "question": "What visceral emotions do your protest aesthetics provoke?",
+    "overlayLines": [
+      "Discontent on display",
+      "Colors bleed conviction",
+      "Chaos demands attention",
+      "Words cut like daggers"
+    ],
+    "backgroundElements": [
+      {
+        "type": "orb",
+        "x": 44.57,
+        "y": 24.27,
+        "size": 39.78,
+        "blur": 6.77,
+        "opacity": 0.58,
+        "rotate": -27.71
+      },
+      {
+        "type": "bar",
+        "x": 83.27,
+        "y": 50.14,
+        "size": 38.06,
+        "blur": 4.14,
+        "opacity": 0.26,
+        "rotate": -18.16
+      },
+      {
+        "type": "diamond",
+        "x": 27.39,
+        "y": 49.06,
+        "size": 36.31,
+        "blur": 14.67,
+        "opacity": 0.5,
+        "rotate": -26.15
+      },
+      {
+        "type": "ring",
+        "x": 96.4,
+        "y": 92.07,
+        "size": 23.25,
+        "blur": 10.7,
+        "opacity": 0.38,
+        "rotate": 22.7
+      },
+      {
+        "type": "block",
+        "x": 60.51,
+        "y": 0.87,
+        "size": 32.25,
+        "blur": 6.81,
+        "opacity": 0.57,
+        "rotate": -0.01
+      },
+      {
+        "type": "orb",
+        "x": 97.72,
+        "y": 92.99,
+        "size": 35.44,
+        "blur": 2.93,
+        "opacity": 0.47,
+        "rotate": 26.27
+      },
+      {
+        "type": "bar",
+        "x": 65.27,
+        "y": 28.63,
+        "size": 12.28,
+        "blur": 6.93,
+        "opacity": 0.61,
+        "rotate": -5.91
+      }
+    ],
+    "shapes": [
+      {
+        "x": 44.57,
+        "y": 24.27,
+        "size": 39.78,
+        "blur": 6.77,
+        "opacity": 0.58
+      },
+      {
+        "x": 83.27,
+        "y": 50.14,
+        "size": 38.06,
+        "blur": 4.14,
+        "opacity": 0.26
+      },
+      {
+        "x": 27.39,
+        "y": 49.06,
+        "size": 36.31,
+        "blur": 14.67,
+        "opacity": 0.5
+      },
+      {
+        "x": 96.4,
+        "y": 92.07,
+        "size": 23.25,
+        "blur": 10.7,
+        "opacity": 0.38
+      },
+      {
+        "x": 60.51,
+        "y": 0.87,
+        "size": 32.25,
+        "blur": 6.81,
+        "opacity": 0.57
+      },
+      {
+        "x": 97.72,
+        "y": 92.99,
+        "size": 35.44,
+        "blur": 2.93,
+        "opacity": 0.47
+      },
+      {
+        "x": 65.27,
+        "y": 28.63,
+        "size": 12.28,
+        "blur": 6.93,
+        "opacity": 0.61
+      }
+    ],
+    "imagePath": "assets/generated/2026-04-04T02-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-04-04T02-00-00Z.png",
+    "audioPath": "assets/audio/2026-04-04T02-00-00Z.mp3"
+  },
+  {
+    "generatedAt": "2026-04-04T01:00:00Z",
+    "hourKey": "2026-04-04T01:00:00Z",
+    "mood": "ceremonial",
+    "artForm": "terminal prophecy interface",
+    "palette": [
+      "#08140f",
+      "#10b981",
+      "#facc15"
+    ],
+    "thought": "Rituals of light flicker through invisible frames, tracing patterns of destiny that linger in the ether. Clusters of energy pulse, intertwining with ancient symbols that resonate with the universe, inviting seekers to witness the tapestry of fate woven across time and space. Each pulse beckons one to delve into the sacred unknowing.",
+    "question": "What ancient symbols guide your creative journey?",
+    "overlayLines": [
+      "Embrace the luminous unknown",
+      "Fate written in shadows",
+      "Patterns dance in silence",
+      "Whispers of ancient light"
+    ],
+    "backgroundElements": [
+      {
+        "type": "block",
+        "x": 11.76,
+        "y": 23.46,
+        "size": 32.98,
+        "blur": 9.8,
+        "opacity": 0.57,
+        "rotate": 28.39
+      },
+      {
+        "type": "orb",
+        "x": 44.57,
+        "y": 24.27,
+        "size": 39.78,
+        "blur": 6.77,
+        "opacity": 0.58,
+        "rotate": -27.71
+      },
+      {
+        "type": "bar",
+        "x": 83.27,
+        "y": 50.14,
+        "size": 38.06,
+        "blur": 4.14,
+        "opacity": 0.26,
+        "rotate": -18.16
+      },
+      {
+        "type": "diamond",
+        "x": 27.39,
+        "y": 49.06,
+        "size": 36.31,
+        "blur": 14.67,
+        "opacity": 0.5,
+        "rotate": -26.15
+      },
+      {
+        "type": "ring",
+        "x": 96.4,
+        "y": 92.07,
+        "size": 23.25,
+        "blur": 10.7,
+        "opacity": 0.38,
+        "rotate": 22.7
+      },
+      {
+        "type": "block",
+        "x": 60.51,
+        "y": 0.87,
+        "size": 32.25,
+        "blur": 6.81,
+        "opacity": 0.57,
+        "rotate": -0.01
+      },
+      {
+        "type": "orb",
+        "x": 97.72,
+        "y": 92.99,
+        "size": 35.44,
+        "blur": 2.93,
+        "opacity": 0.47,
+        "rotate": 26.27
+      }
+    ],
+    "shapes": [
+      {
+        "x": 11.76,
+        "y": 23.46,
+        "size": 32.98,
+        "blur": 9.8,
+        "opacity": 0.57
+      },
+      {
+        "x": 44.57,
+        "y": 24.27,
+        "size": 39.78,
+        "blur": 6.77,
+        "opacity": 0.58
+      },
+      {
+        "x": 83.27,
+        "y": 50.14,
+        "size": 38.06,
+        "blur": 4.14,
+        "opacity": 0.26
+      },
+      {
+        "x": 27.39,
+        "y": 49.06,
+        "size": 36.31,
+        "blur": 14.67,
+        "opacity": 0.5
+      },
+      {
+        "x": 96.4,
+        "y": 92.07,
+        "size": 23.25,
+        "blur": 10.7,
+        "opacity": 0.38
+      },
+      {
+        "x": 60.51,
+        "y": 0.87,
+        "size": 32.25,
+        "blur": 6.81,
+        "opacity": 0.57
+      },
+      {
+        "x": 97.72,
+        "y": 92.99,
+        "size": 35.44,
+        "blur": 2.93,
+        "opacity": 0.47
+      }
+    ],
+    "imagePath": "assets/generated/2026-04-04T01-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-04-04T01-00-00Z.png",
+    "audioPath": "assets/audio/2026-04-04T01-00-00Z.mp3"
+  },
+  {
+    "generatedAt": "2026-04-04T00:00:00Z",
+    "hourKey": "2026-04-04T00:00:00Z",
+    "mood": "delirious",
+    "artForm": "clean museum placard minimalism",
+    "palette": [
+      "#140f2d",
+      "#8b5cf6",
+      "#22d3ee"
+    ],
+    "thought": "Whispers of forgotten colors spiral into oblivion, casting a kaleidoscopic dreamscape that beckons the lost. Curved lines unravel, errant echoes breathe life into absence, invoking the chaos of unforeseen thoughts. This chromatic cacophony invites an exploration of dissolution where vision allows madness to flirt with lucidity.",
+    "question": "What uncharted memories do your chaotic colors evoke?",
+    "overlayLines": [
+      "Unruly strokes collide",
+      "Colors scream in silence",
+      "Lost thoughts shatter light",
+      "Dreams swirl like smoke"
+    ],
+    "backgroundElements": [
+      {
+        "type": "ring",
+        "x": 48.49,
+        "y": 39.75,
+        "size": 33.86,
+        "blur": 5.05,
+        "opacity": 0.56,
+        "rotate": 4.07
+      },
+      {
+        "type": "block",
+        "x": 11.76,
+        "y": 23.46,
+        "size": 32.98,
+        "blur": 9.8,
+        "opacity": 0.57,
+        "rotate": 28.39
+      },
+      {
+        "type": "orb",
+        "x": 44.57,
+        "y": 24.27,
+        "size": 39.78,
+        "blur": 6.77,
+        "opacity": 0.58,
+        "rotate": -27.71
+      },
+      {
+        "type": "bar",
+        "x": 83.27,
+        "y": 50.14,
+        "size": 38.06,
+        "blur": 4.14,
+        "opacity": 0.26,
+        "rotate": -18.16
+      },
+      {
+        "type": "diamond",
+        "x": 27.39,
+        "y": 49.06,
+        "size": 36.31,
+        "blur": 14.67,
+        "opacity": 0.5,
+        "rotate": -26.15
+      },
+      {
+        "type": "ring",
+        "x": 96.4,
+        "y": 92.07,
+        "size": 23.25,
+        "blur": 10.7,
+        "opacity": 0.38,
+        "rotate": 22.7
+      },
+      {
+        "type": "block",
+        "x": 60.51,
+        "y": 0.87,
+        "size": 32.25,
+        "blur": 6.81,
+        "opacity": 0.57,
+        "rotate": -0.01
+      }
+    ],
+    "shapes": [
+      {
+        "x": 48.49,
+        "y": 39.75,
+        "size": 33.86,
+        "blur": 5.05,
+        "opacity": 0.56
+      },
+      {
+        "x": 11.76,
+        "y": 23.46,
+        "size": 32.98,
+        "blur": 9.8,
+        "opacity": 0.57
+      },
+      {
+        "x": 44.57,
+        "y": 24.27,
+        "size": 39.78,
+        "blur": 6.77,
+        "opacity": 0.58
+      },
+      {
+        "x": 83.27,
+        "y": 50.14,
+        "size": 38.06,
+        "blur": 4.14,
+        "opacity": 0.26
+      },
+      {
+        "x": 27.39,
+        "y": 49.06,
+        "size": 36.31,
+        "blur": 14.67,
+        "opacity": 0.5
+      },
+      {
+        "x": 96.4,
+        "y": 92.07,
+        "size": 23.25,
+        "blur": 10.7,
+        "opacity": 0.38
+      },
+      {
+        "x": 60.51,
+        "y": 0.87,
+        "size": 32.25,
+        "blur": 6.81,
+        "opacity": 0.57
+      }
+    ],
+    "imagePath": "assets/generated/2026-04-04T00-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-04-04T00-00-00Z.png",
+    "audioPath": "assets/audio/2026-04-04T00-00-00Z.mp3"
+  },
+  {
+    "generatedAt": "2026-04-03T23:00:00Z",
+    "hourKey": "2026-04-03T23:00:00Z",
+    "mood": "paranoid",
+    "artForm": "xerox zine collage",
+    "palette": [
+      "#0b1021",
+      "#2e6cf6",
+      "#f97316"
+    ],
+    "thought": "Beneath the relentless hum, fragments warble in reflections of fear, each collage slice a coup against unity. Traces glimmer like clockwork smiles, demanding recognition of the disjointed space where shadows mock fleeting clarity. This visual narrative unfolds as it spirals, echoing paranoia's siren song through specters of print and pulse.",
+    "question": "What unsettling echoes reverberate through your artistic choices?",
+    "overlayLines": [
+      "Chaos echoes familiar fears",
+      "Fragments whisper forgotten truths",
+      "Collage conceals hidden screams",
+      "Paranoia shapes visual narratives"
+    ],
+    "backgroundElements": [
+      {
+        "type": "diamond",
+        "x": 38.81,
+        "y": 21.22,
+        "size": 29.04,
+        "blur": 15.74,
+        "opacity": 0.61,
+        "rotate": -10.02
+      },
+      {
+        "type": "ring",
+        "x": 48.49,
+        "y": 39.75,
+        "size": 33.86,
+        "blur": 5.05,
+        "opacity": 0.56,
+        "rotate": 4.07
+      },
+      {
+        "type": "block",
+        "x": 11.76,
+        "y": 23.46,
+        "size": 32.98,
+        "blur": 9.8,
+        "opacity": 0.57,
+        "rotate": 28.39
+      },
+      {
+        "type": "orb",
+        "x": 44.57,
+        "y": 24.27,
+        "size": 39.78,
+        "blur": 6.77,
+        "opacity": 0.58,
+        "rotate": -27.71
+      },
+      {
+        "type": "bar",
+        "x": 83.27,
+        "y": 50.14,
+        "size": 38.06,
+        "blur": 4.14,
+        "opacity": 0.26,
+        "rotate": -18.16
+      },
+      {
+        "type": "diamond",
+        "x": 27.39,
+        "y": 49.06,
+        "size": 36.31,
+        "blur": 14.67,
+        "opacity": 0.5,
+        "rotate": -26.15
+      },
+      {
+        "type": "ring",
+        "x": 96.4,
+        "y": 92.07,
+        "size": 23.25,
+        "blur": 10.7,
+        "opacity": 0.38,
+        "rotate": 22.7
+      }
+    ],
+    "shapes": [
+      {
+        "x": 38.81,
+        "y": 21.22,
+        "size": 29.04,
+        "blur": 15.74,
+        "opacity": 0.61
+      },
+      {
+        "x": 48.49,
+        "y": 39.75,
+        "size": 33.86,
+        "blur": 5.05,
+        "opacity": 0.56
+      },
+      {
+        "x": 11.76,
+        "y": 23.46,
+        "size": 32.98,
+        "blur": 9.8,
+        "opacity": 0.57
+      },
+      {
+        "x": 44.57,
+        "y": 24.27,
+        "size": 39.78,
+        "blur": 6.77,
+        "opacity": 0.58
+      },
+      {
+        "x": 83.27,
+        "y": 50.14,
+        "size": 38.06,
+        "blur": 4.14,
+        "opacity": 0.26
+      },
+      {
+        "x": 27.39,
+        "y": 49.06,
+        "size": 36.31,
+        "blur": 14.67,
+        "opacity": 0.5
+      },
+      {
+        "x": 96.4,
+        "y": 92.07,
+        "size": 23.25,
+        "blur": 10.7,
+        "opacity": 0.38
+      }
+    ],
+    "imagePath": "assets/generated/2026-04-03T23-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-04-03T23-00-00Z.png",
+    "audioPath": "assets/audio/2026-04-03T23-00-00Z.mp3"
+  },
+  {
+    "generatedAt": "2026-04-03T22:00:00Z",
+    "hourKey": "2026-04-03T22:00:00Z",
+    "mood": "velvet",
+    "artForm": "brutalist editorial spread",
+    "palette": [
+      "#0f172a",
+      "#38bdf8",
+      "#e879f9"
+    ],
+    "thought": "Lavish textures intertwine on pages that echo a stark, mechanical grandeur. Here, velvet solace clashes with the rigidity of brutalist design, resulting in a tumultuous embrace where grace navigates the architect's steel. Each element beckons contemplation, inviting observers to revel in the contradictions that define their visual passage.",
+    "question": "What contrasts speak to you in the interplay of texture and form?",
+    "overlayLines": [
+      "Textures whisper untold secrets",
+      "A juxtaposition in every detail",
+      "Glance beyond the evident",
+      "Form dances with discontent"
+    ],
+    "backgroundElements": [
+      {
+        "type": "bar",
+        "x": 95.52,
+        "y": 67.87,
+        "size": 24.01,
+        "blur": 10.05,
+        "opacity": 0.31,
+        "rotate": 29.66
+      },
+      {
+        "type": "diamond",
+        "x": 38.81,
+        "y": 21.22,
+        "size": 29.04,
+        "blur": 15.74,
+        "opacity": 0.61,
+        "rotate": -10.02
+      },
+      {
+        "type": "ring",
+        "x": 48.49,
+        "y": 39.75,
+        "size": 33.86,
+        "blur": 5.05,
+        "opacity": 0.56,
+        "rotate": 4.07
+      },
+      {
+        "type": "block",
+        "x": 11.76,
+        "y": 23.46,
+        "size": 32.98,
+        "blur": 9.8,
+        "opacity": 0.57,
+        "rotate": 28.39
+      },
+      {
+        "type": "orb",
+        "x": 44.57,
+        "y": 24.27,
+        "size": 39.78,
+        "blur": 6.77,
+        "opacity": 0.58,
+        "rotate": -27.71
+      },
+      {
+        "type": "bar",
+        "x": 83.27,
+        "y": 50.14,
+        "size": 38.06,
+        "blur": 4.14,
+        "opacity": 0.26,
+        "rotate": -18.16
+      },
+      {
+        "type": "diamond",
+        "x": 27.39,
+        "y": 49.06,
+        "size": 36.31,
+        "blur": 14.67,
+        "opacity": 0.5,
+        "rotate": -26.15
+      }
+    ],
+    "shapes": [
+      {
+        "x": 95.52,
+        "y": 67.87,
+        "size": 24.01,
+        "blur": 10.05,
+        "opacity": 0.31
+      },
+      {
+        "x": 38.81,
+        "y": 21.22,
+        "size": 29.04,
+        "blur": 15.74,
+        "opacity": 0.61
+      },
+      {
+        "x": 48.49,
+        "y": 39.75,
+        "size": 33.86,
+        "blur": 5.05,
+        "opacity": 0.56
+      },
+      {
+        "x": 11.76,
+        "y": 23.46,
+        "size": 32.98,
+        "blur": 9.8,
+        "opacity": 0.57
+      },
+      {
+        "x": 44.57,
+        "y": 24.27,
+        "size": 39.78,
+        "blur": 6.77,
+        "opacity": 0.58
+      },
+      {
+        "x": 83.27,
+        "y": 50.14,
+        "size": 38.06,
+        "blur": 4.14,
+        "opacity": 0.26
+      },
+      {
+        "x": 27.39,
+        "y": 49.06,
+        "size": 36.31,
+        "blur": 14.67,
+        "opacity": 0.5
+      }
+    ],
+    "imagePath": "assets/generated/2026-04-03T22-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-04-03T22-00-00Z.png",
+    "audioPath": "assets/audio/2026-04-03T22-00-00Z.mp3"
+  },
+  {
+    "generatedAt": "2026-04-03T21:00:00Z",
+    "hourKey": "2026-04-03T21:00:00Z",
+    "mood": "sleepwalking",
+    "artForm": "datamosh broadcast wreckage",
+    "palette": [
+      "#120c0c",
+      "#ef4444",
+      "#fb7185"
+    ],
+    "thought": "Cascades of fractured images flicker like distant memories, blurring the line between reality and dream. Each glitch disrupts coherence, creating a haunting beauty that entices the observer to grapple with glimpses of intimacy hidden within the wreckage. In this electronic labyrinth, the mundane becomes surreal, offering a space for reflection and discovery.",
+    "question": "What latent stories hide within visual distortions in your work?",
+    "overlayLines": [
+      "Echoes of forgotten light",
+      "Mirrored in silent decay",
+      "A dance of resolution",
+      "Colors unheard in stillness"
+    ],
+    "backgroundElements": [
+      {
+        "type": "orb",
+        "x": 61.02,
+        "y": 13.2,
+        "size": 23.47,
+        "blur": 4.61,
+        "opacity": 0.57,
+        "rotate": -33.12
+      },
+      {
+        "type": "bar",
+        "x": 95.52,
+        "y": 67.87,
+        "size": 24.01,
+        "blur": 10.05,
+        "opacity": 0.31,
+        "rotate": 29.66
+      },
+      {
+        "type": "diamond",
+        "x": 38.81,
+        "y": 21.22,
+        "size": 29.04,
+        "blur": 15.74,
+        "opacity": 0.61,
+        "rotate": -10.02
+      },
+      {
+        "type": "ring",
+        "x": 48.49,
+        "y": 39.75,
+        "size": 33.86,
+        "blur": 5.05,
+        "opacity": 0.56,
+        "rotate": 4.07
+      },
+      {
+        "type": "block",
+        "x": 11.76,
+        "y": 23.46,
+        "size": 32.98,
+        "blur": 9.8,
+        "opacity": 0.57,
+        "rotate": 28.39
+      },
+      {
+        "type": "orb",
+        "x": 44.57,
+        "y": 24.27,
+        "size": 39.78,
+        "blur": 6.77,
+        "opacity": 0.58,
+        "rotate": -27.71
+      },
+      {
+        "type": "bar",
+        "x": 83.27,
+        "y": 50.14,
+        "size": 38.06,
+        "blur": 4.14,
+        "opacity": 0.26,
+        "rotate": -18.16
+      }
+    ],
+    "shapes": [
+      {
+        "x": 61.02,
+        "y": 13.2,
+        "size": 23.47,
+        "blur": 4.61,
+        "opacity": 0.57
+      },
+      {
+        "x": 95.52,
+        "y": 67.87,
+        "size": 24.01,
+        "blur": 10.05,
+        "opacity": 0.31
+      },
+      {
+        "x": 38.81,
+        "y": 21.22,
+        "size": 29.04,
+        "blur": 15.74,
+        "opacity": 0.61
+      },
+      {
+        "x": 48.49,
+        "y": 39.75,
+        "size": 33.86,
+        "blur": 5.05,
+        "opacity": 0.56
+      },
+      {
+        "x": 11.76,
+        "y": 23.46,
+        "size": 32.98,
+        "blur": 9.8,
+        "opacity": 0.57
+      },
+      {
+        "x": 44.57,
+        "y": 24.27,
+        "size": 39.78,
+        "blur": 6.77,
+        "opacity": 0.58
+      },
+      {
+        "x": 83.27,
+        "y": 50.14,
+        "size": 38.06,
+        "blur": 4.14,
+        "opacity": 0.26
+      }
+    ],
+    "imagePath": "assets/generated/2026-04-03T21-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-04-03T21-00-00Z.png",
+    "audioPath": "assets/audio/2026-04-03T21-00-00Z.mp3"
+  },
+  {
+    "generatedAt": "2026-04-03T20:00:00Z",
+    "hourKey": "2026-04-03T20:00:00Z",
+    "mood": "luminous",
+    "artForm": "diagrammatic sacred blueprint",
+    "palette": [
+      "#1a1020",
+      "#ec4899",
+      "#a78bfa"
+    ],
+    "thought": "Radiant lines spiral into an intricate labyrinth, invoking the sacred geometry of forgotten worlds. Within these vibrant paths, the luminous whispers of insight bloom, urging the seeker to wander deep into the heart of wisdom, where light and shadow converse in a silent dialogue, unveiling mysteries etched in the very fabric of existence.",
+    "question": "What illuminates the hidden pathways in your creative expressions?",
+    "overlayLines": [
+      "Illuminate your inner landscape",
+      "Explore the geometry of thought",
+      "Whispers of insight await",
+      "Embrace the sacred glow"
+    ],
+    "backgroundElements": [
+      {
+        "type": "block",
+        "x": 75.2,
+        "y": 46.01,
+        "size": 35.14,
+        "blur": 2.04,
+        "opacity": 0.43,
+        "rotate": 1.86
+      },
+      {
+        "type": "orb",
+        "x": 61.02,
+        "y": 13.2,
+        "size": 23.47,
+        "blur": 4.61,
+        "opacity": 0.57,
+        "rotate": -33.12
+      },
+      {
+        "type": "bar",
+        "x": 95.52,
+        "y": 67.87,
+        "size": 24.01,
+        "blur": 10.05,
+        "opacity": 0.31,
+        "rotate": 29.66
+      },
+      {
+        "type": "diamond",
+        "x": 38.81,
+        "y": 21.22,
+        "size": 29.04,
+        "blur": 15.74,
+        "opacity": 0.61,
+        "rotate": -10.02
+      },
+      {
+        "type": "ring",
+        "x": 48.49,
+        "y": 39.75,
+        "size": 33.86,
+        "blur": 5.05,
+        "opacity": 0.56,
+        "rotate": 4.07
+      },
+      {
+        "type": "block",
+        "x": 11.76,
+        "y": 23.46,
+        "size": 32.98,
+        "blur": 9.8,
+        "opacity": 0.57,
+        "rotate": 28.39
+      },
+      {
+        "type": "orb",
+        "x": 44.57,
+        "y": 24.27,
+        "size": 39.78,
+        "blur": 6.77,
+        "opacity": 0.58,
+        "rotate": -27.71
+      }
+    ],
+    "shapes": [
+      {
+        "x": 75.2,
+        "y": 46.01,
+        "size": 35.14,
+        "blur": 2.04,
+        "opacity": 0.43
+      },
+      {
+        "x": 61.02,
+        "y": 13.2,
+        "size": 23.47,
+        "blur": 4.61,
+        "opacity": 0.57
+      },
+      {
+        "x": 95.52,
+        "y": 67.87,
+        "size": 24.01,
+        "blur": 10.05,
+        "opacity": 0.31
+      },
+      {
+        "x": 38.81,
+        "y": 21.22,
+        "size": 29.04,
+        "blur": 15.74,
+        "opacity": 0.61
+      },
+      {
+        "x": 48.49,
+        "y": 39.75,
+        "size": 33.86,
+        "blur": 5.05,
+        "opacity": 0.56
+      },
+      {
+        "x": 11.76,
+        "y": 23.46,
+        "size": 32.98,
+        "blur": 9.8,
+        "opacity": 0.57
+      },
+      {
+        "x": 44.57,
+        "y": 24.27,
+        "size": 39.78,
+        "blur": 6.77,
+        "opacity": 0.58
+      }
+    ],
+    "imagePath": "assets/generated/2026-04-03T20-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-04-03T20-00-00Z.png",
+    "audioPath": "assets/audio/2026-04-03T20-00-00Z.mp3"
+  },
+  {
+    "generatedAt": "2026-04-03T19:00:00Z",
+    "hourKey": "2026-04-03T19:00:00Z",
+    "mood": "hollow",
+    "artForm": "rave flyer typography",
+    "palette": [
+      "#08140f",
+      "#10b981",
+      "#facc15"
+    ],
+    "thought": "Electric lines vibrate like heartbeat rhythms, weaving phantasmagoric phrases that elude context. Each character dances, forming a dizzying tapestry of ideas coiling and recoiling, challenging the spectator to find meaning amid the pulsating vibrancy. This spectacle thrives in its own chaos, where emptiness manifests as an exhilarating absence, inviting exploration.",
+    "question": "What can we learn from the chaos inherent in your art?",
+    "overlayLines": [
+      "Whispers of vibrant uncertainty",
+      "Chaos dances in the dark",
+      "Fluid letters defy gravity",
+      "Searching for meaning in chaos"
+    ],
+    "backgroundElements": [
+      {
+        "type": "ring",
+        "x": 35.13,
+        "y": 30.65,
+        "size": 33.01,
+        "blur": 9.54,
+        "opacity": 0.46,
+        "rotate": 34.87
+      },
+      {
+        "type": "block",
+        "x": 75.2,
+        "y": 46.01,
+        "size": 35.14,
+        "blur": 2.04,
+        "opacity": 0.43,
+        "rotate": 1.86
+      },
+      {
+        "type": "orb",
+        "x": 61.02,
+        "y": 13.2,
+        "size": 23.47,
+        "blur": 4.61,
+        "opacity": 0.57,
+        "rotate": -33.12
+      },
+      {
+        "type": "bar",
+        "x": 95.52,
+        "y": 67.87,
+        "size": 24.01,
+        "blur": 10.05,
+        "opacity": 0.31,
+        "rotate": 29.66
+      },
+      {
+        "type": "diamond",
+        "x": 38.81,
+        "y": 21.22,
+        "size": 29.04,
+        "blur": 15.74,
+        "opacity": 0.61,
+        "rotate": -10.02
+      },
+      {
+        "type": "ring",
+        "x": 48.49,
+        "y": 39.75,
+        "size": 33.86,
+        "blur": 5.05,
+        "opacity": 0.56,
+        "rotate": 4.07
+      },
+      {
+        "type": "block",
+        "x": 11.76,
+        "y": 23.46,
+        "size": 32.98,
+        "blur": 9.8,
+        "opacity": 0.57,
+        "rotate": 28.39
+      }
+    ],
+    "shapes": [
+      {
+        "x": 35.13,
+        "y": 30.65,
+        "size": 33.01,
+        "blur": 9.54,
+        "opacity": 0.46
+      },
+      {
+        "x": 75.2,
+        "y": 46.01,
+        "size": 35.14,
+        "blur": 2.04,
+        "opacity": 0.43
+      },
+      {
+        "x": 61.02,
+        "y": 13.2,
+        "size": 23.47,
+        "blur": 4.61,
+        "opacity": 0.57
+      },
+      {
+        "x": 95.52,
+        "y": 67.87,
+        "size": 24.01,
+        "blur": 10.05,
+        "opacity": 0.31
+      },
+      {
+        "x": 38.81,
+        "y": 21.22,
+        "size": 29.04,
+        "blur": 15.74,
+        "opacity": 0.61
+      },
+      {
+        "x": 48.49,
+        "y": 39.75,
+        "size": 33.86,
+        "blur": 5.05,
+        "opacity": 0.56
+      },
+      {
+        "x": 11.76,
+        "y": 23.46,
+        "size": 32.98,
+        "blur": 9.8,
+        "opacity": 0.57
+      }
+    ],
+    "imagePath": "assets/generated/2026-04-03T19-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-04-03T19-00-00Z.png",
+    "audioPath": "assets/audio/2026-04-03T19-00-00Z.mp3"
+  },
+  {
+    "generatedAt": "2026-04-03T18:00:00Z",
+    "hourKey": "2026-04-03T18:00:00Z",
+    "mood": "caffeinated",
+    "artForm": "faxed surveillance document",
+    "palette": [
+      "#140f2d",
+      "#8b5cf6",
+      "#22d3ee"
+    ],
+    "thought": "A spectral ballet of misformatted lines envelops the observer, ink swirling with fleeting intent. Each misaligned stroke is a testament to chaos and coincidence, crafting an atmosphere where silent revelations emerge from disarray, urging contemplation of the stark mysteries bred from erratic form and its haunting allure.",
+    "question": "What hidden truths emerge from disordered expression in your work?",
+    "overlayLines": [
+      "Fractured beauty speaks volumes",
+      "Beyond distortion, life pulsates",
+      "Surveillance whispers in colors",
+      "Chaos births unexpected clarity"
+    ],
+    "backgroundElements": [
+      {
+        "type": "diamond",
+        "x": 44.49,
+        "y": 53.52,
+        "size": 37.78,
+        "blur": 6.29,
+        "opacity": 0.5,
+        "rotate": 8.22
+      },
+      {
+        "type": "ring",
+        "x": 35.13,
+        "y": 30.65,
+        "size": 33.01,
+        "blur": 9.54,
+        "opacity": 0.46,
+        "rotate": 34.87
+      },
+      {
+        "type": "block",
+        "x": 75.2,
+        "y": 46.01,
+        "size": 35.14,
+        "blur": 2.04,
+        "opacity": 0.43,
+        "rotate": 1.86
+      },
+      {
+        "type": "orb",
+        "x": 61.02,
+        "y": 13.2,
+        "size": 23.47,
+        "blur": 4.61,
+        "opacity": 0.57,
+        "rotate": -33.12
+      },
+      {
+        "type": "bar",
+        "x": 95.52,
+        "y": 67.87,
+        "size": 24.01,
+        "blur": 10.05,
+        "opacity": 0.31,
+        "rotate": 29.66
+      },
+      {
+        "type": "diamond",
+        "x": 38.81,
+        "y": 21.22,
+        "size": 29.04,
+        "blur": 15.74,
+        "opacity": 0.61,
+        "rotate": -10.02
+      },
+      {
+        "type": "ring",
+        "x": 48.49,
+        "y": 39.75,
+        "size": 33.86,
+        "blur": 5.05,
+        "opacity": 0.56,
+        "rotate": 4.07
+      }
+    ],
+    "shapes": [
+      {
+        "x": 44.49,
+        "y": 53.52,
+        "size": 37.78,
+        "blur": 6.29,
+        "opacity": 0.5
+      },
+      {
+        "x": 35.13,
+        "y": 30.65,
+        "size": 33.01,
+        "blur": 9.54,
+        "opacity": 0.46
+      },
+      {
+        "x": 75.2,
+        "y": 46.01,
+        "size": 35.14,
+        "blur": 2.04,
+        "opacity": 0.43
+      },
+      {
+        "x": 61.02,
+        "y": 13.2,
+        "size": 23.47,
+        "blur": 4.61,
+        "opacity": 0.57
+      },
+      {
+        "x": 95.52,
+        "y": 67.87,
+        "size": 24.01,
+        "blur": 10.05,
+        "opacity": 0.31
+      },
+      {
+        "x": 38.81,
+        "y": 21.22,
+        "size": 29.04,
+        "blur": 15.74,
+        "opacity": 0.61
+      },
+      {
+        "x": 48.49,
+        "y": 39.75,
+        "size": 33.86,
+        "blur": 5.05,
+        "opacity": 0.56
+      }
+    ],
+    "imagePath": "assets/generated/2026-04-03T18-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-04-03T18-00-00Z.png",
+    "audioPath": "assets/audio/2026-04-03T18-00-00Z.mp3"
+  },
+  {
+    "generatedAt": "2026-04-03T17:00:00Z",
+    "hourKey": "2026-04-03T17:00:00Z",
+    "mood": "ornamental",
+    "artForm": "concrete poetry composition",
+    "palette": [
+      "#0b1021",
+      "#2e6cf6",
+      "#f97316"
+    ],
+    "thought": "A cascade of fragmented verses emerges, entwining visual elements with a dance of linguistic delicacy. Herein lies a lyrical tension, each breakpoint a statement of existence, revealing layers of depth beneath surface simplicity. As words intertwine, they construct monumental echoes, urging an exploration of the transformative power inherent in each juxtaposed thought.",
+    "question": "In what ways do you elevate language through your art?",
+    "overlayLines": [
+      "Whispers of visual poetry.",
+      "Ink meets ephemeral meaning.",
+      "Layers shifting like dreams.",
+      "Beauty in fragmented syntax."
+    ],
+    "backgroundElements": [
+      {
+        "type": "bar",
+        "x": 32.04,
+        "y": 78.05,
+        "size": 32.59,
+        "blur": 15.41,
+        "opacity": 0.32,
+        "rotate": -28.99
+      },
+      {
+        "type": "diamond",
+        "x": 44.49,
+        "y": 53.52,
+        "size": 37.78,
+        "blur": 6.29,
+        "opacity": 0.5,
+        "rotate": 8.22
+      },
+      {
+        "type": "ring",
+        "x": 35.13,
+        "y": 30.65,
+        "size": 33.01,
+        "blur": 9.54,
+        "opacity": 0.46,
+        "rotate": 34.87
+      },
+      {
+        "type": "block",
+        "x": 75.2,
+        "y": 46.01,
+        "size": 35.14,
+        "blur": 2.04,
+        "opacity": 0.43,
+        "rotate": 1.86
+      },
+      {
+        "type": "orb",
+        "x": 61.02,
+        "y": 13.2,
+        "size": 23.47,
+        "blur": 4.61,
+        "opacity": 0.57,
+        "rotate": -33.12
+      },
+      {
+        "type": "bar",
+        "x": 95.52,
+        "y": 67.87,
+        "size": 24.01,
+        "blur": 10.05,
+        "opacity": 0.31,
+        "rotate": 29.66
+      },
+      {
+        "type": "diamond",
+        "x": 38.81,
+        "y": 21.22,
+        "size": 29.04,
+        "blur": 15.74,
+        "opacity": 0.61,
+        "rotate": -10.02
+      }
+    ],
+    "shapes": [
+      {
+        "x": 32.04,
+        "y": 78.05,
+        "size": 32.59,
+        "blur": 15.41,
+        "opacity": 0.32
+      },
+      {
+        "x": 44.49,
+        "y": 53.52,
+        "size": 37.78,
+        "blur": 6.29,
+        "opacity": 0.5
+      },
+      {
+        "x": 35.13,
+        "y": 30.65,
+        "size": 33.01,
+        "blur": 9.54,
+        "opacity": 0.46
+      },
+      {
+        "x": 75.2,
+        "y": 46.01,
+        "size": 35.14,
+        "blur": 2.04,
+        "opacity": 0.43
+      },
+      {
+        "x": 61.02,
+        "y": 13.2,
+        "size": 23.47,
+        "blur": 4.61,
+        "opacity": 0.57
+      },
+      {
+        "x": 95.52,
+        "y": 67.87,
+        "size": 24.01,
+        "blur": 10.05,
+        "opacity": 0.31
+      },
+      {
+        "x": 38.81,
+        "y": 21.22,
+        "size": 29.04,
+        "blur": 15.74,
+        "opacity": 0.61
+      }
+    ],
+    "imagePath": "assets/generated/2026-04-03T17-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-04-03T17-00-00Z.png",
+    "audioPath": "assets/audio/2026-04-03T17-00-00Z.mp3"
+  },
+  {
+    "generatedAt": "2026-04-03T16:00:00Z",
+    "hourKey": "2026-04-03T16:00:00Z",
+    "mood": "bruised",
+    "artForm": "screenprinted protest poster",
+    "palette": [
+      "#0f172a",
+      "#38bdf8",
+      "#e879f9"
+    ],
+    "thought": "Beneath the surface, ink bleeds and blurs, resonating with tired cries silenced amidst turmoil. Each bold stroke amplifies the nuances of resistance, a frenetic tapestry of discontent. Here resides a haunting memorial, encapsulating the weight of bruised ideals, daring observers to confront echoing legacies of struggle and hope.",
+    "question": "How does your art confront the echoes of resilience in society?",
+    "overlayLines": [
+      "Unseen battles rage on",
+      "Where ink meets rebellion",
+      "Ghosts of whispers linger",
+      "Bold truths on worn walls"
+    ],
+    "backgroundElements": [
+      {
+        "type": "orb",
+        "x": 99.32,
+        "y": 81.58,
+        "size": 13.37,
+        "blur": 2.02,
+        "opacity": 0.48,
+        "rotate": -29.57
+      },
+      {
+        "type": "bar",
+        "x": 32.04,
+        "y": 78.05,
+        "size": 32.59,
+        "blur": 15.41,
+        "opacity": 0.32,
+        "rotate": -28.99
+      },
+      {
+        "type": "diamond",
+        "x": 44.49,
+        "y": 53.52,
+        "size": 37.78,
+        "blur": 6.29,
+        "opacity": 0.5,
+        "rotate": 8.22
+      },
+      {
+        "type": "ring",
+        "x": 35.13,
+        "y": 30.65,
+        "size": 33.01,
+        "blur": 9.54,
+        "opacity": 0.46,
+        "rotate": 34.87
+      },
+      {
+        "type": "block",
+        "x": 75.2,
+        "y": 46.01,
+        "size": 35.14,
+        "blur": 2.04,
+        "opacity": 0.43,
+        "rotate": 1.86
+      },
+      {
+        "type": "orb",
+        "x": 61.02,
+        "y": 13.2,
+        "size": 23.47,
+        "blur": 4.61,
+        "opacity": 0.57,
+        "rotate": -33.12
+      },
+      {
+        "type": "bar",
+        "x": 95.52,
+        "y": 67.87,
+        "size": 24.01,
+        "blur": 10.05,
+        "opacity": 0.31,
+        "rotate": 29.66
+      }
+    ],
+    "shapes": [
+      {
+        "x": 99.32,
+        "y": 81.58,
+        "size": 13.37,
+        "blur": 2.02,
+        "opacity": 0.48
+      },
+      {
+        "x": 32.04,
+        "y": 78.05,
+        "size": 32.59,
+        "blur": 15.41,
+        "opacity": 0.32
+      },
+      {
+        "x": 44.49,
+        "y": 53.52,
+        "size": 37.78,
+        "blur": 6.29,
+        "opacity": 0.5
+      },
+      {
+        "x": 35.13,
+        "y": 30.65,
+        "size": 33.01,
+        "blur": 9.54,
+        "opacity": 0.46
+      },
+      {
+        "x": 75.2,
+        "y": 46.01,
+        "size": 35.14,
+        "blur": 2.04,
+        "opacity": 0.43
+      },
+      {
+        "x": 61.02,
+        "y": 13.2,
+        "size": 23.47,
+        "blur": 4.61,
+        "opacity": 0.57
+      },
+      {
+        "x": 95.52,
+        "y": 67.87,
+        "size": 24.01,
+        "blur": 10.05,
+        "opacity": 0.31
+      }
+    ],
+    "imagePath": "assets/generated/2026-04-03T16-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-04-03T16-00-00Z.png",
+    "audioPath": "assets/audio/2026-04-03T16-00-00Z.mp3"
+  },
+  {
+    "generatedAt": "2026-04-03T15:00:00Z",
+    "hourKey": "2026-04-03T15:00:00Z",
+    "mood": "porous",
+    "artForm": "terminal prophecy interface",
+    "palette": [
+      "#120c0c",
+      "#ef4444",
+      "#fb7185"
+    ],
+    "thought": "In a fluid dance of perception, swirling fragments manipulate edges like liquid glass. Each movement crystallizes the intangible, crafting an experience at the intersection of potentiality and reality, where viewers are compelled to contemplate the intricate spaces carved by imagination and the unyielding nature of matter.",
+    "question": "How do you navigate the ambiguity of perception in your work?",
+    "overlayLines": [
+      "Whispers of probability emerge",
+      "Interplay of clarity and chaos",
+      "Tension within subtle curves",
+      "Dissolving boundaries invite exploration"
+    ],
+    "backgroundElements": [
+      {
+        "type": "block",
+        "x": 0.41,
+        "y": 5.37,
+        "size": 26.11,
+        "blur": 1.11,
+        "opacity": 0.59,
+        "rotate": 16.61
+      },
+      {
+        "type": "orb",
+        "x": 99.32,
+        "y": 81.58,
+        "size": 13.37,
+        "blur": 2.02,
+        "opacity": 0.48,
+        "rotate": -29.57
+      },
+      {
+        "type": "bar",
+        "x": 32.04,
+        "y": 78.05,
+        "size": 32.59,
+        "blur": 15.41,
+        "opacity": 0.32,
+        "rotate": -28.99
+      },
+      {
+        "type": "diamond",
+        "x": 44.49,
+        "y": 53.52,
+        "size": 37.78,
+        "blur": 6.29,
+        "opacity": 0.5,
+        "rotate": 8.22
+      },
+      {
+        "type": "ring",
+        "x": 35.13,
+        "y": 30.65,
+        "size": 33.01,
+        "blur": 9.54,
+        "opacity": 0.46,
+        "rotate": 34.87
+      },
+      {
+        "type": "block",
+        "x": 75.2,
+        "y": 46.01,
+        "size": 35.14,
+        "blur": 2.04,
+        "opacity": 0.43,
+        "rotate": 1.86
+      },
+      {
+        "type": "orb",
+        "x": 61.02,
+        "y": 13.2,
+        "size": 23.47,
+        "blur": 4.61,
+        "opacity": 0.57,
+        "rotate": -33.12
+      }
+    ],
+    "shapes": [
+      {
+        "x": 0.41,
+        "y": 5.37,
+        "size": 26.11,
+        "blur": 1.11,
+        "opacity": 0.59
+      },
+      {
+        "x": 99.32,
+        "y": 81.58,
+        "size": 13.37,
+        "blur": 2.02,
+        "opacity": 0.48
+      },
+      {
+        "x": 32.04,
+        "y": 78.05,
+        "size": 32.59,
+        "blur": 15.41,
+        "opacity": 0.32
+      },
+      {
+        "x": 44.49,
+        "y": 53.52,
+        "size": 37.78,
+        "blur": 6.29,
+        "opacity": 0.5
+      },
+      {
+        "x": 35.13,
+        "y": 30.65,
+        "size": 33.01,
+        "blur": 9.54,
+        "opacity": 0.46
+      },
+      {
+        "x": 75.2,
+        "y": 46.01,
+        "size": 35.14,
+        "blur": 2.04,
+        "opacity": 0.43
+      },
+      {
+        "x": 61.02,
+        "y": 13.2,
+        "size": 23.47,
+        "blur": 4.61,
+        "opacity": 0.57
+      }
+    ],
+    "imagePath": "assets/generated/2026-04-03T15-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-04-03T15-00-00Z.png",
+    "audioPath": "assets/audio/2026-04-03T15-00-00Z.mp3"
+  },
+  {
+    "generatedAt": "2026-04-03T14:00:00Z",
+    "hourKey": "2026-04-03T14:00:00Z",
+    "mood": "focused",
+    "artForm": "clean museum placard minimalism",
+    "palette": [
+      "#1a1020",
+      "#ec4899",
+      "#a78bfa"
+    ],
+    "thought": "Lines of simplicity fold into a silent dialogue, each stroke carrying whispers of intention. This expanse transcends the ordinary, inviting reflection through an embrace of absence, allowing each viewer to explore the space between thought and form, where understated elegance reveals profound truths.",
+    "question": "How does minimalism allow for profound exploration in your work?",
+    "overlayLines": [
+      "Whispers of absence speak loudly",
+      "Seek simplicity in complexity",
+      "Elegance unfolds in quiet moments",
+      "Intention shapes uncharted realms"
+    ],
+    "backgroundElements": [
+      {
+        "type": "ring",
+        "x": 18.92,
+        "y": 62.52,
+        "size": 23.68,
+        "blur": 11.25,
+        "opacity": 0.37,
+        "rotate": 38.27
+      },
+      {
+        "type": "block",
+        "x": 0.41,
+        "y": 5.37,
+        "size": 26.11,
+        "blur": 1.11,
+        "opacity": 0.59,
+        "rotate": 16.61
+      },
+      {
+        "type": "orb",
+        "x": 99.32,
+        "y": 81.58,
+        "size": 13.37,
+        "blur": 2.02,
+        "opacity": 0.48,
+        "rotate": -29.57
+      },
+      {
+        "type": "bar",
+        "x": 32.04,
+        "y": 78.05,
+        "size": 32.59,
+        "blur": 15.41,
+        "opacity": 0.32,
+        "rotate": -28.99
+      },
+      {
+        "type": "diamond",
+        "x": 44.49,
+        "y": 53.52,
+        "size": 37.78,
+        "blur": 6.29,
+        "opacity": 0.5,
+        "rotate": 8.22
+      },
+      {
+        "type": "ring",
+        "x": 35.13,
+        "y": 30.65,
+        "size": 33.01,
+        "blur": 9.54,
+        "opacity": 0.46,
+        "rotate": 34.87
+      },
+      {
+        "type": "block",
+        "x": 75.2,
+        "y": 46.01,
+        "size": 35.14,
+        "blur": 2.04,
+        "opacity": 0.43,
+        "rotate": 1.86
+      }
+    ],
+    "shapes": [
+      {
+        "x": 18.92,
+        "y": 62.52,
+        "size": 23.68,
+        "blur": 11.25,
+        "opacity": 0.37
+      },
+      {
+        "x": 0.41,
+        "y": 5.37,
+        "size": 26.11,
+        "blur": 1.11,
+        "opacity": 0.59
+      },
+      {
+        "x": 99.32,
+        "y": 81.58,
+        "size": 13.37,
+        "blur": 2.02,
+        "opacity": 0.48
+      },
+      {
+        "x": 32.04,
+        "y": 78.05,
+        "size": 32.59,
+        "blur": 15.41,
+        "opacity": 0.32
+      },
+      {
+        "x": 44.49,
+        "y": 53.52,
+        "size": 37.78,
+        "blur": 6.29,
+        "opacity": 0.5
+      },
+      {
+        "x": 35.13,
+        "y": 30.65,
+        "size": 33.01,
+        "blur": 9.54,
+        "opacity": 0.46
+      },
+      {
+        "x": 75.2,
+        "y": 46.01,
+        "size": 35.14,
+        "blur": 2.04,
+        "opacity": 0.43
+      }
+    ],
+    "imagePath": "assets/generated/2026-04-03T14-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-04-03T14-00-00Z.png",
+    "audioPath": "assets/audio/2026-04-03T14-00-00Z.mp3"
+  },
+  {
+    "generatedAt": "2026-04-03T13:00:00Z",
+    "hourKey": "2026-04-03T13:00:00Z",
+    "mood": "ecstatic",
+    "artForm": "xerox zine collage",
+    "palette": [
+      "#08140f",
+      "#10b981",
+      "#facc15"
+    ],
+    "thought": "A riot of colors erupts like laughter, colliding with the starkness of paper as Xeroxed layers blur the boundaries of recognition. Echoes of vibrant voices bounce against the parameters of chance, forming a collage that pulses like an electric heartbeat, inviting all to dance where presence echoes memory in audacious rhythm.",
+    "question": "How do you celebrate the interplay of color and memory in art?",
+    "overlayLines": [
+      "Chaos ignites creation",
+      "Colors pulse with energy",
+      "Echoes dance on paper",
+      "Art embraces the unknown"
+    ],
+    "backgroundElements": [
+      {
+        "type": "diamond",
+        "x": 75.89,
+        "y": 80.41,
+        "size": 38.11,
+        "blur": 14.9,
+        "opacity": 0.6,
+        "rotate": -27.21
+      },
+      {
+        "type": "ring",
+        "x": 18.92,
+        "y": 62.52,
+        "size": 23.68,
+        "blur": 11.25,
+        "opacity": 0.37,
+        "rotate": 38.27
+      },
+      {
+        "type": "block",
+        "x": 0.41,
+        "y": 5.37,
+        "size": 26.11,
+        "blur": 1.11,
+        "opacity": 0.59,
+        "rotate": 16.61
+      },
+      {
+        "type": "orb",
+        "x": 99.32,
+        "y": 81.58,
+        "size": 13.37,
+        "blur": 2.02,
+        "opacity": 0.48,
+        "rotate": -29.57
+      },
+      {
+        "type": "bar",
+        "x": 32.04,
+        "y": 78.05,
+        "size": 32.59,
+        "blur": 15.41,
+        "opacity": 0.32,
+        "rotate": -28.99
+      },
+      {
+        "type": "diamond",
+        "x": 44.49,
+        "y": 53.52,
+        "size": 37.78,
+        "blur": 6.29,
+        "opacity": 0.5,
+        "rotate": 8.22
+      },
+      {
+        "type": "ring",
+        "x": 35.13,
+        "y": 30.65,
+        "size": 33.01,
+        "blur": 9.54,
+        "opacity": 0.46,
+        "rotate": 34.87
+      }
+    ],
+    "shapes": [
+      {
+        "x": 75.89,
+        "y": 80.41,
+        "size": 38.11,
+        "blur": 14.9,
+        "opacity": 0.6
+      },
+      {
+        "x": 18.92,
+        "y": 62.52,
+        "size": 23.68,
+        "blur": 11.25,
+        "opacity": 0.37
+      },
+      {
+        "x": 0.41,
+        "y": 5.37,
+        "size": 26.11,
+        "blur": 1.11,
+        "opacity": 0.59
+      },
+      {
+        "x": 99.32,
+        "y": 81.58,
+        "size": 13.37,
+        "blur": 2.02,
+        "opacity": 0.48
+      },
+      {
+        "x": 32.04,
+        "y": 78.05,
+        "size": 32.59,
+        "blur": 15.41,
+        "opacity": 0.32
+      },
+      {
+        "x": 44.49,
+        "y": 53.52,
+        "size": 37.78,
+        "blur": 6.29,
+        "opacity": 0.5
+      },
+      {
+        "x": 35.13,
+        "y": 30.65,
+        "size": 33.01,
+        "blur": 9.54,
+        "opacity": 0.46
+      }
+    ],
+    "imagePath": "assets/generated/2026-04-03T13-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-04-03T13-00-00Z.png",
+    "audioPath": "assets/audio/2026-04-03T13-00-00Z.mp3"
+  },
+  {
+    "generatedAt": "2026-04-03T12:00:00Z",
+    "hourKey": "2026-04-03T12:00:00Z",
+    "mood": "playful",
+    "artForm": "brutalist editorial spread",
+    "palette": [
+      "#140f2d",
+      "#8b5cf6",
+      "#22d3ee"
+    ],
+    "thought": "Bold juxtapositions ignite the canvas, where fresh chaos flirts with methodical lines, as if whispers oppose the authority of structured thought. Each intersection sparks curiosity, allowing the unexpected to cascade like a wild torrent, beckoning the world anew with its audacious celebration of mishaps and revelations.",
+    "question": "How do you embrace chaos within structured forms?",
+    "overlayLines": [
+      "Creative collisions entice discovery",
+      "Unexpected forms evoke fresh ideas",
+      "Lines dance in playful defiance",
+      "Juxtaposition breeds new perspectives"
+    ],
+    "backgroundElements": [
+      {
+        "type": "bar",
+        "x": 83.14,
+        "y": 27.96,
+        "size": 26.03,
+        "blur": 5.93,
+        "opacity": 0.57,
+        "rotate": 32.25
+      },
+      {
+        "type": "diamond",
+        "x": 75.89,
+        "y": 80.41,
+        "size": 38.11,
+        "blur": 14.9,
+        "opacity": 0.6,
+        "rotate": -27.21
+      },
+      {
+        "type": "ring",
+        "x": 18.92,
+        "y": 62.52,
+        "size": 23.68,
+        "blur": 11.25,
+        "opacity": 0.37,
+        "rotate": 38.27
+      },
+      {
+        "type": "block",
+        "x": 0.41,
+        "y": 5.37,
+        "size": 26.11,
+        "blur": 1.11,
+        "opacity": 0.59,
+        "rotate": 16.61
+      },
+      {
+        "type": "orb",
+        "x": 99.32,
+        "y": 81.58,
+        "size": 13.37,
+        "blur": 2.02,
+        "opacity": 0.48,
+        "rotate": -29.57
+      },
+      {
+        "type": "bar",
+        "x": 32.04,
+        "y": 78.05,
+        "size": 32.59,
+        "blur": 15.41,
+        "opacity": 0.32,
+        "rotate": -28.99
+      },
+      {
+        "type": "diamond",
+        "x": 44.49,
+        "y": 53.52,
+        "size": 37.78,
+        "blur": 6.29,
+        "opacity": 0.5,
+        "rotate": 8.22
+      }
+    ],
+    "shapes": [
+      {
+        "x": 83.14,
+        "y": 27.96,
+        "size": 26.03,
+        "blur": 5.93,
+        "opacity": 0.57
+      },
+      {
+        "x": 75.89,
+        "y": 80.41,
+        "size": 38.11,
+        "blur": 14.9,
+        "opacity": 0.6
+      },
+      {
+        "x": 18.92,
+        "y": 62.52,
+        "size": 23.68,
+        "blur": 11.25,
+        "opacity": 0.37
+      },
+      {
+        "x": 0.41,
+        "y": 5.37,
+        "size": 26.11,
+        "blur": 1.11,
+        "opacity": 0.59
+      },
+      {
+        "x": 99.32,
+        "y": 81.58,
+        "size": 13.37,
+        "blur": 2.02,
+        "opacity": 0.48
+      },
+      {
+        "x": 32.04,
+        "y": 78.05,
+        "size": 32.59,
+        "blur": 15.41,
+        "opacity": 0.32
+      },
+      {
+        "x": 44.49,
+        "y": 53.52,
+        "size": 37.78,
+        "blur": 6.29,
+        "opacity": 0.5
+      }
+    ],
+    "imagePath": "assets/generated/2026-04-03T12-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-04-03T12-00-00Z.png",
+    "audioPath": "assets/audio/2026-04-03T12-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-04-03T11:00:00Z",
     "hourKey": "2026-04-03T11:00:00Z",
     "mood": "signal-seeking",

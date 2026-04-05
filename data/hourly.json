@@ -1,138 +1,138 @@
 {
-  "generatedAt": "2026-04-03T11:00:00Z",
-  "hourKey": "2026-04-03T11:00:00Z",
+  "generatedAt": "2026-04-04T10:00:00Z",
+  "hourKey": "2026-04-04T10:00:00Z",
   "mood": "signal-seeking",
-  "artForm": "datamosh broadcast wreckage",
+  "artForm": "clean museum placard minimalism",
   "palette": [
-    "#0b1021",
-    "#2e6cf6",
-    "#f97316"
+    "#0f172a",
+    "#38bdf8",
+    "#e879f9"
   ],
-  "thought": "In the shocking aftermath of a data deluge, pixels fracture and reinvent themselves like phoenixes of static. This shimmering detritus offers glimpses into an alternate unreal, where beauty intertwines with glitch, beckoning artists and spectators alike to confront distorted narratives swirling amidst the rubble of bombardment.",
-  "question": "How can erratic visuals inspire new storytelling methods?",
+  "thought": "Amidst luminous voids, seeded thoughts rapidly germinate, morphing into expressions of yearning. Each fragment pulsates with visceral urgency, beckoning wanderers to glimpse beyond the borders of known existence. This radiant inquiry challenges observers to perceive beauty nestled within the tumult of impressive insignificance.",
+  "question": "What yearnings do your luminous creations unveil?",
   "overlayLines": [
-    "Fragments collide in visual chaos",
-    "Glitches spark unexpected ideas",
-    "Reality blurs under digital pressure",
-    "Embrace the wreckage of perception"
+    "Seek beyond visible limits",
+    "Fragments of luminous thought",
+    "Beauty in tumultuous insignificance",
+    "Emerge from the shadows"
   ],
   "backgroundElements": [
     {
-      "type": "orb",
-      "x": 70.98,
-      "y": 46.06,
-      "size": 34.9,
-      "blur": 13.66,
-      "opacity": 0.48,
-      "rotate": -26.3
-    },
-    {
-      "type": "bar",
-      "x": 83.14,
-      "y": 27.96,
-      "size": 26.03,
-      "blur": 5.93,
-      "opacity": 0.57,
-      "rotate": 32.25
-    },
-    {
-      "type": "diamond",
-      "x": 75.89,
-      "y": 80.41,
-      "size": 38.11,
-      "blur": 14.9,
-      "opacity": 0.6,
-      "rotate": -27.21
-    },
-    {
       "type": "ring",
-      "x": 18.92,
-      "y": 62.52,
-      "size": 23.68,
-      "blur": 11.25,
-      "opacity": 0.37,
-      "rotate": 38.27
+      "x": 16.08,
+      "y": 3.29,
+      "size": 39.55,
+      "blur": 1.07,
+      "opacity": 0.6,
+      "rotate": -29.05
     },
     {
       "type": "block",
-      "x": 0.41,
-      "y": 5.37,
-      "size": 26.11,
-      "blur": 1.11,
-      "opacity": 0.59,
-      "rotate": 16.61
+      "x": 42.24,
+      "y": 83.56,
+      "size": 33.01,
+      "blur": 13.01,
+      "opacity": 0.36,
+      "rotate": 6.97
     },
     {
       "type": "orb",
-      "x": 99.32,
-      "y": 81.58,
-      "size": 13.37,
-      "blur": 2.02,
-      "opacity": 0.48,
-      "rotate": -29.57
+      "x": 45.97,
+      "y": 28.28,
+      "size": 34.33,
+      "blur": 12.03,
+      "opacity": 0.47,
+      "rotate": -18.46
     },
     {
       "type": "bar",
-      "x": 32.04,
-      "y": 78.05,
-      "size": 32.59,
-      "blur": 15.41,
-      "opacity": 0.32,
-      "rotate": -28.99
+      "x": 96.84,
+      "y": 99.31,
+      "size": 13.25,
+      "blur": 3.26,
+      "opacity": 0.22,
+      "rotate": -9.93
+    },
+    {
+      "type": "diamond",
+      "x": 24.39,
+      "y": 71,
+      "size": 17.08,
+      "blur": 15.26,
+      "opacity": 0.33,
+      "rotate": -8.55
+    },
+    {
+      "type": "ring",
+      "x": 68.7,
+      "y": 6.42,
+      "size": 33.9,
+      "blur": 13.05,
+      "opacity": 0.59,
+      "rotate": -10.96
+    },
+    {
+      "type": "block",
+      "x": 28.94,
+      "y": 32.5,
+      "size": 17.04,
+      "blur": 14.78,
+      "opacity": 0.59,
+      "rotate": -10.78
     }
   ],
   "shapes": [
     {
-      "x": 70.98,
-      "y": 46.06,
-      "size": 34.9,
-      "blur": 13.66,
-      "opacity": 0.48
-    },
-    {
-      "x": 83.14,
-      "y": 27.96,
-      "size": 26.03,
-      "blur": 5.93,
-      "opacity": 0.57
-    },
-    {
-      "x": 75.89,
-      "y": 80.41,
-      "size": 38.11,
-      "blur": 14.9,
+      "x": 16.08,
+      "y": 3.29,
+      "size": 39.55,
+      "blur": 1.07,
       "opacity": 0.6
     },
     {
-      "x": 18.92,
-      "y": 62.52,
-      "size": 23.68,
-      "blur": 11.25,
-      "opacity": 0.37
+      "x": 42.24,
+      "y": 83.56,
+      "size": 33.01,
+      "blur": 13.01,
+      "opacity": 0.36
     },
     {
-      "x": 0.41,
-      "y": 5.37,
-      "size": 26.11,
-      "blur": 1.11,
+      "x": 45.97,
+      "y": 28.28,
+      "size": 34.33,
+      "blur": 12.03,
+      "opacity": 0.47
+    },
+    {
+      "x": 96.84,
+      "y": 99.31,
+      "size": 13.25,
+      "blur": 3.26,
+      "opacity": 0.22
+    },
+    {
+      "x": 24.39,
+      "y": 71,
+      "size": 17.08,
+      "blur": 15.26,
+      "opacity": 0.33
+    },
+    {
+      "x": 68.7,
+      "y": 6.42,
+      "size": 33.9,
+      "blur": 13.05,
       "opacity": 0.59
     },
     {
-      "x": 99.32,
-      "y": 81.58,
-      "size": 13.37,
-      "blur": 2.02,
-      "opacity": 0.48
-    },
-    {
-      "x": 32.04,
-      "y": 78.05,
-      "size": 32.59,
-      "blur": 15.41,
-      "opacity": 0.32
+      "x": 28.94,
+      "y": 32.5,
+      "size": 17.04,
+      "blur": 14.78,
+      "opacity": 0.59
     }
   ],
-  "imagePath": "assets/generated/2026-04-03T11-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-04-03T11-00-00Z.png",
-  "audioPath": "assets/audio/2026-04-03T11-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-04-04T10-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-04-04T10-00-00Z.png",
+  "audioPath": "assets/audio/2026-04-04T10-00-00Z.mp3"
 }
