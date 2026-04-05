@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-04-04T00:00:00Z",
+    "hourKey": "2026-04-04T00:00:00Z",
+    "mood": "delirious",
+    "artForm": "clean museum placard minimalism",
+    "palette": [
+      "#140f2d",
+      "#8b5cf6",
+      "#22d3ee"
+    ],
+    "thought": "Whispers of forgotten colors spiral into oblivion, casting a kaleidoscopic dreamscape that beckons the lost. Curved lines unravel, errant echoes breathe life into absence, invoking the chaos of unforeseen thoughts. This chromatic cacophony invites an exploration of dissolution where vision allows madness to flirt with lucidity.",
+    "question": "What uncharted memories do your chaotic colors evoke?",
+    "overlayLines": [
+      "Unruly strokes collide",
+      "Colors scream in silence",
+      "Lost thoughts shatter light",
+      "Dreams swirl like smoke"
+    ],
+    "backgroundElements": [
+      {
+        "type": "ring",
+        "x": 48.49,
+        "y": 39.75,
+        "size": 33.86,
+        "blur": 5.05,
+        "opacity": 0.56,
+        "rotate": 4.07
+      },
+      {
+        "type": "block",
+        "x": 11.76,
+        "y": 23.46,
+        "size": 32.98,
+        "blur": 9.8,
+        "opacity": 0.57,
+        "rotate": 28.39
+      },
+      {
+        "type": "orb",
+        "x": 44.57,
+        "y": 24.27,
+        "size": 39.78,
+        "blur": 6.77,
+        "opacity": 0.58,
+        "rotate": -27.71
+      },
+      {
+        "type": "bar",
+        "x": 83.27,
+        "y": 50.14,
+        "size": 38.06,
+        "blur": 4.14,
+        "opacity": 0.26,
+        "rotate": -18.16
+      },
+      {
+        "type": "diamond",
+        "x": 27.39,
+        "y": 49.06,
+        "size": 36.31,
+        "blur": 14.67,
+        "opacity": 0.5,
+        "rotate": -26.15
+      },
+      {
+        "type": "ring",
+        "x": 96.4,
+        "y": 92.07,
+        "size": 23.25,
+        "blur": 10.7,
+        "opacity": 0.38,
+        "rotate": 22.7
+      },
+      {
+        "type": "block",
+        "x": 60.51,
+        "y": 0.87,
+        "size": 32.25,
+        "blur": 6.81,
+        "opacity": 0.57,
+        "rotate": -0.01
+      }
+    ],
+    "shapes": [
+      {
+        "x": 48.49,
+        "y": 39.75,
+        "size": 33.86,
+        "blur": 5.05,
+        "opacity": 0.56
+      },
+      {
+        "x": 11.76,
+        "y": 23.46,
+        "size": 32.98,
+        "blur": 9.8,
+        "opacity": 0.57
+      },
+      {
+        "x": 44.57,
+        "y": 24.27,
+        "size": 39.78,
+        "blur": 6.77,
+        "opacity": 0.58
+      },
+      {
+        "x": 83.27,
+        "y": 50.14,
+        "size": 38.06,
+        "blur": 4.14,
+        "opacity": 0.26
+      },
+      {
+        "x": 27.39,
+        "y": 49.06,
+        "size": 36.31,
+        "blur": 14.67,
+        "opacity": 0.5
+      },
+      {
+        "x": 96.4,
+        "y": 92.07,
+        "size": 23.25,
+        "blur": 10.7,
+        "opacity": 0.38
+      },
+      {
+        "x": 60.51,
+        "y": 0.87,
+        "size": 32.25,
+        "blur": 6.81,
+        "opacity": 0.57
+      }
+    ],
+    "imagePath": "assets/generated/2026-04-04T00-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-04-04T00-00-00Z.png",
+    "audioPath": "assets/audio/2026-04-04T00-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-04-03T23:00:00Z",
     "hourKey": "2026-04-03T23:00:00Z",
     "mood": "paranoid",
