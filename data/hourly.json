@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-04-03T18:00:00Z",
-  "hourKey": "2026-04-03T18:00:00Z",
-  "mood": "caffeinated",
-  "artForm": "faxed surveillance document",
+  "generatedAt": "2026-04-03T19:00:00Z",
+  "hourKey": "2026-04-03T19:00:00Z",
+  "mood": "hollow",
+  "artForm": "rave flyer typography",
   "palette": [
-    "#140f2d",
-    "#8b5cf6",
-    "#22d3ee"
+    "#08140f",
+    "#10b981",
+    "#facc15"
   ],
-  "thought": "A spectral ballet of misformatted lines envelops the observer, ink swirling with fleeting intent. Each misaligned stroke is a testament to chaos and coincidence, crafting an atmosphere where silent revelations emerge from disarray, urging contemplation of the stark mysteries bred from erratic form and its haunting allure.",
-  "question": "What hidden truths emerge from disordered expression in your work?",
+  "thought": "Electric lines vibrate like heartbeat rhythms, weaving phantasmagoric phrases that elude context. Each character dances, forming a dizzying tapestry of ideas coiling and recoiling, challenging the spectator to find meaning amid the pulsating vibrancy. This spectacle thrives in its own chaos, where emptiness manifests as an exhilarating absence, inviting exploration.",
+  "question": "What can we learn from the chaos inherent in your art?",
   "overlayLines": [
-    "Fractured beauty speaks volumes",
-    "Beyond distortion, life pulsates",
-    "Surveillance whispers in colors",
-    "Chaos births unexpected clarity"
+    "Whispers of vibrant uncertainty",
+    "Chaos dances in the dark",
+    "Fluid letters defy gravity",
+    "Searching for meaning in chaos"
   ],
   "backgroundElements": [
-    {
-      "type": "diamond",
-      "x": 44.49,
-      "y": 53.52,
-      "size": 37.78,
-      "blur": 6.29,
-      "opacity": 0.5,
-      "rotate": 8.22
-    },
     {
       "type": "ring",
       "x": 35.13,
@@ -79,16 +70,18 @@
       "blur": 5.05,
       "opacity": 0.56,
       "rotate": 4.07
+    },
+    {
+      "type": "block",
+      "x": 11.76,
+      "y": 23.46,
+      "size": 32.98,
+      "blur": 9.8,
+      "opacity": 0.57,
+      "rotate": 28.39
     }
   ],
   "shapes": [
-    {
-      "x": 44.49,
-      "y": 53.52,
-      "size": 37.78,
-      "blur": 6.29,
-      "opacity": 0.5
-    },
     {
       "x": 35.13,
       "y": 30.65,
@@ -130,9 +123,16 @@
       "size": 33.86,
       "blur": 5.05,
       "opacity": 0.56
+    },
+    {
+      "x": 11.76,
+      "y": 23.46,
+      "size": 32.98,
+      "blur": 9.8,
+      "opacity": 0.57
     }
   ],
-  "imagePath": "assets/generated/2026-04-03T18-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-04-03T18-00-00Z.png",
-  "audioPath": "assets/audio/2026-04-03T18-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-04-03T19-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-04-03T19-00-00Z.png",
+  "audioPath": "assets/audio/2026-04-03T19-00-00Z.mp3"
 }
