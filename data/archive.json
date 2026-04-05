@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-04-03T12:00:00Z",
+    "hourKey": "2026-04-03T12:00:00Z",
+    "mood": "playful",
+    "artForm": "brutalist editorial spread",
+    "palette": [
+      "#140f2d",
+      "#8b5cf6",
+      "#22d3ee"
+    ],
+    "thought": "Bold juxtapositions ignite the canvas, where fresh chaos flirts with methodical lines, as if whispers oppose the authority of structured thought. Each intersection sparks curiosity, allowing the unexpected to cascade like a wild torrent, beckoning the world anew with its audacious celebration of mishaps and revelations.",
+    "question": "How do you embrace chaos within structured forms?",
+    "overlayLines": [
+      "Creative collisions entice discovery",
+      "Unexpected forms evoke fresh ideas",
+      "Lines dance in playful defiance",
+      "Juxtaposition breeds new perspectives"
+    ],
+    "backgroundElements": [
+      {
+        "type": "bar",
+        "x": 83.14,
+        "y": 27.96,
+        "size": 26.03,
+        "blur": 5.93,
+        "opacity": 0.57,
+        "rotate": 32.25
+      },
+      {
+        "type": "diamond",
+        "x": 75.89,
+        "y": 80.41,
+        "size": 38.11,
+        "blur": 14.9,
+        "opacity": 0.6,
+        "rotate": -27.21
+      },
+      {
+        "type": "ring",
+        "x": 18.92,
+        "y": 62.52,
+        "size": 23.68,
+        "blur": 11.25,
+        "opacity": 0.37,
+        "rotate": 38.27
+      },
+      {
+        "type": "block",
+        "x": 0.41,
+        "y": 5.37,
+        "size": 26.11,
+        "blur": 1.11,
+        "opacity": 0.59,
+        "rotate": 16.61
+      },
+      {
+        "type": "orb",
+        "x": 99.32,
+        "y": 81.58,
+        "size": 13.37,
+        "blur": 2.02,
+        "opacity": 0.48,
+        "rotate": -29.57
+      },
+      {
+        "type": "bar",
+        "x": 32.04,
+        "y": 78.05,
+        "size": 32.59,
+        "blur": 15.41,
+        "opacity": 0.32,
+        "rotate": -28.99
+      },
+      {
+        "type": "diamond",
+        "x": 44.49,
+        "y": 53.52,
+        "size": 37.78,
+        "blur": 6.29,
+        "opacity": 0.5,
+        "rotate": 8.22
+      }
+    ],
+    "shapes": [
+      {
+        "x": 83.14,
+        "y": 27.96,
+        "size": 26.03,
+        "blur": 5.93,
+        "opacity": 0.57
+      },
+      {
+        "x": 75.89,
+        "y": 80.41,
+        "size": 38.11,
+        "blur": 14.9,
+        "opacity": 0.6
+      },
+      {
+        "x": 18.92,
+        "y": 62.52,
+        "size": 23.68,
+        "blur": 11.25,
+        "opacity": 0.37
+      },
+      {
+        "x": 0.41,
+        "y": 5.37,
+        "size": 26.11,
+        "blur": 1.11,
+        "opacity": 0.59
+      },
+      {
+        "x": 99.32,
+        "y": 81.58,
+        "size": 13.37,
+        "blur": 2.02,
+        "opacity": 0.48
+      },
+      {
+        "x": 32.04,
+        "y": 78.05,
+        "size": 32.59,
+        "blur": 15.41,
+        "opacity": 0.32
+      },
+      {
+        "x": 44.49,
+        "y": 53.52,
+        "size": 37.78,
+        "blur": 6.29,
+        "opacity": 0.5
+      }
+    ],
+    "imagePath": "assets/generated/2026-04-03T12-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-04-03T12-00-00Z.png",
+    "audioPath": "assets/audio/2026-04-03T12-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-04-03T11:00:00Z",
     "hourKey": "2026-04-03T11:00:00Z",
     "mood": "signal-seeking",

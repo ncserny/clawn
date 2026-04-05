@@ -48,7 +48,58 @@ process.stdout.write(prompt);
 NODE
 )
 
-uv run /home/nader/.npm-global/lib/node_modules/openclaw/skills/nano-banana-pro/scripts/generate_image.py   --api-key "$GEMINI_KEY"   --prompt "$PROMPT"   --filename "$OUT_FILE"   --resolution 1K   --aspect-ratio 1:1   -i "$REPO/references/style-1.png"   -i "$REPO/references/style-2.png"
+python3 - "$GEMINI_KEY" "$PROMPT" "$OUT_FILE" "$REPO/references/style-1.png" "$REPO/references/style-2.png" <<'PY2'
+import base64, json, mimetypes, sys, urllib.request
+from pathlib import Path
+api_key, prompt, out_file, ref1, ref2 = sys.argv[1:6]
+
+def part_for_image(path):
+    data = Path(path).read_bytes()
+    mime = mimetypes.guess_type(path)[0] or 'image/png'
+    return {
+        'inline_data': {
+            'mime_type': mime,
+            'data': base64.b64encode(data).decode('ascii')
+        }
+    }
+
+url = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-image:generateContent'
+payload = {
+    'contents': [{
+        'parts': [
+            {'text': prompt},
+            part_for_image(ref1),
+            part_for_image(ref2),
+        ]
+    }],
+    'generationConfig': {
+        'responseModalities': ['TEXT', 'IMAGE']
+    }
+}
+req = urllib.request.Request(
+    url + '?key=' + api_key,
+    data=json.dumps(payload).encode('utf-8'),
+    headers={'Content-Type': 'application/json'}
+)
+with urllib.request.urlopen(req, timeout=300) as resp:
+    body = json.loads(resp.read().decode('utf-8'))
+
+image_b64 = None
+for cand in body.get('candidates', []):
+    content = cand.get('content', {})
+    for part in content.get('parts', []):
+        inline = part.get('inlineData') or part.get('inline_data')
+        if inline and inline.get('data'):
+            image_b64 = inline['data']
+            break
+    if image_b64:
+        break
+
+if not image_b64:
+    raise SystemExit('No image data returned from Gemini')
+
+Path(out_file).write_bytes(base64.b64decode(image_b64))
+PY2
 
 REPO="$REPO" OUT_REL="$OUT_REL" node <<'NODE'
 const fs = require('fs');
