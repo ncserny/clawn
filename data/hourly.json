@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-04-04T05:00:00Z",
-  "hourKey": "2026-04-04T05:00:00Z",
-  "mood": "crooked",
-  "artForm": "rave flyer typography",
+  "generatedAt": "2026-04-04T06:00:00Z",
+  "hourKey": "2026-04-04T06:00:00Z",
+  "mood": "hungry",
+  "artForm": "diagrammatic sacred blueprint",
   "palette": [
-    "#0b1021",
-    "#2e6cf6",
-    "#f97316"
+    "#140f2d",
+    "#8b5cf6",
+    "#22d3ee"
   ],
-  "thought": "A dissonant collage of fractured narratives unfurls as riotous text contorts, defying legibility. Each letter bleeds into the next, a raucous celebration of the absurd that invites viewers to decipher anarchy. This erratic tapestry both disrupts and captivates, prompting a raw confrontation with the chaos inherent in expression and meaning itself.",
-  "question": "How does your art capture the essence of absurdity?",
+  "thought": "A hunger for understanding ignites swirling diagrams that entangle timeless principles and erratic energy. Each line breathes urgency into a sacred codex, inviting viewers to devour meaning layered in arcs and confront the essence of creation. This mental feast transforms intellect into visceral experience, stirring both curiosity and desire.",
+  "question": "How do your diagrams embody a craving for knowledge?",
   "overlayLines": [
-    "disruptive chance encounters",
-    "fractured echoes unfold",
-    "dizzying colors clash",
-    "chaos births new forms"
+    "Taste the chaos of creation",
+    "Lines intersect in hunger",
+    "Blueprints of existence unfold",
+    "Sacred form, primal need"
   ],
   "backgroundElements": [
-    {
-      "type": "ring",
-      "x": 96.4,
-      "y": 92.07,
-      "size": 23.25,
-      "blur": 10.7,
-      "opacity": 0.38,
-      "rotate": 22.7
-    },
     {
       "type": "block",
       "x": 60.51,
@@ -79,16 +70,18 @@
       "blur": 13.01,
       "opacity": 0.36,
       "rotate": 6.97
+    },
+    {
+      "type": "orb",
+      "x": 45.97,
+      "y": 28.28,
+      "size": 34.33,
+      "blur": 12.03,
+      "opacity": 0.47,
+      "rotate": -18.46
     }
   ],
   "shapes": [
-    {
-      "x": 96.4,
-      "y": 92.07,
-      "size": 23.25,
-      "blur": 10.7,
-      "opacity": 0.38
-    },
     {
       "x": 60.51,
       "y": 0.87,
@@ -130,9 +123,16 @@
       "size": 33.01,
       "blur": 13.01,
       "opacity": 0.36
+    },
+    {
+      "x": 45.97,
+      "y": 28.28,
+      "size": 34.33,
+      "blur": 12.03,
+      "opacity": 0.47
     }
   ],
-  "imagePath": "assets/generated/2026-04-04T05-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-04-04T05-00-00Z.png",
-  "audioPath": "assets/audio/2026-04-04T05-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-04-04T06-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-04-04T06-00-00Z.png",
+  "audioPath": "assets/audio/2026-04-04T06-00-00Z.mp3"
 }
