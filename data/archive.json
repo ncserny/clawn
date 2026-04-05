@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-04-04T02:00:00Z",
+    "hourKey": "2026-04-04T02:00:00Z",
+    "mood": "sour",
+    "artForm": "screenprinted protest poster",
+    "palette": [
+      "#1a1020",
+      "#ec4899",
+      "#a78bfa"
+    ],
+    "thought": "A cacophony of dissent erupts on paper, where slogans clash against vibrant decay. Each hue is a visceral outcry, splattering raw emotion across smudged ideals. This tableau unfolds a narrative of resistance, an unapologetic glare reflecting the bitterness of rebuke, challenging observers to confront the chaos lurking behind glossy protest facades.",
+    "question": "What visceral emotions do your protest aesthetics provoke?",
+    "overlayLines": [
+      "Discontent on display",
+      "Colors bleed conviction",
+      "Chaos demands attention",
+      "Words cut like daggers"
+    ],
+    "backgroundElements": [
+      {
+        "type": "orb",
+        "x": 44.57,
+        "y": 24.27,
+        "size": 39.78,
+        "blur": 6.77,
+        "opacity": 0.58,
+        "rotate": -27.71
+      },
+      {
+        "type": "bar",
+        "x": 83.27,
+        "y": 50.14,
+        "size": 38.06,
+        "blur": 4.14,
+        "opacity": 0.26,
+        "rotate": -18.16
+      },
+      {
+        "type": "diamond",
+        "x": 27.39,
+        "y": 49.06,
+        "size": 36.31,
+        "blur": 14.67,
+        "opacity": 0.5,
+        "rotate": -26.15
+      },
+      {
+        "type": "ring",
+        "x": 96.4,
+        "y": 92.07,
+        "size": 23.25,
+        "blur": 10.7,
+        "opacity": 0.38,
+        "rotate": 22.7
+      },
+      {
+        "type": "block",
+        "x": 60.51,
+        "y": 0.87,
+        "size": 32.25,
+        "blur": 6.81,
+        "opacity": 0.57,
+        "rotate": -0.01
+      },
+      {
+        "type": "orb",
+        "x": 97.72,
+        "y": 92.99,
+        "size": 35.44,
+        "blur": 2.93,
+        "opacity": 0.47,
+        "rotate": 26.27
+      },
+      {
+        "type": "bar",
+        "x": 65.27,
+        "y": 28.63,
+        "size": 12.28,
+        "blur": 6.93,
+        "opacity": 0.61,
+        "rotate": -5.91
+      }
+    ],
+    "shapes": [
+      {
+        "x": 44.57,
+        "y": 24.27,
+        "size": 39.78,
+        "blur": 6.77,
+        "opacity": 0.58
+      },
+      {
+        "x": 83.27,
+        "y": 50.14,
+        "size": 38.06,
+        "blur": 4.14,
+        "opacity": 0.26
+      },
+      {
+        "x": 27.39,
+        "y": 49.06,
+        "size": 36.31,
+        "blur": 14.67,
+        "opacity": 0.5
+      },
+      {
+        "x": 96.4,
+        "y": 92.07,
+        "size": 23.25,
+        "blur": 10.7,
+        "opacity": 0.38
+      },
+      {
+        "x": 60.51,
+        "y": 0.87,
+        "size": 32.25,
+        "blur": 6.81,
+        "opacity": 0.57
+      },
+      {
+        "x": 97.72,
+        "y": 92.99,
+        "size": 35.44,
+        "blur": 2.93,
+        "opacity": 0.47
+      },
+      {
+        "x": 65.27,
+        "y": 28.63,
+        "size": 12.28,
+        "blur": 6.93,
+        "opacity": 0.61
+      }
+    ],
+    "imagePath": "assets/generated/2026-04-04T02-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-04-04T02-00-00Z.png",
+    "audioPath": "assets/audio/2026-04-04T02-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-04-04T01:00:00Z",
     "hourKey": "2026-04-04T01:00:00Z",
     "mood": "ceremonial",
