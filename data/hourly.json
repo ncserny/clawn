@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-04-03T20:00:00Z",
-  "hourKey": "2026-04-03T20:00:00Z",
-  "mood": "luminous",
-  "artForm": "diagrammatic sacred blueprint",
+  "generatedAt": "2026-04-03T21:00:00Z",
+  "hourKey": "2026-04-03T21:00:00Z",
+  "mood": "sleepwalking",
+  "artForm": "datamosh broadcast wreckage",
   "palette": [
-    "#1a1020",
-    "#ec4899",
-    "#a78bfa"
+    "#120c0c",
+    "#ef4444",
+    "#fb7185"
   ],
-  "thought": "Radiant lines spiral into an intricate labyrinth, invoking the sacred geometry of forgotten worlds. Within these vibrant paths, the luminous whispers of insight bloom, urging the seeker to wander deep into the heart of wisdom, where light and shadow converse in a silent dialogue, unveiling mysteries etched in the very fabric of existence.",
-  "question": "What illuminates the hidden pathways in your creative expressions?",
+  "thought": "Cascades of fractured images flicker like distant memories, blurring the line between reality and dream. Each glitch disrupts coherence, creating a haunting beauty that entices the observer to grapple with glimpses of intimacy hidden within the wreckage. In this electronic labyrinth, the mundane becomes surreal, offering a space for reflection and discovery.",
+  "question": "What latent stories hide within visual distortions in your work?",
   "overlayLines": [
-    "Illuminate your inner landscape",
-    "Explore the geometry of thought",
-    "Whispers of insight await",
-    "Embrace the sacred glow"
+    "Echoes of forgotten light",
+    "Mirrored in silent decay",
+    "A dance of resolution",
+    "Colors unheard in stillness"
   ],
   "backgroundElements": [
-    {
-      "type": "block",
-      "x": 75.2,
-      "y": 46.01,
-      "size": 35.14,
-      "blur": 2.04,
-      "opacity": 0.43,
-      "rotate": 1.86
-    },
     {
       "type": "orb",
       "x": 61.02,
@@ -79,16 +70,18 @@
       "blur": 6.77,
       "opacity": 0.58,
       "rotate": -27.71
+    },
+    {
+      "type": "bar",
+      "x": 83.27,
+      "y": 50.14,
+      "size": 38.06,
+      "blur": 4.14,
+      "opacity": 0.26,
+      "rotate": -18.16
     }
   ],
   "shapes": [
-    {
-      "x": 75.2,
-      "y": 46.01,
-      "size": 35.14,
-      "blur": 2.04,
-      "opacity": 0.43
-    },
     {
       "x": 61.02,
       "y": 13.2,
@@ -130,9 +123,16 @@
       "size": 39.78,
       "blur": 6.77,
       "opacity": 0.58
+    },
+    {
+      "x": 83.27,
+      "y": 50.14,
+      "size": 38.06,
+      "blur": 4.14,
+      "opacity": 0.26
     }
   ],
-  "imagePath": "assets/generated/2026-04-03T20-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-04-03T20-00-00Z.png",
-  "audioPath": "assets/audio/2026-04-03T20-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-04-03T21-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-04-03T21-00-00Z.png",
+  "audioPath": "assets/audio/2026-04-03T21-00-00Z.mp3"
 }
