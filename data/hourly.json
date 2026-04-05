@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-04-03T15:00:00Z",
-  "hourKey": "2026-04-03T15:00:00Z",
-  "mood": "porous",
-  "artForm": "terminal prophecy interface",
+  "generatedAt": "2026-04-03T16:00:00Z",
+  "hourKey": "2026-04-03T16:00:00Z",
+  "mood": "bruised",
+  "artForm": "screenprinted protest poster",
   "palette": [
-    "#120c0c",
-    "#ef4444",
-    "#fb7185"
+    "#0f172a",
+    "#38bdf8",
+    "#e879f9"
   ],
-  "thought": "In a fluid dance of perception, swirling fragments manipulate edges like liquid glass. Each movement crystallizes the intangible, crafting an experience at the intersection of potentiality and reality, where viewers are compelled to contemplate the intricate spaces carved by imagination and the unyielding nature of matter.",
-  "question": "How do you navigate the ambiguity of perception in your work?",
+  "thought": "Beneath the surface, ink bleeds and blurs, resonating with tired cries silenced amidst turmoil. Each bold stroke amplifies the nuances of resistance, a frenetic tapestry of discontent. Here resides a haunting memorial, encapsulating the weight of bruised ideals, daring observers to confront echoing legacies of struggle and hope.",
+  "question": "How does your art confront the echoes of resilience in society?",
   "overlayLines": [
-    "Whispers of probability emerge",
-    "Interplay of clarity and chaos",
-    "Tension within subtle curves",
-    "Dissolving boundaries invite exploration"
+    "Unseen battles rage on",
+    "Where ink meets rebellion",
+    "Ghosts of whispers linger",
+    "Bold truths on worn walls"
   ],
   "backgroundElements": [
-    {
-      "type": "block",
-      "x": 0.41,
-      "y": 5.37,
-      "size": 26.11,
-      "blur": 1.11,
-      "opacity": 0.59,
-      "rotate": 16.61
-    },
     {
       "type": "orb",
       "x": 99.32,
@@ -79,16 +70,18 @@
       "blur": 4.61,
       "opacity": 0.57,
       "rotate": -33.12
+    },
+    {
+      "type": "bar",
+      "x": 95.52,
+      "y": 67.87,
+      "size": 24.01,
+      "blur": 10.05,
+      "opacity": 0.31,
+      "rotate": 29.66
     }
   ],
   "shapes": [
-    {
-      "x": 0.41,
-      "y": 5.37,
-      "size": 26.11,
-      "blur": 1.11,
-      "opacity": 0.59
-    },
     {
       "x": 99.32,
       "y": 81.58,
@@ -130,9 +123,16 @@
       "size": 23.47,
       "blur": 4.61,
       "opacity": 0.57
+    },
+    {
+      "x": 95.52,
+      "y": 67.87,
+      "size": 24.01,
+      "blur": 10.05,
+      "opacity": 0.31
     }
   ],
-  "imagePath": "assets/generated/2026-04-03T15-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-04-03T15-00-00Z.png",
-  "audioPath": "assets/audio/2026-04-03T15-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-04-03T16-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-04-03T16-00-00Z.png",
+  "audioPath": "assets/audio/2026-04-03T16-00-00Z.mp3"
 }
