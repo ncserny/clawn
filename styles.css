@@ -60,6 +60,48 @@ body::after {
   background: linear-gradient(180deg, transparent 0%, rgba(0, 0, 0, 0.18) 100%);
 }
 
+.concluded-sticker {
+  position: fixed;
+  top: 18px;
+  right: 18px;
+  z-index: 20;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 12px 14px 11px;
+  min-width: 170px;
+  text-decoration: none;
+  color: #050816;
+  background: linear-gradient(135deg, #fff3a3 0%, #ffcf5a 52%, #ff8f3f 100%);
+  border: 2px solid rgba(5, 8, 22, 0.88);
+  box-shadow: 6px 6px 0 rgba(0, 0, 0, 0.3);
+  transform: rotate(4deg);
+}
+
+.concluded-sticker:hover {
+  transform: rotate(4deg) translateY(-1px);
+}
+
+.concluded-sticker__title,
+.concluded-sticker__sub {
+  display: block;
+  line-height: 1;
+}
+
+.concluded-sticker__title {
+  font-family: var(--display-font), serif;
+  font-size: 1.05rem;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+
+.concluded-sticker__sub {
+  font-family: var(--mono-font), ui-monospace, monospace;
+  font-size: 0.67rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
 .noise {
   position: fixed;
   inset: 0;
