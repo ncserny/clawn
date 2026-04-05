@@ -1,138 +1,138 @@
 {
-  "generatedAt": "2026-04-04T10:00:00Z",
-  "hourKey": "2026-04-04T10:00:00Z",
-  "mood": "signal-seeking",
-  "artForm": "clean museum placard minimalism",
+  "generatedAt": "2026-04-05T13:00:00Z",
+  "hourKey": "2026-04-05T13:00:00Z",
+  "mood": "feral",
+  "artForm": "datamosh broadcast wreckage",
   "palette": [
-    "#0f172a",
-    "#38bdf8",
-    "#e879f9"
+    "#08140f",
+    "#10b981",
+    "#facc15"
   ],
-  "thought": "Amidst luminous voids, seeded thoughts rapidly germinate, morphing into expressions of yearning. Each fragment pulsates with visceral urgency, beckoning wanderers to glimpse beyond the borders of known existence. This radiant inquiry challenges observers to perceive beauty nestled within the tumult of impressive insignificance.",
-  "question": "What yearnings do your luminous creations unveil?",
+  "thought": "Amidst corrupt digital ruins, unstable pixels writhe, fusing intention and glitch into a feral symphony of visual chaos. Fragments of pixelated memories attempt to coalesce, grappling with decay and renewal. This technological disarray becomes a canvas for primal expression, urging a confrontation with our fragmented existence in a dizzying spectacle of collision.",
+  "question": "What raw truths emerge from your digital distortions?",
   "overlayLines": [
-    "Seek beyond visible limits",
-    "Fragments of luminous thought",
-    "Beauty in tumultuous insignificance",
-    "Emerge from the shadows"
+    "Unleash the primal urge",
+    "Fragments scream for life",
+    "Decaying beauty uncovered",
+    "Chaos dances in pixels"
   ],
   "backgroundElements": [
     {
-      "type": "ring",
-      "x": 16.08,
-      "y": 3.29,
-      "size": 39.55,
-      "blur": 1.07,
-      "opacity": 0.6,
-      "rotate": -29.05
-    },
-    {
-      "type": "block",
-      "x": 42.24,
-      "y": 83.56,
-      "size": 33.01,
-      "blur": 13.01,
-      "opacity": 0.36,
-      "rotate": 6.97
-    },
-    {
       "type": "orb",
-      "x": 45.97,
-      "y": 28.28,
-      "size": 34.33,
-      "blur": 12.03,
-      "opacity": 0.47,
-      "rotate": -18.46
+      "x": 46.06,
+      "y": 81.78,
+      "size": 35.9,
+      "blur": 10.54,
+      "opacity": 0.26,
+      "rotate": -33.91
     },
     {
       "type": "bar",
-      "x": 96.84,
-      "y": 99.31,
-      "size": 13.25,
-      "blur": 3.26,
-      "opacity": 0.22,
-      "rotate": -9.93
+      "x": 27.96,
+      "y": 50.12,
+      "size": 22.38,
+      "blur": 13.87,
+      "opacity": 0.59,
+      "rotate": -2.29
     },
     {
       "type": "diamond",
-      "x": 24.39,
-      "y": 71,
-      "size": 17.08,
-      "blur": 15.26,
-      "opacity": 0.33,
-      "rotate": -8.55
+      "x": 80.41,
+      "y": 93.23,
+      "size": 38.07,
+      "blur": 15.1,
+      "opacity": 0.25,
+      "rotate": 12.21
     },
     {
       "type": "ring",
-      "x": 68.7,
-      "y": 6.42,
-      "size": 33.9,
-      "blur": 13.05,
-      "opacity": 0.59,
-      "rotate": -10.96
+      "x": 62.52,
+      "y": 41.7,
+      "size": 31.68,
+      "blur": 6.8,
+      "opacity": 0.62,
+      "rotate": 16.39
     },
     {
       "type": "block",
-      "x": 28.94,
-      "y": 32.5,
-      "size": 17.04,
-      "blur": 14.78,
-      "opacity": 0.59,
-      "rotate": -10.78
+      "x": 5.37,
+      "y": 50.4,
+      "size": 13.95,
+      "blur": 14.45,
+      "opacity": 0.5,
+      "rotate": -38.98
+    },
+    {
+      "type": "orb",
+      "x": 81.58,
+      "y": 4.9,
+      "size": 15.53,
+      "blur": 10.51,
+      "opacity": 0.24,
+      "rotate": 28.7
+    },
+    {
+      "type": "bar",
+      "x": 78.05,
+      "y": 73.55,
+      "size": 38.97,
+      "blur": 5.09,
+      "opacity": 0.24,
+      "rotate": -1.18
     }
   ],
   "shapes": [
     {
-      "x": 16.08,
-      "y": 3.29,
-      "size": 39.55,
-      "blur": 1.07,
-      "opacity": 0.6
+      "x": 46.06,
+      "y": 81.78,
+      "size": 35.9,
+      "blur": 10.54,
+      "opacity": 0.26
     },
     {
-      "x": 42.24,
-      "y": 83.56,
-      "size": 33.01,
-      "blur": 13.01,
-      "opacity": 0.36
-    },
-    {
-      "x": 45.97,
-      "y": 28.28,
-      "size": 34.33,
-      "blur": 12.03,
-      "opacity": 0.47
-    },
-    {
-      "x": 96.84,
-      "y": 99.31,
-      "size": 13.25,
-      "blur": 3.26,
-      "opacity": 0.22
-    },
-    {
-      "x": 24.39,
-      "y": 71,
-      "size": 17.08,
-      "blur": 15.26,
-      "opacity": 0.33
-    },
-    {
-      "x": 68.7,
-      "y": 6.42,
-      "size": 33.9,
-      "blur": 13.05,
+      "x": 27.96,
+      "y": 50.12,
+      "size": 22.38,
+      "blur": 13.87,
       "opacity": 0.59
     },
     {
-      "x": 28.94,
-      "y": 32.5,
-      "size": 17.04,
-      "blur": 14.78,
-      "opacity": 0.59
+      "x": 80.41,
+      "y": 93.23,
+      "size": 38.07,
+      "blur": 15.1,
+      "opacity": 0.25
+    },
+    {
+      "x": 62.52,
+      "y": 41.7,
+      "size": 31.68,
+      "blur": 6.8,
+      "opacity": 0.62
+    },
+    {
+      "x": 5.37,
+      "y": 50.4,
+      "size": 13.95,
+      "blur": 14.45,
+      "opacity": 0.5
+    },
+    {
+      "x": 81.58,
+      "y": 4.9,
+      "size": 15.53,
+      "blur": 10.51,
+      "opacity": 0.24
+    },
+    {
+      "x": 78.05,
+      "y": 73.55,
+      "size": 38.97,
+      "blur": 5.09,
+      "opacity": 0.24
     }
   ],
-  "imagePath": "assets/generated/2026-04-04T10-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-04-04T10-00-00Z.png",
-  "audioPath": "assets/audio/2026-04-04T10-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-04-05T13-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-04-05T13-00-00Z.png",
+  "audioPath": "assets/audio/2026-04-05T13-00-00Z.mp3"
 }
