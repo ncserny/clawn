@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-04-03T17:00:00Z",
-  "hourKey": "2026-04-03T17:00:00Z",
-  "mood": "ornamental",
-  "artForm": "concrete poetry composition",
+  "generatedAt": "2026-04-03T18:00:00Z",
+  "hourKey": "2026-04-03T18:00:00Z",
+  "mood": "caffeinated",
+  "artForm": "faxed surveillance document",
   "palette": [
-    "#0b1021",
-    "#2e6cf6",
-    "#f97316"
+    "#140f2d",
+    "#8b5cf6",
+    "#22d3ee"
   ],
-  "thought": "A cascade of fragmented verses emerges, entwining visual elements with a dance of linguistic delicacy. Herein lies a lyrical tension, each breakpoint a statement of existence, revealing layers of depth beneath surface simplicity. As words intertwine, they construct monumental echoes, urging an exploration of the transformative power inherent in each juxtaposed thought.",
-  "question": "In what ways do you elevate language through your art?",
+  "thought": "A spectral ballet of misformatted lines envelops the observer, ink swirling with fleeting intent. Each misaligned stroke is a testament to chaos and coincidence, crafting an atmosphere where silent revelations emerge from disarray, urging contemplation of the stark mysteries bred from erratic form and its haunting allure.",
+  "question": "What hidden truths emerge from disordered expression in your work?",
   "overlayLines": [
-    "Whispers of visual poetry.",
-    "Ink meets ephemeral meaning.",
-    "Layers shifting like dreams.",
-    "Beauty in fragmented syntax."
+    "Fractured beauty speaks volumes",
+    "Beyond distortion, life pulsates",
+    "Surveillance whispers in colors",
+    "Chaos births unexpected clarity"
   ],
   "backgroundElements": [
-    {
-      "type": "bar",
-      "x": 32.04,
-      "y": 78.05,
-      "size": 32.59,
-      "blur": 15.41,
-      "opacity": 0.32,
-      "rotate": -28.99
-    },
     {
       "type": "diamond",
       "x": 44.49,
@@ -79,16 +70,18 @@
       "blur": 15.74,
       "opacity": 0.61,
       "rotate": -10.02
+    },
+    {
+      "type": "ring",
+      "x": 48.49,
+      "y": 39.75,
+      "size": 33.86,
+      "blur": 5.05,
+      "opacity": 0.56,
+      "rotate": 4.07
     }
   ],
   "shapes": [
-    {
-      "x": 32.04,
-      "y": 78.05,
-      "size": 32.59,
-      "blur": 15.41,
-      "opacity": 0.32
-    },
     {
       "x": 44.49,
       "y": 53.52,
@@ -130,9 +123,16 @@
       "size": 29.04,
       "blur": 15.74,
       "opacity": 0.61
+    },
+    {
+      "x": 48.49,
+      "y": 39.75,
+      "size": 33.86,
+      "blur": 5.05,
+      "opacity": 0.56
     }
   ],
-  "imagePath": "assets/generated/2026-04-03T17-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-04-03T17-00-00Z.png",
-  "audioPath": "assets/audio/2026-04-03T17-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-04-03T18-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-04-03T18-00-00Z.png",
+  "audioPath": "assets/audio/2026-04-03T18-00-00Z.mp3"
 }
