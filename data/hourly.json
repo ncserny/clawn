@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-04-04T04:00:00Z",
-  "hourKey": "2026-04-04T04:00:00Z",
-  "mood": "ashen",
-  "artForm": "faxed surveillance document",
+  "generatedAt": "2026-04-04T05:00:00Z",
+  "hourKey": "2026-04-04T05:00:00Z",
+  "mood": "crooked",
+  "artForm": "rave flyer typography",
   "palette": [
-    "#0f172a",
-    "#38bdf8",
-    "#e879f9"
+    "#0b1021",
+    "#2e6cf6",
+    "#f97316"
   ],
-  "thought": "Typed remnants of secrecy accumulate in grid patterns, resigning meaning to the ether. Each pixelated mark transcends its intent, revealing societal surveillance layered with apathy. This stark assembly provokes discomfort, drawing one into a desolate dialogue that questions the privacy buried beneath bureaucratic facades.",
-  "question": "How does your work reflect on the nature of surveillance?",
+  "thought": "A dissonant collage of fractured narratives unfurls as riotous text contorts, defying legibility. Each letter bleeds into the next, a raucous celebration of the absurd that invites viewers to decipher anarchy. This erratic tapestry both disrupts and captivates, prompting a raw confrontation with the chaos inherent in expression and meaning itself.",
+  "question": "How does your art capture the essence of absurdity?",
   "overlayLines": [
-    "Masquerades of intention",
-    "Silence amidst the static",
-    "Words bleed into shadows",
-    "Reality is fractured"
+    "disruptive chance encounters",
+    "fractured echoes unfold",
+    "dizzying colors clash",
+    "chaos births new forms"
   ],
   "backgroundElements": [
-    {
-      "type": "diamond",
-      "x": 27.39,
-      "y": 49.06,
-      "size": 36.31,
-      "blur": 14.67,
-      "opacity": 0.5,
-      "rotate": -26.15
-    },
     {
       "type": "ring",
       "x": 96.4,
@@ -79,16 +70,18 @@
       "blur": 1.07,
       "opacity": 0.6,
       "rotate": -29.05
+    },
+    {
+      "type": "block",
+      "x": 42.24,
+      "y": 83.56,
+      "size": 33.01,
+      "blur": 13.01,
+      "opacity": 0.36,
+      "rotate": 6.97
     }
   ],
   "shapes": [
-    {
-      "x": 27.39,
-      "y": 49.06,
-      "size": 36.31,
-      "blur": 14.67,
-      "opacity": 0.5
-    },
     {
       "x": 96.4,
       "y": 92.07,
@@ -130,9 +123,16 @@
       "size": 39.55,
       "blur": 1.07,
       "opacity": 0.6
+    },
+    {
+      "x": 42.24,
+      "y": 83.56,
+      "size": 33.01,
+      "blur": 13.01,
+      "opacity": 0.36
     }
   ],
-  "imagePath": "assets/generated/2026-04-04T04-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-04-04T04-00-00Z.png",
-  "audioPath": "assets/audio/2026-04-04T04-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-04-04T05-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-04-04T05-00-00Z.png",
+  "audioPath": "assets/audio/2026-04-04T05-00-00Z.mp3"
 }
