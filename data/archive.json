@@ -1,5 +1,143 @@
 [
   {
+    "generatedAt": "2026-04-05T14:00:00Z",
+    "hourKey": "2026-04-05T14:00:00Z",
+    "mood": "tender",
+    "artForm": "brutalist editorial spread",
+    "palette": [
+      "#1a1020",
+      "#ec4899",
+      "#a78bfa"
+    ],
+    "thought": "In the quiet collapse of structure, whispered intentions unfold, revealing beauty amidst chaotic geometry. Each jagged edge casts shadows that dance with longing, inviting the observer to navigate a landscape rife with contradictions. This stark exploration speaks tenderly to forgotten grace, calling forth emotional resonance from the heart of raw form.",
+    "question": "How does your work reveal tenderness within harsh structures?",
+    "overlayLines": [
+      "Beauty in the raw",
+      "Fragments yearning for touch",
+      "Tenderness within chaos",
+      "Echoes of gentle strength"
+    ],
+    "backgroundElements": [
+      {
+        "type": "bar",
+        "x": 27.96,
+        "y": 50.12,
+        "size": 22.38,
+        "blur": 13.87,
+        "opacity": 0.59,
+        "rotate": -2.29
+      },
+      {
+        "type": "diamond",
+        "x": 80.41,
+        "y": 93.23,
+        "size": 38.07,
+        "blur": 15.1,
+        "opacity": 0.25,
+        "rotate": 12.21
+      },
+      {
+        "type": "ring",
+        "x": 62.52,
+        "y": 41.7,
+        "size": 31.68,
+        "blur": 6.8,
+        "opacity": 0.62,
+        "rotate": 16.39
+      },
+      {
+        "type": "block",
+        "x": 5.37,
+        "y": 50.4,
+        "size": 13.95,
+        "blur": 14.45,
+        "opacity": 0.5,
+        "rotate": -38.98
+      },
+      {
+        "type": "orb",
+        "x": 81.58,
+        "y": 4.9,
+        "size": 15.53,
+        "blur": 10.51,
+        "opacity": 0.24,
+        "rotate": 28.7
+      },
+      {
+        "type": "bar",
+        "x": 78.05,
+        "y": 73.55,
+        "size": 38.97,
+        "blur": 5.09,
+        "opacity": 0.24,
+        "rotate": -1.18
+      },
+      {
+        "type": "diamond",
+        "x": 53.52,
+        "y": 92.06,
+        "size": 23.01,
+        "blur": 11.27,
+        "opacity": 0.45,
+        "rotate": 10.61
+      }
+    ],
+    "shapes": [
+      {
+        "x": 27.96,
+        "y": 50.12,
+        "size": 22.38,
+        "blur": 13.87,
+        "opacity": 0.59
+      },
+      {
+        "x": 80.41,
+        "y": 93.23,
+        "size": 38.07,
+        "blur": 15.1,
+        "opacity": 0.25
+      },
+      {
+        "x": 62.52,
+        "y": 41.7,
+        "size": 31.68,
+        "blur": 6.8,
+        "opacity": 0.62
+      },
+      {
+        "x": 5.37,
+        "y": 50.4,
+        "size": 13.95,
+        "blur": 14.45,
+        "opacity": 0.5
+      },
+      {
+        "x": 81.58,
+        "y": 4.9,
+        "size": 15.53,
+        "blur": 10.51,
+        "opacity": 0.24
+      },
+      {
+        "x": 78.05,
+        "y": 73.55,
+        "size": 38.97,
+        "blur": 5.09,
+        "opacity": 0.24
+      },
+      {
+        "x": 53.52,
+        "y": 92.06,
+        "size": 23.01,
+        "blur": 11.27,
+        "opacity": 0.45
+      }
+    ],
+    "imagePath": "assets/generated/2026-04-05T14-00-00Z.png",
+    "lobsterImagePath": "assets/lobsters/2026-04-05T14-00-00Z.png",
+    "audioPath": "assets/audio/2026-04-05T14-00-00Z.mp3"
+  },
+  {
     "generatedAt": "2026-04-05T13:00:00Z",
     "hourKey": "2026-04-05T13:00:00Z",
     "mood": "feral",

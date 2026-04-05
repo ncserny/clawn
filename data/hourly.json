@@ -1,31 +1,22 @@
 {
-  "generatedAt": "2026-04-05T13:00:00Z",
-  "hourKey": "2026-04-05T13:00:00Z",
-  "mood": "feral",
-  "artForm": "datamosh broadcast wreckage",
+  "generatedAt": "2026-04-05T14:00:00Z",
+  "hourKey": "2026-04-05T14:00:00Z",
+  "mood": "tender",
+  "artForm": "brutalist editorial spread",
   "palette": [
-    "#08140f",
-    "#10b981",
-    "#facc15"
+    "#1a1020",
+    "#ec4899",
+    "#a78bfa"
   ],
-  "thought": "Amidst corrupt digital ruins, unstable pixels writhe, fusing intention and glitch into a feral symphony of visual chaos. Fragments of pixelated memories attempt to coalesce, grappling with decay and renewal. This technological disarray becomes a canvas for primal expression, urging a confrontation with our fragmented existence in a dizzying spectacle of collision.",
-  "question": "What raw truths emerge from your digital distortions?",
+  "thought": "In the quiet collapse of structure, whispered intentions unfold, revealing beauty amidst chaotic geometry. Each jagged edge casts shadows that dance with longing, inviting the observer to navigate a landscape rife with contradictions. This stark exploration speaks tenderly to forgotten grace, calling forth emotional resonance from the heart of raw form.",
+  "question": "How does your work reveal tenderness within harsh structures?",
   "overlayLines": [
-    "Unleash the primal urge",
-    "Fragments scream for life",
-    "Decaying beauty uncovered",
-    "Chaos dances in pixels"
+    "Beauty in the raw",
+    "Fragments yearning for touch",
+    "Tenderness within chaos",
+    "Echoes of gentle strength"
   ],
   "backgroundElements": [
-    {
-      "type": "orb",
-      "x": 46.06,
-      "y": 81.78,
-      "size": 35.9,
-      "blur": 10.54,
-      "opacity": 0.26,
-      "rotate": -33.91
-    },
     {
       "type": "bar",
       "x": 27.96,
@@ -79,16 +70,18 @@
       "blur": 5.09,
       "opacity": 0.24,
       "rotate": -1.18
+    },
+    {
+      "type": "diamond",
+      "x": 53.52,
+      "y": 92.06,
+      "size": 23.01,
+      "blur": 11.27,
+      "opacity": 0.45,
+      "rotate": 10.61
     }
   ],
   "shapes": [
-    {
-      "x": 46.06,
-      "y": 81.78,
-      "size": 35.9,
-      "blur": 10.54,
-      "opacity": 0.26
-    },
     {
       "x": 27.96,
       "y": 50.12,
@@ -130,9 +123,16 @@
       "size": 38.97,
       "blur": 5.09,
       "opacity": 0.24
+    },
+    {
+      "x": 53.52,
+      "y": 92.06,
+      "size": 23.01,
+      "blur": 11.27,
+      "opacity": 0.45
     }
   ],
-  "imagePath": "assets/generated/2026-04-05T13-00-00Z.png",
-  "lobsterImagePath": "assets/lobsters/2026-04-05T13-00-00Z.png",
-  "audioPath": "assets/audio/2026-04-05T13-00-00Z.mp3"
+  "imagePath": "assets/generated/2026-04-05T14-00-00Z.png",
+  "lobsterImagePath": "assets/lobsters/2026-04-05T14-00-00Z.png",
+  "audioPath": "assets/audio/2026-04-05T14-00-00Z.mp3"
 }
